@@ -294,3 +294,10 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T20:18:31-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T20:22:47-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
 2026-09-25T20:22:47-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T20:22:56-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T20:24:35-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T20:24:35-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T20:24:43-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T20:26:21-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T20:26:21-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T20:26:28-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')

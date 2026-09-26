@@ -252,6 +252,20 @@
       "lon": -155.2,
       "intensity": "90",
       "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T20:24:36.051813-10:00",
+      "lat": 16.9,
+      "lon": -155.2,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T20:26:22.440926-10:00",
+      "lat": 16.9,
+      "lon": -155.2,
+      "intensity": "90",
+      "classification": "HU"
     }
   ]
 }
