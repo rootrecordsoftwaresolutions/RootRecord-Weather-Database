@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T00:12:48-10:00 HST
-- **Report created:** 2026-09-26T00:12:48-10:00 HST
+- **Generated:** 2026-09-26T00:21:49-10:00 HST
+- **Report created:** 2026-09-26T00:21:49-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 10:10:14 UTC
+Last update Sat, 26 Sep 2026 10:20:14 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -628,7 +628,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-0405 UTC Sat Sep 26 2026
+1005 UTC Sat Sep 26 2026
 
 Hurricane Polo
 

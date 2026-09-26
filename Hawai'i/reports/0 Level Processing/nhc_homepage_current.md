@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T00:12:46.408592-10:00 HST
-- **Report created:** 2026-09-26T00:12:46-10:00 HST
+- **Collected:** 2026-09-26T00:21:46.520049-10:00 HST
+- **Report created:** 2026-09-26T00:21:47-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 10:10:14 UTC
+Last update Sat, 26 Sep 2026 10:20:14 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -621,7 +621,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-0405 UTC Sat Sep 26 2026
+1005 UTC Sat Sep 26 2026
 
 Hurricane Polo
 
