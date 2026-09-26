@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T02:40:22-10:00 HST
-- **Report created:** 2026-09-26T02:40:22-10:00 HST
+- **Generated:** 2026-09-26T02:48:22-10:00 HST
+- **Report created:** 2026-09-26T02:48:22-10:00 HST
 - **County:** Hawaii County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 14
@@ -4015,7 +4015,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 12:30:05 UTC
+Last update Sat, 26 Sep 2026 12:40:05 UTC
 
 NHC issuing advisories for the Atlantic on
 

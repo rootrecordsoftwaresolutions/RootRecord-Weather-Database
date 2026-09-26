@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T02:40:22-10:00 HST
-- **Report created:** 2026-09-26T02:40:22-10:00 HST
+- **Generated:** 2026-09-26T02:48:22-10:00 HST
+- **Report created:** 2026-09-26T02:48:22-10:00 HST
 - **County:** Kauai County
 - **Resource ID:** cwf_coastal_waters
 - **Source:** https://api.weather.gov/products/types/CWF/locations/HFO
