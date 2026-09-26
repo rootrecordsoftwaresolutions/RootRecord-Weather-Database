@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T11:03:35-10:00 HST
-- **Report created:** 2026-09-26T11:03:35-10:00 HST
+- **Generated:** 2026-09-26T11:12:35-10:00 HST
+- **Report created:** 2026-09-26T11:12:35-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 21:02:21 UTC
+Last update Sat, 26 Sep 2026 21:06:17 UTC
 
 NHC issuing advisories for the Atlantic on
 

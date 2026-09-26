@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T11:03:35-10:00 HST
-- **Report created:** 2026-09-26T11:03:35-10:00 HST
+- **Generated:** 2026-09-26T11:12:35-10:00 HST
+- **Report created:** 2026-09-26T11:12:35-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** ftm_radar_status
 - **Source:** /hfo/FTM
