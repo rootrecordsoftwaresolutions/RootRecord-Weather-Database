@@ -3,27 +3,27 @@
     "resource_id": "alerts_active_hi",
     "url": "https://api.weather.gov/alerts/active?area=HI",
     "local_resource_dir": "api.weather.gov/alerts/active/area=HI",
-    "current_fetch_timestamp_hst": "2026-09-26T13:04:12.451191-10:00",
-    "etag": "W/\"282af27bfd7ee383aef571a034abd737:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
+    "current_fetch_timestamp_hst": "2026-09-26T13:13:12.314478-10:00",
+    "etag": "W/\"88309a1f8ddb4c7c5eb01bc1172f0ba4:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
     "last_modified": null,
     "content_length": 302895,
-    "content_sha256": "64a1a64311074e7ac8aebe35038fd35598429e3ed54abac4e7ac9ce20d161203",
+    "content_sha256": "8c999a4ca63cd500655c4c2d02c4ff1aa59e18d02d08ee30d7e3b84246206a59",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T09:05:02.110032-10:00",
-    "last_success_at": "2026-09-26T13:04:12.451191-10:00"
+    "last_success_at": "2026-09-26T13:13:12.314478-10:00"
   },
   "wwamap_png": {
     "resource_id": "wwamap_png",
     "url": "https://www.weather.gov/wwamap/png/hfo.png",
     "local_resource_dir": "weather.gov/wwamap/png/hfo",
-    "current_fetch_timestamp_hst": "2026-09-26T11:13:06.674376-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T13:13:12.933839-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 21:10:54 GMT",
-    "content_length": 29625,
-    "content_sha256": "b1c9e826ca17d1fa028bec0782b656ed7567a43d27be2dbd310f5162f5feda87",
+    "last_modified": "Sat, 26 Sep 2026 23:08:08 GMT",
+    "content_length": 29624,
+    "content_sha256": "ebd818f7a21747e331197c8de0b980205dafe6bf8ca77793fefc8209a427e77d",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T09:05:02.218333-10:00",
-    "last_success_at": "2026-09-26T13:04:20.335680-10:00"
+    "last_success_at": "2026-09-26T13:13:12.933839-10:00"
   },
   "sfp_state_forecast": {
     "resource_id": "sfp_state_forecast",
