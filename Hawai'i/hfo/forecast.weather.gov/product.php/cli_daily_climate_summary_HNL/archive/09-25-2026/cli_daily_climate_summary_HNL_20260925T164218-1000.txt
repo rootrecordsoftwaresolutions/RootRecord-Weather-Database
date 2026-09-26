@@ -1,14 +1,15 @@
-791
-CDHW40 PHFO 251245
+833
+CDHW40 PHFO 260245
 CLIHNL
 
 CLIMATE REPORT
 NATIONAL WEATHER SERVICE HONOLULU HI
-245 AM HST FRI SEP 25 2026
+445 PM HST FRI SEP 25 2026
 
 ...................................
 
-...THE HONOLULU CLIMATE SUMMARY FOR SEPTEMBER 24 2026...
+...THE HONOLULU CLIMATE SUMMARY FOR SEPTEMBER 25 2026...
+VALID TODAY AS OF 0425 PM LOCAL TIME.
 
 CLIMATE NORMAL PERIOD 1991 TO 2020
 CLIMATE RECORD PERIOD 1940 TO 2026
@@ -18,58 +19,60 @@ WEATHER ITEM   OBSERVED TIME   RECORD YEAR NORMAL DEPARTURE LAST
                                                   NORMAL
 ...................................................................
 TEMPERATURE (F)
- YESTERDAY
-  MAXIMUM         89    259 PM  93    1966  88      1       90
-  MINIMUM         79    656 AM  68    1955  75      4       74
-  AVERAGE         84                        81      3       82
+ TODAY
+  MAXIMUM         88   1156 AM  93    1966  88      0       85
+                                      1991
+  MINIMUM         78    734 AM  69    1945  75      3       72
+                                      1955
+                                      1971
+  AVERAGE         83                        81      2       79
 
 PRECIPITATION (IN)
-  YESTERDAY        0.00          0.68 1983   0.02  -0.02     0.01
-  MONTH TO DATE    0.32                      0.72  -0.40     0.60
-  SINCE SEP 1      0.32                      0.72  -0.40     0.60
-  SINCE JAN 1     22.35                     10.31  12.04     9.48
+  TODAY            T             1.11 2019   0.03  -0.03     0.11
+  MONTH TO DATE    0.32                      0.75  -0.43     0.71
+  SINCE SEP 1      0.32                      0.75  -0.43     0.71
+  SINCE JAN 1     22.35                     10.34  12.01     9.59
 
 DEGREE DAYS
  HEATING
-  YESTERDAY        0                         0      0        0
+  TODAY            0                         0      0        0
   MONTH TO DATE    0                         0      0        0
   SINCE SEP 1      0                         0      0        0
   SINCE JUL 1      0                         0      0        0
 
  COOLING
-  YESTERDAY       19                        16      3       17
-  MONTH TO DATE  436                       401     35      429
-  SINCE SEP 1    436                       401     35      429
-  SINCE JAN 1   3646                      3478    168     3914
+  TODAY           18                        16      2       14
+  MONTH TO DATE  454                       417     37      443
+  SINCE SEP 1    454                       417     37      443
+  SINCE JAN 1   3664                      3494    170     3928
 ...................................................................
 
 WIND (MPH)
-  HIGHEST WIND SPEED    28   HIGHEST WIND DIRECTION     E (70)
-  HIGHEST GUST SPEED    42   HIGHEST GUST DIRECTION     E (80)
-  AVERAGE WIND SPEED    13.8
+  HIGHEST WIND SPEED    26   HIGHEST WIND DIRECTION     E (80)
+  HIGHEST GUST SPEED    37   HIGHEST GUST DIRECTION    NE (50)
+  AVERAGE WIND SPEED    14.1
 
 SKY COVER
   POSSIBLE SUNSHINE  MM
-  AVERAGE SKY COVER 0.5
+  AVERAGE SKY COVER 0.8
 
 WEATHER CONDITIONS
-THE FOLLOWING WEATHER WAS RECORDED YESTERDAY.
+THE FOLLOWING WEATHER WAS RECORDED TODAY.
   NO SIGNIFICANT WEATHER WAS OBSERVED.
 
 RELATIVE HUMIDITY (PERCENT)
- HIGHEST    77           300 AM
- LOWEST     50           300 PM
+ HIGHEST    74           700 AM
+ LOWEST     53           200 PM
  AVERAGE    64
 
 ..........................................................
 
-THE HONOLULU CLIMATE NORMALS FOR TODAY
+THE HONOLULU CLIMATE NORMALS FOR TOMORROW
                          NORMAL    RECORD    YEAR
- MAXIMUM TEMPERATURE (F)   88        93      1966
-                                             1991
+ MAXIMUM TEMPERATURE (F)   88        92      1965
+                                             1966
+                                             1995
  MINIMUM TEMPERATURE (F)   75        69      1945
-                                             1955
-                                             1971
 
 SUNRISE AND SUNSET
 SEPTEMBER 25 2026.....SUNRISE   621 AM HST   SUNSET   625 PM HST
