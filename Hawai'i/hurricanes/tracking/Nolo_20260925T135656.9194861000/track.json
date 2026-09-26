@@ -399,6 +399,13 @@
       "lon": -155.2,
       "intensity": "90",
       "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T22:38:43.662345-10:00",
+      "lat": 16.9,
+      "lon": -155.2,
+      "intensity": "90",
+      "classification": "HU"
     }
   ]
 }
