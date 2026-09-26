@@ -4960,198 +4960,6 @@
       }
     },
     {
-      "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -156.573,
-              20.606
-            ],
-            [
-              -156.554,
-              20.598
-            ],
-            [
-              -156.539,
-              20.579
-            ],
-            [
-              -156.538,
-              20.571
-            ],
-            [
-              -156.548,
-              20.569
-            ],
-            [
-              -156.555,
-              20.54
-            ],
-            [
-              -156.534,
-              20.537
-            ],
-            [
-              -156.533,
-              20.528
-            ],
-            [
-              -156.545,
-              20.515
-            ],
-            [
-              -156.558,
-              20.522
-            ],
-            [
-              -156.585,
-              20.51
-            ],
-            [
-              -156.6,
-              20.527
-            ],
-            [
-              -156.605,
-              20.516
-            ],
-            [
-              -156.621,
-              20.518
-            ],
-            [
-              -156.64,
-              20.508
-            ],
-            [
-              -156.646,
-              20.519
-            ],
-            [
-              -156.664,
-              20.504
-            ],
-            [
-              -156.673,
-              20.504
-            ],
-            [
-              -156.684,
-              20.511
-            ],
-            [
-              -156.685,
-              20.519
-            ],
-            [
-              -156.701,
-              20.527
-            ],
-            [
-              -156.677,
-              20.559
-            ],
-            [
-              -156.647,
-              20.565
-            ],
-            [
-              -156.609,
-              20.594
-            ],
-            [
-              -156.573,
-              20.606
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
-        "@type": "wx:Alert",
-        "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
-        "areaDesc": "Kahoolawe",
-        "geocode": {
-          "SAME": [
-            "015009"
-          ],
-          "UGC": [
-            "HIZ016"
-          ]
-        },
-        "affectedZones": [
-          "https://api.weather.gov/zones/forecast/HIZ016"
-        ],
-        "references": [
-          {
-            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.010.1",
-            "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.010.1",
-            "sender": "w-nws.webmaster@noaa.gov",
-            "sent": "2026-09-25T11:03:00-10:00"
-          }
-        ],
-        "sent": "2026-09-25T17:14:00-10:00",
-        "effective": "2026-09-25T17:14:00-10:00",
-        "onset": "2026-09-25T17:14:00-10:00",
-        "expires": "2026-09-26T01:15:00-10:00",
-        "ends": null,
-        "status": "Actual",
-        "messageType": "Update",
-        "category": "Met",
-        "severity": "Severe",
-        "certainty": "Possible",
-        "urgency": "Future",
-        "event": "Tropical Storm Watch",
-        "sender": "w-nws.webmaster@noaa.gov",
-        "senderName": "NWS Honolulu HI",
-        "headline": "Tropical Storm Watch issued September 25 at 5:14PM HST by NWS Honolulu HI",
-        "description": "* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 45-55 mph with gusts to 75 mph\n- Window for Tropical Storm force winds: until Monday evening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
-        "instruction": null,
-        "response": "Prepare",
-        "note": null,
-        "parameters": {
-          "AWIPSidentifier": [
-            "TCVHFO"
-          ],
-          "WMOidentifier": [
-            "WTHW80 PHFO 260314"
-          ],
-          "NWSheadline": [
-            "TROPICAL STORM WATCH REMAINS IN EFFECT"
-          ],
-          "BLOCKCHANNEL": [
-            "EAS",
-            "NWEM",
-            "CMAS"
-          ],
-          "EAS-ORG": [
-            "WXR"
-          ],
-          "VTEC": [
-            "/O.CON.PHFO.TR.A.2015.000000T0000Z-000000T0000Z/"
-          ],
-          "expiredReferences": [
-            "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.010.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.010.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.010.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.010.1,2026-09-24T11:19:00-10:00"
-          ]
-        },
-        "scope": "Public",
-        "code": "IPAWSv1.0",
-        "language": "en-US",
-        "web": "http://www.weather.gov",
-        "eventCode": {
-          "SAME": [
-            "TRA"
-          ],
-          "NationalWeatherService": [
-            "TRA"
-          ]
-        }
-      }
-    },
-    {
       "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.017.1",
       "type": "Feature",
       "geometry": {
@@ -5484,135 +5292,135 @@
       }
     },
     {
-      "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
+      "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -156.904,
-              21.104
+              -156.573,
+              20.606
             ],
             [
-              -156.896,
-              21.093
+              -156.554,
+              20.598
             ],
             [
-              -156.89,
-              21.082
+              -156.539,
+              20.579
             ],
             [
-              -156.874,
-              21.04
+              -156.538,
+              20.571
             ],
             [
-              -156.876,
-              21.038
+              -156.548,
+              20.569
             ],
             [
-              -156.978,
-              21.064
+              -156.555,
+              20.54
             ],
             [
-              -157.057,
-              21.095
+              -156.534,
+              20.537
             ],
             [
-              -157.096,
-              21.091
+              -156.533,
+              20.528
             ],
             [
-              -157.2,
-              21.085
+              -156.545,
+              20.515
             ],
             [
-              -157.244,
-              21.078
+              -156.558,
+              20.522
             ],
             [
-              -157.3,
-              21.095
+              -156.585,
+              20.51
             ],
             [
-              -157.312,
-              21.103
+              -156.6,
+              20.527
             ],
             [
-              -157.291,
-              21.102
+              -156.605,
+              20.516
             ],
             [
-              -157.276,
-              21.107
+              -156.621,
+              20.518
             ],
             [
-              -157.263,
-              21.115
+              -156.64,
+              20.508
             ],
             [
-              -157.25,
-              21.128
+              -156.646,
+              20.519
             ],
             [
-              -157.242,
-              21.141
+              -156.664,
+              20.504
             ],
             [
-              -157.215,
-              21.204
+              -156.673,
+              20.504
             ],
             [
-              -157.185,
-              21.189
+              -156.684,
+              20.511
             ],
             [
-              -157.161,
-              21.181
+              -156.685,
+              20.519
             ],
             [
-              -157.122,
-              21.173
+              -156.701,
+              20.527
             ],
             [
-              -157.013,
-              21.156
+              -156.677,
+              20.559
             ],
             [
-              -156.965,
-              21.155
+              -156.647,
+              20.565
             ],
             [
-              -156.928,
-              21.126
+              -156.609,
+              20.594
             ],
             [
-              -156.904,
-              21.104
+              -156.573,
+              20.606
             ]
           ]
         ]
       },
       "properties": {
-        "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
+        "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
         "@type": "wx:Alert",
-        "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
-        "areaDesc": "Molokai Leeward South",
+        "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.010.1",
+        "areaDesc": "Kahoolawe",
         "geocode": {
           "SAME": [
             "015009"
           ],
           "UGC": [
-            "HIZ041"
+            "HIZ016"
           ]
         },
         "affectedZones": [
-          "https://api.weather.gov/zones/forecast/HIZ041"
+          "https://api.weather.gov/zones/forecast/HIZ016"
         ],
         "references": [
           {
-            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.005.1",
-            "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.005.1",
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.010.1",
+            "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.010.1",
             "sender": "w-nws.webmaster@noaa.gov",
             "sent": "2026-09-25T11:03:00-10:00"
           }
@@ -5632,7 +5440,7 @@
         "sender": "w-nws.webmaster@noaa.gov",
         "senderName": "NWS Honolulu HI",
         "headline": "Tropical Storm Watch issued September 25 at 5:14PM HST by NWS Honolulu HI",
-        "description": "* LOCATIONS AFFECTED\n- Kaunakakai\n- Kualapuu\n- Kepuhi\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday morning\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+        "description": "* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 45-55 mph with gusts to 75 mph\n- Window for Tropical Storm force winds: until Monday evening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
         "instruction": null,
         "response": "Prepare",
         "note": null,
@@ -5658,7 +5466,7 @@
             "/O.CON.PHFO.TR.A.2015.000000T0000Z-000000T0000Z/"
           ],
           "expiredReferences": [
-            "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.005.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.005.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.005.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.005.1,2026-09-24T11:19:00-10:00"
+            "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.010.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.010.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.010.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.010.1,2026-09-24T11:19:00-10:00"
           ]
         },
         "scope": "Public",
@@ -5927,6 +5735,198 @@
           ],
           "expiredReferences": [
             "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.019.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.019.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.019.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.019.1,2026-09-24T11:19:00-10:00"
+          ]
+        },
+        "scope": "Public",
+        "code": "IPAWSv1.0",
+        "language": "en-US",
+        "web": "http://www.weather.gov",
+        "eventCode": {
+          "SAME": [
+            "TRA"
+          ],
+          "NationalWeatherService": [
+            "TRA"
+          ]
+        }
+      }
+    },
+    {
+      "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -156.904,
+              21.104
+            ],
+            [
+              -156.896,
+              21.093
+            ],
+            [
+              -156.89,
+              21.082
+            ],
+            [
+              -156.874,
+              21.04
+            ],
+            [
+              -156.876,
+              21.038
+            ],
+            [
+              -156.978,
+              21.064
+            ],
+            [
+              -157.057,
+              21.095
+            ],
+            [
+              -157.096,
+              21.091
+            ],
+            [
+              -157.2,
+              21.085
+            ],
+            [
+              -157.244,
+              21.078
+            ],
+            [
+              -157.3,
+              21.095
+            ],
+            [
+              -157.312,
+              21.103
+            ],
+            [
+              -157.291,
+              21.102
+            ],
+            [
+              -157.276,
+              21.107
+            ],
+            [
+              -157.263,
+              21.115
+            ],
+            [
+              -157.25,
+              21.128
+            ],
+            [
+              -157.242,
+              21.141
+            ],
+            [
+              -157.215,
+              21.204
+            ],
+            [
+              -157.185,
+              21.189
+            ],
+            [
+              -157.161,
+              21.181
+            ],
+            [
+              -157.122,
+              21.173
+            ],
+            [
+              -157.013,
+              21.156
+            ],
+            [
+              -156.965,
+              21.155
+            ],
+            [
+              -156.928,
+              21.126
+            ],
+            [
+              -156.904,
+              21.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
+        "@type": "wx:Alert",
+        "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.005.1",
+        "areaDesc": "Molokai Leeward South",
+        "geocode": {
+          "SAME": [
+            "015009"
+          ],
+          "UGC": [
+            "HIZ041"
+          ]
+        },
+        "affectedZones": [
+          "https://api.weather.gov/zones/forecast/HIZ041"
+        ],
+        "references": [
+          {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.005.1",
+            "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.005.1",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "sent": "2026-09-25T11:03:00-10:00"
+          }
+        ],
+        "sent": "2026-09-25T17:14:00-10:00",
+        "effective": "2026-09-25T17:14:00-10:00",
+        "onset": "2026-09-25T17:14:00-10:00",
+        "expires": "2026-09-26T01:15:00-10:00",
+        "ends": null,
+        "status": "Actual",
+        "messageType": "Update",
+        "category": "Met",
+        "severity": "Severe",
+        "certainty": "Possible",
+        "urgency": "Future",
+        "event": "Tropical Storm Watch",
+        "sender": "w-nws.webmaster@noaa.gov",
+        "senderName": "NWS Honolulu HI",
+        "headline": "Tropical Storm Watch issued September 25 at 5:14PM HST by NWS Honolulu HI",
+        "description": "* LOCATIONS AFFECTED\n- Kaunakakai\n- Kualapuu\n- Kepuhi\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday morning\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+        "instruction": null,
+        "response": "Prepare",
+        "note": null,
+        "parameters": {
+          "AWIPSidentifier": [
+            "TCVHFO"
+          ],
+          "WMOidentifier": [
+            "WTHW80 PHFO 260314"
+          ],
+          "NWSheadline": [
+            "TROPICAL STORM WATCH REMAINS IN EFFECT"
+          ],
+          "BLOCKCHANNEL": [
+            "EAS",
+            "NWEM",
+            "CMAS"
+          ],
+          "EAS-ORG": [
+            "WXR"
+          ],
+          "VTEC": [
+            "/O.CON.PHFO.TR.A.2015.000000T0000Z-000000T0000Z/"
+          ],
+          "expiredReferences": [
+            "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.005.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.005.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.005.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.005.1,2026-09-24T11:19:00-10:00"
           ]
         },
         "scope": "Public",
@@ -8076,5 +8076,5 @@
     }
   ],
   "title": "Current watches, warnings, and advisories for Hawaii",
-  "updated": "2026-09-26T07:45:00+00:00"
+  "updated": "2026-09-26T07:50:26+00:00"
 }

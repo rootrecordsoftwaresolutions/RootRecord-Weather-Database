@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T21:45:45-10:00 HST
-- **Report created:** 2026-09-25T21:45:45-10:00 HST
+- **Generated:** 2026-09-25T21:49:09-10:00 HST
+- **Report created:** 2026-09-25T21:49:09-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** cwf_coastal_waters
 - **Official source:** https://api.weather.gov/products/types/CWF/locations/HFO
-- **Collected:** 2026-09-25T21:45:10.757903-10:00 HST
+- **Collected:** 2026-09-25T16:49:18.233970-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.

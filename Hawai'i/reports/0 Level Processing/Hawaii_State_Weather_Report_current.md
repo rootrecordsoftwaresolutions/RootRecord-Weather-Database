@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-25T21:45:40-10:00 HST
-- **Report created:** 2026-09-25T21:45:40-10:00 HST
+- **Generated:** 2026-09-25T21:49:04-10:00 HST
+- **Report created:** 2026-09-25T21:49:04-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -13,7 +13,7 @@
 
 - **Resource ID:** zfp_zone_forecast
 - **Source:** https://api.weather.gov/products/types/ZFP/locations/HFO
-- **Collected:** 2026-09-25T21:39:10.726375-10:00 HST
+- **Collected:** 2026-09-25T21:42:34.910494-10:00 HST
 
 ```text
 000
@@ -2197,7 +2197,7 @@ FZLVL...159.
 
 - **Resource ID:** afd_area_forecast_discussion
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO
-- **Collected:** 2026-09-25T21:41:10.692804-10:00 HST
+- **Collected:** 2026-09-25T21:44:34.302399-10:00 HST
 
 ```text
 000
@@ -2391,7 +2391,7 @@ UPDATE...M Ballard
 
 - **Resource ID:** cwf_coastal_waters
 - **Source:** https://api.weather.gov/products/types/CWF/locations/HFO
-- **Collected:** 2026-09-25T21:45:10.757903-10:00 HST
+- **Collected:** 2026-09-25T21:48:34.880827-10:00 HST
 
 ```text
 000
@@ -3420,7 +3420,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-25T21:39:10.885650-10:00 HST
+- **Collected:** 2026-09-25T21:42:34.700350-10:00 HST
 
 ```text
 325
@@ -3691,7 +3691,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-25T21:39:13.904978-10:00 HST
+- **Collected:** 2026-09-25T21:42:38.187800-10:00 HST
 
 ```text
 948
@@ -4543,7 +4543,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T21:45:14.859943-10:00 HST
+- **Collected:** 2026-09-25T21:48:39.279865-10:00 HST
 
 ```text
 Home
@@ -4903,7 +4903,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 07:40:06 UTC
+Las upda e Sa , 26 Sep 2026 07:47:49 UTC
 
 
 
@@ -12738,7 +12738,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-25T21:31:13.142289-10:00 HST
+- **Collected:** 2026-09-25T21:41:50.366651-10:00 HST
 
 ```text
 Na ional Wea her Service

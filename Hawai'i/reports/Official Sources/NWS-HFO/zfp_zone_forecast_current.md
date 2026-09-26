@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T21:45:45-10:00 HST
-- **Report created:** 2026-09-25T21:45:45-10:00 HST
+- **Generated:** 2026-09-25T21:49:09-10:00 HST
+- **Report created:** 2026-09-25T21:49:09-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** zfp_zone_forecast
 - **Official source:** https://api.weather.gov/products/types/ZFP/locations/HFO
-- **Collected:** 2026-09-25T21:39:10.726375-10:00 HST
+- **Collected:** 2026-09-25T21:42:34.910494-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.

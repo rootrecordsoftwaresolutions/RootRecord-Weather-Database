@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T21:45:45-10:00 HST
-- **Report created:** 2026-09-25T21:45:45-10:00 HST
+- **Generated:** 2026-09-25T21:49:09-10:00 HST
+- **Report created:** 2026-09-25T21:49:09-10:00 HST
 - **County:** Maui County
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO

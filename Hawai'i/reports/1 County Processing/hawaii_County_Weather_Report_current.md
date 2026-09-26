@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-25T21:45:45-10:00 HST
-- **Report created:** 2026-09-25T21:45:45-10:00 HST
+- **Generated:** 2026-09-25T21:49:09-10:00 HST
+- **Report created:** 2026-09-25T21:49:09-10:00 HST
 - **County:** Hawaii County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 14
@@ -4280,7 +4280,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 07:40:06 UTC
+Las upda e Sa , 26 Sep 2026 07:47:49 UTC
 
 
 

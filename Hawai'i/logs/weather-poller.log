@@ -502,3 +502,14 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T21:45:45-10:00 reports: updated source-isolated official report mirrors
 2026-09-25T21:45:45-10:00 reports: regenerated Level 1 county Markdown reports
 2026-09-25T21:46:15-10:00 dispatching 3 due task(s) concurrently: alerts, text_products, misc
+2026-09-25T21:48:59-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T21:48:59-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T21:49:08-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:50:52-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T21:50:52-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T21:51:01-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:52:27-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:52:27-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T21:52:27-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:52:33-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
