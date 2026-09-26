@@ -108,3 +108,11 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T18:57:04-10:00 module:marine resource:surfreports_statewide_observations INVALID -- body looks like an HTML error/placeholder page (found '<html')
 2026-09-25T18:57:04-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: Server error '500 Internal Server Error' for url 'https://forecast.weather.gov/product.php?site=HFO&product=MWW&site=hfo'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2026-09-25T18:59:06-10:00 module:climate resource:rra_hawaii_rainfall_summary INVALID -- body looks like an HTML error/placeholder page (found 'temporarily unavailable')
+2026-09-25T18:59:06-10:00 module:climate resource:rtp_temp_precip_summary INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T18:59:06-10:00 module:climate resource:rwr_state_roundup INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:59:06-10:00 module:climate resource:hrs_archive_90day_rainfall INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:59:06-10:00 module:climate resource:rr5_archive_hydromet INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T19:00:29-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:00:29-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:01:59-10:00 reports: regenerated statewide Markdown reports
