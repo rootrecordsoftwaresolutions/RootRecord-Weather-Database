@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T04:34:22-10:00 HST
-- **Report created:** 2026-09-26T04:34:22-10:00 HST
+- **Generated:** 2026-09-26T04:43:21-10:00 HST
+- **Report created:** 2026-09-26T04:43:21-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T04:34:20.061003-10:00 HST
+- **Collected:** 2026-09-26T04:43:19.653998-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 14:30:43 UTC
+Last update Sat, 26 Sep 2026 14:42:59 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -437,49 +437,49 @@ Buoys |
 Grids |
 Storm Archive
 
-...GONZALO STILL A TROPICAL STORM AS IT MOVES AWAY FROM THE CABO VERDE ISLANDS...
+...GONZALO MOVING NORTH OF THE CABO VERDE ISLANDS AND EXPECTED TO DEGENERATE INTO A REMNANT LOW BY SUNDAY...
 
-8:00 AM CVT Sat Sep 26
+2:00 PM CVT Sat Sep 26
 
-Location: 17.6°N 23.0°W
+Location: 18.8°N 23.0°W
 
-Moving: N at 9 mph
+Moving: NNW at 10 mph
 
-Min pressure: 1002 mb
+Min pressure: 1005 mb
 
-Max sustained: 45 mph
+Max sustained: 40 mph
 
 Public
 
 Advisory
 
-#6
+#7
 
-800 AM CVT
+200 PM CVT
 
 Forecast
 
 Advisory
 
-#6
+#7
 
-0900 UTC
+1500 UTC
 
 Forecast
 
 Discussion
 
-#6
+#7
 
-800 AM CVT
+200 PM CVT
 
 Wind Speed
 
 Probabilities
 
-#6
+#7
 
-0900 UTC
+1500 UTC
 
 Productos en español:
 
@@ -530,13 +530,13 @@ Buoys |
 Grids |
 Storm Archive
 
-...FAY WEAKENS TO A TROPICAL DEPRESSION ONCE AGAIN...
+...FAY DRIFTS TOWARDS THE WEST-SOUTHWEST...
 
-9:00 AM GMT Sat Sep 26
+3:00 PM GMT Sat Sep 26
 
-Location: 29.7°N 43.7°W
+Location: 29.6°N 44.0°W
 
-Moving: WSW at 3 mph
+Moving: WSW at 5 mph
 
 Min pressure: 1009 mb
 
@@ -546,33 +546,33 @@ Public
 
 Advisory
 
-#25
+#26
 
-900 AM GMT
+300 PM GMT
 
 Forecast
 
 Advisory
 
-#25
+#26
 
-0900 UTC
+1500 UTC
 
 Forecast
 
 Discussion
 
-#25
+#26
 
-900 AM GMT
+300 PM GMT
 
 Wind Speed
 
 Probabilities
 
-#25
+#26
 
-0900 UTC
+1500 UTC
 
 Productos en español:
 
@@ -739,33 +739,33 @@ Buoys |
 Grids |
 Storm Archive
 
-...ODALYS BEGINS WEAKENING AS IT CONTINUES TRACKING NORTHWARD...
+...ODALYS EXPECTED TO RAPIDLY WEAKEN OVER THE OPEN EAST PACIFIC...
 
-2:00 AM PDT Sat Sep 26
+8:00 AM PDT Sat Sep 26
 
-Location: 19.1°N 123.7°W
+Location: 19.8°N 123.7°W
 
-Moving: N at 5 mph
+Moving: N at 7 mph
 
-Min pressure: 951 mb
+Min pressure: 965 mb
 
-Max sustained: 115 mph
+Max sustained: 105 mph
 
 Public
 
 Advisory
 
-#26
+#27
 
-200 AM PDT
+800 AM PDT
 
 Forecast
 
 Advisory
 
-#26
+#27
 
-0900 UTC
+1500 UTC
 
 Forecast
 
