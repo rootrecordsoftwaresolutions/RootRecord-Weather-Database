@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T13:29:39-10:00 HST
-- **Report created:** 2026-09-26T13:29:39-10:00 HST
+- **Generated:** 2026-09-26T13:37:39-10:00 HST
+- **Report created:** 2026-09-26T13:37:39-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3071,7 +3071,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T13:13:54.508792-10:00 HST
+- **Collected:** 2026-09-26T13:30:54.420161-10:00 HST
 
 ```text
 598
@@ -3342,7 +3342,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T13:23:01.531310-10:00 HST
+- **Collected:** 2026-09-26T13:30:56.973964-10:00 HST
 
 ```text
                         
@@ -4187,7 +4187,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T13:29:38.847940-10:00 HST
+- **Collected:** 2026-09-26T13:37:38.855835-10:00 HST
 
 ```text
 Home
@@ -4311,7 +4311,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:22:47 UTC
+Last update Sat, 26 Sep 2026 23:32:47 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4824,7 +4824,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-1815 UTC Sat Sep 26 2026
+0015 UTC Sun Sep 27 2026
 
 Post-Tropical Cyclone Gonzalo
 
@@ -8083,7 +8083,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T13:13:39.354411-10:00 HST
+- **Collected:** 2026-09-26T13:30:39.453145-10:00 HST
 
 ```text
 National Weather Service
@@ -8132,9 +8132,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 

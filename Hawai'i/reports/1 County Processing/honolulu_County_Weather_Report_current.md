@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T13:29:41-10:00 HST
-- **Report created:** 2026-09-26T13:29:41-10:00 HST
+- **Generated:** 2026-09-26T13:37:41-10:00 HST
+- **Report created:** 2026-09-26T13:37:41-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 21
@@ -4258,7 +4258,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:22:47 UTC
+Last update Sat, 26 Sep 2026 23:32:47 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4771,7 +4771,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-1815 UTC Sat Sep 26 2026
+0015 UTC Sun Sep 27 2026
 
 Post-Tropical Cyclone Gonzalo
 
