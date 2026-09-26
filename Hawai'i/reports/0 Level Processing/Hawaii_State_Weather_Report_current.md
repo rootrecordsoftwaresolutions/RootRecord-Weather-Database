@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-25T19:50:42-10:00 HST
-- **Report created:** 2026-09-25T19:50:42-10:00 HST
+- **Generated:** 2026-09-25T19:56:11-10:00 HST
+- **Report created:** 2026-09-25T19:56:11-10:00 HST
 - **Current report sections:** 17
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 

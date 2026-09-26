@@ -222,3 +222,16 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T19:49:12-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T19:50:42-10:00 reports: regenerated statewide Markdown reports
 2026-09-25T19:51:12-10:00 dispatching 2 due task(s) concurrently: alerts, text_products
+2026-09-25T19:54:12-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:54:12-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:54:12-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:54:42-10:00 dispatching 2 due task(s) concurrently: alerts, satellite
+2026-09-25T19:55:09-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: Client error '404 Not Found' for url 'https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-1000x1000.gif'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T19:55:09-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:56:09-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T19:56:11-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:56:41-10:00 dispatching 1 due task(s) concurrently: text_products
+2026-09-25T19:57:29-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T19:57:29-10:00 dispatching 12 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, hurricanes
+2026-09-25T19:57:36-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
