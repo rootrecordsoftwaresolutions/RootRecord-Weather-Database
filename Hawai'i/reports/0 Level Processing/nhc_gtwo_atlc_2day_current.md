@@ -4,7 +4,7 @@
 
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=2
 - **Collected:** 2026-09-26T09:19:33.130348-10:00 HST
-- **Report created:** 2026-09-26T10:21:33-10:00 HST
+- **Report created:** 2026-09-26T10:29:33-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
