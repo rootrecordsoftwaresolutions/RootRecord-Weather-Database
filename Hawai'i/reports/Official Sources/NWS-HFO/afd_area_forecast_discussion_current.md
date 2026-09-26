@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T12:55:42-10:00 HST
-- **Report created:** 2026-09-26T12:55:42-10:00 HST
+- **Generated:** 2026-09-26T13:03:41-10:00 HST
+- **Report created:** 2026-09-26T13:03:41-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** afd_area_forecast_discussion
 - **Official source:** https://api.weather.gov/products/types/AFD/locations/HFO

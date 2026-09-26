@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T12:55:42-10:00 HST
-- **Report created:** 2026-09-26T12:55:42-10:00 HST
+- **Generated:** 2026-09-26T13:03:41-10:00 HST
+- **Report created:** 2026-09-26T13:03:41-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hfo_surf_reports_direct
 - **Official source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T12:48:59.970544-10:00 HST
+- **Collected:** 2026-09-26T12:56:59.614715-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.

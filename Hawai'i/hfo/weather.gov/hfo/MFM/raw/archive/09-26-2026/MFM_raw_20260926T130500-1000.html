@@ -1,0 +1,2447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Marine Forecast Matrix</title>
+<meta name="DC.title" content="Marine Forecast Matrix" />
+<meta name="DC.description" content="Marine forecast matrix for Hawaiian waters." />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="December 7th 2023 4:55 PM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="marine, winds, seas, swell, hawaii, coastal" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+        
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+        
+<script>
+$(document).ready(function() {
+  $('img.nocache').each(function () {
+      var $this = $(this);
+      $this.attr('src', noCache($this.attr('src')));
+  });
+});
+function noCache(url) {
+  return url + (url.indexOf('?') >= 0 ? '&nocache=' : '?') + $.now();
+}
+</script>
+
+    </head>
+    <body> 
+        
+
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+                <div id="zipcity_news">
+                    <div class="one-sixth-first">
+    <div id="forecast-lookup">
+        <form name="getForecast" id="getForecast" action="https://forecast.weather.gov/zipcity.php" method="get">
+            <label for="inputstring">Local forecast by <br />"City, St" or ZIP code</label>
+            <input id="inputstring" name="inputstring" type="text" value="Enter location ..." onclick="this.value=''" />
+            <input name="btnSearch" id="btnSearch" type="submit" value="Go" />
+            <div id="txtError">
+                <div id="errorNoResults" style="display:none;">Sorry, the location you searched for was not found. Please try another search.</div>
+                <div id="errorMultipleResults" style="display:none">Multiple locations were found. Please select one of the following:</div>
+                <div id="errorChoices" style="display:none"></div>
+                <input id="btnCloseError" type="button" value="Close" style="display:none" />
+            </div>
+            <div id="txtHelp"><a style="text-decoration: underline;" href="javascript:void(window.open('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530').focus());">Location Help</a></div>
+        </form>
+    </div>
+</div>
+
+                        <div class="five-sixth-last">
+                    <div id="topnews">
+                <div id="global_localnews" style="float:left;width:800px;">
+                    <div id="global_localnews_headerbar_main">
+                        <div id="global_localnews_headerbar_sub_left">
+                            <div id="global_localnews_title" style="color:black;margin:5px 0px 2px 0px;font-size:14px;font-weight:bold;">News Headlines</div>
+                        </div>
+                    </div>
+                    <div id="localnews">
+                        <ul>
+                                                            <li><a href="https://www.weather.gov/hfo/august2026monthlysummary"><strong>August 2026 Monthly Rainfall Summary for Hawaii</strong></a></li>
+                                                            <li><a href="http://www.weather.gov/hfo/TropicalEventSummary"><strong>Hurricane Lala - Post Tropical Cyclone Report (updated rainfall)</strong></a></li>
+                                                    </ul>
+                                                <ul>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                /** news headline Additional Headlines link **/
+                $(document).ready(function () {
+                    $("#additionalNews").toggle();
+                    $(".toggleHeadlines a").click(function(e){
+                        e.preventDefault();
+                        e.stopPropagation();
+                        $(".toggleHeadlines").toggle();
+                        $(".hidden-news-link").toggle();
+                    });
+                });
+            </script>
+            </div>
+
+                </div>
+                <div class="full-width-bordertop">
+                    <div class="div-full">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+                        <div class="one-sixth-first" id="sidebar">
+                            <script type="text/javascript" src="/js/jquery-cookie.js"></script>
+<script type="text/javascript" src="/js/MyForecastWidget.js"></script>
+<div id="myfcst-widget">
+    <div id="myfcst">
+        <form id='myfcst-form' action='/widgets/MyForecastWidget.php'>
+            <span id="myfcst-title">Customize Your <strong>Weather.gov</strong></span>
+            <div id="myfcst-input-block">
+                <input type="text" name="myfcst-location-input" id="myfcst-location-input" value="City, ST" />
+                <label for="myfcst-location-input">Enter Your City, ST or ZIP Code</label><br />
+                <input type="checkbox" name="myfcst-remember" id="myfcst-remember" />
+                <label for="myfcst-remember">Remember Me</label>
+            </div>
+            <div class="myfcst-footer">
+                <input type="submit" value="Get Weather" id="myfcst-submit" />
+                <p class="myfcst-policy"><a href="/privacy.php">Privacy Policy</a></p>
+            </div>
+        </form>
+        <div id="myfcst-fcst"></div>
+        <div id="myfcst-multi-result"></div>
+        <div id="myfcst-loading">LOADING...</div>
+    </div>
+</div>
+
+                            
+                        </div><!-- end of <div class="one-sixth-first"> -->
+
+                        <div class="five-sixth-first" id="pagebody">
+                            <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">Honolulu, HI</p>
+        <p class="sitename-class">Weather Forecast Office</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Marine Forecast Matrix</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
+                                &gt; Marine Forecast Matrix
+                    </div>
+    </div>
+</div>
+
+                            <div class="div-full">
+    <div class="subMenuNav">
+        <ul id="subMenuNav">
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/watchwarn">Current Hazards</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=FRA"> Carte des prévisions et des dangers - Français</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/watchwarn"> Hawaii Hazards</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=VIE"> Dự báo và Bản đồ nguy hiểm - Tiếng Việt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=CHI"> 预报和灾害地图 - 中文</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=SMO"> Tala o le Tau ma Ata o Fa&#039;afanua o Tulaga Lamatia - Samoan</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=SPA"> Mapa de Pronósticos y Riesgos - Español</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/cphc"> Tropical Cyclones</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/tsunami"> Tsunami</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/quake"> Earthquake</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov"> National Hazards</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/obs">Current Conditions</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/hfo/satellite"> Satellite</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/obs"> Observations</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/hydrology"> Hydrology</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/analyses"> Analyses/Forecast Charts</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://radar.weather.gov/region/hawaii/standard">Radar</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHKI/standard"> Local Kauai (PHKI) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTkuNDQzLDIxLjYwMl0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIS0kifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local Kauai (PHKI) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHMO/standard"> Local Molokai (PHMO) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTcuMTgsMjEuMTMzXSwibG9jYXRpb24iOm51bGwsInpvb20iOjgsImZpbHRlciI6IldTUi04OEQiLCJsYXllciI6InNyX2JyZWYiLCJzdGF0aW9uIjoiUEhNTyJ9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOnRydWUsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19#/"> Local Molokai (PHMO) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHKM/standard"> Local Kohala (PHKM) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTUuNzc4LDIwLjEyNV0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIS00ifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local Kohala (PHKM) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHWA/standard"> Local South Point (PHWA) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTUuNTY5LDE5LjA5NV0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIV0EifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local South Point (PHWA) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/region/hawaii/standard"> Regional Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/FTM"> Latest Radar Status Messages</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/radar"> Hawaii Radars</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/forecast">Forecasts</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://forecast.weather.gov/wxplanner.php?site=hfo"> Activity Planner</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/marine"> Marine</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/forecast"> Hawaii</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/aviation"> Aviation</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/firewx"> Fire Weather</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/gfe_graphics"> Local Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/enhanced_cpacfull"> High Seas Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php"> National Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/model"> Model Output</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://water.noaa.gov/wfo/hfo">Rivers and Lakes</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://water.noaa.gov/"> New National Water Prediction Service (NWPS)</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/Climate?wfo=hfo">Climate and Past Weather</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/wrh/Climate?wfo=hfo"> Local</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov/wrh/Climate"> National</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/climateportal"> Hawaii Climate Portal</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/TropicalEventSummary"> Tropical Cyclone Reports</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/faq">Local Programs</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/hfo/nwr"> Weather Radio</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/wxsafety"> Weather &amp; Safety</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/tsunami_safety"> Tsunami Information</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/faq"> Frequently Asked Questions</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/events"> Event Summaries</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/kids"> Weather in Hawaii</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/safety/flood-turn-around-dont-drown"> Turn Around, Don&#039;t Drown</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/skywarn"> SkyWarn Spotters</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/stormready/"> StormReady</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/tsunamiready/"> TsunamiReady</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/mission"> Our Mission</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/about"> Our Office</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/office_products"> Our Products</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/rss_page.php?site_name=hfo"> News Items</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/news"> News Archive</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/aboutrss"> HI RSS Feeds</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/widgets"> Widgets</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</div>
+
+
+                            
+                            
+                            
+                            <div class="div-full">
+<div class="cms-content"><script type="text/javascript" src="/source/hfo/hfo.js"></script>
+
+<p>    
+                        <a href="https://forecast.weather.gov/product.php?issuedby=HFO&amp;product=MFM&amp;site=hfo">                Marine Forecast Matrix
+                &nbsp;
+                Issued: 09/27/2026 07:13:00 AM UTC                </a>                
+</p>
+
+<hr />
+<p><a href="https://www.weather.gov/hfo/display_MFMHFO_charts">Graphs of select Marine Forecast Matrix for Hawaiian Waters fields
+</a></p>
+<p>    <pre>
+                        <br />
+088<br />
+FXHW40 PHFO 262114<br />
+MFMHFO<br />
+<br />
+MARINE FORECAST MATRICES<br />
+NATIONAL WEATHER SERVICE HONOLULU HI<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+<br />
+THE INFORMATION PRESENTED IN THIS PRODUCT REFLECTS A<br />
+FORECAST...RATHER THAN CURRENT INFORMATION. MARINE USERS SEEKING<br />
+CURRENT INFORMATION SHOULD CHECK THE LATEST COASTAL WIND AND BUOY<br />
+REPORTS.<br />
+<br />
+<br />
+<br />
+PHZ112-270200-<br />
+CK FAD BUOY MAKAHUENA PT KAUAI<br />
+21.80N 159.35W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               24 23 27 27 28 28 27 27 26 26 27 27 25 25 21 21 23 23 21<br />
+WIND GUST              31 30 35 35 36 36 35 35 34 34 35 35 32 32 27 27 30 30 27<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW<br />
+WAVE HGT                2  3  3  3  3  3  2  2  3  3  4  4  4  5  6  6  5  5  5<br />
+PERIOD                 16 16 15 15 15 14 14 14 14 13 13  9 10 10 10 10  9  9  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               11 12 13 14 14 14 14 14 14 13 12 12 12 12 11 11 10 10  9<br />
+PERIOD                  8  9  9  9  9  9  9  9  9  9  9  9  9  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 12 13 14 14 14 14 14 14 13 13 13 13 13 13 13 11 11 10<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     30          10          10          10          10<br />
+RAIN SHWRS              C  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE SE   SE<br />
+WIND SPD      21   18 17 18 18   18 19 20 20   19<br />
+WIND GUST     27   23 22 23 23   23 24 26 26   24<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    5  5  4  4    4  4  3  3    3<br />
+PERIOD         8   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT  10    9  8  9  9   10  9  7  5    5<br />
+CLOUDS        SC   SC SC BK BK   SC SC SC SC   SC<br />
+POP 12HR           20    20      40    40<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ111-270200-<br />
+EK FAD BUOY HANALEI KAUAI<br />
+22.30N 159.43W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               19 20 24 24 18 18 15 15 13 13 13 13 11 11 16 16 15 15 16<br />
+WIND GUST              24 26 31 31 23 23 19 19 16 16 16 16 13 13 20 20 19 19 20<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N NW NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  3  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 12 16 16 15 15 14 14 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                                                SE SE SE SE  S  S  S  S<br />
+WAVE HGT                                                 1  1  1  1  1  1  1  1<br />
+PERIOD                                                  10 10 10 10 10  9  9  9<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT                9  9 10 11 11 11 11 11 11 10 10 10 10  9  9  9  9  9  8<br />
+PERIOD                  9  9  9  9  9  9  9  9  9  9  9  9  9  9  9  9  9  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            9  9 10 11 11 11 11 11 11 10 10 10 10 10 10 10 10  9  8<br />
+CLOUDS                 BK BK SC SC BK BK BK BK SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     40          10          10          20          10<br />
+RAIN SHWRS              S  S                          S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE SE   SE<br />
+WIND SPD      16   15 14 14 14   12 12  9  8    8<br />
+WIND GUST     20   19 18 18 18   15 15 11  9    9<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        12   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW    W<br />
+WAVE HGT       1    1<br />
+PERIOD         9    9<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   7    7  6  6  6    6  6  6  6    6<br />
+CLOUDS        SC   BK BK BK BK   BK BK SC SC   SC<br />
+POP 12HR            5    10      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ112-270200-<br />
+KK FAD BUOY WAIMEA KAUAI<br />
+21.85N 159.72W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               19 18 22 22 24 24 24 24 33 33 30 30 27 27 28 28 25 25 23<br />
+WIND GUST              24 23 28 28 31 31 31 31 43 43 39 39 35 35 36 36 32 32 30<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2<br />
+PERIOD                 15 15 15 14 14 13 13 12 12 12 16 16 15 15 14 13 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW<br />
+WAVE HGT                2  3  3  3  3  3  3  2  2  2  4  4  4  5  6  6  5  5  5<br />
+PERIOD                 16 16 15 15 15 15 14 14 14 14 13 12 10 10 10 10  9  9  8<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SE SE SE SE SE SE SE SE SE SE SE SE SE SE  E  E  E  E  E<br />
+WAVE HGT                9  9 10 11 12 12 12 12 12 12 12 12 11 11  9  9  9  9  9<br />
+PERIOD                  9  9  9 10 10 10 10 10 10  9  9  9  9  9  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            9 10 10 11 12 13 13 12 12 12 13 13 12 12 11 11 10 10 10<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     20          10          10           5           5<br />
+RAIN SHWRS              S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE SE   SE<br />
+WIND SPD      23   19 18 18 18   20 18 18 19   15<br />
+WIND GUST     30   24 23 23 23   26 23 23 24   19<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  1<br />
+PERIOD        12   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW SW  S    S  S  S  S    S<br />
+WAVE HGT       5    5  5  4  4    4  4  4  4    3<br />
+PERIOD         9   13 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT  10   10  9  8  9   10 10  7  5    5<br />
+CLOUDS        SC   BK BK BK BK   BK SC SC SC   SC<br />
+POP 12HR           10    30      40    40<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ112-270200-<br />
+PP FAD BUOY KOLOA KAUAI<br />
+21.79N 159.57W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               23 23 27 27 31 31 31 31 34 34 31 31 28 28 29 29 27 27 24<br />
+WIND GUST              30 30 35 35 40 40 40 40 45 45 40 40 36 36 38 38 35 35 31<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 15 15 15 14 14 14 13 13 12 12 12 12 11 11 11 11 11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW<br />
+WAVE HGT                2  3  3  3  3  3  3  2  2  3  4  4  4  5  6  6  5  5  5<br />
+PERIOD                 16 16 15 15 15 15 14 14 14 14 13 12 10 10 10 10  9  9  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               10 11 13 14 14 14 14 14 14 13 13 13 12 12 11 11 10 10 10<br />
+PERIOD                  9  9  9  9  9  9  9  9  9  9  9  9  9  9  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 11 13 14 14 14 14 14 14 13 14 14 13 13 13 13 11 11 11<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     30          10          10          10           5<br />
+RAIN SHWRS              C  S                                                  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE SE   SE<br />
+WIND SPD      24   22 19 21 19   21 19 21 20   18<br />
+WIND GUST     31   28 24 27 24   27 24 27 26   23<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        12   12 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW  S  S    S  S  S  S    S<br />
+WAVE HGT       5    5  5  4  4    4  4  4  4    3<br />
+PERIOD         9   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT  10   10  9  9  9   10 10  7  5    5<br />
+CLOUDS        SC   BK BK BK BK   BK SC SC SC   SC<br />
+POP 12HR           20    30      40    40<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ111-270200-<br />
+WK FAD BUOY WAILUA KAUAI<br />
+22.02N 159.22W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               21 21 23 23 24 24 22 22 20 20 22 22 20 20 16 16 16 16 17<br />
+WIND GUST              27 27 30 30 31 31 28 28 26 26 28 28 26 26 20 20 20 20 22<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 16 15 15 15 14 14 13 12 18 17 16 16 15 15 14 14 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  4  5  4  4  5  6  6  5  5  5<br />
+PERIOD                 16 16 15 15 15 14 14 14 14 13 13  9 10 10 10 10  9  8  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               10 11 12 13 13 13 13 13 13 12 12 12 11 11 11 11 10 10  9<br />
+PERIOD                  9  9  9  9  9  9  9  9  9  9  9  9  9  9  9  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 11 12 13 13 13 13 13 13 13 13 13 12 12 13 13 11 11 10<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC BK BK SC SC SC SC SC<br />
+POP 12HR                     40          20          20          20          20<br />
+RAIN SHWRS              C  S        S  S  S  S  S  S  S  S  S  S  S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E   SE SE SE SE   SE<br />
+WIND SPD      17   15 13 14 14   14 14 16 17   15<br />
+WIND GUST     22   19 16 18 18   18 18 20 22   19<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       N    N  N  N<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        12   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    5  4  4  4    4  3  3  3    3<br />
+PERIOD         9   14 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    9  8  9  9    9  9  7  6    6<br />
+CLOUDS        SC   BK SC BK BK   BK SC SC SC   SC<br />
+POP 12HR           10    10      40    40<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ113-270200-<br />
+MID POINT KAUAI CHANNEL<br />
+21.77N 158.82W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               24 25 27 27 28 28 27 27 26 26 25 25 24 24 22 22 21 21 20<br />
+WIND GUST              31 32 35 35 36 36 35 35 34 34 32 32 31 31 28 28 27 27 26<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N  N  N  N  N<br />
+WAVE HGT                1  1  1  1  1  1  1  1  2  2  2  2  2  2  2  2  2  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 16 18 17 16 16 15 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW<br />
+WAVE HGT                2  2  2  3  2  2  2  2  4  5  4  5  4  5  6  6  5  4  5<br />
+PERIOD                 16 16 15 15 15 15 14 14 14 10 10  9 10 10 10 10  9  8  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               11 11 12 13 13 13 14 14 14 12 12 12 11 11 10 10 10 10  9<br />
+PERIOD                  8  8  9  9  9  9  9  9  9  9  9  9  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 11 12 13 13 13 14 14 15 13 13 13 12 12 12 12 11 11 10<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW SC<br />
+POP 12HR                     50          20          20          20          20<br />
+RAIN SHWRS              C  C  S  S  S  S  S  S  S  S  S  S  S  S        S  S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE SE   SE<br />
+WIND SPD      20   18 16 17 17   16 16 18 19   18<br />
+WIND GUST     26   23 20 22 22   20 20 23 24   23<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    4  4  4  4    4  4  3  3    3<br />
+PERIOD         7   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    9  8  8  8    9  9  7  6    6<br />
+CLOUDS        SC   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR           20    30      40    50<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ115-270200-<br />
+MAMALA BAY OAHU<br />
+21.27N 157.86W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               22 25 24 24 20 20 18 18 14 14 11 11  9  9 11 11  9  9  5<br />
+WIND GUST              28 32 31 31 26 26 23 23 18 18 13 13 11 11 13 13 11 11  5<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW SW<br />
+WAVE HGT                2  2  2  2  2  2  2  4  5  5  5  5  5  5  5  5  5  4  4<br />
+PERIOD                 16 16 15 15 15 15 14 13 10 10  9  9  9  9  9  9  9  8 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SE SE SE SE SE SE SE SE SE SE SE SE SE  S  S  S  S  S  S<br />
+WAVE HGT                6  6  7  7  7  7  8  8  8  6  6  6  5  5  4  4  4  4  4<br />
+PERIOD                  9  9  9  9 10  9 10 10 10 10 10  9  9  9  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            6  6  7  7  7  7  8  9  9  8  8  8  7  7  6  6  6  6  6<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     30          10          20           0           0<br />
+RAIN SHWRS              C  S              S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE  E    E<br />
+WIND SPD       5    3  5  7  3    3  6  7  4    3<br />
+WIND GUST      5    4  5  8  4    4  7  8  4    4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  4  4  4    3  3  3  3    3<br />
+PERIOD        12   13 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   6    6  6  6  5    6  6  5  5    5<br />
+CLOUDS        FW   SC SC FW SC   SC SC SC SC   SC<br />
+POP 12HR            5     5      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ118-270200-<br />
+P FAD BUOY PENGUIN BANK OAHU<br />
+20.77N 157.82W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE  E  E  E NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               23 26 28 28 26 26 23 23 25 25 17 17 13 13 10 10 12 12 12<br />
+WIND GUST              30 34 36 36 34 34 30 30 32 32 22 22 16 16 12 12 15 15 15<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 12 16 16 15 15 14 14 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW SW SW<br />
+WAVE HGT                2  2  2  2  2  2  2  5  5  5  5  5  5  4  5  5  4  4  5<br />
+PERIOD                 16 16 15 15 15 15 14 13 10 10  9  9  9  9  9  9  9  8 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               12 12 13 14 14 15 15 15 14 12 12 12 11 11  9  9  9  9  8<br />
+PERIOD                  8  8  9  9  9 10 10  9 10 10 10 10  9  9  9  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           12 12 13 14 14 15 15 16 15 13 13 13 12 12 10 10 10 10  9<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     30          10          10           5           5<br />
+RAIN SHWRS              C  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E   SE SE SE SE   SE<br />
+WIND SPD      12   12 10 13 13   15 14 17 16   15<br />
+WIND GUST     15   15 12 16 16   19 18 22 20   19<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        12   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    4  4  4  4    3  3  3  3    3<br />
+PERIOD        12   12 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    9  8  7  8    8  8  6  5    5<br />
+CLOUDS        FW   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR           20    20      40    40<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ115-270200-<br />
+R FAD BUOY MAKAHA OAHU<br />
+21.46N 158.28W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE  E NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               15 18 17 17 13 13 11 11 10 10  5  5  4  4  4  4  2  2  1<br />
+WIND GUST              19 23 22 22 16 16 13 13 12 12  5  5  4  4  4  4  4  4  4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  2  2  2  2  2  2  2  2  2  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 17 16 16 15 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW SW<br />
+WAVE HGT                2  2  2  2  2  2  2  3  5  4  5  5  5  5  5  5  5  5  4<br />
+PERIOD                 16 16 15 15 15 15 14 14 12 10  9  9 10  9  9  9  9  8  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE<br />
+WAVE HGT                5  5  6  7  7  7  7  7  7  5  5  5  5  5  4  4  4  4  4<br />
+PERIOD                 11 10 10 11 11 11 10 10 10 10 10 10  9  9  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            5  5  6  7  7  7  7  8  9  7  7  7  7  7  7  7  7  7  6<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW SC SC FW<br />
+POP 12HR                     30          10          10           0           0<br />
+RAIN SHWRS              C  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E   NE NE NE NE   NE  E SE NE    E<br />
+WIND SPD       1    1  1  2  1    2  2  3  2    2<br />
+WIND GUST      4    4  4  4  4    4  4  4  4    4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    5  4  4  4    4  3  3  3    3<br />
+PERIOD        12   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   7    6  6  6  6    7  7  5  4    4<br />
+CLOUDS        FW   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR            5     5      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ114-270200-<br />
+U FAD BUOY KANEOHE OAHU<br />
+21.58N 157.69W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               25 26 29 29 30 30 28 28 25 25 25 25 26 26 21 21 20 20 19<br />
+WIND GUST              32 34 38 38 39 39 36 36 32 32 32 32 34 34 27 27 26 26 24<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N  N  N  N<br />
+WAVE HGT                1  1  1  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 14 17 16 16 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S<br />
+WAVE HGT                1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 16 16 16 15 15 15 14 11 10 10 11 13 13 13 13 13 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               11 12 12 13 13 13 14 14 14 14 14 13 13 13 12 12 11 11 10<br />
+PERIOD                  8  8  8  9  9  9  9  9  9  9  9  9  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 12 12 13 13 13 14 14 14 14 14 13 13 13 12 12 11 11 10<br />
+CLOUDS                 BK BK BK BK SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     40          20          20           5           5<br />
+RAIN SHWRS              C  C  S  S  S  S  S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE  E    E<br />
+WIND SPD      19   18 17 16 15   15 16 17 16   15<br />
+WIND GUST     24   23 22 20 19   19 20 22 20   19<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD        12   16 16 16 16   16 15 15 15   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    9  8  7  7    7  7  6  5    5<br />
+CLOUDS        FW   SC SC SC SC   BK SC SC SC   SC<br />
+POP 12HR           10    10      10    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ114-270200-<br />
+II FAD BUOY HALEIWA OAHU<br />
+21.74N 158.22W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               26 27 29 29 30 30 27 27 26 26 21 21 20 20 20 20 18 18 15<br />
+WIND GUST              34 35 38 38 39 39 35 35 34 34 27 27 26 26 26 26 23 23 19<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N  N  N NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 12 17 16 15 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW SW SW SW SW SW  S  S  S  S SW SW SW SW SW SW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  2  3  4  4  5  5  5  4<br />
+PERIOD                 16 16 15 15 15 15 14 14 14 13 13 12 10 10  9  9  9  8  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               10 10 11 12 12 12 13 12 12 11 11 11  9  9  9  9  9  8  7<br />
+PERIOD                  8  8  8  9  9  9  9  9  9  9  8  9  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 10 11 12 12 12 13 12 12 11 11 11 10 10 10 11 11 10  8<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     30          10          10           5           5<br />
+RAIN SHWRS              C  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE  E    E<br />
+WIND SPD      15   14 14 15 13   12 13 14 13   11<br />
+WIND GUST     19   18 18 19 16   15 16 18 16   13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW SW SW   SW SW SW SW   SW<br />
+WAVE HGT       4    4  3  2  2    1  1  1  1    1<br />
+PERIOD         7   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   8    7  7  6  6    6  6  5  5    5<br />
+CLOUDS        FW   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR            5    10      10    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ114-270200-<br />
+LL FAD BUOY HAUULA OAHU<br />
+21.75N 157.76W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               26 28 28 28 30 30 29 29 26 26 25 25 27 27 23 23 22 22 21<br />
+WIND GUST              34 36 36 36 39 39 38 38 34 34 32 32 35 35 30 30 28 28 27<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  3  3  3  2<br />
+PERIOD                 16 15 15 15 14 14 14 13 13 12 17 16 16 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                                  S  S  S  S  S  S  S  S  S  S  S  S  S<br />
+WAVE HGT                                  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                                   14 12 11 10 13 13 13 13 13 13 13 13 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E SE  E  E  E  E  E  E<br />
+WAVE HGT               11 11 12 13 13 13 14 14 14 14 13 13 13 12 12 12 11 11 10<br />
+PERIOD                  8  8  8  9  9  9  9  9  9  9  9  9  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 11 12 13 13 13 14 14 14 14 13 13 13 12 12 12 11 11 10<br />
+CLOUDS                 BK BK BK BK SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     40          10          10          20          10<br />
+RAIN SHWRS              C  C                          S  S  S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE  E   SE<br />
+WIND SPD      21   20 19 19 18   19 19 19 19   19<br />
+WIND GUST     27   26 24 24 23   24 24 24 24   24<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD        12   16 16 16 16   16 15 15 15   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    9  8  8  7    8  8  7  6    6<br />
+CLOUDS        FW   SC SC SC SC   BK SC SC SC   SC<br />
+POP 12HR           10    10      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ114-270200-<br />
+UH WAIMEA BUOY OAHU<br />
+21.67N 158.12W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               25 26 28 28 25 25 23 23 21 21 17 17 16 16 17 17 15 15 13<br />
+WIND GUST              32 34 36 36 32 32 30 30 27 27 22 22 20 20 22 22 19 19 16<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  2  2<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 12 17 16 15 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  2  2  1  1<br />
+PERIOD                 16 16 15 15 15 15 14 14 14 13 13 13 12 10 10  9  9  8  7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE<br />
+WAVE HGT                7  7  8  9  9  9  9  9  9  8  7  7  6  6  6  6  6  6  5<br />
+PERIOD                  8  8  8  8  8  8  8  8  8  8  7  8  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            7  7  8  9  9  9  9  9  9  8  7  7  6  7  7  7  7  6  5<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW<br />
+POP 12HR                     30          20          20           0           0<br />
+RAIN SHWRS              C  S        S  S  S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE  E    E<br />
+WIND SPD      13   10 11 12  9    9 11 12 11   10<br />
+WIND GUST     16   12 13 15 11   11 13 15 13   12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW SW SW   SW SW SW SW   SW<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD         7   16 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   5    5  5  4  4    4  4  4  4    4<br />
+CLOUDS        FW   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR            5    10      10    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ116-270200-<br />
+MID POINT KAIWI CHANNEL<br />
+21.21N 157.50W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               30 29 31 31 27 27 25 25 24 24 18 18 16 16 14 14 14 14 12<br />
+WIND GUST              39 38 40 40 35 35 32 32 31 31 23 23 20 20 18 18 18 18 15<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  2  2  2  2  2  2<br />
+PERIOD                 16 16 15 15 14 14 13 13 18 18 17 16 16 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW SW SW SW<br />
+WAVE HGT                2  2  2  2  2  2  3  5  4  5  5  5  5  5  5  5  4  4  5<br />
+PERIOD                 16 16 15 15 15 15 14 11 10 10  9  9  9  9  9  9  9  8 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE NE NE NE NE NE NE NE NE  E  E  E  E  E  E NE  E NE  E<br />
+WAVE HGT               12 12 13 14 14 14 14 14 14 12 12 12 11 11 10 10  9  9  8<br />
+PERIOD                  8  8  8  9  8  9  9  9  9  9  8  8  8  8  8  8  8  8  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           12 12 13 14 14 14 14 15 15 13 13 13 12 12 11 11 10 10 10<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW<br />
+POP 12HR                     30           5          10           0           0<br />
+RAIN SHWRS              C  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE  E  E    E<br />
+WIND SPD      12   10  8 10  8    8  9 10 11   10<br />
+WIND GUST     15   12  9 12  9    9 11 12 13   12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       N    N  N  N<br />
+WAVE HGT       2    2  1  1<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       5    4  4  4  4    3  3  3  3    3<br />
+PERIOD        12   12 15 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   9    8  7  7  7    8  8  6  5    5<br />
+CLOUDS        FW   SC FW FW SC   SC SC SC SC   SC<br />
+POP 12HR            5     5      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ117-270200-<br />
+O FAD BUOY KALAUPAPA MOLOKAI<br />
+21.30N 157.05W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               31 32 34 34 38 38 38 38 37 37 32 32 30 30 27 27 26 26 24<br />
+WIND GUST              40 42 45 45 50 50 50 50 49 49 42 42 39 39 35 35 34 34 31<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  2  2<br />
+PERIOD                 16 16 15 15 15 14 14 13 13 12 17 16 16 15 15 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                                                          W  W  W  W  W<br />
+WAVE HGT                                                          1  1  1  1  1<br />
+PERIOD                                                           11  9  9  9 17<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               11 12 12 13 13 13 14 14 14 14 14 13 13 13 12 12 11 11  9<br />
+PERIOD                  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 12 12 13 13 13 14 14 14 14 14 13 13 13 12 12 11 11  9<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW<br />
+POP 12HR                     30          10          10           0           0<br />
+RAIN SHWRS              C  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      24   22 20 20 20   19 19 21 23   20<br />
+WIND GUST     31   28 26 26 26   24 24 27 30   26<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       W    W  W<br />
+WAVE HGT       1    1  1<br />
+PERIOD        17   17 16<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   8    8  7  7  7    6  6  5  5    5<br />
+CLOUDS        FW   FW FW SC FW   SC SC SC FW   FW<br />
+POP 12HR            0     5       5    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ120-270200-<br />
+MID POINT PAILOLO CHANNEL<br />
+21.05N 156.72W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               36 36 36 36 23 23 23 23 24 24 18 18 16 16 18 18 17 17 13<br />
+WIND GUST              47 47 47 47 30 30 30 30 31 31 23 23 20 20 23 23 22 22 16<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                                           E  N  N  N  S  E SE SE SE SE<br />
+WAVE HGT                                           1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 16 16 15 15 15 14 14 17 18 18 17 16 16 16 15 15 14 14 14<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S<br />
+WAVE HGT                1  1  1  1  1  1  1  4  4  4  4  4  3  2  2  2  1  1  1<br />
+PERIOD                 16 15 15 15 15 14 14 10 10  9  9  8  8 13 12 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E NE NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               10 10 11 11 11 11 12 12 12 11 11 10  9  9  8  8  8  8  7<br />
+PERIOD                  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  8  7  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 10 11 11 11 11 12 13 13 12 12 11 10  9  8  8  8  8  7<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC FW FW FW FW FW FW SC SC SC<br />
+POP 12HR                     40          20          10           0           0<br />
+RAIN SHWRS              C  C  S  S  S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      13   11 13 14 12    9 12 14 12   11<br />
+WIND GUST     16   13 16 18 15   11 15 18 15   13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SE   SE SE<br />
+WAVE HGT       1    1  1<br />
+PERIOD        14   13 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD        12   12 12 11 15   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   6    6  5  5  5    5  5  4  4    3<br />
+CLOUDS        SC   FW FW FW FW   SC SC SC FW   FW<br />
+POP 12HR            0     5       5     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ118-270200-<br />
+CC FAD BUOY KAENA PT LANAI<br />
+20.85N 157.14W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               33 31 35 35 33 33 32 32 33 33 19 19 13 13 13 13 14 14 11<br />
+WIND GUST              43 40 46 46 43 43 42 42 43 43 24 24 16 16 16 16 18 18 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                W  W  W  W  W  W NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 16 15 15 15 14 14 13 13 12 14 17 16 15 15 14 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW  S  S  S  S  S  S  S  S  S  S SW SW SW SW SW SW SW<br />
+WAVE HGT                2  2  2  2  3  3  4  5  5  5  5  5  5  5  5  5  5  4  4<br />
+PERIOD                 16 16 15 15 15 15 14 11 10  9  9  9  9  9  9  9 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE NE NE NE NE NE NE NE NE  E  E  E  E  E SE SE SE SE SE<br />
+WAVE HGT               10 10 10 11 11 11 11 11 11 10  9  9  7  7  5  5  5  5  5<br />
+PERIOD                  6  6  6  6  6  6  7  7  7  7  7  7  6  7  6  7  7  7  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 10 10 11 11 11 12 12 12 11 10 10  9  9  7  7  7  6  6<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW<br />
+POP 12HR                     30          10          10           0           0<br />
+RAIN SHWRS              S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E SE  E    E SE SE  E    E<br />
+WIND SPD      11    8  8 10  9    9 10 12 13   11<br />
+WIND GUST     13    9  9 12 11   11 12 15 16   13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  4  4  4    4  3  3  3    3<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   6    6  6  6  6    6  6  4  3    3<br />
+CLOUDS        FW   SC FW FW SC   SC SC FW FW   FW<br />
+POP 12HR            0     5      10    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ118-270200-<br />
+KAUMALAPAU HARBOR<br />
+20.79N 157.00W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE NE NE NE NE  E  E  E  E NE NE  E  E NE NE  E<br />
+WIND SPD               26 23 31 31 24 24 24 24 27 27 13 13 12 12 10 10 11 11  8<br />
+WIND GUST              36 32 42 42 34 34 34 34 38 38 18 18 15 15 12 12 15 15  9<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SE SE SE  E  E  E SE SE SE SE SE SE  S  S  S  S  S  S  S<br />
+WAVE HGT                4  4  4  5  5  5  5  5  5  5  5  5  4  4  3  3  3  3  3<br />
+PERIOD                  8  8  8  8  8  8  9  8  8 10 10 10  8  8  7  7  7  7  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            4  4  4  5  5  5  5  5  5  5  5  5  4  4  3  3  3  3  3<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW<br />
+POP 12HR                     20           5           5           0           0<br />
+RAIN SHWRS              S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E   NE  E  E  E    E SE SE  E    E<br />
+WIND SPD       8    8  9 11  8   11 12 15 15   13<br />
+WIND GUST      9    9 12 15 11   16 19 22 24   20<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   3    3  3  3  4    4  5  2  0    0<br />
+CLOUDS        FW   SC FW SC SC   SC SC SC FW   FW<br />
+POP 12HR            0     0       0     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ117-270200-<br />
+DD FAD BUOY OPANA PT MAUI<br />
+21.03N 156.25W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               27 27 30 30 34 34 36 36 37 37 30 30 29 29 31 31 29 29 24<br />
+WIND GUST              35 35 39 39 46 46 47 47 49 49 39 39 38 38 40 40 38 38 31<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  3  3  2<br />
+PERIOD                 16 16 15 15 15 14 14 13 13 12 12 16 16 15 15 14 13 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT                9 10 10 11 11 11 11 11 11 12 12 12 11 10 10 10 10 10  9<br />
+PERIOD                  7  7  8  8  8  8  8  8  8  8  8  8  7  7  7  7  7  7  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            9 10 10 11 11 11 11 11 11 12 12 12 11 10 10 10 10 10  9<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     60          30          20           0           0<br />
+RAIN SHWRS              C  C  C  C  S  S  S  S  S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      24   21 24 25 20   18 22 24 21   18<br />
+WIND GUST     31   27 31 32 26   23 28 31 27   23<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   8    7  7  7  6    6  6  5  5    5<br />
+CLOUDS        SC   FW FW FW FW   FW FW FW FW   SC<br />
+POP 12HR            5     5       5     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ117-270200-<br />
+FF FAD BUOY PUKAULUA PT MAUI<br />
+20.84N 155.73W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               25 24 27 27 29 29 28 28 27 27 24 24 23 23 22 22 21 21 20<br />
+WIND GUST              32 31 35 35 38 38 36 36 35 35 31 31 30 30 28 28 27 27 26<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N NW NW NW<br />
+WAVE HGT                2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  3  3  3<br />
+PERIOD                 16 16 15 15 15 14 14 13 13 12 12 16 16 15 15 14 14 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW<br />
+WAVE HGT                1  1  1  1  1  1  1  3  4  4  4  4  4  4  3  2  2  1  1<br />
+PERIOD                 16 16 15 15 15 15 14 13 10  9  9  9  9  9  8 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE NE NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT                9 10 10 10 10 10 10 10 10 10 10 10 10  9  9  9  9  9  7<br />
+PERIOD                  7  7  7  7  7  7  7  7  7  7  7  7  7  7  7  7  7  7  6<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            9 10 10 10 10 10 10 11 11 11 11 11 11 10 10 10 10 10  8<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW FW<br />
+POP 12HR                     60          40          30          10          10<br />
+RAIN SHWRS              C  C  C  C  C  C  C  C  C  C<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE  E  E    E<br />
+WIND SPD      20   19 18 18 17   17 18 18 19   19<br />
+WIND GUST     26   24 23 23 22   22 23 23 24   24<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       3    2  2  2<br />
+PERIOD        13   12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW SW SW   SW SW SW SW   SW<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   7    6  6  6  6    6  6  6  6    6<br />
+CLOUDS        FW   FW SC FW FW   SC FW FW FW   SC<br />
+POP 12HR           10    10      10    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ118-270200-<br />
+LA FAD BUOY LAHAINA MAUI<br />
+20.68N 156.71W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE NE NE NE NE  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               32 31 35 35 25 25 23 23 24 24 20 20 14 14 13 13 18 18 12<br />
+WIND GUST              42 40 46 46 32 32 30 30 32 32 27 27 19 19 18 18 24 24 16<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW  S  S  S  S  S  S  S SW SW SW SW SW SW SW  S<br />
+WAVE HGT                2  2  2  2  3  3  4  5  5  5  5  5  5  4  4  4  4  4  4<br />
+PERIOD                 16 16 15 15 15 15 14 11 10  9  9  9  9  9 11 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E NE  E NE NE NE  E SE  E SE SE  E SE SE SE SE SE SE<br />
+WAVE HGT                7  7  8  9  9  9  9  8  8  8  8  7  6  5  4  4  5  5  5<br />
+PERIOD                  5  5  6  6  6  6  6  6  6  7  7  7  8  8  8  8  8  8  8<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            7  7  8  9  9  9 10  9  9  9  9  9  8  6  6  6  6  6  6<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW FW SC SC FW<br />
+POP 12HR                     40          10          10           0           0<br />
+RAIN SHWRS              S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E SE  E    E<br />
+WIND SPD      12    8  9 16 13   11  9 15 15   11<br />
+WIND GUST     16    9 11 20 16   15 12 20 19   15<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  4  4  3    3  3  3  3    3<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   6    6  5  5  5    5  5  4  3    3<br />
+CLOUDS        FW   SC FW FW FW   FW SC FW SC   FW<br />
+POP 12HR            0     0       0     0<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ119-270200-<br />
+MAALAEA BAY<br />
+20.77N 156.49W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                N  N  N  N NE NE NE NE NE NE  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               38 38 38 38 26 26 25 25 29 29 18 18 13 13 19 19 16 16 11<br />
+WIND GUST              50 50 50 50 38 38 38 38 42 42 24 24 18 18 24 24 20 20 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                W  W  W  E  E  E  E  W  W  W  W  W  W  W  W  W  W  W  W<br />
+WAVE HGT                1  1  1  1  2  3  4  5  5  4  4  4  4  4  4  4  4  3  2<br />
+PERIOD                 16 16 16 15 15 13  9 10 10  9  9  8 13 13 13 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N  N  N  N NW NW NW  E  E  E  E  E  E  E<br />
+WAVE HGT                4  4  5  5  5  5  5  5  5  5  5  4  3  3  3  2  3  3  3<br />
+PERIOD                  4  4  4  4  5  5  5  5  5  5  5  5  5  8  9  9  9  9  9<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            2  2  3  3  3  3  3  4  4  3  3  3  3  3  3  2  3  2  2<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     30          10          10           0           0<br />
+RAIN SHWRS              S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      11    8  9 11 10    8  9 13 11    8<br />
+WIND GUST     13    9 12 13 12    9 11 16 13    9<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       W    W  W  W  W    W  W  W  W    W<br />
+WAVE HGT       2    2  2  1  1    1  1  1  1    1<br />
+PERIOD        12   12 13 16 16   16 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   2    2  1  1  1    1  1  2  3    2<br />
+CLOUDS        SC   FW FW SC SC   SC SC SC SC   FW<br />
+POP 12HR            0     0       0     0<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ121-270200-<br />
+NL FAD BUOY NUU LANDING MAUI<br />
+20.55N 156.16W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E NE  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               32 34 34 34 41 41 40 40 39 39 37 37 35 35 32 32 32 32 27<br />
+WIND GUST              42 45 45 45 54 54 53 53 51 51 49 49 46 46 42 42 42 42 35<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S SW SW SW SW SW  S  S  S<br />
+WAVE HGT                2  2  3  4  4  4  5  5  6  5  5  5  4  4  5  4  4  4  4<br />
+PERIOD                 16 16 15 15 15 15 14 10 10  9  9  9  8 13 13 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               10 10 10 11 11 11 11 11 11 12 12 11 10 10  9  9  9  9  8<br />
+PERIOD                  7  7  7  7  7  7  7  7  8  7  7  7  7  7  7  7  7  7  6<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 10 10 12 12 12 12 12 13 13 13 12 11 11 10 10 10 10  9<br />
+CLOUDS                 SC SC BK BK BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     60          40          30           0           0<br />
+RAIN SHWRS              C  C  C  C  C  C  C  C  C  C<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      27   21 21 21 19   16 18 21 21   16<br />
+WIND GUST     35   27 27 27 24   20 23 27 27   20<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  3  3  3    3  3  3  3    3<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   8    7  7  7  6    6  6  5  5    5<br />
+CLOUDS        SC   SC SC FW FW   SC FW SC SC   SC<br />
+POP 12HR            0     5       5     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ121-270200-<br />
+MID POINT ALENUIHAHA CHANNEL<br />
+20.27N 156.47W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD               38 38 38 38 43 43 40 40 39 39 38 38 33 33 30 30 30 30 27<br />
+WIND GUST              50 50 50 50 57 57 53 53 51 51 50 50 43 43 39 39 39 39 35<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 15 15 15 14 14 14 13 13 12 12 12 12 12 12 11 11 11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S  S SW SW SW SW SW  S  S  S<br />
+WAVE HGT                2  2  3  3  4  4  4  5  6  5  5  5  5  4  4  5  4  4  4<br />
+PERIOD                 16 16 15 15 15 15 14 10 10  9  9  9  8 13 13 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E NE NE NE NE NE NE NE NE NE NE NE NE NE<br />
+WAVE HGT               15 15 16 17 18 18 18 18 17 17 17 17 15 14 12 12 11 11 10<br />
+PERIOD                  8  8  8  9  9  9  9  9  9  8  8  8  8  8  8  8  8  7  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           15 15 16 17 18 18 18 19 18 18 18 18 16 15 13 13 12 12 11<br />
+CLOUDS                 SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW<br />
+POP 12HR                     40          30          10           0           0<br />
+RAIN SHWRS              C  C  C  C  S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      27   22 19 19 20   18 16 19 21   20<br />
+WIND GUST     35   28 24 24 26   23 20 24 27   26<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  4  4  3    3  3  4  4    4<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT  10    9  8  8  8    7  7  6  6    5<br />
+CLOUDS        FW   FW FW FW FW   FW FW FW FW   FW<br />
+POP 12HR            0     5       5     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ124-270200-<br />
+A FAD BUOY SOUTH PT HAWAII<br />
+18.96N 155.56W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE NE NE NE NE  E  E  E  E NE NE  E  E  E  E  E<br />
+WIND SPD               36 32 34 34 30 30 31 31 28 28 26 26 23 23 19 19 17 17 19<br />
+WIND GUST              47 42 45 45 39 39 40 40 36 36 34 34 30 30 24 24 22 22 24<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S<br />
+WAVE HGT                3  3  4  5  4  5  5  5  5  5  4  5  4  4  4  3  3  3  3<br />
+PERIOD                 16 15 10 10  9  9  9  9 10  9  9  9 10 13 13 13 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WAVE HGT               15 14 12 12 12 12 10  9  9  9  9  9  8  8  7  6  6  5  5<br />
+PERIOD                  9  8  8  8  8  8  7  7  7  7  7  7  6  6  6  6  6  6  5<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           15 14 13 13 13 13 11 10 10 10 10 10  9  9  8  7  7  6  6<br />
+CLOUDS                 BK BK BK BK BK BK BK BK SC SC SC SC SC SC SC SC SC SC FW<br />
+POP 12HR                     90          60          40          10           5<br />
+RAIN SHWRS              O  O  L  L  L  L  C  C  C  C<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E  E  E  E    E<br />
+WIND SPD      19   16 14 11 13   12 12 11 13   13<br />
+WIND GUST     24   20 18 13 16   15 15 13 16   16<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       3    2  2  2  2    2  2  2  2    2<br />
+PERIOD        12   12 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   5    4  4  4  4    4  4  5  5    5<br />
+CLOUDS        FW   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR           10    10      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ123-270200-<br />
+B FAD BUOY MILOLII HAWAII<br />
+19.19N 155.94W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                N NW  N  N NE NE  E  E  E  E  E  E  E  E  E  E  E  E  E<br />
+WIND SPD                2  2  6  6  8  8  6  6 10 10 11 11  9  9  9  9 10 10  9<br />
+WIND GUST               4  4  7  7  9  9  7  7 12 12 13 13 11 11 11 11 12 12 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 15 15 15 15 14 14 13 13 13 12 12 12 12 12 11 11 11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S SW SW SW SW  S  S  S  S  S<br />
+WAVE HGT                2  2  3  4  5  4  4  5  6  5  4  5  4  4  4  4  4  4  3<br />
+PERIOD                 16 16 15 15 10  9  9 10 10  9  9  9  8 13 13 13 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N  W SW SW SW  S SW SW  S SW  W SW  S  S<br />
+WAVE HGT                3  3  4  4  4  4  3  3  3  3  3  3  3  3  2  2  2  2  3<br />
+PERIOD                 10 10 10  7  7  7  6  8  7  7  7  7  6  6  5  5  5  5  5<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            4  4  5  6  6  6  5  6  7  6  5  6  5  5  5  5  5  5  4<br />
+CLOUDS                 BK BK BK BK SC SC SC SC BK BK SC SC SC SC SC SC SC SC FW<br />
+POP 12HR                     80          40          30           5          10<br />
+RAIN SHWRS              L  O  C  C  S  S  C  C  C  C<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       E    E  E  E  E    E SE SE SE    E<br />
+WIND SPD       9    8  6  6  8    8  7 13 13   10<br />
+WIND GUST     11    9  7  7  9    9  8 16 16   12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        11   11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       3    3  3  3  3    3  3  3  3    3<br />
+PERIOD        12   12 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   4    4  4  4  4    4  4  4  4    4<br />
+CLOUDS        FW   SC SC SC SC   SC FW SC FW   SC<br />
+POP 12HR            5     5       5    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ122-270200-<br />
+D FAD BUOY CAPE KUMUKAHI HAWAII<br />
+19.63N 154.78W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E SE<br />
+WIND SPD               22 22 20 20 22 22 22 22 23 23 12 12 11 11 12 12 10 10  8<br />
+WIND GUST              28 28 26 26 28 28 28 28 30 30 15 15 13 13 15 15 12 12  9<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N NW NW NW NW NW NW NW NW NW  N  N  N  N  N  N  N  N  N<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  2  2  2  2  2  2  2  2  2  2<br />
+PERIOD                 17 16 16 15 15 14 14 13 15 18 17 16 16 15 15 14 14 13 13<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S<br />
+WAVE HGT                4  4  5  5  4  4  3  3  2  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                  9  9  9  9  9  9  8  8 11 14 14 14 13 13 13 13 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NE  N NE  N  N  N  N  N  N NE NE NE NE NE SE SE SE SE SE<br />
+WAVE HGT                9  9  9  8  9  8  7  7  7  7  7  6  5  5  4  4  4  4  4<br />
+PERIOD                  7  7  7  7  7  7  6  6  6  6  6  6  6  6  5  5  5  5  5<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           10 10 10  9 10  9  8  8  7  7  7  6  5  5  5  5  5  5  5<br />
+CLOUDS                 BK BK BK BK BK BK BK BK BK BK SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     90          80          40           5           5<br />
+RAIN SHWRS              O  L  O  O  L  L  C  C  C  C<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR      SE   SE SE SE SE   SE SE SE SE   SE<br />
+WIND SPD       8    8  9 10  7    7 11 12 10   10<br />
+WIND GUST      9    9 11 12  8    8 13 15 12   12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       N    N  N  N<br />
+WAVE HGT       2    2  2  2<br />
+PERIOD        13   13 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       1    1  1  1  1    1  1  1  1    1<br />
+PERIOD        12   12 12 12 16   16 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   4    4  4  3  3    3  3  5  6    6<br />
+CLOUDS        SC   SC SC SC SC   SC SC FW FW   SC<br />
+POP 12HR           10    10      10    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ123-270200-<br />
+F FAD BUOY KAILUA-KONA HAWAII<br />
+19.51N 156.16W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                S  S NW NW SW SW  E  E  W  W  W  W SW SW  W  W  W  W  S<br />
+WIND SPD                6  4  2  2  5  5  4  4  6  6  6  6  5  5  6  6  6  6  4<br />
+WIND GUST               7  4  4  4  7  7  4  4  7  7  7  7  5  5  7  7  7  7  4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 15 15 15 15 14 14 13 13 12 12 12 12 12 12 11 11 11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW  S  S  S  S  S  S  S SW SW SW SW SW  S  S  S  S<br />
+WAVE HGT                2  2  3  4  4  5  4  5  6  5  5  5  4  5  4  4  4  4  4<br />
+PERIOD                 16 16 16 15 15  9  9 10 10  9  9  8  8 13 13 13 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N  N  N  N NE SE SE SE  S NE  N SE SE  S<br />
+WAVE HGT                6  6  7  7  7  7  6  6  6  5  5  5  4  4  3  3  3  4  4<br />
+PERIOD                  9  9  9  9  9  9  8  8  8  7  7  7  6  6  5  5  6  6  7<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT            6  6  8  8  8  9  7  8  9  7  7  7  6  6  5  5  5  6  6<br />
+CLOUDS                 BK BK BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     60          40          40          30          20<br />
+RAIN SHWRS              C  L  C  C  C  C  C  C  C  C  S  S  C  C  S  S  S  S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR       S    S  W NW SW    E  W  W NE    S<br />
+WIND SPD       4    5  4  5  5    4  3  6  6    6<br />
+WIND GUST      4    5  4  5  5    4  4  7  7    7<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      NW   NW NW NW<br />
+WAVE HGT       1    1  1  1<br />
+PERIOD        11   11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       4    4  3  3  3    3  3  3  3    3<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   5    4  4  4  4    4  4  4  4    4<br />
+CLOUDS        SC   SC SC FW FW   SC SC SC SC   SC<br />
+POP 12HR           20    10      20    20<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ122-270200-<br />
+SS FAD BUOY APUA PT HAWAII<br />
+19.19N 155.22W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR               NE NE NE NE NE NE NE NE NE NE NE NE NE NE  E  E  E  E NE<br />
+WIND SPD               30 29 28 28 28 28 27 27 30 30 20 20 17 17 19 19 18 18 13<br />
+WIND GUST              39 38 36 36 36 36 35 35 39 39 26 26 22 22 24 24 23 23 16<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                S  S  S  S  S  S  S  S  S SW SW SW SW SW  S  S  S  S  S<br />
+WAVE HGT                4  5  5  5  5  5  5  5  5  4  5  4  4  4  4  3  3  3  3<br />
+PERIOD                 10 10 10  9  9  9  9  9  9  9  9  9 13 13 13 13 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                E  E  E  E  E  E  E  E  E  E  E  E  E  E SE SE  E SE  E<br />
+WAVE HGT               10 10  9  9  9  8  7  7  6  7  7  7  6  5  5  4  4  4  4<br />
+PERIOD                  8  7  7  7  7  7  6  6  6  6  6  6  6  6  5  6  5  5  5<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 11 10 10 10  9  9  9  8  8  9  8  7  6  6  5  5  5  5<br />
+CLOUDS                 BK BK BK BK BK BK BK BK BK BK SC SC SC SC SC SC SC SC SC<br />
+POP 12HR                     90          70          60          10          10<br />
+RAIN SHWRS              O  O  L  L  L  L  L  L  C  C                          S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR      NE   NE  E  E  E    E  E  E  E    E<br />
+WIND SPD      13   11 14 14 11   10 13 14 12   10<br />
+WIND GUST     16   13 18 18 13   12 16 18 15   12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR       S    S  S  S  S    S  S  S  S    S<br />
+WAVE HGT       3    2  2  2  2    2  2  2  2    2<br />
+PERIOD        12   12 16 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   4    4  4  4  4    4  4  5  5    5<br />
+CLOUDS        SC   SC SC SC SC   SC SC SC SC   SC<br />
+POP 12HR           20    20      20    10<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+PHZ122-270200-<br />
+XX FAD BUOY PUAKO HAWAII<br />
+20.02N 156.02W<br />
+1113 AM HST SAT SEP 26 2026<br />
+<br />
+DATE             SAT 09/26/26            SUN 09/27/26            MON 09/28/26<br />
+HST 3HRLY     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18<br />
+UTC 3HRLY     13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04<br />
+<br />
+WIND DIR                E  E  E  E  E  E  E  E NE NE  E  E  E  E  E  E SE SE SE<br />
+WIND SPD               16 25 23 23 22 22 25 25 25 25 12 12  8  8  4  4  5  5  4<br />
+WIND GUST              20 32 30 30 28 28 32 32 32 32 15 15  9  9  4  4  5  5  4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW<br />
+WAVE HGT                1  1  1  1  1  1  1  1  1  1  1  1  1  1  1<br />
+PERIOD                 15 15 15 14 14 14 13 13 12 12 12 12 12 12 11 11 11 11 11<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR               SW SW SW SW SW SW  S  S  S SW SW SW SW SW SW SW SW SW SW<br />
+WAVE HGT                1  1  1  1  1  1  2  4  5  5  4  4  4  4  4  4  3  2  2<br />
+PERIOD                 16 16 15 15 15 15 14 11 10  9  9  9  8  9 13 12 12 12 12<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR                N  N  N  N  N  N NE NE NE NE NE  N NE  N  N  N  N  N  N<br />
+WAVE HGT               11 10 11 12 12 11 11 11 10  7  6  6  5  4  3  3  3  3  3<br />
+PERIOD                  7  7  8  7  7  7  7  7  7  6  6  6  5  5  7  7  6  6  5<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT           11 10 11 12 12 11 11 12 11  9  7  7  6  6  5  5  4  4  4<br />
+CLOUDS                 BK BK SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC SC FW<br />
+POP 12HR                     30          30          20           5           5<br />
+RAIN SHWRS              C  C  C  C  S  S        S  S<br />
+TSTMS                   S  S<br />
+<br />
+<br />
+DATE               TUE 09/29/26  WED 09/30/26  THU<br />
+HST 6HRLY     00   06 12 18 00   06 12 18 00   06<br />
+UTC 6HRLY     10   16 22 04 10   16 22 04 10   16<br />
+<br />
+WIND DIR      SE    E  E SE SE    E SW  W SE    E<br />
+WIND SPD       4    4  2  2  3    3  2  3  4    4<br />
+WIND GUST      4    4  4  4  4    4  4  4  4    4<br />
+-------------------------------------------------------------------------------<br />
+WAVE DIR      SW   SW SW SW SW   SW SW SW SW   SW<br />
+WAVE HGT       2    2  2  1  1    1  1  1  1    1<br />
+PERIOD        12   12 14 16 16   15 15 15 14   14<br />
+-------------------------------------------------------------------------------<br />
+SIG WAVE HGT   3    3  2  2  2    2  2  3  3    3<br />
+CLOUDS        FW   SC SC FW FW   FW FW FW FW   FW<br />
+POP 12HR            5     5      10     5<br />
+<br />
+<br />
+<br />
+$$<br />
+<br />
+<br />
+<br />
+
+                </pre>
+</p>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+   
+                </div><!-- <div class="full-width-border"> -->
+           
+                <!-- area for features, frontpage thumbs, and custom page -->
+                
+                
+                <!-- end of <div class="partial-width-borderbottom feature-block"> -->
+                
+                <div class="full-width-bordertop">
+                    <div class="full-width-first communication-links">
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="http://www.twitter.com/#!/NWSHonolulu" target="_blank">
+                <img src="/bundles/templating/images/social/x.png" width="16" alt="Follow us on X" height="16" />&nbsp;&nbsp;Follow us on X
+            </a>
+        </div>
+    </div>
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="https://www.facebook.com/NWSHonolulu/" target="_blank">
+                <img src="/bundles/templating/images/social/facebook.png" width="16" alt="Follow us on Facebook" height="16" />&nbsp;&nbsp;Follow us on Facebook
+            </a>
+        </div>
+    </div>
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="https://www.youtube.com/NWSHonolulu" target="_blank">
+                <img src="/bundles/templating/images/social/youtube.png" width="16" alt="Follow us on YouTube" height="16" />&nbsp;&nbsp;Follow us on YouTube
+            </a>
+        </div>
+    </div>
+    <div class ="one-half-last nopad">
+        <span class="txt-rt myforecast-current">
+            <div class="myforecast-current">
+                <a href="/rss_page.php?site_name=hfo" target="_blank" style="text-decoration:none;font-size:11px;">
+                    <img src="/bundles/templating/images/social/rss.png" width="16" height="16" alt="HFO RSS Feed" />&nbsp;&nbsp;HFO RSS Feed
+                </a>
+            </div>
+        </span>
+    </div>
+</div>
+<div style="clear:both;"></div>
+
+
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            <style type="text/css">
+    .footer-column-head a:link, .footer-column-head a:visited {
+        color: #ED7A08;
+    }
+</style>
+<div class="footer-content">
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/watchwarn">Current Hazards</a>
+                        </span><br />
+                                                    <a href="/hfo/watchwarn">Hawaii Hazards</a><br />
+                                                    <a href="http://hurricanes.gov/cphc">Tropical Cyclones</a><br />
+                                                    <a href="/hfo/tsunami">Tsunami</a><br />
+                                                    <a href="/hfo/quake">Earthquake</a><br />
+                                                    <a href="http://www.weather.gov">National Hazards</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/obs">Current Conditions</a>
+                        </span><br />
+                                                    <a href="/hfo/obs">Observations</a><br />
+                                                    <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
+                                                    <a href="/hfo/hydrology">Hydrology</a><br />
+                                                    <a href="/hfo/satellite">Satellite</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/radar">Radar</a>
+                        </span><br />
+                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
+                                                    <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
+                                                    <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
+                                                    <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
+                                                    <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/forecast">Forecasts</a>
+                        </span><br />
+                                                    <a href="/hfo/aviation">Aviation</a><br />
+                                                    <a href="/hfo/gfe_graphics">Local Graphics</a><br />
+                                                    <a href="/hfo/marine">Marine</a><br />
+                                                    <a href="http://forecast.weather.gov/wxplanner.php?site=hfo">Activity Planner</a><br />
+                                                    <a href="/hfo/forecast">Hawaii</a><br />
+                                                    <a href="/hfo/model">Model Output</a><br />
+                                                    <a href="/hfo/firewx">Fire Weather</a><br />
+                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="https://weather.gov/wrh/Climate?wfo=hfo">Climate and Past Weather</a>
+                        </span><br />
+                                                    <a href="https://www.weather.gov/wrh/Climate?wfo=hfo">Local</a><br />
+                                                    <a href="http://www.weather.gov/climate/">National</a><br />
+                                                    <a href="/hfo/climateportal">Hawaii Climate Portal</a><br />
+                                                    <a href="https://www.weather.gov/hfo/TropicalEventSummary">Tropical Cyclone Reports</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/wxsafety">Local Programs</a>
+                        </span><br />
+                                                    <a href="/hfo/news">News Archive</a><br />
+                                                    <a href="/hfo/nwr">Weather Radio</a><br />
+                                                    <a href="/hfo/wxsafety">Weather and Safety</a><br />
+                                                    <a href="/hfo/tsunami_safety">Tsunami Safety</a><br />
+                                                    <a href="/hfo/kids">Weather in Hawaii</a><br />
+                                                    <a href="/hfo/faq">Frequently Asked Questions</a><br />
+                                                    <a href="/hfo/events">Event Summaries</a><br />
+                                                    <a href="https://www.weather.gov/safety/flood-turn-around-dont-drown">Turn Around, Don&#039;t Drown</a><br />
+                                                    <a href="weather.gov/stormready">StormReady</a><br />
+                                                    <a href="weather.gov/tsunamiready">TsunamiReady</a><br />
+                                                    <a href="/hfo/mission">Our Mission</a><br />
+                                                    <a href="/hfo/about">Our Office</a><br />
+                                                    <a href="/hfo/office_products">Our Products</a><br />
+                                                    <a href="/hfo/aboutrss">HI RSS Feeds</a><br />
+                                            </p>
+                                    </div>
+    </div>
+
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                Honolulu, HI<br />                2525 Correa Rd Suite 250<br />
+                                Honolulu, HI 96822
+                <br />(808) 973-5286<br />
+                <br /><a href="mailto:W-HFO.webmaster@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>
