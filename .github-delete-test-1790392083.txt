@@ -1,2 +1,0 @@
-RootRecord weather database deletion-sync test
-Created: 2026-09-25T17:08:03-10:00
