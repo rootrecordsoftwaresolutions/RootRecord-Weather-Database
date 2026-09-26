@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T05:33:00-10:00 HST
-- **Report created:** 2026-09-26T05:33:00-10:00 HST
+- **Generated:** 2026-09-26T09:13:35-10:00 HST
+- **Report created:** 2026-09-26T09:13:35-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 15:30:07 UTC
+Last update Sat, 26 Sep 2026 19:09:21 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -200,11 +200,27 @@ Atlantic
 
 Disturbances:
 
-None
+ALL
+
+1
 
 Disturbances:
 
-None
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
 
 Disturbances:
 
@@ -308,7 +324,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-200 AM HST Sat Sep 26 2026
+800 AM HST Sat Sep 26 2026
 
 Hurricane Nolo
 
@@ -317,26 +333,26 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO STILL MEANDERING SOUTH OF THE BIG ISLAND OF HAWAII...
+...NOLO MOVING SLOWLY WESTWARD...
 ...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-5:00 AM HST Sat Sep 26
+8:00 AM HST Sat Sep 26
 
-Location: 16.9°N 155.5°W
+Location: 16.8°N 155.7°W
 
-Moving: Stationary
+Moving: W at 3 mph
 
-Min pressure: 976 mb
+Min pressure: 977 mb
 
-Max sustained: 105 mph
+Max sustained: 100 mph
 
 Public
 
 Advisory
 
-#24
+#24A
 
-500 AM HST
+800 AM HST
 
 Forecast
 
@@ -425,11 +441,11 @@ Tropical Weather Outlook
 
 (en Español*)
 
-800 AM EDT Sat Sep 26 2026
+200 PM EDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 
-1215 UTC Sat Sep 26 2026
+1815 UTC Sat Sep 26 2026
 
 Tropical Storm Gonzalo
 
@@ -624,11 +640,11 @@ Tropical Weather Outlook
 
 (en Español*)
 
-500 AM PDT Sat Sep 26 2026
+1100 AM PDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 
-1005 UTC Sat Sep 26 2026
+1605 UTC Sat Sep 26 2026
 
 Hurricane Polo
 
@@ -637,26 +653,26 @@ Buoys |
 Grids |
 Storm Archive
 
-...POLO REMAINS A POWERFUL HURRICANE...
-...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
+...POLO STILL A POWERFUL CATEGORY 4 HURRICANE...
+...FORECAST TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
 
-8:00 AM MST Sat Sep 26
+11:00 AM MST Sat Sep 26
 
-Location: 17.9°N 111.7°W
+Location: 18.3°N 112.2°W
 
 Moving: WNW at 9 mph
 
-Min pressure: 928 mb
+Min pressure: 936 mb
 
-Max sustained: 155 mph
+Max sustained: 145 mph
 
 Public
 
 Advisory
 
-#24
+#24A
 
-800 AM MST
+1100 AM MST
 
 Forecast
 

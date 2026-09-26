@@ -1362,7 +1362,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <a href="/newsarchive.shtml">view past news</a>
   </div>
   <div class="nhc-last-update grid-col-6">
-    Last update Sat, 26 Sep 2026 15:30:07 UTC
+    Last update Sat, 26 Sep 2026 19:09:21 UTC
   </div>
 </div>
 
@@ -1793,30 +1793,148 @@ document.addEventListener('DOMContentLoaded', function() {
 
     <!-- 1. Stripped height-4/overflow-hidden and added inline grid settings -->
     <div id="gtwo-menu-container" class="width-full bg-primary-lighter" style="display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr;">
-
-      <!-- Updated "None" state container to mimic the multi-line mobile grid -->
+      
       <div id="menu-atl-2d0" class="gtwo-menu width-full pointer-events-none opacity-0 z-0" style="grid-column: 1; grid-row: 1;">
+        
         <div class="display-flex flex-column tablet:flex-row flex-align-center flex-justify-center padding-y-05 font-sans-sm">
-          
-          <!-- Stays on Line 1 on mobile -->
-          <span class="text-bold tablet:margin-right-1 margin-bottom-1 tablet:margin-bottom-0">Disturbances:</span>
-          
-          <!-- Drops to Line 2 on mobile with identical vertical spacing as the buttons -->
-          <span class="text-bold margin-bottom-1 tablet:margin-bottom-0">None</span>
-          
+          <span class="text-bold tablet:margin-right-1 margin-bottom-1">Disturbances:</span>
+          <div class="display-flex flex-wrap flex-justify-center margin-bottom-1 tablet:margin-bottom-0">
+            
+              
+              
+              
+            
+          <button
+            id="dist-btn-0"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low text-bold border-gray-90"
+            style="box-shadow: 1px 2px 2px black;"
+            onclick="switchDisturbance('0')"
+          >
+            ALL
+          </button>
+            
+              
+              
+              
+              
+            
+          <button
+            id="dist-btn-1"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low "
+            
+            onclick="switchDisturbance('1')"
+          >
+            1
+          </button>
+          </div>
         </div>
       </div>
-
-      <!-- Updated "None" state container to mimic the multi-line mobile grid -->
-      <div id="menu-atl-7d0" class="gtwo-menu width-full pointer-events-none opacity-0 z-0" style="grid-column: 1; grid-row: 1;">
+      
+      <div id="menu-atl-2d1" class="gtwo-menu width-full pointer-events-none opacity-0 z-0" style="grid-column: 1; grid-row: 1;">
+        
         <div class="display-flex flex-column tablet:flex-row flex-align-center flex-justify-center padding-y-05 font-sans-sm">
-          
-          <!-- Stays on Line 1 on mobile -->
-          <span class="text-bold tablet:margin-right-1 margin-bottom-1 tablet:margin-bottom-0">Disturbances:</span>
-          
-          <!-- Drops to Line 2 on mobile with identical vertical spacing as the buttons -->
-          <span class="text-bold margin-bottom-1 tablet:margin-bottom-0">None</span>
-          
+          <span class="text-bold tablet:margin-right-1 margin-bottom-1">Disturbances:</span>
+          <div class="display-flex flex-wrap flex-justify-center margin-bottom-1 tablet:margin-bottom-0">
+            
+              
+              
+              
+            
+          <button
+            id="dist-btn-0"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low "
+            
+            onclick="switchDisturbance('0')"
+          >
+            ALL
+          </button>
+            
+              
+              
+              
+              
+            
+          <button
+            id="dist-btn-1"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low text-bold border-gray-90"
+            style="box-shadow: 1px 2px 2px black;"
+            onclick="switchDisturbance('1')"
+          >
+            1
+          </button>
+          </div>
+        </div>
+      </div>
+      
+      <div id="menu-atl-7d0" class="gtwo-menu width-full pointer-events-none opacity-0 z-0" style="grid-column: 1; grid-row: 1;">
+        
+        <div class="display-flex flex-column tablet:flex-row flex-align-center flex-justify-center padding-y-05 font-sans-sm">
+          <span class="text-bold tablet:margin-right-1 margin-bottom-1">Disturbances:</span>
+          <div class="display-flex flex-wrap flex-justify-center margin-bottom-1 tablet:margin-bottom-0">
+            
+              
+              
+              
+            
+          <button
+            id="dist-btn-0"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low text-bold border-gray-90"
+            style="box-shadow: 1px 2px 2px black;"
+            onclick="switchDisturbance('0')"
+          >
+            ALL
+          </button>
+            
+              
+              
+              
+              
+            
+          <button
+            id="dist-btn-1"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low "
+            
+            onclick="switchDisturbance('1')"
+          >
+            1
+          </button>
+          </div>
+        </div>
+      </div>
+      
+      <div id="menu-atl-7d1" class="gtwo-menu width-full pointer-events-none opacity-0 z-0" style="grid-column: 1; grid-row: 1;">
+        
+        <div class="display-flex flex-column tablet:flex-row flex-align-center flex-justify-center padding-y-05 font-sans-sm">
+          <span class="text-bold tablet:margin-right-1 margin-bottom-1">Disturbances:</span>
+          <div class="display-flex flex-wrap flex-justify-center margin-bottom-1 tablet:margin-bottom-0">
+            
+              
+              
+              
+            
+          <button
+            id="dist-btn-0"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low "
+            
+            onclick="switchDisturbance('0')"
+          >
+            ALL
+          </button>
+            
+              
+              
+              
+              
+            
+          <button
+            id="dist-btn-1"
+            class="usa-button usa-button--unstyled margin-right-1 margin-bottom-1 text-no-underline padding-x-1 padding-y-05 radius-md border-1px border-gray-50 bg-gtwo-low text-on-gtwo-low text-bold border-gray-90"
+            style="box-shadow: 1px 2px 2px black;"
+            onclick="switchDisturbance('1')"
+          >
+            1
+          </button>
+          </div>
         </div>
       </div>
       
@@ -2409,6 +2527,24 @@ document.addEventListener('DOMContentLoaded', function() {
           
 
           
+  <g class="storm-system cursor-pointer" 
+    data-name="Disturbance 1: 10% Chance of Cyclone Formation in 48 Hours"
+    data-risk="low"
+    data-prob="10"
+    data-details="
+  
+  <b>As of 2:00 PM EDT Sat Sep 26 2026...</b><br>Central Subtropical Atlantic:<br>A surface trough of low pressure located several hundred miles to the southeast of Bermuda is currently producing an area of disorganized showers and thunderstorms. Environmental conditions appear somewhat favorable for gradual development of this system as it moves northward this weekend and then turns eastward by the early to middle portion of next week.<br>* Formation chance through 48 hours...low...10 percent.. <br>* Formation chance through 7 days...low...20 percent..<br>
+"
+    data-action="switchDisturbance:1">
+  
+    
+      
+    <circle cx="958" cy="714" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      
+    
+  
+  </g>
+
   
   
   
@@ -2443,6 +2579,74 @@ document.addEventListener('DOMContentLoaded', function() {
     
   </g>
    
+        </svg>
+          
+      </div>
+
+      <div id="view-atl-2d1" class="gtwo-layer position-absolute top-0 left-0 width-full height-full pointer-events-none opacity-0 z-0">
+        <img 
+          srcset="
+            /xgtwo/resize/xgtwo_atl_2d1_w1920.png 1920w,
+            /xgtwo/resize/xgtwo_atl_2d1_w1600.png 1600w,
+            /xgtwo/resize/xgtwo_atl_2d1_w1366.png 1366w,
+            /xgtwo/resize/xgtwo_atl_2d1_w1024.png 1024w,
+            /xgtwo/resize/xgtwo_atl_2d1_w768.png 768w,
+            /xgtwo/resize/xgtwo_atl_2d1_w640.png 640w,
+            /xgtwo/resize/xgtwo_atl_2d1_w400.png 400w,
+            /xgtwo/resize/xgtwo_atl_2d1_w320.png 320w
+          "
+          sizes="
+            (width <= 320px) 320px,
+            (width <= 400px) 400px,
+            (width <= 640px) 640px,
+            (width <= 768px) 768px,
+            (width <= 1024px) 1024px,
+            (width <= 1366px) 1366px,
+            (width <= 1600px) 1600px,
+            (width <= 1920px) 1920px,
+            1024px"
+          src="/xgtwo/resize/xgtwo_atl_2d1_w1024.png" 
+          alt="2 Day Background" 
+          class="width-full height-full"
+        >
+        <svg viewBox="0 0 1920 1449" preserveAspectRatio="none" class="layer-svg position-absolute top-0 left-0 width-full height-full z-200">
+
+          
+            
+  <g class="nav-system cursor-pointer" 
+    data-nav-title="Return to All Disturbances" 
+    onclick="switchDisturbance('0')">
+    <rect x="0" y="136" width="1920" height="1135" stroke="none" fill="transparent" pointer-events="all" />
+  </g>
+
+          
+
+          
+
+          
+
+           
+            
+            
+              
+                
+  <g class="storm-system cursor-pointer" 
+    data-name="Disturbance 1: 10% Chance of Cyclone Formation in 48 Hours"
+    data-risk="low"
+    data-prob="10"
+    data-details="
+  
+  <b>As of 2:00 PM EDT Sat Sep 26 2026...</b><br>Central Subtropical Atlantic:<br>A surface trough of low pressure located several hundred miles to the southeast of Bermuda is currently producing an area of disorganized showers and thunderstorms. Environmental conditions appear somewhat favorable for gradual development of this system as it moves northward this weekend and then turns eastward by the early to middle portion of next week.<br>* Formation chance through 48 hours...low...10 percent.. <br>* Formation chance through 7 days...low...20 percent..<br>
+"
+    data-action="switchDisturbance:0">
+  
+    <circle cx="965" cy="723" r="50" fill="transparent" pointer-events="all" />
+  
+  </g>
+
+              
+            
+             
         </svg>
           
       </div>
@@ -2488,6 +2692,28 @@ document.addEventListener('DOMContentLoaded', function() {
           
 
           
+  <g class="storm-system cursor-pointer" 
+    data-name="Disturbance 1: 20% Chance of Cyclone Formation in 7 Days"
+    data-risk="low"
+    data-prob="20"
+    data-details="
+  
+  <b>As of 2:00 PM EDT Sat Sep 26 2026...</b><br>Central Subtropical Atlantic:<br>A surface trough of low pressure located several hundred miles to the southeast of Bermuda is currently producing an area of disorganized showers and thunderstorms. Environmental conditions appear somewhat favorable for gradual development of this system as it moves northward this weekend and then turns eastward by the early to middle portion of next week.<br>* Formation chance through 48 hours...low...10 percent.. <br>* Formation chance through 7 days...low...20 percent..<br>
+"
+    data-action="switchDisturbance:1">
+  
+    
+      
+    <circle cx="958" cy="714" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      
+    
+      
+    <polygon points="920,698,920,694,919,690,919,686,918,681,918,677,918,672,917,667,917,662,917,657,917,651,917,646,917,640,918,635,918,629,918,624,919,618,920,612,920,606,921,600,922,595,923,589,924,583,926,577,927,572,929,566,930,561,932,555,934,550,936,545,938,540,940,535,943,530,945,525,948,521,951,516,953,512,956,508,960,504,963,500,966,496,970,493,973,489,977,486,981,483,985,480,989,477,993,474,997,472,1002,469,1006,467,1010,465,1015,462,1020,460,1025,459,1029,457,1034,455,1039,454,1045,452,1050,451,1055,450,1060,449,1066,448,1071,448,1077,447,1082,446,1088,446,1094,446,1099,446,1105,446,1111,446,1116,446,1122,446,1128,447,1134,447,1139,448,1145,448,1151,449,1157,450,1162,451,1168,453,1173,454,1179,455,1184,457,1190,458,1195,460,1200,462,1206,464,1211,466,1216,468,1220,470,1225,473,1230,475,1235,478,1239,480,1243,483,1247,486,1252,489,1255,491,1259,494,1263,497,1266,500,1269,503,1272,506,1275,509,1278,512,1281,515,1283,518,1285,521,1287,524,1289,527,1290,530,1291,533,1292,536,1293,539,1293,542,1294,544,1294,547,1293,549,1293,552,1292,554,1291,557,1289,559,1288,561,1286,563,1284,565,1281,567,1279,568,1276,570,1273,572,1270,573,1266,575,1263,576,1259,577,1256,578,1252,579,1248,580,1243,581,1239,582,1235,582,1230,583,1226,583,1221,583,1217,584,1212,584,1207,584,1203,583,1198,583,1193,583,1189,582,1184,582,1179,581,1175,580,1170,580,1166,579,1161,578,1157,577,1152,575,1148,574,1144,573,1140,572,1135,571,1131,569,1127,568,1123,567,1119,566,1115,564,1112,563,1108,562,1104,561,1101,560,1097,559,1094,558,1090,558,1087,557,1084,556,1081,556,1078,556,1075,556,1072,556,1069,556,1066,556,1064,557,1061,557,1059,558,1057,559,1054,560,1052,561,1050,563,1048,564,1046,566,1044,567,1043,569,1041,571,1039,573,1038,575,1036,577,1035,580,1033,582,1032,585,1030,587,1029,590,1028,593,1027,596,1025,599,1024,602,1023,605,1022,608,1021,611,1020,614,1019,618,1018,621,1017,624,1016,628,1015,631,1014,635,1013,638,1012,641,1011,645,1010,648,1009,652,1008,655,1007,659,1006,662,1005,666,1004,669,1003,673,1002,676,1002,679,1001,682,1000,686,999,689,998,692,997,695,996,698,995,701,994,703,993,706,992,709,991,711,990,713,989,716,988,718,987,720,986,722,985,724,984,726,983,727,982,729,980,731,979,732,978,733,977,735,976,736,975,737,973,738,972,739,971,740,970,741,969,741,967,742,966,743,965,743,963,744,962,744,961,744,960,745,958,745,957,745,956,745,954,745,953,745,951,745,950,744,949,744,947,744,946,743,945,743,943,742,942,741,941,741,939,740,938,739,937,737,935,736,934,735,933,733,932,731,931,729,929,727,928,725,927,723,926,721,925,718,924,715,923,712,923,709,922,706,921,702,920,698" stroke="none" fill="transparent" pointer-events="all" />
+      
+    
+  
+  </g>
+
   
   
   
@@ -2522,6 +2748,88 @@ document.addEventListener('DOMContentLoaded', function() {
     
   </g>
    
+        </svg>
+          
+      </div>
+
+      <div id="view-atl-7d1" class="gtwo-layer position-absolute top-0 left-0 width-full height-full pointer-events-none opacity-0 z-0">
+        <img 
+          srcset="
+            /xgtwo/resize/xgtwo_atl_7d1_w1920.png 1920w,
+            /xgtwo/resize/xgtwo_atl_7d1_w1600.png 1600w,
+            /xgtwo/resize/xgtwo_atl_7d1_w1366.png 1366w,
+            /xgtwo/resize/xgtwo_atl_7d1_w1024.png 1024w,
+            /xgtwo/resize/xgtwo_atl_7d1_w768.png 768w,
+            /xgtwo/resize/xgtwo_atl_7d1_w640.png 640w,
+            /xgtwo/resize/xgtwo_atl_7d1_w400.png 400w,
+            /xgtwo/resize/xgtwo_atl_7d1_w320.png 320w
+          "
+          sizes="
+            (width <= 320px) 320px,
+            (width <= 400px) 400px,
+            (width <= 640px) 640px,
+            (width <= 768px) 768px,
+            (width <= 1024px) 1024px,
+            (width <= 1366px) 1366px,
+            (width <= 1600px) 1600px,
+            (width <= 1920px) 1920px,
+            1024px"
+          src="/xgtwo/resize/xgtwo_atl_7d1_w1024.png" 
+          alt="7 Day Background" 
+          class="width-full height-full"
+        >
+        <svg viewBox="0 0 1920 1449" preserveAspectRatio="none" class="layer-svg position-absolute top-0 left-0 width-full height-full z-200">
+
+          
+            
+  <g class="nav-system cursor-pointer" 
+    data-nav-title="Return to All Disturbances" 
+    onclick="switchDisturbance('0')">
+    <rect x="0" y="136" width="1920" height="1135" stroke="none" fill="transparent" pointer-events="all" />
+  </g>
+
+          
+
+          
+  <g class="nav-system cursor-pointer" 
+    data-nav-title="View Pacific Outlook" 
+    onclick="switchBasin('pac')">
+    <polygon points="0,898,21,909,26,911,28,917,43,926,62,928,72,939,77,939,85,945,100,951,107,955,117,955,132,962,145,968,150,970,162,974,177,976,207,963,215,965,222,969,228,972,235,976,241,983,249,994,269,1008,277,1012,292,1012,301,1016,309,1020,318,1020,324,1024,333,1026,343,1028,350,1022,352,1022,354,1026,354,1037,367,1048,371,1054,386,1067,388,1075,386,1086,386,1090,399,1099,405,1095,409,1095,409,1101,416,1101,422,1105,431,1111,431,1118,448,1126,467,1128,474,1137,484,1139,484,1147,491,1152,510,1143,506,1135,499,1128,503,1126,510,1122,512,1116,518,1112,527,1111,533,1119,538,1124,535,1131,542,1139,546,1145,552,1156,557,1165,552,1167,559,1175,555,1179,557,1184,557,1203,555,1209,559,1216,557,1224,553,1228,548,1239,538,1239,531,1243,531,1254,525,1254,521,1260,527,1262,521,1269,0,1269" stroke="none" fill="transparent" pointer-events="all" />
+  </g>
+
+
+          
+
+           
+            
+            
+              
+                
+  <g class="storm-system cursor-pointer" 
+    data-name="Disturbance 1: 20% Chance of Cyclone Formation in 7 Days"
+    data-risk="low"
+    data-prob="20"
+    data-details="
+  
+  <b>As of 2:00 PM EDT Sat Sep 26 2026...</b><br>Central Subtropical Atlantic:<br>A surface trough of low pressure located several hundred miles to the southeast of Bermuda is currently producing an area of disorganized showers and thunderstorms. Environmental conditions appear somewhat favorable for gradual development of this system as it moves northward this weekend and then turns eastward by the early to middle portion of next week.<br>* Formation chance through 48 hours...low...10 percent.. <br>* Formation chance through 7 days...low...20 percent..<br>
+"
+    data-action="switchDisturbance:1">
+  
+    
+      
+    <circle cx="958" cy="714" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      
+    
+      
+    <polygon points="920,698,920,694,919,690,919,686,918,681,918,677,918,672,917,667,917,662,917,657,917,651,917,646,917,640,918,635,918,629,918,624,919,618,920,612,920,606,921,600,922,595,923,589,924,583,926,577,927,572,929,566,930,561,932,555,934,550,936,545,938,540,940,535,943,530,945,525,948,521,951,516,953,512,956,508,960,504,963,500,966,496,970,493,973,489,977,486,981,483,985,480,989,477,993,474,997,472,1002,469,1006,467,1010,465,1015,462,1020,460,1025,459,1029,457,1034,455,1039,454,1045,452,1050,451,1055,450,1060,449,1066,448,1071,448,1077,447,1082,446,1088,446,1094,446,1099,446,1105,446,1111,446,1116,446,1122,446,1128,447,1134,447,1139,448,1145,448,1151,449,1157,450,1162,451,1168,453,1173,454,1179,455,1184,457,1190,458,1195,460,1200,462,1206,464,1211,466,1216,468,1220,470,1225,473,1230,475,1235,478,1239,480,1243,483,1247,486,1252,489,1255,491,1259,494,1263,497,1266,500,1269,503,1272,506,1275,509,1278,512,1281,515,1283,518,1285,521,1287,524,1289,527,1290,530,1291,533,1292,536,1293,539,1293,542,1294,544,1294,547,1293,549,1293,552,1292,554,1291,557,1289,559,1288,561,1286,563,1284,565,1281,567,1279,568,1276,570,1273,572,1270,573,1266,575,1263,576,1259,577,1256,578,1252,579,1248,580,1243,581,1239,582,1235,582,1230,583,1226,583,1221,583,1217,584,1212,584,1207,584,1203,583,1198,583,1193,583,1189,582,1184,582,1179,581,1175,580,1170,580,1166,579,1161,578,1157,577,1152,575,1148,574,1144,573,1140,572,1135,571,1131,569,1127,568,1123,567,1119,566,1115,564,1112,563,1108,562,1104,561,1101,560,1097,559,1094,558,1090,558,1087,557,1084,556,1081,556,1078,556,1075,556,1072,556,1069,556,1066,556,1064,557,1061,557,1059,558,1057,559,1054,560,1052,561,1050,563,1048,564,1046,566,1044,567,1043,569,1041,571,1039,573,1038,575,1036,577,1035,580,1033,582,1032,585,1030,587,1029,590,1028,593,1027,596,1025,599,1024,602,1023,605,1022,608,1021,611,1020,614,1019,618,1018,621,1017,624,1016,628,1015,631,1014,635,1013,638,1012,641,1011,645,1010,648,1009,652,1008,655,1007,659,1006,662,1005,666,1004,669,1003,673,1002,676,1002,679,1001,682,1000,686,999,689,998,692,997,695,996,698,995,701,994,703,993,706,992,709,991,711,990,713,989,716,988,718,987,720,986,722,985,724,984,726,983,727,982,729,980,731,979,732,978,733,977,735,976,736,975,737,973,738,972,739,971,740,970,741,969,741,967,742,966,743,965,743,963,744,962,744,961,744,960,745,958,745,957,745,956,745,954,745,953,745,951,745,950,744,949,744,947,744,946,743,945,743,943,742,942,741,941,741,939,740,938,739,937,737,935,736,934,735,933,733,932,731,931,729,929,727,928,725,927,723,926,721,925,718,924,715,923,712,923,709,922,706,921,702,920,698" stroke="none" fill="transparent" pointer-events="all" />
+      
+    
+  
+  </g>
+
+              
+            
+             
         </svg>
           
       </div>
@@ -2575,7 +2883,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="20"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:2">
   
@@ -2593,13 +2901,13 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:1">
   
     
       
-    <circle cx="1546" cy="669" r="24" stroke="none" fill="transparent" pointer-events="all" />
+    <circle cx="1542" cy="671" r="24" stroke="none" fill="transparent" pointer-events="all" />
       
     
   
@@ -2614,11 +2922,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0500 AM HST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 90 knots; 105 mph<br>Minimum Central Pressure: 976 mb<br>Located at: 16.9N 155.5W<br>Movement: stationary at 0 knots; 0 mph<br>
+  <b>As of 0800 AM HST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 85 knots; 100 mph<br>Minimum Central Pressure: 977 mb<br>Located at: 16.8N 155.7W<br>Movement: west at 3 knots; 3 mph<br>
 "
-    data-action="/refresh/graphics_cp2+shtml/261456.shtml?key_messages#contents">
+    data-action="/refresh/graphics_cp2+shtml/261755.shtml?key_messages#contents">
     
-      <circle cx="524" cy="579" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="520" cy="581" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
 
@@ -2648,11 +2956,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0800 AM MST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 135 knots; 155 mph<br>Minimum Central Pressure: 928 mb<br>Located at: 17.9N 111.7W<br>Movement: west-northwest at 8 knots; 9 mph<br>
+  <b>As of 1100 AM MST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 125 knots; 145 mph<br>Minimum Central Pressure: 936 mb<br>Located at: 18.3N 112.2W<br>Movement: west-northwest at 8 knots; 9 mph<br>
 "
-    data-action="/refresh/graphics_ep2+shtml/261450.shtml?key_messages#contents">
+    data-action="/refresh/graphics_ep2+shtml/261804.shtml?key_messages#contents">
     
-      <circle cx="1302" cy="559" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="1293" cy="552" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
    
@@ -2713,7 +3021,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:0">
   
@@ -2781,7 +3089,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:0">
   
@@ -2845,7 +3153,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="70"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:2">
   
@@ -2867,13 +3175,13 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:1">
   
     
       
-    <circle cx="1546" cy="669" r="24" stroke="none" fill="transparent" pointer-events="all" />
+    <circle cx="1542" cy="671" r="24" stroke="none" fill="transparent" pointer-events="all" />
       
     
       
@@ -2892,11 +3200,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0500 AM HST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 90 knots; 105 mph<br>Minimum Central Pressure: 976 mb<br>Located at: 16.9N 155.5W<br>Movement: stationary at 0 knots; 0 mph<br>
+  <b>As of 0800 AM HST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 85 knots; 100 mph<br>Minimum Central Pressure: 977 mb<br>Located at: 16.8N 155.7W<br>Movement: west at 3 knots; 3 mph<br>
 "
-    data-action="/refresh/graphics_cp2+shtml/261456.shtml?key_messages#contents">
+    data-action="/refresh/graphics_cp2+shtml/261755.shtml?key_messages#contents">
     
-      <circle cx="524" cy="579" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="520" cy="581" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
 
@@ -2926,11 +3234,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0800 AM MST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 135 knots; 155 mph<br>Minimum Central Pressure: 928 mb<br>Located at: 17.9N 111.7W<br>Movement: west-northwest at 8 knots; 9 mph<br>
+  <b>As of 1100 AM MST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 125 knots; 145 mph<br>Minimum Central Pressure: 936 mb<br>Located at: 18.3N 112.2W<br>Movement: west-northwest at 8 knots; 9 mph<br>
 "
-    data-action="/refresh/graphics_ep2+shtml/261450.shtml?key_messages#contents">
+    data-action="/refresh/graphics_ep2+shtml/261804.shtml?key_messages#contents">
     
-      <circle cx="1302" cy="559" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="1293" cy="552" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
    
@@ -2999,13 +3307,13 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:1">
   
     
       
-    <circle cx="1546" cy="669" r="24" stroke="none" fill="transparent" pointer-events="all" />
+    <circle cx="1542" cy="671" r="24" stroke="none" fill="transparent" pointer-events="all" />
       
     
       
@@ -3083,13 +3391,13 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="90"
     data-details="
   
-  <b>As of 5:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>An area of low pressure south of the Gulf of Tehuantepec continues to become better organized as shower and thunderstorm activity increases. Environmental conditions are conducive for development, and a tropical depression is expected to form in the next day or two as the system continues to move slowly to the west-northwest or northwest. This motion should keep it parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
+  <b>As of 11:00 AM PDT Sat Sep 26 2026...</b><br>South of the Gulf of Tehuantepec (EP90):<br>Showers and thunderstorms continue to develop in association with an area of low pressure south of the Gulf of Tehuantepec. Additional development of the system is anticipated due to conducive environmental conditions and a tropical depression is expected to form in the next day or so. This system is forecast to continue moving slowly to the west-northwest or northwest, staying parallel to the coast of southern and southwestern Mexico.<br>* Formation chance through 48 hours...high...90 percent.. <br>* Formation chance through 7 days...high...90 percent..<br>
 "
     data-action="switchDisturbance:1">
   
     
       
-    <circle cx="1546" cy="669" r="24" stroke="none" fill="transparent" pointer-events="all" />
+    <circle cx="1542" cy="671" r="24" stroke="none" fill="transparent" pointer-events="all" />
       
     
       
@@ -3153,7 +3461,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="20"
     data-details="
   
-  <b>As of 2:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 8:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:1">
   
@@ -3174,11 +3482,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0500 AM HST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 90 knots; 105 mph<br>Minimum Central Pressure: 976 mb<br>Located at: 16.9N 155.5W<br>Movement: stationary at 0 knots; 0 mph<br>
+  <b>As of 0800 AM HST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 85 knots; 100 mph<br>Minimum Central Pressure: 977 mb<br>Located at: 16.8N 155.7W<br>Movement: west at 3 knots; 3 mph<br>
 "
-    data-action="/refresh/graphics_cp2+shtml/261456.shtml?key_messages#contents">
+    data-action="/refresh/graphics_cp2+shtml/261755.shtml?key_messages#contents">
     
-      <circle cx="945" cy="805" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="940" cy="808" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
 
@@ -3256,7 +3564,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="20"
     data-details="
   
-  <b>As of 2:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 8:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:0">
   
@@ -3318,7 +3626,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="70"
     data-details="
   
-  <b>As of 2:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 8:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:1">
   
@@ -3343,11 +3651,11 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="N/A"
     data-details="
   
-  <b>As of 0500 AM HST Sat Sep 26 (Advisory #24)</b><br>Maximum Sustained Winds: 90 knots; 105 mph<br>Minimum Central Pressure: 976 mb<br>Located at: 16.9N 155.5W<br>Movement: stationary at 0 knots; 0 mph<br>
+  <b>As of 0800 AM HST Sat Sep 26 (Advisory #24A)</b><br>Maximum Sustained Winds: 85 knots; 100 mph<br>Minimum Central Pressure: 977 mb<br>Located at: 16.8N 155.7W<br>Movement: west at 3 knots; 3 mph<br>
 "
-    data-action="/refresh/graphics_cp2+shtml/261456.shtml?key_messages#contents">
+    data-action="/refresh/graphics_cp2+shtml/261755.shtml?key_messages#contents">
     
-      <circle cx="945" cy="805" r="24" stroke="none" fill="transparent" pointer-events="all" />
+      <circle cx="940" cy="808" r="24" stroke="none" fill="transparent" pointer-events="all" />
     
   </g>
 
@@ -3431,7 +3739,7 @@ document.addEventListener('DOMContentLoaded', function() {
     data-prob="70"
     data-details="
   
-  <b>As of 2:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or so about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is expected to move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
+  <b>As of 8:00 AM HST Sat Sep 26 2026...</b><br>Well East-Southeast of the Hawaiian Islands:<br>A broad area of low pressure is expected to form within the next day or two about 1000 miles to the east-southeast of the Hawaiian Islands. Environmental conditions are expected to be conducive for development of the system, and a tropical depression is likely to form during the early to middle part of next week. The system is should move generally northeastward, and remain well east-southeast of the Hawaiian Islands.<br>* Formation chance through 48 hours...low...20 percent.. <br>* Formation chance through 7 days...high...70 percent..<br>
 "
     data-action="switchDisturbance:1">
   
@@ -3504,12 +3812,12 @@ document.addEventListener('DOMContentLoaded', function() {
     <td colspan="2">      <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr><td align="left">
             <b>
-              <a href="/text/refresh/HFOTWOCP+shtml/261146_HFOTWOCP.shtml">
+              <a href="/text/refresh/HFOTWOCP+shtml/261722_HFOTWOCP.shtml">
                 Tropical Weather Outlook
               </a>
-              (<a href="/text/refresh/HFOTWOSCP+shtml/261148_HFOTWOSCP.shtml">en Espa&ntilde;ol</a>*)
+              (<a href="/text/refresh/HFOTWOSCP+shtml/261724_HFOTWOSCP.shtml">en Espa&ntilde;ol</a>*)
             </b>
-            <br><span class="tiny">200 AM HST Sat Sep 26 2026</span>
+            <br><span class="tiny">800 AM HST Sat Sep 26 2026</span>
           </td></tr>
       </table>
       </td>
@@ -3542,24 +3850,24 @@ document.addEventListener('DOMContentLoaded', function() {
       <table border="0" cellspacing="5" cellpadding="0" width="100%" style="font-weight: normal;">
         <tr align="left" valign="top">
           <td class="std" colspan="6" style="text-align:center; font-size:12pt;">
-              ...NOLO STILL MEANDERING SOUTH OF THE BIG ISLAND OF HAWAII...
+              ...NOLO MOVING SLOWLY WESTWARD...
               ...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
             <hr noshade style="color:black; margin:0px;" size="1">
           </td>
         </tr><tr align="left" valign="middle">
           <td class="reg" width="22%" nowrap>
-            <strong style="font-weight:bold;">5:00 AM HST Sat Sep 26</strong><br>
-            Location: <i>16.9°N 155.5°W</i><br>
+            <strong style="font-weight:bold;">8:00 AM HST Sat Sep 26</strong><br>
+            Location: <i>16.8°N 155.7°W</i><br>
             
-              Moving: Stationary </i><br>
+              Moving: <i>W at 3 mph</i><br>
             
-            Min pressure: <i>976 mb</i><br>
-            Max sustained: <i>105 mph</i><br><br>
+            Min pressure: <i>977 mb</i><br>
+            Max sustained: <i>100 mph</i><br><br>
           </td><td class="std" width="19%">
-            <a href="/text/refresh/HFOTCPCP2+shtml/261456.shtml">Public
+            <a href="/text/refresh/HFOTCPCP2+shtml/261755.shtml">Public
             <br>Advisory
-            <br>#24</a>
-            <br><span class="tiny">500 AM HST</span>
+            <br>#24A</a>
+            <br><span class="tiny">800 AM HST</span>
           </td><td class="std" width="19%">
             <a href="/text/refresh/HFOTCMCP2+shtml/261455.shtml">Forecast
             <br>Advisory
@@ -3605,7 +3913,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     
           <td class="std" width="19%">
-            <a href="/text/refresh/HFOTASCP2+shtml/261458.shtml">Aviso
+            <a href="/text/refresh/HFOTASCP2+shtml/261758.shtml">Aviso
             <br>Publico</a>
             <br><span class="tiny"></span>
           </td>
@@ -3627,31 +3935,31 @@ document.addEventListener('DOMContentLoaded', function() {
 <table class="border-0" cellpadding="0" cellspacing="0" width="100%">
   <tr align="center" valign="top"><td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?tswind120#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_wind_probs_34_F120_sm+png/261456_wind_probs_34_F120_sm.png" width="60" height="48" border="1" alt="34-knot Wind Speed Probability"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?tswind120#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_wind_probs_34_F120_sm+png/261755_wind_probs_34_F120_sm.png" width="60" height="48" border="1" alt="34-knot Wind Speed Probability"><br clear="left">
       Wind Speed<br>Probabilities
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?mltoa34#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_earliest_reasonable_toa_no_wsp_34_sm+png/261456_earliest_reasonable_toa_no_wsp_34_sm.png" width="60" height="48" border="1" alt="Earliest Reasonable Time of Arrival of 34-knot winds"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?mltoa34#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_earliest_reasonable_toa_no_wsp_34_sm+png/261755_earliest_reasonable_toa_no_wsp_34_sm.png" width="60" height="48" border="1" alt="Earliest Reasonable Time of Arrival of 34-knot winds"><br clear="left">
         Arrival Time<br>of Winds
       </a>
     
     </td>
   <td width="14%" class="reg">
      
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?swath#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_wind_history_sm+png/261456_wind_history_sm.png" width="60" height="48" border="1" alt="Wind History"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?swath#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_wind_history_sm+png/261755_wind_history_sm.png" width="60" height="48" border="1" alt="Wind History"><br clear="left">
         Wind<br>History
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?gm_track#contents">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?gm_track#contents">
         <img src="/gifs/gmap_icon.gif" width="60" height="48" border="1" alt="Interactive Cone"><br clear="left">
         Interactive<br>Cone
       </a>
@@ -3659,24 +3967,24 @@ document.addEventListener('DOMContentLoaded', function() {
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?cone#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_5day_cone_sm+png/261456_5day_cone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Cone"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?cone#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_5day_cone_sm+png/261755_5day_cone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Cone"><br clear="left">
         Warnings/Cone<br>Static Images
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?wwCone#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_3day_cone_sm+png/261456_3day_cone_sm.png" width="60" height="48" border="1" alt="Warnings/Cone Interactive Map"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?wwCone#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_3day_cone_sm+png/261755_3day_cone_sm.png" width="60" height="48" border="1" alt="Warnings/Cone Interactive Map"><br clear="left">
         Warnings/Cone<br>Interactive Map
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?expCone#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_5day_expCone_sm+png/261456_5day_expCone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Experimental Cone"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?expCone#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_5day_expCone_sm+png/261755_5day_expCone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Experimental Cone"><br clear="left">
         Experimental Cone<br>Static Images
       </a>
     </a>
@@ -3691,8 +3999,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?expIntCone#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_5day_expCone_sm+png/261456_5day_expCone_sm.png" width="60" height="48" border="1" alt="Experimental Cone Interactive Map"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?expIntCone#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_5day_expCone_sm+png/261755_5day_expCone_sm.png" width="60" height="48" border="1" alt="Experimental Cone Interactive Map"><br clear="left">
         Experimental Cone<br>Interactive Map
       </a>
     
@@ -3703,8 +4011,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?radii#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_current_wind_sm+png/261456_current_wind_sm.png" width="60" height="48" border="1" alt="Surface Wind Field"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?radii#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_current_wind_sm+png/261755_current_wind_sm.png" width="60" height="48" border="1" alt="Surface Wind Field"><br clear="left">
         Warnings and<br>Surface Wind
       </a>
     
@@ -3715,16 +4023,16 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?key_messages#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_key_messages_sm+png/261456_key_messages_sm.png" width="60" height="48" border="1" alt="Key Messages"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?key_messages#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_key_messages_sm+png/261755_key_messages_sm.png" width="60" height="48" border="1" alt="Key Messages"><br clear="left">
         Key<br>Messages
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?spanish_key_messages#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_spanish_key_messages_sm+png/261456_spanish_key_messages_sm.png" width="60" height="48" border="1" alt="Mensajes Claves"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?spanish_key_messages#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_spanish_key_messages_sm+png/261755_spanish_key_messages_sm.png" width="60" height="48" border="1" alt="Mensajes Claves"><br clear="left">
         Mensajes<br>Claves
       </a>
     
@@ -3748,8 +4056,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?peakSurge#contents">
-        <img src="/storm_graphics/EP15/refresh/EP152026_peak_surge_sm+png/261456_peak_surge_sm.png" width="60" height="48" border="1" alt="Experimental Peak Storm Surge Forecast"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?peakSurge#contents">
+        <img src="/storm_graphics/EP15/refresh/EP152026_peak_surge_sm+png/261755_peak_surge_sm.png" width="60" height="48" border="1" alt="Experimental Peak Storm Surge Forecast"><br clear="left">
         Peak<br>Surge
       </a>
     
@@ -3761,8 +4069,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_cp2+shtml/261456.shtml?rainqpf#contents">
-        <img src="/storm_graphics/EP15/refresh/EP1526WPCQPF_sm1+gif/261456_WPCQPF_sm1.gif" width="60" height="48" border="1" alt="WPC Rainfall Potential thumbnail"><br clear="left">
+      <a href="/refresh/graphics_cp2+shtml/261755.shtml?rainqpf#contents">
+        <img src="/storm_graphics/EP15/refresh/EP1526WPCQPF_sm1+gif/261755_WPCQPF_sm1.gif" width="60" height="48" border="1" alt="WPC Rainfall Potential thumbnail"><br clear="left">
         Rainfall<br>Potential
       </a>
     
@@ -3807,15 +4115,15 @@ document.addEventListener('DOMContentLoaded', function() {
     <td colspan="2">      <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr><td align="left">
             <b>
-              <a href="/text/refresh/MIATWOAT+shtml/261157_MIATWOAT.shtml">
+              <a href="/text/refresh/MIATWOAT+shtml/261734_MIATWOAT.shtml">
                 Tropical Weather Outlook
               </a>
-              (<a href="/text/refresh/MIATWOSAT+shtml/261200_MIATWOSAT.shtml">en Espa&ntilde;ol</a>*)
+              (<a href="/text/refresh/MIATWOSAT+shtml/261736_MIATWOSAT.shtml">en Espa&ntilde;ol</a>*)
             </b>
-            <br><span class="tiny">800 AM EDT Sat Sep 26 2026</span>
+            <br><span class="tiny">200 PM EDT Sat Sep 26 2026</span>
           </td><td align="right">
-            <b><a href="/text/refresh/MIATWDAT+shtml/261051_MIATWDAT.shtml">Tropical Weather Discussion</a></b>
-            <br><span class="tiny">1215 UTC Sat Sep 26 2026</span>
+            <b><a href="/text/refresh/MIATWDAT+shtml/261656_MIATWDAT.shtml">Tropical Weather Discussion</a></b>
+            <br><span class="tiny">1815 UTC Sat Sep 26 2026</span>
           </td></tr>
       </table>
       </td>
@@ -4302,15 +4610,15 @@ document.addEventListener('DOMContentLoaded', function() {
     <td colspan="2">      <table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tr><td align="left">
             <b>
-              <a href="/text/refresh/MIATWOEP+shtml/261146_MIATWOEP.shtml">
+              <a href="/text/refresh/MIATWOEP+shtml/261722_MIATWOEP.shtml">
                 Tropical Weather Outlook
               </a>
-              (<a href="/text/refresh/MIATWOSEP+shtml/261147_MIATWOSEP.shtml">en Espa&ntilde;ol</a>*)
+              (<a href="/text/refresh/MIATWOSEP+shtml/261724_MIATWOSEP.shtml">en Espa&ntilde;ol</a>*)
             </b>
-            <br><span class="tiny">500 AM PDT Sat Sep 26 2026</span>
+            <br><span class="tiny">1100 AM PDT Sat Sep 26 2026</span>
           </td><td align="right">
-            <b><a href="/text/refresh/MIATWDEP+shtml/261016_MIATWDEP.shtml">Tropical Weather Discussion</a></b>
-            <br><span class="tiny">1005 UTC Sat Sep 26 2026</span>
+            <b><a href="/text/refresh/MIATWDEP+shtml/261535_MIATWDEP.shtml">Tropical Weather Discussion</a></b>
+            <br><span class="tiny">1605 UTC Sat Sep 26 2026</span>
           </td></tr>
       </table>
       </td>
@@ -4343,24 +4651,24 @@ document.addEventListener('DOMContentLoaded', function() {
       <table border="0" cellspacing="5" cellpadding="0" width="100%" style="font-weight: normal;">
         <tr align="left" valign="top">
           <td class="std" colspan="6" style="text-align:center; font-size:12pt;">
-              ...POLO REMAINS A POWERFUL HURRICANE...
-              ...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
+              ...POLO STILL A POWERFUL CATEGORY 4 HURRICANE...
+              ...FORECAST TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
             <hr noshade style="color:black; margin:0px;" size="1">
           </td>
         </tr><tr align="left" valign="middle">
           <td class="reg" width="22%" nowrap>
-            <strong style="font-weight:bold;">8:00 AM MST Sat Sep 26</strong><br>
-            Location: <i>17.9°N 111.7°W</i><br>
+            <strong style="font-weight:bold;">11:00 AM MST Sat Sep 26</strong><br>
+            Location: <i>18.3°N 112.2°W</i><br>
             
               Moving: <i>WNW at 9 mph</i><br>
             
-            Min pressure: <i>928 mb</i><br>
-            Max sustained: <i>155 mph</i><br><br>
+            Min pressure: <i>936 mb</i><br>
+            Max sustained: <i>145 mph</i><br><br>
           </td><td class="std" width="19%">
-            <a href="/text/refresh/MIATCPEP2+shtml/261450.shtml">Public
+            <a href="/text/refresh/MIATCPEP2+shtml/261804.shtml">Public
             <br>Advisory
-            <br>#24</a>
-            <br><span class="tiny">800 AM MST</span>
+            <br>#24A</a>
+            <br><span class="tiny">1100 AM MST</span>
           </td><td class="std" width="19%">
             <a href="/text/refresh/MIATCMEP2+shtml/261449.shtml">Forecast
             <br>Advisory
@@ -4390,7 +4698,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     
           <td class="std" width="19%">
-            <a href="/text/refresh/MIATASEP2+shtml/261452.shtml">Aviso
+            <a href="/text/refresh/MIATASEP2+shtml/261806.shtml">Aviso
             <br>Publico</a>
             <br><span class="tiny"></span>
           </td>
@@ -4412,31 +4720,31 @@ document.addEventListener('DOMContentLoaded', function() {
 <table class="border-0" cellpadding="0" cellspacing="0" width="100%">
   <tr align="center" valign="top"><td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?tswind120#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_wind_probs_34_F120_sm+png/261450_wind_probs_34_F120_sm.png" width="60" height="48" border="1" alt="34-knot Wind Speed Probability"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?tswind120#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_wind_probs_34_F120_sm+png/261804_wind_probs_34_F120_sm.png" width="60" height="48" border="1" alt="34-knot Wind Speed Probability"><br clear="left">
       Wind Speed<br>Probabilities
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?mltoa34#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_earliest_reasonable_toa_no_wsp_34_sm+png/261450_earliest_reasonable_toa_no_wsp_34_sm.png" width="60" height="48" border="1" alt="Earliest Reasonable Time of Arrival of 34-knot winds"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?mltoa34#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_earliest_reasonable_toa_no_wsp_34_sm+png/261804_earliest_reasonable_toa_no_wsp_34_sm.png" width="60" height="48" border="1" alt="Earliest Reasonable Time of Arrival of 34-knot winds"><br clear="left">
         Arrival Time<br>of Winds
       </a>
     
     </td>
   <td width="14%" class="reg">
      
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?swath#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_wind_history_sm+png/261450_wind_history_sm.png" width="60" height="48" border="1" alt="Wind History"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?swath#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_wind_history_sm+png/261804_wind_history_sm.png" width="60" height="48" border="1" alt="Wind History"><br clear="left">
         Wind<br>History
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?gm_track#contents">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?gm_track#contents">
         <img src="/gifs/gmap_icon.gif" width="60" height="48" border="1" alt="Interactive Cone"><br clear="left">
         Interactive<br>Cone
       </a>
@@ -4444,24 +4752,24 @@ document.addEventListener('DOMContentLoaded', function() {
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?cone#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_5day_cone_sm+png/261450_5day_cone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Cone"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?cone#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_5day_cone_sm+png/261804_5day_cone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Cone"><br clear="left">
         Warnings/Cone<br>Static Images
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?wwCone#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_3day_cone_sm+png/261450_3day_cone_sm.png" width="60" height="48" border="1" alt="Warnings/Cone Interactive Map"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?wwCone#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_3day_cone_sm+png/261804_3day_cone_sm.png" width="60" height="48" border="1" alt="Warnings/Cone Interactive Map"><br clear="left">
         Warnings/Cone<br>Interactive Map
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?expCone#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_5day_expCone_sm+png/261450_5day_expCone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Experimental Cone"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?expCone#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_5day_expCone_sm+png/261804_5day_expCone_sm.png" width="60" height="48" border="1" alt="Warnings and 5-Day Experimental Cone"><br clear="left">
         Experimental Cone<br>Static Images
       </a>
     </a>
@@ -4476,8 +4784,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?expIntCone#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_5day_expCone_sm+png/261450_5day_expCone_sm.png" width="60" height="48" border="1" alt="Experimental Cone Interactive Map"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?expIntCone#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_5day_expCone_sm+png/261804_5day_expCone_sm.png" width="60" height="48" border="1" alt="Experimental Cone Interactive Map"><br clear="left">
         Experimental Cone<br>Interactive Map
       </a>
     
@@ -4488,8 +4796,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?radii#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_current_wind_sm+png/261450_current_wind_sm.png" width="60" height="48" border="1" alt="Surface Wind Field"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?radii#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_current_wind_sm+png/261804_current_wind_sm.png" width="60" height="48" border="1" alt="Surface Wind Field"><br clear="left">
         Warnings and<br>Surface Wind
       </a>
     
@@ -4500,16 +4808,16 @@ document.addEventListener('DOMContentLoaded', function() {
   
 <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?key_messages#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_key_messages_sm+png/261450_key_messages_sm.png" width="60" height="48" border="1" alt="Key Messages"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?key_messages#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_key_messages_sm+png/261804_key_messages_sm.png" width="60" height="48" border="1" alt="Key Messages"><br clear="left">
         Key<br>Messages
       </a>
     
     </td>
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?spanish_key_messages#contents">
-        <img src="/storm_graphics/EP17/refresh/EP172026_spanish_key_messages_sm+png/261450_spanish_key_messages_sm.png" width="60" height="48" border="1" alt="Mensajes Claves"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?spanish_key_messages#contents">
+        <img src="/storm_graphics/EP17/refresh/EP172026_spanish_key_messages_sm+png/261804_spanish_key_messages_sm.png" width="60" height="48" border="1" alt="Mensajes Claves"><br clear="left">
         Mensajes<br>Claves
       </a>
     
@@ -4521,7 +4829,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?ripCurrents#contents">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?ripCurrents#contents">
         <img src="/assets/images/rip-current-thumb.png" width="60" height="48" border="1" alt="Rip Currents"><br clear="left">
         Rip<br>Currents
       </a>
@@ -4546,8 +4854,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     <td width="14%" class="reg">
     
-      <a href="/refresh/graphics_ep2+shtml/261450.shtml?rainqpf#contents">
-        <img src="/storm_graphics/EP17/refresh/EP1726INTQPF_sm1+gif/261450_INTQPF_sm1.gif" width="60" height="48" border="1" alt="WPC Rainfall Potential thumbnail"><br clear="left">
+      <a href="/refresh/graphics_ep2+shtml/261804.shtml?rainqpf#contents">
+        <img src="/storm_graphics/EP17/refresh/EP1726INTQPF_sm1+gif/261804_INTQPF_sm1.gif" width="60" height="48" border="1" alt="WPC Rainfall Potential thumbnail"><br clear="left">
         Rainfall<br>Potential
       </a>
     
