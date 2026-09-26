@@ -158,3 +158,14 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T19:21:29-10:00 reports: regenerated statewide Markdown reports
 2026-09-25T19:22:30-10:00 dispatching 1 due task(s) concurrently: alerts
 2026-09-25T19:22:32-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:23:32-10:00 dispatching 2 due task(s) concurrently: alerts, text_products
+2026-09-25T19:25:45-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T19:25:45-10:00 dispatching 11 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, hurricanes
+2026-09-25T19:25:53-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T19:26:42-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: Client error '404 Not Found' for url 'https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-1000x1000.gif'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T19:27:06-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T19:27:18-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T19:27:18-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T19:27:18-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
