@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T04:19:41.109990-10:00 HST
-- **Report created:** 2026-09-26T04:26:20-10:00 HST
+- **Collected:** 2026-09-26T04:27:38.340661-10:00 HST
+- **Report created:** 2026-09-26T04:34:20-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
