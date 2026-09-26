@@ -3,14 +3,14 @@
     "resource_id": "alerts_active_hi",
     "url": "https://api.weather.gov/alerts/active?area=HI",
     "local_resource_dir": "api.weather.gov/alerts/active/area=HI",
-    "current_fetch_timestamp_hst": "2026-09-26T09:22:06.514344-10:00",
-    "etag": "W/\"5c4d7df84cd1236730cbb27ebe8ccaab:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
+    "current_fetch_timestamp_hst": "2026-09-26T09:31:06.259835-10:00",
+    "etag": "W/\"9993da6484a4bf66af55400c8d765cd0:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
     "last_modified": null,
     "content_length": 368595,
-    "content_sha256": "ed4929c443659355ae92c4771fada6c25dfdd4961933ca9da902bca50c7442d1",
+    "content_sha256": "ea934ca1e59a5d1e85f76e0cf9de94cc260e3242869d1b4d2bbfb226716c9e3b",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T09:05:02.110032-10:00",
-    "last_success_at": "2026-09-26T09:22:06.514344-10:00"
+    "last_success_at": "2026-09-26T09:31:06.259835-10:00"
   },
   "wwamap_png": {
     "resource_id": "wwamap_png",
@@ -23,7 +23,7 @@
     "content_sha256": "f5047a6f02990c36567be15dbdf9f34d451bcb7ef3bab80b57d0c0d094fc1609",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T09:05:02.218333-10:00",
-    "last_success_at": "2026-09-26T09:22:14.511264-10:00"
+    "last_success_at": "2026-09-26T09:31:06.669009-10:00"
   },
   "sfp_state_forecast": {
     "resource_id": "sfp_state_forecast",
