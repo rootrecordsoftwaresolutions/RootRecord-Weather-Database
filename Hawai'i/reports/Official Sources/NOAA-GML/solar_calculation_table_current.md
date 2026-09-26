@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T00:58:47-10:00 HST
-- **Report created:** 2026-09-26T00:58:47-10:00 HST
+- **Generated:** 2026-09-26T01:06:22-10:00 HST
+- **Report created:** 2026-09-26T01:06:22-10:00 HST
 - **Source authority:** NOAA-GML
 - **Resource ID:** solar_calculation_table
 - **Official source:** https://gml.noaa.gov/grad/solcalc/table.php?lat=21.3&lon=-157.85&year=2026
