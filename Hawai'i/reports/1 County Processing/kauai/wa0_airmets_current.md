@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T03:58:01-10:00 HST
-- **Report created:** 2026-09-26T03:58:01-10:00 HST
+- **Generated:** 2026-09-26T04:09:47-10:00 HST
+- **Report created:** 2026-09-26T04:09:47-10:00 HST
 - **County:** Kauai County
 - **Resource ID:** wa0_airmets
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=WA0&issuedby=HI

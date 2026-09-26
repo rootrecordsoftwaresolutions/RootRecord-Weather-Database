@@ -3,14 +3,14 @@
     "resource_id": "alerts_active_hi",
     "url": "https://api.weather.gov/alerts/active?area=HI",
     "local_resource_dir": "api.weather.gov/alerts/active/area=HI",
-    "current_fetch_timestamp_hst": "2026-09-26T04:00:47.041708-10:00",
-    "etag": "W/\"87bc8a97781768348d9f24800fcf1327:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
+    "current_fetch_timestamp_hst": "2026-09-26T04:10:18.792637-10:00",
+    "etag": "W/\"f6619592d6bdc57e14aa80b9de352c68:dtagent10337260504112723F6xZ:dtagent10337260504112723F6xZ\"",
     "last_modified": null,
     "content_length": 380677,
-    "content_sha256": "c0bf2dc8c518ebeabfad26f446d66cfb1b88322c257ddeb9cc44b1f7d41db80e",
+    "content_sha256": "9696ed6c49e23c20200e95304823b9379a4753912027c266af823705f7583245",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:55:25.752657-10:00",
-    "last_success_at": "2026-09-26T04:00:47.041708-10:00"
+    "last_success_at": "2026-09-26T04:10:18.792637-10:00"
   },
   "wwamap_png": {
     "resource_id": "wwamap_png",
@@ -23,7 +23,7 @@
     "content_sha256": "dfe0f255e19a03cc384606775391386c287852576682b9075062433451fadb76",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:55:25.763563-10:00",
-    "last_success_at": "2026-09-26T04:00:59.598144-10:00"
+    "last_success_at": "2026-09-26T04:10:19.659546-10:00"
   },
   "sfp_state_forecast": {
     "resource_id": "sfp_state_forecast",
@@ -101,7 +101,7 @@
     "content_sha256": "ea040f097af2b233e0534397ef16ae1551a8b133d7003257873a2d7d06ee7c4b",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:53:55.578968-10:00",
-    "last_success_at": "2026-09-26T03:57:29.931939-10:00"
+    "last_success_at": "2026-09-26T04:09:15.419373-10:00"
   },
   "hawaii_ir_latest": {
     "resource_id": "hawaii_ir_latest",
@@ -1739,7 +1739,7 @@
     "content_sha256": "15f26cdf88f054e7b29f2a86033c23a49fe08ea828db54074cd2fba8cb284dd1",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T00:59:20.289411-10:00",
-    "last_success_at": "2026-09-26T04:01:45.199751-10:00"
+    "last_success_at": "2026-09-26T04:10:19.658813-10:00"
   },
   "nws_public_counties": {
     "resource_id": "nws_public_counties",
