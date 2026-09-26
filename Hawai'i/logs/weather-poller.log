@@ -53,3 +53,10 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
 2026-09-25T18:38:35-10:00 dispatching 1 due task(s) concurrently: alerts
 2026-09-25T18:39:37-10:00 dispatching 2 due task(s) concurrently: alerts, text_products
+2026-09-25T18:42:38-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T18:42:38-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T18:43:08-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T18:44:10-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T18:44:42-10:00 dispatching 1 due task(s) concurrently: text_products
+2026-09-25T18:47:13-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T18:47:13-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
