@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T12:21:41-10:00 HST
-- **Report created:** 2026-09-26T12:21:41-10:00 HST
+- **Generated:** 2026-09-26T12:29:42-10:00 HST
+- **Report created:** 2026-09-26T12:29:42-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** surfreports_statewide_observations
 - **Source:** /hfo/surfreports
