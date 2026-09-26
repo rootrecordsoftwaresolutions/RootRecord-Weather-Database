@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T12:29:42-10:00 HST
-- **Report created:** 2026-09-26T12:29:42-10:00 HST
+- **Generated:** 2026-09-26T12:38:41-10:00 HST
+- **Report created:** 2026-09-26T12:38:41-10:00 HST
 - **County:** Kauai County
 - **Resource ID:** sfp_state_forecast
 - **Source:** https://api.weather.gov/products/types/SFP/locations/HFO
