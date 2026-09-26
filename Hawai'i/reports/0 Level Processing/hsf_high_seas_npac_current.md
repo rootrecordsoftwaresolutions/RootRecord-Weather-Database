@@ -4,7 +4,7 @@
 
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=HSF&issuedby=NP
 - **Collected:** 2026-09-26T00:30:35.265615-10:00 HST
-- **Report created:** 2026-09-26T03:14:21-10:00 HST
+- **Report created:** 2026-09-26T03:58:00-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

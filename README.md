@@ -42,11 +42,11 @@ This README is also regenerated automatically from the same current statewide re
 
 | Location | Conditions | Temp | Dew point | RH | Wind | Pressure |
 |---|---|---:|---:|---:|---|---:|
-| Honolulu | Partly cloudy | 81°F | 68°F | 64% | Northeast 23 gusts to 39 | 29.91S |
-| Lihue | Light rain | 78°F | 73°F | 84% | East 23 | 29.97S |
-| Kahului | Mostly cloudy | 78°F | 71°F | 79% | Northeast 15 gusts to 26 | 29.91S |
-| Hilo | Cloudy | 79°F | 72°F | 79% | East 12 | 29.91S |
-| Kona | Cloudy | 81°F | 77°F | 88% | South 9 | 29.77S |
+| Honolulu | Partly cloudy | 81°F | 67°F | 62% | Northeast 17 gusts to 39 | 29.86F |
+| Lihue | Light rain | 79°F | 72°F | 79% | Northeast 25 gusts to 32 | 29.92F |
+| Kahului | Mostly cloudy | 79°F | 70°F | 74% | Northeast 15 gusts to 28 | 29.84F |
+| Hilo | Cloudy | 78°F | 71°F | 79% | East 15 gusts to 23 | 29.87F |
+| Kona | Light rain | 81°F | 78°F | 91% | Southwest 9 | 29.73F |
 
 _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °F._
 
@@ -58,7 +58,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T03:14:21-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T03:58:00-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3076,7 +3076,7 @@ Winds and seas higher in and near tstms.
 |---|---|
 | **Resource ID** | cli_daily_climate_summary_HNL |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=CLI&issuedby=HNL |
-| **Collected** | 2026-09-25T18:15:57.215574-10:00 HST |
+| **Collected** | 2026-09-26T03:17:55.073514-10:00 HST |
 
 ```text
 791
@@ -3170,7 +3170,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | cli_daily_climate_summary_ITO |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=CLI&issuedby=ITO |
-| **Collected** | 2026-09-25T18:17:57.738879-10:00 HST |
+| **Collected** | 2026-09-26T03:23:43.652166-10:00 HST |
 
 ```text
 790
@@ -3267,7 +3267,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | cli_daily_climate_summary_LIH |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=CLI&issuedby=LIH |
-| **Collected** | 2026-09-25T18:16:43.299589-10:00 HST |
+| **Collected** | 2026-09-26T03:18:40.436418-10:00 HST |
 
 ```text
 789
@@ -3359,7 +3359,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | cli_daily_climate_summary_OGG |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=CLI&issuedby=OGG |
-| **Collected** | 2026-09-25T18:17:27.321797-10:00 HST |
+| **Collected** | 2026-09-26T03:19:40.647275-10:00 HST |
 
 ```text
 880
@@ -3450,7 +3450,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | hfo_rra_direct |
 | **Official source** | https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo |
-| **Collected** | 2026-09-26T03:07:39.044066-10:00 HST |
+| **Collected** | 2026-09-26T03:39:19.161024-10:00 HST |
 
 ```text
 278
@@ -3723,7 +3723,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T03:07:42.218715-10:00 HST |
+| **Collected** | 2026-09-26T03:51:32.280733-10:00 HST |
 
 ```text
                         
@@ -3926,7 +3926,7 @@ FROM 02N TO 11N E OF 145W.
 |---|---|
 | **Resource ID** | oso_hourly_obs |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO |
-| **Collected** | 2026-09-26T00:54:01.929301-10:00 HST |
+| **Collected** | 2026-09-26T03:46:03.463878-10:00 HST |
 
 ```text
 583
@@ -4616,7 +4616,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_homepage |
 | **Official source** | https://www.nhc.noaa.gov/ |
-| **Collected** | 2026-09-26T03:14:20.823514-10:00 HST |
+| **Collected** | 2026-09-26T03:57:33.011212-10:00 HST |
 
 ```text
 Home
@@ -4740,7 +4740,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 13:10:12 UTC
+Last update Sat, 26 Sep 2026 13:50:08 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8523,7 +8523,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_tib_reference |
 | **Official source** | https://forecast.weather.gov/product_types.php |
-| **Collected** | 2026-09-26T03:07:24.503643-10:00 HST |
+| **Collected** | 2026-09-26T03:38:34.417612-10:00 HST |
 
 ```text
 National Weather Service
@@ -8572,9 +8572,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
