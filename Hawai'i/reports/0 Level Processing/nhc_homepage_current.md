@@ -4,7 +4,7 @@
 
 - **Source:** https://www.nhc.noaa.gov/
 - **Collected:** 2026-09-26T09:13:33.083689-10:00 HST
-- **Report created:** 2026-09-26T09:13:33-10:00 HST
+- **Report created:** 2026-09-26T09:21:33-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

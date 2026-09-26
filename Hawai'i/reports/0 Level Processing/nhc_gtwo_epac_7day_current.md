@@ -3,11 +3,11 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7
-- **Collected:** 2026-09-26T05:05:19.845171-10:00 HST
-- **Report created:** 2026-09-26T09:13:33-10:00 HST
+- **Collected:** 2026-09-26T09:18:32.968440-10:00 HST
+- **Report created:** 2026-09-26T09:21:33-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
 ```text
-172 ACCA62 KNHC 261200TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 AM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Tormenta Tropical Gonzalo, ubicada justo aleste-noreste de las Islas de Cabo Verde, y sobre la DepresiónTropical Fay, ubicada al oeste-suroeste de las Azores.No se espera la formación de ciclones tropicales durante lospróximos 7 días.$$Pronosticador Katz*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
+462 ACCA62 KNHC 261736TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL200 PM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Tormenta Tropical Gonzalo, ubicada al norte delas Islas de Cabo Verde, y sobre la Depresión Tropical Fay, ubicadaal oeste-suroeste de las Azores.Atlántico Subtropical Central: Una vaguada en la superficie de bajapresión ubicada a varios cientos de millas al sureste de lasBermudas está produciendo actualmente un área de aguaceros ytormentas desorganizadas. Las condiciones ambientales parecen algofavorables para el desarrollo gradual de este sistema, a medida quese mueve hacia el norte este fin de semana y luego gira hacia eleste a principios o mediados de la próxima semana.* Probabilidad de formación hasta 48 horas...baja...10 por ciento.* Probabilidad de formación hasta 7 días...baja...20 por ciento.$$Pronosticador Papin*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
 ```

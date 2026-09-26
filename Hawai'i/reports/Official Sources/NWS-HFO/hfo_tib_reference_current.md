@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T09:13:35-10:00 HST
-- **Report created:** 2026-09-26T09:13:35-10:00 HST
+- **Generated:** 2026-09-26T09:21:35-10:00 HST
+- **Report created:** 2026-09-26T09:21:35-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hfo_tib_reference
 - **Official source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T05:42:34.829914-10:00 HST
+- **Collected:** 2026-09-26T09:14:33.606435-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
