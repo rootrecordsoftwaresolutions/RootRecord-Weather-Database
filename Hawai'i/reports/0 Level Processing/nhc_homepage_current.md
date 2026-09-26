@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T04:43:19.653998-10:00 HST
-- **Report created:** 2026-09-26T04:43:20-10:00 HST
+- **Collected:** 2026-09-26T04:51:19.789707-10:00 HST
+- **Report created:** 2026-09-26T04:51:20-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 14:42:59 UTC
+Last update Sat, 26 Sep 2026 14:50:07 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -630,34 +630,34 @@ Buoys |
 Grids |
 Storm Archive
 
-...POLO MOVING WEST-NORTHWESTWARD AS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
-...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A POWERFUL HURRICANE...
+...POLO REMAINS A POWERFUL HURRICANE...
+...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
 
-5:00 AM MST Sat Sep 26
+8:00 AM MST Sat Sep 26
 
-Location: 17.7°N 111.5°W
+Location: 17.9°N 111.7°W
 
-Moving: WNW at 10 mph
+Moving: WNW at 9 mph
 
-Min pressure: 922 mb
+Min pressure: 928 mb
 
-Max sustained: 160 mph
+Max sustained: 155 mph
 
 Public
 
 Advisory
 
-#23A
+#24
 
-500 AM MST
+800 AM MST
 
 Forecast
 
 Advisory
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 Forecast
 
@@ -765,17 +765,17 @@ Forecast
 
 Discussion
 
-#26
+#27
 
-200 AM PDT
+800 AM PDT
 
 Wind Speed
 
 Probabilities
 
-#26
+#27
 
-0900 UTC
+1500 UTC
 
 Productos en español:
 

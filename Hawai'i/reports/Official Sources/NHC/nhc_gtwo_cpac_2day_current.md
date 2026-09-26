@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T04:43:21-10:00 HST
-- **Report created:** 2026-09-26T04:43:21-10:00 HST
+- **Generated:** 2026-09-26T04:51:22-10:00 HST
+- **Report created:** 2026-09-26T04:51:22-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_gtwo_cpac_2day
 - **Official source:** https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=2
-- **Collected:** 2026-09-26T02:08:20.630450-10:00 HST
+- **Collected:** 2026-09-26T04:45:19.934460-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
