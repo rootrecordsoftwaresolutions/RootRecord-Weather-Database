@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T10:29:35-10:00 HST
-- **Report created:** 2026-09-26T10:29:35-10:00 HST
+- **Generated:** 2026-09-26T10:38:35-10:00 HST
+- **Report created:** 2026-09-26T10:38:35-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T10:29:33.017986-10:00 HST
+- **Collected:** 2026-09-26T10:38:32.921167-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,15 +136,11 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 20:21:47 UTC
+Last update Sat, 26 Sep 2026 20:38:11 UTC
 
 NHC issuing advisories for the Atlantic on
 
 TD Fay
-
-and
-
-TS Gonzalo
 
 NHC issuing advisories for the Eastern Pacific on
 
@@ -157,6 +153,9 @@ Hurricane Polo
 NHC issuing advisories for the Central Pacific on
 
 Hurricane Nolo
+
+Last advisory issued on
+Gonzalo
 
 Marine warnings are in effect for the Eastern Pacific
 
@@ -446,20 +445,21 @@ Tropical Weather Discussion
 
 1815 UTC Sat Sep 26 2026
 
-Tropical Storm Gonzalo
+Post-Tropical Cyclone Gonzalo
 
 Satellite |
 Buoys |
 Grids |
 Storm Archive
 
-...GONZALO MOVING NORTH OF THE CABO VERDE ISLANDS AND EXPECTED TO DEGENERATE INTO A REMNANT LOW BY SUNDAY...
+...GONZALO NO LONGER A TROPICAL CYCLONE...
+...THIS IS THE FINAL ADVISORY...
 
-2:00 PM CVT Sat Sep 26
+8:00 PM CVT Sat Sep 26
 
-Location: 18.8°N 23.0°W
+Location: 19.3°N 23.3°W
 
-Moving: NNW at 10 mph
+Moving: NNW at 7 mph
 
 Min pressure: 1005 mb
 
@@ -469,17 +469,17 @@ Public
 
 Advisory
 
-#7
+#8
 
-200 PM CVT
+800 PM CVT
 
 Forecast
 
 Advisory
 
-#7
+#8
 
-1500 UTC
+2100 UTC
 
 Forecast
 
@@ -493,9 +493,9 @@ Wind Speed
 
 Probabilities
 
-#7
+#8
 
-1500 UTC
+2100 UTC
 
 Productos en español:
 
@@ -546,13 +546,13 @@ Buoys |
 Grids |
 Storm Archive
 
-...FAY DRIFTS TOWARDS THE WEST-SOUTHWEST...
+...FAY SLOWLY MOVING SOUTHWARD...
 
-3:00 PM GMT Sat Sep 26
+9:00 PM GMT Sat Sep 26
 
-Location: 29.6°N 44.0°W
+Location: 29.8°N 43.9°W
 
-Moving: WSW at 5 mph
+Moving: S at 2 mph
 
 Min pressure: 1009 mb
 
@@ -562,17 +562,17 @@ Public
 
 Advisory
 
-#26
+#27
 
-300 PM GMT
+900 PM GMT
 
 Forecast
 
 Advisory
 
-#26
+#27
 
-1500 UTC
+2100 UTC
 
 Forecast
 
@@ -652,16 +652,16 @@ Buoys |
 Grids |
 Storm Archive
 
-...POLO STILL A POWERFUL CATEGORY 4 HURRICANE...
-...FORECAST TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A STRONG HURRICANE...
+...POLO TURNS NORTHWESTWARD AS A POWERFUL HURRICANE...
+...FORECAST TO APPROACH BAJA CALIFORNIA SUR ON MONDAY...
 
-11:00 AM MST Sat Sep 26
+2:00 PM MST Sat Sep 26
 
-Location: 18.3°N 112.2°W
+Location: 18.7°N 112.5°W
 
-Moving: WNW at 9 mph
+Moving: NW at 10 mph
 
-Min pressure: 936 mb
+Min pressure: 938 mb
 
 Max sustained: 145 mph
 
@@ -669,33 +669,33 @@ Public
 
 Advisory
 
-#24A
+#25
 
-1100 AM MST
+200 PM MST
 
 Forecast
 
 Advisory
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 Forecast
 
 Discussion
 
-#24
+#25
 
-800 AM MST
+200 PM MST
 
 Wind Speed
 
 Probabilities
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 Productos en español:
 
@@ -755,49 +755,49 @@ Buoys |
 Grids |
 Storm Archive
 
-...ODALYS EXPECTED TO RAPIDLY WEAKEN OVER THE OPEN EAST PACIFIC...
+...ODALYS CONTINUES TO QUICKLY WEAKEN...
 
-8:00 AM PDT Sat Sep 26
+2:00 PM PDT Sat Sep 26
 
-Location: 19.8°N 123.7°W
+Location: 20.5°N 123.6°W
 
 Moving: N at 7 mph
 
-Min pressure: 965 mb
+Min pressure: 973 mb
 
-Max sustained: 105 mph
+Max sustained: 90 mph
 
 Public
 
 Advisory
 
-#27
+#28
 
-800 AM PDT
+200 PM PDT
 
 Forecast
 
 Advisory
 
-#27
+#28
 
-1500 UTC
+2100 UTC
 
 Forecast
 
 Discussion
 
-#27
+#28
 
-800 AM PDT
+200 PM PDT
 
 Wind Speed
 
 Probabilities
 
-#27
+#28
 
-1500 UTC
+2100 UTC
 
 Productos en español:
 
