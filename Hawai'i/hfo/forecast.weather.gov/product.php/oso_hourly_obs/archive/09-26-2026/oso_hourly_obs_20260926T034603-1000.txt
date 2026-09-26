@@ -1,0 +1,198 @@
+387
+SXHW50 PHFO 261343
+OSOHFO
+
+Hawaii Wind Data
+National Weather Service Honolulu HI
+343 AM HST Sat Sep 26 2026
+
+                            W I N D        D A T A
+                            ----------------------
+                                                                   IN KNOTS
+ ID                Location              Date     Time     DIR    SPD   GUST
+--------   -------------------------    -------  -(HST)-  ----   ----   ----
+0000LLMH1  Lower Limahuli     Kauai     26Sep26   03:15    300      4      9
+0000CMGH1  Common Ground      Kauai     26Sep26   03:15    110      7     14
+0000HLIH1  Hanalei            Kauai     26Sep26   02:41    110      6     15
+0000MLDH1  Moloaa Dairy       Kauai     26Sep26   02:45    100      4     15
+0000HNMH1  Hanamaulu          Kauai     26Sep26   03:15     30      6     14
+0000PHLI   Lihue              Kauai     26Sep26   03:00     60     22     28
+0000NWWH1  Nawiliwili NOS     Kauai     26Sep26   03:30     60     16     21
+0000POIH1  Poipu              Kauai                MSG    MSG    MSG    MSG
+0000LNTH1  Lawai NTBG         Kauai     26Sep26   03:15     80     10     17
+0000PAKH1  Port Allen         Kauai     26Sep26   03:00     80     15     21
+0000MKAH1  Makaha Ridge       Kauai     26Sep26   03:11    100      2      6
+0000MNRH1  Mana               Kauai     26Sep26   03:34    360      2      3
+0000PHBK   Barking Sands      Kauai     26Sep26   03:29      0      0    MSG
+0000PLRH1  Puu Lua            Kauai     26Sep26   03:35     80      5     13
+0000POPH1  Puu Opae           Kauai     26Sep26   03:34    310      2      5
+0000WHGH1  Waimea Heights     Kauai     26Sep26   03:35     30      2     13
+
+0000KRGH1  Kalahee Ridge      Oahu      26Sep26   03:10     50      8     18
+0000KAHH1  Kahuku             Oahu                 MSG    MSG    MSG    MSG
+0000KTAH1  Kahuku Trng        Oahu      26Sep26   02:59    100      7     20
+0000KFWH1  Kii                Oahu      26Sep26   02:45     80     19     28
+0000OFRH1  Oahu Forest NWR    Oahu      26Sep26   03:36     80     18     38
+0000KWMH1  Kaaawa Makai       Oahu      26Sep26   03:15     30      8     14
+0000PHNG   Kaneohe MCBH       Oahu      26Sep26   03:00     60     17     27
+0000MOKH1  Mokuoloe Is NOS    Oahu      26Sep26   03:30     80     18     24
+0000BELH1  Bellows AFS        Oahu      26Sep26   03:15     50     22    MSG
+0000KUXH1  Kaluanui           Oahu      26Sep26   03:15    190      5     18
+0000LYOH1  Lyon               Oahu      26Sep26   02:55    310      5     22
+0000NRSH1  Nuuanu Res No 1    Oahu      26Sep26   03:15    340      8     16
+0000PHNL   Honolulu AP        Oahu      26Sep26   03:00     50     15     34
+0000OOUH1  Honolulu Hbr NOS   Oahu      26Sep26   03:24     60      7     15
+0000HOFH1  Honouliuli PHB     Oahu      26Sep26   03:41     50     12     23
+0000SCBH1  Schofield Brks     Oahu                 MSG    MSG    MSG    MSG
+0000SCEH1  Schofield East     Oahu                 MSG    MSG    MSG    MSG
+0000HWLH1  HECO Wilikina      Oahu      26Sep26   03:30     20     11     18
+0000PHJR   Kalaeloa           Oahu      26Sep26   03:00     60      7     21
+0000HFHH1  HECO Farrington    Oahu      26Sep26   03:30     70     10     19
+0000HPLH1  HECO Palehua       Oahu      26Sep26   03:30     60     15     31
+0000HPDH1  HECO Palehua 2     Oahu      26Sep26   03:30     60     17     27
+0000HPHH1  HECO Palehua 3     Oahu      26Sep26   03:30     50     11     20
+0000HPRH1  HECO Paakea        Oahu      26Sep26   03:30     30     12     24
+0000HLRH1  HECO Lualualei     Oahu      26Sep26   03:30     60     12     23
+0000HWVH1  HECO Waianae Vly   Oahu                 MSG    MSG    MSG    MSG
+0000PLHH1  Palehua            Oahu      26Sep26   03:36     50      0      0
+0000WNVH1  Waianae Valley     Oahu      26Sep26   03:37     40     11     26
+0000HHSH1  HECO Ala Hema St   Oahu      26Sep26   03:30     80     13     23
+0000WBHH1  Waianae Harbor     Oahu                 MSG    MSG    MSG    MSG
+0000HKRH1  HECO Kili Dr       Oahu      26Sep26   03:30     20     15     32
+0000HMVH1  HECO Makaha Vly    Oahu      26Sep26   03:30     20     12     27
+0000MKRH1  Makua Range        Oahu      26Sep26   02:58     90     16     30
+0000KKRH1  Kuaokala           Oahu      26Sep26   03:36     30     26     44
+0000AALH1  Kaala              Oahu      26Sep26   03:15     70      7     16
+0000HFRH1  HECO Farrington2   Oahu      26Sep26   03:30    110      5      8
+0000HFYH1  HECO Farrington3   Oahu      26Sep26   03:30     90     21     28
+0000DLGH1  Dillingham         Oahu      26Sep26   02:49     80      6     14
+
+0000MKPH1  Makapulapai        Molokai   26Sep26   03:15    100     21     34
+0000PAFH1  Puu Alii           Molokai   26Sep26   03:22     90      3     13
+0000HOMH1  Honolimaloo        Molokai   26Sep26   03:15     80      8     16
+0000KOPH1  Keopukaloa         Molokai   26Sep26   03:15     90     13     20
+0000MLKH1  Molokai 1          Molokai   26Sep26   00:37    240      3     16
+0000MMPH1  MECO Makaena       Molokai   26Sep26   03:30     80     12     30
+0000MKYH1  MECO Kalae Hwy     Molokai   26Sep26   03:30     90     13     29
+0000PHMK   Molokai AP         Molokai   26Sep26   03:00     80     19     33
+0000ANPH1  Anapuka            Molokai   26Sep26   03:15     70     17     27
+
+0000LNIH1  Lanai 1            Lanai     26Sep26   03:37     70      0      2
+
+0000KAOH1  Kaneloa            Kahoolawe            MSG    MSG    MSG    MSG
+
+0000PHOG   Kahului AP         Maui      26Sep26   03:00     60     13     24
+0000KLIH1  Kahului Hbr NOS    Maui      26Sep26   03:30     60     13     19
+0000MHRH1  MECO Hansen Rd     Maui      26Sep26   03:30     10     10     15
+0000MHKH1  MECO Haleakala Hwy Maui      26Sep26   03:30     40     16     25
+0000MMKH1  MECO Makawao       Maui      26Sep26   03:30    110     15     30
+0000MKTH1  MECO Kula 2        Maui      26Sep26   03:30     90     15     24
+0000PILH1  Piiholo            Maui      26Sep26   03:15     90     10     21
+0000EBYH1  EMI Baseyard       Maui      26Sep26   03:10     20      1      5
+0000HNAH1  Hana               Maui                 MSG    MSG    MSG    MSG
+0000NKUH1  Na Kula            Maui      26Sep26   03:35     90     30     45
+0000AWAH1  Auwahi             Maui                 MSG    MSG    MSG    MSG
+0000KLFH1  Kula 1             Maui      26Sep26   02:48     80      5     18
+0000KKNH1  Kahikinui 1        Maui      26Sep26   03:34     40     11     29
+0000KMEH1  Kamehamenui 1      Maui      26Sep26   02:48    100     18     30
+0000SUMH1  Summit             Maui      26Sep26   03:15    120     26     33
+0000NNEH1  Nene Nest          Maui      26Sep26   03:15    120      9     19
+0000PHQH1  Park HQ            Maui      26Sep26   03:15    100     12     21
+0000WKTH1  Waikamoi Treeline  Maui      26Sep26   03:15     90      8     19
+0000MCTH1  MECO Crater Rd     Maui      26Sep26   03:30     70     11     32
+0000KLGH1  Kula Ag            Maui      26Sep26   03:15    260      0      1
+0000MWAH1  MECO Waipoli Rd    Maui      26Sep26   03:30    120      2      5
+0000KKEH1  Keokea             Maui      26Sep26   03:15    140      1      3
+0000MKUH1  MECO Kula          Maui      26Sep26   03:30     70      3      8
+0000PHUH1  Pulehu             Maui      26Sep26   03:15     90      8     18
+0000MNDH1  MECO Naalaea Rd    Maui      26Sep26   03:30    150      3      5
+0000MURH1  MECO Ulupalakua    Maui      26Sep26   03:30    110      3      6
+0000LPOH1  Lipoa              Maui      26Sep26   03:15    120      2      3
+0000MVHH1  MECO Veterans Hwy  Maui      26Sep26   03:30    340     25     36
+0000KPDH1  Kealia Pond        Maui      26Sep26   03:20     40     25     39
+0000MMAH1  MECO Maalaea       Maui      26Sep26   03:30     10     18     31
+00000P36   Maalaea Bay        Maui      26Sep26   03:15      0      0      0
+0000HULH1  Hanaula            Maui      26Sep26   03:10     60      8     27
+0000OLUH1  Olowalu            Maui      26Sep26   03:15     70      7     20
+0000MMMH1  MECO Mamane Pl     Maui      26Sep26   03:30    330     15     22
+0000MHOH1  MECO Honoapiilani  Maui      26Sep26   03:30     20     27     37
+0000MHHH1  MECO Honoapiilani2 Maui      26Sep26   03:30    360     21     30
+0000MKEH1  MECO Kealaloloa Rg Maui      26Sep26   03:30     20     30     41
+0000MUGH1  MECO Ukumehame Gul Maui      26Sep26   03:30     30     34     51
+0000MOOH1  MECO Olowalu       Maui      26Sep26   03:30     50     18     35
+0000OLUH1  Olowalu            Maui      26Sep26   03:15     70      7     20
+0000MLPH1  MECO Launiupoko    Maui      26Sep26   03:30     20     13     26
+0000MLTH1  MECO Launiupoko 2  Maui      26Sep26   03:30     50     25     46
+0000MLRH1  MECO Lahainaluna   Maui      26Sep26   03:30    290      4     12
+0000LWTH1  Lahaina WTP        Maui      26Sep26   03:15    140      6      9
+0000MKNH1  MECO Kaanapali     Maui      26Sep26   03:30    190      6     20
+0000PHJH   Kapalua-W Maui     Maui      26Sep26   03:00     30     21     33
+0000HOOH1  Honolua            Maui      26Sep26   03:15    100      9     20
+
+0000UPLH1  Upolu Airport      Hawaii    26Sep26   03:15     80     21     33
+0000KMMH1  Kaluamakani        Hawaii    26Sep26   03:15     50     18     28
+0000PMLH1  Puu Mali           Hawaii    26Sep26   03:00    110      0      0
+0000KNKH1  Kanakaleonui       Hawaii    26Sep26   03:15    110      8     13
+0000WPNH1  Waipunalei         Hawaii               MSG    MSG    MSG    MSG
+0000LAUH1  Laupahoehoe        Hawaii    26Sep26   03:15    110     10     19
+0000SPNH1  Spencer            Hawaii    26Sep26   03:15    130      9     16
+0000HKUH1  Hakalau            Hawaii    26Sep26   02:45    140      0      8
+0000KLXH1  Kulaimano          Hawaii    26Sep26   03:15     80      4      9
+0000PIOH1  Piihonua           Hawaii    26Sep26   03:15     70      3      9
+0000PHTO   Hilo AP            Hawaii    26Sep26   03:00     90     13     20
+0000ILOH1  Hilo Hbr NOS       Hawaii    26Sep26   03:24     80      8     15
+0000IPIH1  IPIF               Hawaii    26Sep26   03:15     50      3      6
+0000WEXH1  Waiakea Exp Stn    Hawaii    26Sep26   03:00    MSG      2     12
+0000KEUH1  Keaau              Hawaii    26Sep26   03:15     60      6     11
+0000PAOH1  Pahoa              Hawaii    26Sep26   03:15    320      2     14
+0000NHKH1  Nahuku             Hawaii    26Sep26   03:15     30     12     21
+0000KKUH1  Keaumo             Hawaii    26Sep26   03:34     20     10     19
+0000MOBH1  Mauna Loa Obs      Hawaii    26Sep26   03:00    MSG     19     28
+0000PLIH1  Pali 2             Hawaii    26Sep26   03:01     40     16     27
+0000KMOH1  Kealakomo          Hawaii    26Sep26   02:44     40     18     27
+0000KPRH1  Kapapala           Hawaii    26Sep26   02:48     20     10     17
+0000NENH1  Nene Cabin         Hawaii    26Sep26   03:23     70     16     30
+0000KIOH1  Kaiholena          Hawaii    26Sep26   03:15    350      6     10
+0000LKHH1  Lower Kahuku       Hawaii    26Sep26   03:23    360      3     18
+0000SOPH1  South Point        Hawaii    26Sep26   03:00     60     30     40
+0000KOMH1  Kona Hema          Hawaii    26Sep26   03:15     30      1      2
+0000KRCH1  Kahuku Ranch       Hawaii    26Sep26   03:29     40      5     22
+0000PHRH1  Puho CS            Hawaii    26Sep26   03:22     90      2      4
+0000HLNH1  HELCO Lolo Ln      Hawaii    26Sep26   03:30    130      1      3
+0000HHUH1  HELCO Hualalai Rd  Hawaii    26Sep26   03:30    160      3      5
+0000KOUH1  Keahuolu           Hawaii    26Sep26   03:15     80      1      2
+0000PHKO   Kona Intl AP       Hawaii    26Sep26   03:00    250      5    MSG
+0000KHOH1  Kaloko-Honokohau   Hawaii    26Sep26   03:15    130      3      4
+0000PLMH1  Palamanui          Hawaii    26Sep26   03:15      0      0      0
+0000PWAH1  Puu Waawaa (UHM)   Hawaii    26Sep26   03:15    110     15     26
+0000KIUH1  Kaiaulu Puu Waawaa Hawaii    26Sep26   03:15    150      2      5
+0000KPLH1  Kaupulehu          Hawaii    26Sep26   03:36    260      6     23
+0000PWWH1  Puu Waawaa         Hawaii    26Sep26   03:37     80      3      7
+0000HMHH1  HELCO Mamalahoa 2  Hawaii    26Sep26   03:30    100      4      8
+0000MMLH1  Mamalahoa          Hawaii    26Sep26   03:15     50      0      1
+0000HMWH1  HELCO Mamalahoa 3  Hawaii    26Sep26   03:30    130      1      3
+0000PULH1  Puuanahulu         Hawaii    26Sep26   03:37    180      3      5
+0000AHMH1  Ahumoa             Hawaii    26Sep26   03:35     10      4     10
+0000AIPH1  Aipaloa            Hawaii    26Sep26   03:15    200      4      6
+0000HSRH1  HELCO Saddle Rd    Hawaii    26Sep26   03:30    120      2      6
+0000HMYH1  HELCO Mamalahoa    Hawaii    26Sep26   03:30    140      6      9
+0000HHCH1  HELCO Hokuloa UCC  Hawaii    26Sep26   03:30     90      4     10
+0000HWRH1  HELCO Waikoloa Rd  Hawaii    26Sep26   03:30    150      9     14
+0000HWXH1  HELCO Waikoloa 2   Hawaii    26Sep26   03:30    220      6      9
+0000WKVH1  Waikoloa           Hawaii    26Sep26   03:35     90     17     33
+0000HLOH1  HELCO Lalamilo     Hawaii    26Sep26   03:30     50     30     44
+0000LLAH1  Lalamilo           Hawaii    26Sep26   03:15     40      8     17
+0000HKWH1  HELCO Kawaihae Rd  Hawaii    26Sep26   03:30     60     35     49
+0000PKAH1  PTA Kipuka Alala   Hawaii    26Sep26   02:55    110     14     29
+0000PKWH1  PTA West           Hawaii    26Sep26   02:56     20      4     13
+0000PKMH1  PTA Keamuku        Hawaii    26Sep26   02:50    170      0      0
+0000PTRH1  PTA Range 17       Hawaii               MSG    MSG    MSG    MSG
+0000PERH1  Puhe CS            Hawaii    26Sep26   03:24    110     17     47
+0000KWHH1  Kawaihae NOS       Hawaii               MSG    MSG    MSG    MSG
+0000HHKH1  HELCO Hulukupuna   Hawaii    26Sep26   03:30    110     26     41
+0000PLAH1  Puuloa             Hawaii    26Sep26   03:15    320     46     60
+0000HMLH1  HELCO Maluokalani  Hawaii               MSG    MSG    MSG    MSG
+0000HKDH1  HELCO Ala Kahua    Hawaii    26Sep26   03:30     60     31     45
+0000KHRH1  Kohala Ranch       Hawaii    26Sep26   03:35     50     30     52
+0000KEHH1  Kehena             Hawaii    26Sep26   03:15    360      8     18
+
