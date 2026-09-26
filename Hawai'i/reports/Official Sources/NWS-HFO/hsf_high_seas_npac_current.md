@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T01:40:22-10:00 HST
-- **Report created:** 2026-09-26T01:40:22-10:00 HST
+- **Generated:** 2026-09-26T01:49:23-10:00 HST
+- **Report created:** 2026-09-26T01:49:23-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hsf_high_seas_npac
 - **Official source:** https://forecast.weather.gov/product.php?site=HFO&product=HSF&issuedby=NP

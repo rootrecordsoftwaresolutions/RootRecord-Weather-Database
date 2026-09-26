@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T01:32:20.637754-10:00 HST
-- **Report created:** 2026-09-26T01:40:21-10:00 HST
+- **Collected:** 2026-09-26T01:49:21.235355-10:00 HST
+- **Report created:** 2026-09-26T01:49:21-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 11:31:26 UTC
+Last update Sat, 26 Sep 2026 11:48:00 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -299,9 +299,7 @@ Central North Pacific
 
 Tropical Weather Outlook
 
-(en Español*)
-
-800 PM HST Fri Sep 25 2026
+200 AM HST Sat Sep 26 2026
 
 Hurricane Nolo
 
@@ -313,7 +311,7 @@ Storm Archive
 ...NOLO STILL NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
 ...EXPECTED TO STRENGTHEN DURING THE NEXT COUPLE OF DAYS WHILE REMAINING WELL SOUTH OF THE HAWAIIAN ISLANDS...
 
-11:00 PM HST Fri Sep 25
+2:00 AM HST Sat Sep 26
 
 Location: 16.9°N 155.3°W
 
@@ -327,9 +325,9 @@ Public
 
 Advisory
 
-#23
+#23A
 
-1100 PM HST
+200 AM HST
 
 Forecast
 
@@ -418,7 +416,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-200 AM EDT Sat Sep 26 2026
+800 AM EDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 
@@ -615,9 +613,7 @@ Eastern North Pacific
 
 Tropical Weather Outlook
 
-(en Español*)
-
-1100 PM PDT Fri Sep 25 2026
+500 AM PDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 

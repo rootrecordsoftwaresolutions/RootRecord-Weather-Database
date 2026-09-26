@@ -4,7 +4,7 @@
 
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=CLM&issuedby=HNL
 - **Collected:** 2026-09-25T16:46:18.012145-10:00 HST
-- **Report created:** 2026-09-26T01:40:21-10:00 HST
+- **Report created:** 2026-09-26T01:49:21-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
