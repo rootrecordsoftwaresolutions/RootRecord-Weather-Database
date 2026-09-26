@@ -4,7 +4,7 @@
 
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=2
 - **Collected:** 2026-09-26T09:15:33.041211-10:00 HST
-- **Report created:** 2026-09-26T09:47:33-10:00 HST
+- **Report created:** 2026-09-26T09:55:33-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
