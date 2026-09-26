@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T00:21:47-10:00 HST
-- **Report created:** 2026-09-26T00:21:47-10:00 HST
+- **Generated:** 2026-09-26T00:29:46-10:00 HST
+- **Report created:** 2026-09-26T00:29:46-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3648,7 +3648,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T00:15:07.931162-10:00 HST
+- **Collected:** 2026-09-26T00:23:05.422695-10:00 HST
 
 ```text
                         
@@ -4501,7 +4501,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T00:21:46.520049-10:00 HST
+- **Collected:** 2026-09-26T00:29:46.415184-10:00 HST
 
 ```text
 Home
@@ -4625,7 +4625,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 10:20:14 UTC
+Last update Sat, 26 Sep 2026 10:21:33 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8396,7 +8396,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T00:05:48.003776-10:00 HST
+- **Collected:** 2026-09-26T00:22:47.096637-10:00 HST
 
 ```text
 National Weather Service

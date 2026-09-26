@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T00:21:48-10:00 HST
-- **Report created:** 2026-09-26T00:21:48-10:00 HST
+- **Generated:** 2026-09-26T00:29:48-10:00 HST
+- **Report created:** 2026-09-26T00:29:48-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** cwf_coastal_waters
 - **Official source:** https://api.weather.gov/products/types/CWF/locations/HFO
