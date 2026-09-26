@@ -1,0 +1,1015 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<title>Surf Observations</title>
+<meta name="DC.title" content="Surf Observations" />
+<meta name="DC.description" content="Surf Reports reported to the National Weather Service Forecast Office in Honolulu, Hawai`i." />
+<meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
+<meta name="DC.date.created" scheme="ISO8601" content="January 23rd 2026 12:10 AM" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+<meta name="DC.keywords" content="surf, national, weather, service, honolulu, hawaii, noaa, cphc, central, pacific, hurricane, center, tropical, storm, cyclone, depression" />
+<meta name="DC.publisher" content="NOAA's National Weather Service" />
+<meta name="DC.contributor" content="National Weather Service" />
+<meta name="DC.rights" content="/disclaimer.php" />
+<meta name="rating" content="General" />
+<meta name="robots" content="index,follow" />
+
+
+        <link href="/css/weatherstyle.css" rel="stylesheet" type="text/css" />
+        <link href="/css/template.css" rel="stylesheet" type="text/css" />
+        <link href="/css/myfcst.css" rel="stylesheet" type="text/css" />
+        <link href="/css/ForecastSearch.css" rel="stylesheet" type="text/css" />
+        <link href="/css/pointforecast.css" rel="stylesheet" type="text/css" />
+        <link href="/css/jqueryui10_3_1custom/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>        <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>        <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>        <script type="text/javascript" src="/js/ForecastSearch.js"></script>        <script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub-agency=NOAA&yt=true&pga4=G-736JJ6NL0V"></script>        <script type="text/javascript" src="/js/topNavMenu.js"></script>        <script type="text/javascript" src="/js/NidsESRI.js"></script>        <script type="text/javascript" src="/js/nwsexit.js"></script>
+
+
+        <link href="/css/widgets.css" rel="stylesheet" type="text/css" />
+        <link href="/css/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+        
+        <script type="text/javascript" src="/js/widgets.js"></script>
+        <script type="text/javascript" src="/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/js/nwsexit.js"></script>
+        
+<script>
+$(document).ready(function() {
+  $('img.nocache').each(function () {
+      var $this = $(this);
+      $this.attr('src', noCache($this.attr('src')));
+  });
+});
+function noCache(url) {
+  return url + (url.indexOf('?') >= 0 ? '&nocache=' : '?') + $.now();
+}
+</script>
+
+    </head>
+    <body> 
+        
+
+        <div class="header">
+    <div class="header-content">
+        <a href="https://www.weather.gov" class="header-nws"><img src="/bundles/templating/images/header/header.png" alt="National Weather Service"/></a>
+        <a href="http://www.commerce.gov" class="header-doc"><img src="/bundles/templating/images/header/header_doc.png" alt="United States Department of Commerce"/></a>
+        <a href="http://www.noaa.gov" class="header-noaa" title="National Oceanic and Atmospheric Administration"></a>
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div class="header-shadow">
+    <div class="header-shadow-content"></div>
+</div>
+<script>
+    var domains = {
+        weather: "https://www.weather.gov",
+        forecast: "https://forecast.weather.gov",
+        airquality: "https://airquality.weather.gov",
+        aviation: "https://aviationweather.gov",
+        water: "https://water.weather.gov",
+        graphical: "https://graphical.weather.gov",
+        api: "https://api.weather.gov",
+        radar: "https://radar.weather.gov",
+        esriGeocode: "https://geocode.arcgis.com"
+    }
+</script>
+
+
+        <div class="center">
+
+            <div class="content">
+    <div class="topnav">
+        <ul id="topnav">
+            <li>
+                <script type="text/javascript">
+                    function goBack() {
+                        if (document.referrer.toLowerCase().indexOf("weather.gov") != -1) {
+                            history.back();
+                        } else {
+                            document.location.href = "https://www.weather.gov";
+                        }
+                    }
+                </script>
+                <div class="topMenuNavList home">
+                    <a href="#" onclick="goBack();">HOME</a>
+                </div>
+            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/forecastmaps/">FORECAST</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov">Local</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://digital.weather.gov">Graphical</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://aviationweather.gov">Aviation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/marine/">Marine</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://water.noaa.gov">Rivers and Lakes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.nhc.noaa.gov">Hurricanes</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.spc.noaa.gov">Severe Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/fire/">Fire Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Sunrise/Sunset</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Long Range Forecasts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.cpc.ncep.noaa.gov">Climate Prediction</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.swpc.noaa.gov">Space Weather</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/climate">PAST WEATHER</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrh/climate">Past Weather</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://gml.noaa.gov/grad/solcalc/">Astronomical Data</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table">Certified Weather Data</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/safety/">SAFETY</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/informationcenter">INFORMATION</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/briefing/">Daily Briefing</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/hazstat">Damage/Fatality/Injury Statistics</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="http://mag.ncep.noaa.gov">Forecast Models</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/gis/">GIS Data Portal</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/nwr">NOAA Weather Radio</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/publications/">Publications</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/skywarn/">SKYWARN Storm Spotters</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/stormready">StormReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/tsunamiready/">TsunamiReady</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/notification/">Service Change Notices</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/education/">EDUCATION</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/news">NEWS</a>
+                    </div>
+                                                                                </li>
+                            <li>
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/search/">SEARCH</a>
+                    </div>
+                                            <div style="opacity: 0;" class="sub">
+                            <ul class="no-links">
+                            <li><!-- Begin search code -->
+                                <div id="site-search">
+                                    <form method="get" action="https://search.usa.gov/search" style="margin-bottom: 0; margin-top: 0;">
+                                        <input type="hidden" name="v:project" value="firstgov" />
+                                        <label for="query">Search For</label>
+                                        <input type="text" name="query" id="query" size="12" />
+                                        <input type="submit" value="Go" />
+                                        <p>
+                                            <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+                                            <label for="nws" class="search-scope">NWS</label>
+                                            <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+                                            <label for="noaa" class="search-scope">All NOAA</label>
+                                        </p>
+                                    </form>
+                                </div>
+                            </li>
+                            </ul>
+                        </div>
+                                    </li>
+                            <li class="last">
+                    <div class="topMenuNavList section-link">
+                        <a href="https://www.weather.gov/about/">ABOUT</a>
+                    </div>
+                                                                        <div style="opacity: 0;" class="sub">
+                                <ul>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/about/">About NWS</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/organization">Organization</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://sites.google.com/a/noaa.gov/nws-insider/">For NWS Employees</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/ncep/">National Centers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/nws-careers">Careers</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/contact">Contact Us</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://forecast.weather.gov/glossary.php">Glossary</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.weather.gov/socialmedia">Social Media</a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.noaa.gov/NWStransformation">NWS Transformation</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </li>
+                    </ul>
+    </div>
+</div>
+
+
+            <div class="center-content">
+                <div id="zipcity_news">
+                    <div class="one-sixth-first">
+    <div id="forecast-lookup">
+        <form name="getForecast" id="getForecast" action="https://forecast.weather.gov/zipcity.php" method="get">
+            <label for="inputstring">Local forecast by <br />"City, St" or ZIP code</label>
+            <input id="inputstring" name="inputstring" type="text" value="Enter location ..." onclick="this.value=''" />
+            <input name="btnSearch" id="btnSearch" type="submit" value="Go" />
+            <div id="txtError">
+                <div id="errorNoResults" style="display:none;">Sorry, the location you searched for was not found. Please try another search.</div>
+                <div id="errorMultipleResults" style="display:none">Multiple locations were found. Please select one of the following:</div>
+                <div id="errorChoices" style="display:none"></div>
+                <input id="btnCloseError" type="button" value="Close" style="display:none" />
+            </div>
+            <div id="txtHelp"><a style="text-decoration: underline;" href="javascript:void(window.open('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530').focus());">Location Help</a></div>
+        </form>
+    </div>
+</div>
+
+                        <div class="five-sixth-last">
+                    <div id="topnews">
+                <div id="global_localnews" style="float:left;width:800px;">
+                    <div id="global_localnews_headerbar_main">
+                        <div id="global_localnews_headerbar_sub_left">
+                            <div id="global_localnews_title" style="color:black;margin:5px 0px 2px 0px;font-size:14px;font-weight:bold;">News Headlines</div>
+                        </div>
+                    </div>
+                    <div id="localnews">
+                        <ul>
+                                                            <li><a href="https://www.weather.gov/hfo/august2026monthlysummary"><strong>August 2026 Monthly Rainfall Summary for Hawaii</strong></a></li>
+                                                            <li><a href="http://www.weather.gov/hfo/TropicalEventSummary"><strong>Hurricane Lala - Post Tropical Cyclone Report (updated rainfall)</strong></a></li>
+                                                    </ul>
+                                                <ul>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                /** news headline Additional Headlines link **/
+                $(document).ready(function () {
+                    $("#additionalNews").toggle();
+                    $(".toggleHeadlines a").click(function(e){
+                        e.preventDefault();
+                        e.stopPropagation();
+                        $(".toggleHeadlines").toggle();
+                        $(".hidden-news-link").toggle();
+                    });
+                });
+            </script>
+            </div>
+
+                </div>
+                <div class="full-width-bordertop">
+                    <div class="div-full">
+
+                        <!-- area for the myforecast widget and wwamap data -->
+                        <div class="one-sixth-first" id="sidebar">
+                            <script type="text/javascript" src="/js/jquery-cookie.js"></script>
+<script type="text/javascript" src="/js/MyForecastWidget.js"></script>
+<div id="myfcst-widget">
+    <div id="myfcst">
+        <form id='myfcst-form' action='/widgets/MyForecastWidget.php'>
+            <span id="myfcst-title">Customize Your <strong>Weather.gov</strong></span>
+            <div id="myfcst-input-block">
+                <input type="text" name="myfcst-location-input" id="myfcst-location-input" value="City, ST" />
+                <label for="myfcst-location-input">Enter Your City, ST or ZIP Code</label><br />
+                <input type="checkbox" name="myfcst-remember" id="myfcst-remember" />
+                <label for="myfcst-remember">Remember Me</label>
+            </div>
+            <div class="myfcst-footer">
+                <input type="submit" value="Get Weather" id="myfcst-submit" />
+                <p class="myfcst-policy"><a href="/privacy.php">Privacy Policy</a></p>
+            </div>
+        </form>
+        <div id="myfcst-fcst"></div>
+        <div id="myfcst-multi-result"></div>
+        <div id="myfcst-loading">LOADING...</div>
+    </div>
+</div>
+
+                            
+                        </div><!-- end of <div class="one-sixth-first"> -->
+
+                        <div class="five-sixth-first" id="pagebody">
+                            <div class="div-full breadcrumb">
+    <div class="sitename">
+        <p class="sitename-name">Honolulu, HI</p>
+        <p class="sitename-class">Weather Forecast Office</p>
+    </div>
+    <div class="location">
+        <h1 class='location-pagetitle'>Surf Observations</h1>
+        <div class='location-breadcrumb'>
+            <a href="https://www.weather.gov">Weather.gov</a>
+                                                &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
+                                &gt; Surf Observations
+                    </div>
+    </div>
+</div>
+
+                            <div class="div-full">
+    <div class="subMenuNav">
+        <ul id="subMenuNav">
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/watchwarn">Current Hazards</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/watchwarn"> Hawaii Hazards</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=VIE"> Dự báo và Bản đồ nguy hiểm - Tiếng Việt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=CHI"> 预报和灾害地图 - 中文</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=SMO"> Tala o le Tau ma Ata o Fa&#039;afanua o Tulaga Lamatia - Samoan</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=SPA"> Mapa de Pronósticos y Riesgos - Español</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=FRA"> Carte des prévisions et des dangers - Français</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/cphc"> Tropical Cyclones</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/tsunami"> Tsunami</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/quake"> Earthquake</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov"> National Hazards</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/obs">Current Conditions</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/hfo/obs"> Observations</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/satellite"> Satellite</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/hydrology"> Hydrology</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/analyses"> Analyses/Forecast Charts</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://radar.weather.gov/region/hawaii/standard">Radar</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHKI/standard"> Local Kauai (PHKI) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTkuNDQzLDIxLjYwMl0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIS0kifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local Kauai (PHKI) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHMO/standard"> Local Molokai (PHMO) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTcuMTgsMjEuMTMzXSwibG9jYXRpb24iOm51bGwsInpvb20iOjgsImZpbHRlciI6IldTUi04OEQiLCJsYXllciI6InNyX2JyZWYiLCJzdGF0aW9uIjoiUEhNTyJ9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOnRydWUsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19#/"> Local Molokai (PHMO) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHKM/standard"> Local Kohala (PHKM) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTUuNzc4LDIwLjEyNV0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIS00ifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local Kohala (PHKM) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/station/PHWA/standard"> Local South Point (PHWA) Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy0xNTUuNTY5LDE5LjA5NV0sImxvY2F0aW9uIjpudWxsLCJ6b29tIjo4LCJmaWx0ZXIiOiJXU1ItODhEIiwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IlBIV0EifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/"> Local South Point (PHWA) Enhanced Radar</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://radar.weather.gov/region/hawaii/standard"> Regional Standard Radar (low bandwidth)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/FTM"> Latest Radar Status Messages</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/radar"> Hawaii Radars</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/forecast">Forecasts</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/hfo/marine"> Marine</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/forecast"> Hawaii</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/aviation"> Aviation</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://forecast.weather.gov/wxplanner.php?site=hfo"> Activity Planner</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/firewx"> Fire Weather</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/gfe_graphics"> Local Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/enhanced_cpacfull"> High Seas Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php"> National Graphics</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/model"> Model Output</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://water.noaa.gov/wfo/hfo">Rivers and Lakes</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="http://water.noaa.gov/"> New National Water Prediction Service (NWPS)</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="https://www.weather.gov/wrh/Climate?wfo=hfo">Climate and Past Weather</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/wrh/Climate?wfo=hfo"> Local</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.weather.gov/wrh/Climate"> National</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/climateportal"> Hawaii Climate Portal</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/hfo/TropicalEventSummary"> Tropical Cyclone Reports</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                            <li>
+                    <div class="subMenuNavList section-link">
+                        <a href="/hfo/faq">Local Programs</a>
+                    </div>
+                                            <div class="sub">
+                            <ul>
+                                                                    <li>
+                                        <a href="/hfo/nwr"> Weather Radio</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/wxsafety"> Weather &amp; Safety</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/tsunami_safety"> Tsunami Information</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/faq"> Frequently Asked Questions</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/events"> Event Summaries</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/kids"> Weather in Hawaii</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/safety/flood-turn-around-dont-drown"> Turn Around, Don&#039;t Drown</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/skywarn"> SkyWarn Spotters</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/stormready/"> StormReady</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/tsunamiready/"> TsunamiReady</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/mission"> Our Mission</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/about"> Our Office</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/office_products"> Our Products</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/rss_page.php?site_name=hfo"> News Items</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/news"> News Archive</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/aboutrss"> HI RSS Feeds</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/widgets"> Widgets</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                    </li>
+                    </ul>
+    </div>
+</div>
+
+
+                            
+                            
+                            
+                            <div class="div-full">
+<div class="cms-content"><script type="text/javascript" src="/source/hfo/hfo.js"></script>
+<style type="text/css">table.collapse {  
+border-collapse: collapse; 
+border: 2px solid white; 
+}
+table.collapse tr td{ 
+border-collapse: collapse; 
+border: 2px solid white; 
+}
+</style>
+<!--<p>    
+                        <a href="https://forecast.weather.gov/product.php?issuedby=HFO&amp;product=OMR&amp;site=hfo">                Other Marine Products
+                &nbsp;
+                Issued: 09/26/2026 11:15:00 AM UTC                </a>                
+</p>
+
+<p><p>Issued at 315 PM HST FRI SEP 25 2026</p>
+<p>
+FULL FACE SURF OBSERVATIONS ARE TAKEN BY COUNTY LIFE GUARDS AND
+COOPERATIVE OBSERVERS AND RELAYED TO THE NATIONAL WEATHER SERVICE
+FOR DISSEMINATION. THESE OBSERVATIONS ARE NOT QUALITY CONTROLLED.
+
+</p>
+<table class="omr" style="width: 70%;" border="2"><caption style="font-weight: bold;">Surf Reports from Kauai <a href="/source/hfo/xml/Kauai.OMR.HFO.xml"><img src="/images/hfo/reference/xml.gif" alt="RSS Feed" title="RSS Feed" width="36" height="14" /></a></caption><tr><th style="background: #b0c4de;">LOCATION</th><th style="background: #b0c4de;">TIME</th><th style="background: #b0c4de;">SURF HEIGHT</th><th style="background: #b0c4de;">DIR</th><th style="background: #b0c4de;">PER</th><th style="background: #b0c4de;">REMARKS</th></tr>
+<tr><td style="text-align: left;">KEE</td><td>1235 PM</td><td> 2-5</td><td> NE</td><td> 9</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">HAENA</td><td>1235 PM</td><td> 2-5</td><td> NE</td><td> 9</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">HANALEI</td><td>1235 PM</td><td> 0-2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">ANAHOLA</td><td>1235 PM</td><td> 3-6</td><td>ENE</td><td> 9</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">KEALIA</td><td>1235 PM</td><td> 6-10</td><td>ENE</td><td> 10</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">LYDGATE</td><td>1235 PM</td><td> 4-8+</td><td>ENE</td><td> 10</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">POIPU</td><td>1235 PM</td><td> 2-4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">SALT POND</td><td>1235 PM</td><td> 2-4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">KEKAHA</td><td>1235 PM</td><td> 1-3</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<table class="omr" style="width: 70%;" border="2"><caption style="font-weight: bold;">Surf Reports from Oahu <a href="/source/hfo/xml/Oahu.OMR.HFO.xml"><img src="/images/hfo/reference/xml.gif" alt="RSS Feed" title="RSS Feed" width="36" height="14" /></a></caption><tr><th style="background: #b0c4de;">LOCATION</th><th style="background: #b0c4de;">TIME</th><th style="background: #b0c4de;">SURF HEIGHT</th><th style="background: #b0c4de;">DIR</th><th style="background: #b0c4de;">PER</th><th style="background: #b0c4de;">WIND</th><th style="background: #b0c4de;">REMARKS</th></tr>
+<tr><td style="text-align: left;">DIAMOND HEAD</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">SUNSET</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">WAIKIKI</td><td>1145 AM</td><td> 0-1</td><td>&nbsp;</td><td>&nbsp;</td><td> ENE 10-15</td><td> CANOES</td></tr>
+<tr><td style="text-align: left;">SANDY BEACH</td><td>1145 AM</td><td> 2-3</td><td>&nbsp;</td><td>&nbsp;</td><td> ENE 15-20</td><td> SHORE BREAK</td></tr>
+<tr><td style="text-align: left;">MAKAPUU</td><td>1145 AM</td><td> 4-6</td><td>&nbsp;</td><td>&nbsp;</td><td> ENE 10-15</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">EHUKAI</td><td>1145 AM</td><td> 0-1</td><td>&nbsp;</td><td>&nbsp;</td><td> NE 10-15</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">MAKAHA</td><td>1145 AM</td><td> 0-1</td><td>&nbsp;</td><td>&nbsp;</td><td> VRB 05</td><td>&nbsp;</td></tr>
+</table>
+<table class="omr" style="width: 70%;" border="2"><caption style="font-weight: bold;">Surf Reports from Maui <a href="/source/hfo/xml/Maui.OMR.HFO.xml"><img src="/images/hfo/reference/xml.gif" alt="RSS Feed" title="RSS Feed" width="36" height="14" /></a></caption><tr><th style="background: #b0c4de;">LOCATION</th><th style="background: #b0c4de;">TIME</th><th style="background: #b0c4de;">SURF HEIGHT</th><th style="background: #b0c4de;">DIR</th><th style="background: #b0c4de;">WIND</th><th style="background: #b0c4de;">REMARKS</th></tr>
+<tr><td style="text-align: left;">KANAHA</td><td>1108 AM</td><td> 1-3</td><td>&nbsp;</td><td> NE 10-20+</td><td> PARTLY CLDY</td></tr>
+<tr><td style="text-align: left;">BALDWIN SHOR</td><td>1109 AM</td><td> 1-2</td><td>&nbsp;</td><td> NE 15-25</td><td> PARTLY CLDY</td></tr>
+<tr><td style="text-align: left;">BALDWIN OUTE</td><td>1109 AM</td><td> 3-6</td><td>&nbsp;</td><td> NE 15-25</td><td> PARTLY CLDY</td></tr>
+<tr><td style="text-align: left;">HOOKIPA</td><td>1110 AM</td><td> 1-4</td><td>&nbsp;</td><td> NE 10-20</td><td> MOSTLY CLDY</td></tr>
+<tr><td style="text-align: left;">KAMAOLE I</td><td>1111 AM</td><td> 1-2</td><td>&nbsp;</td><td> NE 10-20</td><td> SUNNY</td></tr>
+<tr><td style="text-align: left;">KAMAOLE III</td><td>1112 AM</td><td> 0-1</td><td>&nbsp;</td><td> NE 20-30</td><td> PARTLY CLDY</td></tr>
+<tr><td style="text-align: left;">HANAKAOO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">FLEMING</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<table class="omr" style="width: 70%;" border="2"><caption style="font-weight: bold;">Surf Reports from Big Island <a href="/source/hfo/xml/BigIsland.OMR.HFO.xml"><img src="/images/hfo/reference/xml.gif" alt="RSS Feed" title="RSS Feed" width="36" height="14" /></a></caption><tr><th style="background: #b0c4de;">LOCATION</th><th style="background: #b0c4de;">TIME</th><th style="background: #b0c4de;">SURF HEIGHT</th><th style="background: #b0c4de;">DIR</th><th style="background: #b0c4de;">WIND</th><th style="background: #b0c4de;">REMARKS</th></tr>
+<tr><td style="text-align: left;">RICHARDSONS</td><td>1101 AM</td><td> 2-3</td><td> E</td><td> VRB 0-5</td><td> OVERCAST/RA</td></tr>
+<tr><td style="text-align: left;">HONOLII</td><td>1102 AM</td><td> 3-5</td><td>&nbsp;</td><td> L/V 0-5</td><td> RAIN</td></tr>
+<tr><td style="text-align: left;">PUNALU'U</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">ISAAC HALE</td><td>1103 AM</td><td> 5-6+</td><td>&nbsp;</td><td> NE 5-10</td><td> RAIN</td></tr>
+<tr><td style="text-align: left;">HAPUNA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td style="text-align: left;">KAHALUU</td><td>1105 AM</td><td> 3-5</td><td> NW</td><td> L/V 0-5</td><td> OVERCAST</td></tr>
+<tr><td style="text-align: left;">MAGIC SANDS</td><td>1106 AM</td><td> 0-1</td><td>&nbsp;</td><td> L/V 0-5</td><td> OVERCAST</td></tr>
+<tr><td style="text-align: left;">KUA BAY</td><td>1107 AM</td><td> 1-2 OCNL 3</td><td>&nbsp;</td><td> SW 10-15</td><td> OVERCAST</td></tr>
+</table>
+<table class="omr" style="width: 70%;">
+<tr><td></td></tr>
+<tr><td>   SURF HEIGHT              </td><td> Reported in feet</td></tr>
+<tr><td>   WIND AND SWELL DIRECTION </td><td> Reported in 16 pt compass</td></tr>
+<tr><td>   PERIOD (PER)             </td><td> Reported in seconds</td></tr>
+<tr><td>   VISIBILITY (VIS)         </td><td> Reported in statute miles</td></tr>
+<tr><td>   CLARITY                  </td><td> Water clarity</td></tr>
+<tr><td>   TIME                     </td><td> Hawaiian Standard Time</td></tr>
+<tr><td>   WIND SPEED               </td><td> Reported in miles per hour</td></tr>
+<tr><td>   + (IN SURF HEIGHT)       </td><td> Occasionally higher sets</td></tr>
+<tr><td>   0 (IN SURF HEIGHT)       </td><td> Flat</td></tr>
+<tr><td></td></tr>
+<tr><td>$$</td></tr>
+<tr><td></td></tr>
+</table>
+
+</p>-->
+<p><a href="/source/hfo/xml/Kauai.OMR.HFO.xml">Kauai Surf Observations xml<img alt="" src="/images/hfo/reference/xml.gif" style="width: 36px; height: 14px;" /></a><br />
+<a href="/source/hfo/xml/Oahu.OMR.HFO.xml">Oahu Surf Observations xml<img alt="" src="/images/hfo/reference/xml.gif" style="width: 36px; height: 14px;" /></a><br />
+<a href="/source/hfo/xml/Maui.OMR.HFO.xml">Maui Surf Observations xml<img alt="" src="/images/hfo/reference/xml.gif" style="width: 36px; height: 14px;" /></a><br />
+<a href="/source/hfo/xml/BigIsland.OMR.HFO.xml">Big Island Surf Observations xml<img alt="" src="/images/hfo/reference/xml.gif" style="width: 36px; height: 14px;" /></a></p>
+
+<p>    
+                        <a href="https://forecast.weather.gov/product.php?issuedby=HFO&amp;product=OMR&amp;site=hfo">                Other Marine Products
+                &nbsp;
+                Issued: 09/26/2026 11:15:00 AM UTC                </a>                
+</p>
+
+<p>&nbsp;</p>
+
+<p>    <pre>
+                        
+948
+SXHW80 PHFO 260115
+OMRHFO
+
+SURF OBSERVATIONS
+NATIONAL WEATHER SERVICE HONOLULU HI
+315 PM HST FRI SEP 25 2026
+
+FULL FACE SURF OBSERVATIONS ARE TAKEN BY COUNTY LIFE GUARDS AND
+COOPERATIVE OBSERVERS AND RELAYED TO THE NATIONAL WEATHER SERVICE
+FOR DISSEMINATION. THESE OBSERVATIONS ARE NOT QUALITY CONTROLLED.
+
+HIZ003-004-029&gt;031-260100-
+KAUAI-
+
+LOCATION        TIME   SURF HEIGHT DIR   PER                  REMARKS
+KEE          1235 PM           2-5  NE     9
+HAENA        1235 PM           2-5  NE     9
+HANALEI      1235 PM           0-2
+ANAHOLA      1235 PM           3-6 ENE     9
+KEALIA       1235 PM          6-10 ENE    10
+LYDGATE      1235 PM          4-8+ ENE    10
+POIPU        1235 PM           2-4
+SALT POND    1235 PM           2-4
+KEKAHA       1235 PM           1-3
+$$
+
+HIZ006-007-009&gt;011-032&gt;036-260100-
+OAHU-
+
+LOCATION        TIME   SURF HEIGHT DIR PER         WIND      REMARKS
+DIAMOND HEAD
+SUNSET
+WAIKIKI      1145 AM           0-1            ENE 10-15       CANOES
+SANDY BEACH  1145 AM           2-3            ENE 15-20  SHORE BREAK
+MAKAPUU      1145 AM           4-6            ENE 10-15
+EHUKAI       1145 AM           0-1             NE 10-15
+MAKAHA       1145 AM           0-1               VRB 05
+$$
+
+HIZ015&gt;018-022-045&gt;050-260100-
+MAUI-MOLOKAI-LANAI-KAHOOLAWE-
+
+LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
+KANAHA       1108 AM           1-3          NE 10-20+  PARTLY CLDY
+BALDWIN SHOR 1109 AM           1-2           NE 15-25  PARTLY CLDY
+BALDWIN OUTE 1109 AM           3-6           NE 15-25  PARTLY CLDY
+HOOKIPA      1110 AM           1-4           NE 10-20  MOSTLY CLDY
+KAMAOLE I    1111 AM           1-2           NE 10-20        SUNNY
+KAMAOLE III  1112 AM           0-1           NE 20-30  PARTLY CLDY
+HANAKAOO
+FLEMING
+$$
+
+HIZ023-026&gt;028-051&gt;054-260100-
+BIG ISLAND OF HAWAII-
+
+LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
+RICHARDSONS  1101 AM           2-3     E      VRB 0-5  OVERCAST/RA
+HONOLII      1102 AM           3-5            L/V 0-5         RAIN
+PUNALU`U
+ISAAC HALE   1103 AM          5-6+            NE 5-10         RAIN
+HAPUNA
+KAHALUU      1105 AM           3-5    NW      L/V 0-5     OVERCAST
+MAGIC SANDS  1106 AM           0-1            L/V 0-5     OVERCAST
+KUA BAY      1107 AM    1-2 OCNL 3           SW 10-15     OVERCAST
+$$
+
+LEGEND
+   SURF HEIGHT              - Reported in feet
+   WIND AND SWELL DIRECTION - Reported in 16 pt compass
+   PERIOD /PER/             - Reported in seconds
+   VISIBILITY /VIS/         - Reported in statute miles
+   CLARITY                  - Water clarity
+   TIME                     - Hawaiian Standard Time
+   WIND SPEED               - Reported in miles per hour
+   + /IN SURF HEIGHT/       - Occasionally higher sets
+   0 /IN SURF HEIGHT/       - Flat
+
+$$
+
+
+
+
+                </pre>
+</p>
+
+</div>
+</div>
+<div style="clear:both"></div>
+                        </div>
+
+                    </div><!-- end of <div class="partial-width-borderbottom"> -->
+   
+                </div><!-- <div class="full-width-border"> -->
+           
+                <!-- area for features, frontpage thumbs, and custom page -->
+                
+                
+                <!-- end of <div class="partial-width-borderbottom feature-block"> -->
+                
+                <div class="full-width-bordertop">
+                    <div class="full-width-first communication-links">
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="http://www.twitter.com/#!/NWSHonolulu" target="_blank">
+                <img src="/bundles/templating/images/social/x.png" width="16" alt="Follow us on X" height="16" />&nbsp;&nbsp;Follow us on X
+            </a>
+        </div>
+    </div>
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="https://www.facebook.com/NWSHonolulu/" target="_blank">
+                <img src="/bundles/templating/images/social/facebook.png" width="16" alt="Follow us on Facebook" height="16" />&nbsp;&nbsp;Follow us on Facebook
+            </a>
+        </div>
+    </div>
+        <div class ="one-sixth-first divs">
+        <div class="myforecast-current">
+            <a style="text-decoration:none;" href="https://www.youtube.com/NWSHonolulu" target="_blank">
+                <img src="/bundles/templating/images/social/youtube.png" width="16" alt="Follow us on YouTube" height="16" />&nbsp;&nbsp;Follow us on YouTube
+            </a>
+        </div>
+    </div>
+    <div class ="one-half-last nopad">
+        <span class="txt-rt myforecast-current">
+            <div class="myforecast-current">
+                <a href="/rss_page.php?site_name=hfo" target="_blank" style="text-decoration:none;font-size:11px;">
+                    <img src="/bundles/templating/images/social/rss.png" width="16" height="16" alt="HFO RSS Feed" />&nbsp;&nbsp;HFO RSS Feed
+                </a>
+            </div>
+        </span>
+    </div>
+</div>
+<div style="clear:both;"></div>
+
+
+                </div>
+
+
+                <div style="clear:both;"></div>
+
+            </div><!-- <div class="center-content"> -->
+
+        </div><!-- end of <div class="center"> -->
+
+        <!-- sitemap area -->
+        <div class="footer">
+            <style type="text/css">
+    .footer-column-head a:link, .footer-column-head a:visited {
+        color: #ED7A08;
+    }
+</style>
+<div class="footer-content">
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/watchwarn">Current Hazards</a>
+                        </span><br />
+                                                    <a href="/hfo/watchwarn">Hawaii Hazards</a><br />
+                                                    <a href="http://hurricanes.gov/cphc">Tropical Cyclones</a><br />
+                                                    <a href="/hfo/tsunami">Tsunami</a><br />
+                                                    <a href="/hfo/quake">Earthquake</a><br />
+                                                    <a href="http://www.weather.gov">National Hazards</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/obs">Current Conditions</a>
+                        </span><br />
+                                                    <a href="/hfo/obs">Observations</a><br />
+                                                    <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
+                                                    <a href="/hfo/hydrology">Hydrology</a><br />
+                                                    <a href="/hfo/satellite">Satellite</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/radar">Radar</a>
+                        </span><br />
+                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
+                                                    <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
+                                                    <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
+                                                    <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
+                                                    <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/forecast">Forecasts</a>
+                        </span><br />
+                                                    <a href="/hfo/aviation">Aviation</a><br />
+                                                    <a href="/hfo/gfe_graphics">Local Graphics</a><br />
+                                                    <a href="/hfo/marine">Marine</a><br />
+                                                    <a href="http://forecast.weather.gov/wxplanner.php?site=hfo">Activity Planner</a><br />
+                                                    <a href="/hfo/forecast">Hawaii</a><br />
+                                                    <a href="/hfo/model">Model Output</a><br />
+                                                    <a href="/hfo/firewx">Fire Weather</a><br />
+                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="https://weather.gov/wrh/Climate?wfo=hfo">Climate and Past Weather</a>
+                        </span><br />
+                                                    <a href="https://www.weather.gov/wrh/Climate?wfo=hfo">Local</a><br />
+                                                    <a href="http://www.weather.gov/climate/">National</a><br />
+                                                    <a href="/hfo/climateportal">Hawaii Climate Portal</a><br />
+                                                    <a href="https://www.weather.gov/hfo/TropicalEventSummary">Tropical Cyclone Reports</a><br />
+                                            </p>
+                                    </div>
+            <div class="footer-column" style="padding:10px 10px;">
+                                                            <p>
+                        <span class="footer-column-head">
+                            <a href="/hfo/wxsafety">Local Programs</a>
+                        </span><br />
+                                                    <a href="/hfo/news">News Archive</a><br />
+                                                    <a href="/hfo/nwr">Weather Radio</a><br />
+                                                    <a href="/hfo/wxsafety">Weather and Safety</a><br />
+                                                    <a href="/hfo/tsunami_safety">Tsunami Safety</a><br />
+                                                    <a href="/hfo/kids">Weather in Hawaii</a><br />
+                                                    <a href="/hfo/faq">Frequently Asked Questions</a><br />
+                                                    <a href="/hfo/events">Event Summaries</a><br />
+                                                    <a href="https://www.weather.gov/safety/flood-turn-around-dont-drown">Turn Around, Don&#039;t Drown</a><br />
+                                                    <a href="weather.gov/stormready">StormReady</a><br />
+                                                    <a href="weather.gov/tsunamiready">TsunamiReady</a><br />
+                                                    <a href="/hfo/mission">Our Mission</a><br />
+                                                    <a href="/hfo/about">Our Office</a><br />
+                                                    <a href="/hfo/office_products">Our Products</a><br />
+                                                    <a href="/hfo/aboutrss">HI RSS Feeds</a><br />
+                                            </p>
+                                    </div>
+    </div>
+
+        </div><!-- end of <div class="footer"> -->
+
+        <!-- legal footer area -->
+        <div class="footer-legal">
+            <div class="footer-legal">
+    <div class="footer-legal-content">
+
+        <div class="one-sixth-first" id="footer_legal_gov">
+            <a href="http://www.usa.gov"><img src="/bundles/templating/images/footer/usa_gov.png" alt="usa.gov" width="110" height="30" /></a>
+        </div>
+
+        <div class="one-half-first" id="footer_legal_info">
+            <p>
+                <a href="http://www.commerce.gov">US Dept of Commerce</a><br />
+                <a href="http://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br />
+                <a href="https://www.weather.gov">National Weather Service</a><br />
+                Honolulu, HI<br />                2525 Correa Rd Suite 250<br />
+                                Honolulu, HI 96822
+                <br />(808) 973-5286<br />
+                <br /><a href="mailto:W-HFO.webmaster@noaa.gov">Comments? Questions? Please Contact Us.</a>
+            </p>
+        </div>
+
+        <div class="one-third-last" id="footer_required_links">
+            <div class="div-half">
+                <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br />
+                <a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br />
+                <a href="https://www.weather.gov/help">Help</a><br />
+                <a href="/glossary">Glossary</a>
+            </div>
+
+            <div class="div-half">
+                <a href="https://www.weather.gov/privacy">Privacy Policy</a><br />
+                <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br />
+                <a href="https://www.weather.gov/about">About Us</a><br />
+                <a href="https://www.weather.gov/careers">Career Opportunities</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div><!-- end of <div class="footer-legal"> -->
+
+        <script type="text/javascript" src="//www.weather.gov/js/govshutdown.js"></script>
+    </body>
+</html>
