@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T13:03:41-10:00 HST
-- **Report created:** 2026-09-26T13:03:41-10:00 HST
+- **Generated:** 2026-09-26T13:12:41-10:00 HST
+- **Report created:** 2026-09-26T13:12:41-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** afd_area_forecast_discussion
 - **Official source:** https://api.weather.gov/products/types/AFD/locations/HFO
-- **Collected:** 2026-09-26T11:42:36.220188-10:00 HST
+- **Collected:** 2026-09-26T13:08:41.887382-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -16,12 +16,12 @@
 
 ```text
 000
-FXHW60 PHFO 262138
+FXHW60 PHFO 262306
 AFDHFO
 
 Area Forecast Discussion
 National Weather Service Honolulu HI
-1138 AM HST Sat Sep 26 2026
+106 PM HST Sat Sep 26 2026
 
 .SYNOPSIS...
 Hurricane Nolo has begun its anticipated westward movement south 
@@ -31,19 +31,24 @@ over and downwind of terrain on the Big Island and Maui. The
 remains a chance for flooding over portions of the Big Island and 
 Maui today. 
 
-.DISCUSSION...
-Hurricane Nolo, now located about 160 miles south of Big Island,
+.SHORT TERM UPDATE...
+Based on surf observations in Puna, a High Surf Warning has been
+issued for south facing shores of the Puna and Kau Districts.
+
+.PREV DISCUSSION...
+Issued at 1138 AM HST Sat Sep 26 2026 
+Hurricane Nolo, now located about 160 miles south of Big Island, 
 has begun its long anticipated turn toward the west. A mid to 
-upper level ridge building north of the state has initiated the
-westward turn of Nolo and is creating some stability from Maui to
-Kauai. A tight pressure gradient north of Nolo and the modest
+upper level ridge building north of the state has initiated the 
+westward turn of Nolo and is creating some stability from Maui to 
+Kauai. A tight pressure gradient north of Nolo and the modest 
 developing stability has created conditions conducive for 
-downsloping winds within the strong trade wind flow. As a result,
-Wind Advisory conditions prevail on Oahu and Kauai, and portions
+downsloping winds within the strong trade wind flow. As a result, 
+Wind Advisory conditions prevail on Oahu and Kauai, and portions 
 of Maui County downwind of terrain are experiencing gusts of 60 
 mph or more, mainly in the area around Ukumehame and Olowalu. A 
 Tropical Storm Watch remains in effect for Maui County. A Tropical
-Storm Warning remains in effect for the Big Island, where wind
+Storm Warning remains in effect for the Big Island, where wind 
 gusts over 60 mph are being observed in the Kohala Districts. A 
 Flood Watch also remains in effect for Big Island and Maui. The 
 flood threat is rapidly diminishing for Maui, and lower rain rates
@@ -69,6 +74,7 @@ south- to- southeast wind flow is expected to prevail as the
 pressure gradient over the state weakens substantially. 
 
 .AVIATION...
+Issued at 1138 AM HST Sat Sep 26 2026
 Gusty winds of 25 to 35 kt will continue across most of the area 
 with isolated higher gusts associated with Hurricane Nolo. 
 Scattered MVFR conditions are possible in showers, mainly across 
@@ -86,6 +92,7 @@ also possible.
 Tropical SIGMET Oscar covers Hurricane Nolo.
 
 .MARINE...
+Issued at 1138 AM HST Sat Sep 26 2026
 As of 11 AM HST this morning, Hurricane Nolo was located near 
 16.7N 156.0W, approximately 160 miles south of South Point, and 
 moving W at 4 knots. The Hurricane Watch for the waters 
@@ -125,6 +132,7 @@ weekend and brings a small bump to north facing shores into early
 next week.
 
 .FIRE WEATHER...
+Issued at 1138 AM HST Sat Sep 26 2026
 As Hurricane Nolo moves westward through the weekend, easterly 
 winds will remain very strong and gusty over and downwind of 
 terrain. Rainfall over the last month has led to some improvement
@@ -135,50 +143,59 @@ critical fire weather conditions are expected, with the only
 limiting factor remaining the readiness of fuels.
 
 .HFO WATCHES/WARNINGS/ADVISORIES...
-Wind Advisory until 6 PM HST Sunday for Niihau-Kauai Leeward-
-Kauai Mountains-Waianae Coast-Oahu North Shore-Olomana-Central 
-Oahu-Waianae Mountains-Kauai North-Kauai East-Kauai South-East 
-Honolulu-Honolulu Metro-Ewa Plain-Koolau Windward-Koolau 
-Leeward. 
+Wind Advisory until 6 PM HST Sunday for Central Oahu-East 
+Honolulu-Ewa Plain-Honolulu Metro-Kauai East-Kauai Mountains-
+Kauai North-Kauai South-Kauai Southwest-Koolau Leeward-Koolau 
+Windward-Niihau-Oahu North Shore-Olomana-Waianae Coast-Waianae 
+Mountains.
 
-High Surf Advisory until 6 PM HST Sunday for Olomana-Maui 
-Windward West-Kauai East-Kauai South-Koolau Windward-Molokai 
-Windward-Molokai Southeast-Windward Haleakala-Kipahulu-South 
-Haleakala-Big Island Southeast-Big Island East-Big Island North.
+High Surf Advisory until 6 PM HST Sunday for Big Island East-Big 
+Island North-Kauai East-Kauai South-Kipahulu-Koolau Windward-
+Maui Windward West-Molokai Southeast-Molokai Windward-Olomana-
+South Haleakala-Windward Haleakala.
 
-Flood Watch until 6 PM HST this evening for Lanai Mauka-
-Kahoolawe-Maui Windward West-Maui Leeward West-Haleakala Summit-
-Kona-Kohala-Big Island Interior-Big Island Summits-Molokai-Lanai 
-Windward-Lanai Leeward-Lanai South-Maui Central Valley North-
-Maui Central Valley South-Windward Haleakala-Kipahulu-South 
-Maui/Upcountry-South Haleakala-Big Island South-Big Island 
-Southeast-Big Island East-Big Island North.
+Flood Watch until 6 PM HST this evening for Big Island East-Big 
+Island Interior-Big Island North-Big Island South-Big Island 
+Southeast-Big Island Summits-Haleakala Summit-Kahoolawe-Kipahulu-
+Kohala-Kona-Lanai Leeward-Lanai Mauka-Lanai South-Lanai Windward-
+Maui Central Valley North-Maui Central Valley South-Maui Leeward 
+West-Maui Windward West-Molokai Leeward South-Molokai North-
+Molokai Southeast-Molokai West-Molokai Windward-South Haleakala-
+South Maui/Upcountry-Windward Haleakala.
 
-Tropical Storm Watch for Lanai Mauka-Kahoolawe-Maui Windward 
-West-Maui Leeward West-Haleakala Summit-Molokai-Lanai Windward-
-Lanai Leeward-Lanai South-Maui Central Valley North-Maui Central 
-Valley South-Windward Haleakala-Kipahulu-South Maui/Upcountry-
-South Haleakala. 
+Tropical Storm Watch for Haleakala Summit-Kahoolawe-Kipahulu-
+Lanai Leeward-Lanai Mauka-Lanai South-Lanai Windward-Maui 
+Central Valley North-Maui Central Valley South-Maui Leeward West-
+Maui Windward West-Molokai Leeward South-Molokai North-Molokai 
+Southeast-Molokai West-Molokai Windward-South Haleakala-South 
+Maui/Upcountry-Windward Haleakala. 
 
-Tropical Storm Warning for Big Island- 
+Tropical Storm Warning for Big Island East-Big Island Interior-
+Big Island North-Big Island South-Big Island Southeast-Big 
+Island Summits-Kohala-Kona. 
 
-Tropical Storm Watch for Kaiwi Channel-Maui County Windward 
-Waters-Maui County Leeward Waters-Maalaea Bay-Pailolo Channel. 
+High Surf Warning until 6 AM HST Sunday for Big Island South-Big 
+Island Southeast.
 
-Tropical Storm Warning for Alenuihaha Channel-Big Island 
-Windward Waters-Big Island Leeward Waters-Big Island Southeast 
-Waters. 
+High Surf Advisory from 6 AM to 6 PM HST Sunday for Big Island 
+Southeast.
+
+Tropical Storm Watch for Kaiwi Channel-Maalaea Bay-Maui County 
+Leeward Waters-Maui County Windward Waters-Pailolo Channel. 
+
+Tropical Storm Warning for Alenuihaha Channel-Big Island Leeward 
+Waters-Big Island Southeast Waters-Big Island Windward Waters. 
 
 Small Craft Advisory until 6 PM HST this evening for Kauai 
-Northwest Waters-Kauai Windward Waters-Kauai Leeward Waters-
-Kauai Channel-Oahu Windward Waters-Oahu Leeward Waters.
+Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
+Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
 
 Gale Watch from 6 PM HST this evening through Sunday afternoon 
-for Kauai Northwest Waters-Kauai Windward Waters-Kauai Leeward 
-Waters-Kauai Channel-Oahu Windward Waters-Oahu Leeward Waters.
+for Kauai Channel-Kauai Leeward Waters-Kauai Northwest Waters-
+Kauai Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
 
 DISCUSSION...Wroe
 AVIATION...PECHACEK
 MARINE...Farris
-FIRE WEATHER...Wroe
+Fire Weather...Wroe
 ```
