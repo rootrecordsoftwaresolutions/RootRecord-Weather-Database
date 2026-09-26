@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T01:49:23-10:00 HST
-- **Report created:** 2026-09-26T01:49:23-10:00 HST
+- **Generated:** 2026-09-26T01:57:22-10:00 HST
+- **Report created:** 2026-09-26T01:57:22-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T01:49:21.235355-10:00 HST
+- **Collected:** 2026-09-26T01:57:20.429485-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 11:48:00 UTC
+Last update Sat, 26 Sep 2026 11:55:09 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -304,6 +304,8 @@ Central North Pacific
 (140°W to 180°)
 
 Tropical Weather Outlook
+
+(en Español*)
 
 200 AM HST Sat Sep 26 2026
 
@@ -619,6 +621,8 @@ Eastern North Pacific
 
 Tropical Weather Outlook
 
+(en Español*)
+
 500 AM PDT Sat Sep 26 2026
 
 Tropical Weather Discussion
@@ -632,26 +636,26 @@ Buoys |
 Grids |
 Storm Archive
 
-...POLO REMAINS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
+...POLO MOVING WEST-NORTHWESTWARD AS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
 ...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A POWERFUL HURRICANE...
 
-2:00 AM MST Sat Sep 26
+5:00 AM MST Sat Sep 26
 
-Location: 17.6°N 111.0°W
+Location: 17.7°N 111.5°W
 
-Moving: WNW at 9 mph
+Moving: WNW at 10 mph
 
-Min pressure: 917 mb
+Min pressure: 922 mb
 
-Max sustained: 165 mph
+Max sustained: 160 mph
 
 Public
 
 Advisory
 
-#23
+#23A
 
-200 AM MST
+500 AM MST
 
 Forecast
 

@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=7
-- **Collected:** 2026-09-26T01:46:20.569526-10:00 HST
-- **Report created:** 2026-09-26T01:49:21-10:00 HST
+- **Collected:** 2026-09-26T01:54:21.060531-10:00 HST
+- **Report created:** 2026-09-26T01:57:21-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
