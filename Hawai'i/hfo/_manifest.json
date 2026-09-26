@@ -36,7 +36,7 @@
     "content_sha256": "9712b7620d8339a483a85baeee054c04529b9adb8100a6c78b3b26ab24ad4a22",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:55:55.889338-10:00",
-    "last_success_at": "2026-09-26T02:24:24.123210-10:00"
+    "last_success_at": "2026-09-26T02:32:24.252735-10:00"
   },
   "zfp_zone_forecast": {
     "resource_id": "zfp_zone_forecast",
@@ -47,9 +47,9 @@
     "last_modified": null,
     "content_length": 97287,
     "content_sha256": "0f2a844563901209200c292c4d020b29f81dc26e0e0b6b9e89af1c80c6e98ce6",
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T02:25:23.249510-10:00",
-    "last_success_at": "2026-09-26T02:16:24.450034-10:00"
+    "last_success_at": "2026-09-26T02:34:23.896350-10:00"
   },
   "afd_area_forecast_discussion": {
     "resource_id": "afd_area_forecast_discussion",
@@ -60,9 +60,9 @@
     "last_modified": null,
     "content_length": 8545,
     "content_sha256": "c92d0540a0a7c78789b3d22cbb550501bcd19a1d68ff94398abf51d6e8989949",
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T02:25:53.225489-10:00",
-    "last_success_at": "2026-09-26T02:17:24.169439-10:00"
+    "last_success_at": "2026-09-26T02:36:24.416712-10:00"
   },
   "nowhfo_short_term_forecast": {
     "resource_id": "nowhfo_short_term_forecast",
@@ -73,8 +73,8 @@
     "last_modified": null,
     "content_length": null,
     "content_sha256": null,
-    "consecutive_failures": 96,
-    "last_failure_at": "2026-09-26T02:26:23.256004-10:00",
+    "consecutive_failures": 97,
+    "last_failure_at": "2026-09-26T02:37:24.028351-10:00",
     "last_success_at": null
   },
   "hwo_hazardous_weather_outlook": {
@@ -86,8 +86,8 @@
     "last_modified": null,
     "content_length": null,
     "content_sha256": null,
-    "consecutive_failures": 96,
-    "last_failure_at": "2026-09-26T02:26:53.237797-10:00",
+    "consecutive_failures": 97,
+    "last_failure_at": "2026-09-26T02:37:54.065767-10:00",
     "last_success_at": null
   },
   "cwf_coastal_waters": {
@@ -101,7 +101,7 @@
     "content_sha256": "ea040f097af2b233e0534397ef16ae1551a8b133d7003257873a2d7d06ee7c4b",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:53:55.578968-10:00",
-    "last_success_at": "2026-09-26T02:27:24.054515-10:00"
+    "last_success_at": "2026-09-26T02:38:24.022409-10:00"
   },
   "hawaii_ir_latest": {
     "resource_id": "hawaii_ir_latest",
@@ -244,150 +244,150 @@
     "content_sha256": "c143b09ccfb0528cbfc9c97e94a1061bbdacf90716368144a1e50755817f0ef0",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T20:33:39.789441-10:00",
-    "last_success_at": "2026-09-26T02:17:17.936096-10:00"
+    "last_success_at": "2026-09-26T02:34:22.908452-10:00"
   },
   "satellite_loop_IRHawaii_00": {
     "resource_id": "satellite_loop_IRHawaii_00",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/00.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/00",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:18.872439-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:24.416920-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 111444,
-    "content_sha256": "90563ca0d3e9982121868698b318a811ddef447d4e91c44d0a13095081bcb1d4",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 115034,
+    "content_sha256": "9213e2de72d09a281a4314f47419c44f000a09545e538ca90e0cb0c7aea6c963",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:04.495191-10:00",
-    "last_success_at": "2026-09-26T02:19:18.872439-10:00"
+    "last_success_at": "2026-09-26T02:36:24.416920-10:00"
   },
   "satellite_loop_IRHawaii_01": {
     "resource_id": "satellite_loop_IRHawaii_01",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/01.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/01",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:20.889867-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:26.026901-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 105634,
-    "content_sha256": "802772243205387f0ddc08c5218106939162277c2cfe66fccfab4c0074403005",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 105481,
+    "content_sha256": "41a6868455b44ce84f026f9dec8b61ca1ef0bfe958c8cb66a7332810bdbe8f51",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:06.492344-10:00",
-    "last_success_at": "2026-09-26T02:19:20.889867-10:00"
+    "last_success_at": "2026-09-26T02:36:26.026901-10:00"
   },
   "satellite_loop_IRHawaii_02": {
     "resource_id": "satellite_loop_IRHawaii_02",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/02.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/02",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:22.802653-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:28.430892-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 115034,
-    "content_sha256": "9213e2de72d09a281a4314f47419c44f000a09545e538ca90e0cb0c7aea6c963",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 104265,
+    "content_sha256": "146ca0632bff2f6104031deb86f6fcf908578667966df3902ec4586a349988aa",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:08.492603-10:00",
-    "last_success_at": "2026-09-26T02:19:22.802653-10:00"
+    "last_success_at": "2026-09-26T02:36:28.430892-10:00"
   },
   "satellite_loop_IRHawaii_03": {
     "resource_id": "satellite_loop_IRHawaii_03",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/03.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/03",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:24.824067-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:30.015162-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 105481,
-    "content_sha256": "41a6868455b44ce84f026f9dec8b61ca1ef0bfe958c8cb66a7332810bdbe8f51",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 114222,
+    "content_sha256": "abe3076bf9b25d0c8de597985fcb9de7d481144b79699683c62e78b881215f8b",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:10.495413-10:00",
-    "last_success_at": "2026-09-26T02:19:24.824067-10:00"
+    "last_success_at": "2026-09-26T02:36:30.015162-10:00"
   },
   "satellite_loop_IRHawaii_04": {
     "resource_id": "satellite_loop_IRHawaii_04",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/04.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/04",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:26.754760-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:32.038839-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 104265,
-    "content_sha256": "146ca0632bff2f6104031deb86f6fcf908578667966df3902ec4586a349988aa",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 110245,
+    "content_sha256": "e1e75b1293c39a1bb387a3a30cc66a416e2eb4a9cfef34460f08ba4329850cf0",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:12.493769-10:00",
-    "last_success_at": "2026-09-26T02:19:26.754760-10:00"
+    "last_success_at": "2026-09-26T02:36:32.038839-10:00"
   },
   "satellite_loop_IRHawaii_05": {
     "resource_id": "satellite_loop_IRHawaii_05",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/05.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/05",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:29.102734-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:34.446944-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 114222,
-    "content_sha256": "abe3076bf9b25d0c8de597985fcb9de7d481144b79699683c62e78b881215f8b",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 111675,
+    "content_sha256": "a7dcd244970fad3469da8ede7a319e4f1f0cfe992e3a23881a0dba97909eeb0d",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:14.493401-10:00",
-    "last_success_at": "2026-09-26T02:19:29.102734-10:00"
+    "last_success_at": "2026-09-26T02:36:34.446944-10:00"
   },
   "satellite_loop_IRHawaii_06": {
     "resource_id": "satellite_loop_IRHawaii_06",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/06.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/06",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:30.949700-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:36.095348-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 110245,
-    "content_sha256": "e1e75b1293c39a1bb387a3a30cc66a416e2eb4a9cfef34460f08ba4329850cf0",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 106506,
+    "content_sha256": "c7ae751275b90b6d797fb0840c4df591a6821ab89511b44de5f4a2577db22a46",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:16.495141-10:00",
-    "last_success_at": "2026-09-26T02:19:30.949700-10:00"
+    "last_success_at": "2026-09-26T02:36:36.095348-10:00"
   },
   "satellite_loop_IRHawaii_07": {
     "resource_id": "satellite_loop_IRHawaii_07",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/07.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/07",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:32.893466-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:38.141325-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 111675,
-    "content_sha256": "a7dcd244970fad3469da8ede7a319e4f1f0cfe992e3a23881a0dba97909eeb0d",
+    "last_modified": "Sat, 26 Sep 2026 12:32:15 GMT",
+    "content_length": 105991,
+    "content_sha256": "65151271a0af8df4fc244657354d252e8f9dba449965805dcbed6dc604b7f476",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:18.495691-10:00",
-    "last_success_at": "2026-09-26T02:19:32.893466-10:00"
+    "last_success_at": "2026-09-26T02:36:38.141325-10:00"
   },
   "satellite_loop_IRHawaii_08": {
     "resource_id": "satellite_loop_IRHawaii_08",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/08.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/08",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:34.926517-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:40.367074-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 106506,
-    "content_sha256": "c7ae751275b90b6d797fb0840c4df591a6821ab89511b44de5f4a2577db22a46",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 108575,
+    "content_sha256": "b7ba2063eecd6aec79fbeb59e3bd3af35adaaed7d8f0b9f2c70ed45e6d89adcd",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:20.493133-10:00",
-    "last_success_at": "2026-09-26T02:19:34.926517-10:00"
+    "last_success_at": "2026-09-26T02:36:40.367074-10:00"
   },
   "satellite_loop_IRHawaii_09": {
     "resource_id": "satellite_loop_IRHawaii_09",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/09.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/09",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:36.801612-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:42.341625-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 105991,
-    "content_sha256": "65151271a0af8df4fc244657354d252e8f9dba449965805dcbed6dc604b7f476",
+    "last_modified": "Sat, 26 Sep 2026 12:32:15 GMT",
+    "content_length": 114592,
+    "content_sha256": "f67bfdf60d33c3d7a69c4cd8217fdf92a95f7c4476a6da275f65dda763e99413",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:22.493452-10:00",
-    "last_success_at": "2026-09-26T02:19:36.801612-10:00"
+    "last_success_at": "2026-09-26T02:36:42.341625-10:00"
   },
   "satellite_loop_IRHawaii_10": {
     "resource_id": "satellite_loop_IRHawaii_10",
     "url": "https://www.weather.gov/images/hfo/loops/IRHawaii/10.gif",
     "local_resource_dir": "weather.gov/images/hfo/loops/IRHawaii/10",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:39.065598-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:44.185191-10:00",
     "etag": null,
-    "last_modified": "Sat, 26 Sep 2026 12:13:12 GMT",
-    "content_length": 108575,
-    "content_sha256": "b7ba2063eecd6aec79fbeb59e3bd3af35adaaed7d8f0b9f2c70ed45e6d89adcd",
+    "last_modified": "Sat, 26 Sep 2026 12:32:14 GMT",
+    "content_length": 108774,
+    "content_sha256": "9bc8e424fa6f3cc8942b88d125d3a4bb590e14998a7f55f1bd76715641167ebf",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:51:24.494078-10:00",
-    "last_success_at": "2026-09-26T02:19:39.065598-10:00"
+    "last_success_at": "2026-09-26T02:36:44.185191-10:00"
   },
   "satellite_loop_VISState_00": {
     "resource_id": "satellite_loop_VISState_00",
@@ -1700,7 +1700,7 @@
     "content_sha256": "4ee91fcf7d7653f59a2a3d9670ed0798b5175953e8e5c4f07381ce70abd706b3",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:47:10.397097-10:00",
-    "last_success_at": "2026-09-26T01:59:53.791515-10:00"
+    "last_success_at": "2026-09-26T02:33:54.045541-10:00"
   },
   "ndfd_gridpoint_OGG": {
     "resource_id": "ndfd_gridpoint_OGG",
@@ -1713,7 +1713,7 @@
     "content_sha256": "d4ab39bcdc206a2370e9574e809d34553baf6343df204a3723f4f3071c2e606a",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:48:10.397074-10:00",
-    "last_success_at": "2026-09-26T02:00:54.069243-10:00"
+    "last_success_at": "2026-09-26T02:34:54.209755-10:00"
   },
   "ndfd_gridpoint_ITO": {
     "resource_id": "ndfd_gridpoint_ITO",
@@ -1726,7 +1726,7 @@
     "content_sha256": "60a068c904b520513403b8f81a4d847db5b5e88cb2e8416afb67ab9e7dfcbb7d",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T17:49:10.401627-10:00",
-    "last_success_at": "2026-09-26T02:01:54.197196-10:00"
+    "last_success_at": "2026-09-26T02:35:53.815860-10:00"
   },
   "nhc_gtwo_shapefiles": {
     "resource_id": "nhc_gtwo_shapefiles",
@@ -1739,7 +1739,7 @@
     "content_sha256": "15f26cdf88f054e7b29f2a86033c23a49fe08ea828db54074cd2fba8cb284dd1",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T00:59:20.289411-10:00",
-    "last_success_at": "2026-09-26T02:24:20.401474-10:00"
+    "last_success_at": "2026-09-26T02:33:20.476483-10:00"
   },
   "nws_public_counties": {
     "resource_id": "nws_public_counties",
@@ -1797,14 +1797,14 @@
     "resource_id": "hfo_tib_reference",
     "url": "https://forecast.weather.gov/product_types.php",
     "local_resource_dir": "forecast.weather.gov/product_types",
-    "current_fetch_timestamp_hst": "2026-09-26T02:16:24.982377-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:24.603006-10:00",
     "etag": null,
     "last_modified": null,
     "content_length": 74397,
-    "content_sha256": "27a5367138862597b45847af447593bd84fa26d454b28caaba8d65e705882ecf",
+    "content_sha256": "7cd4f1820c8068dfcaecc5ff709490205f9f0a1f544f4ae3f93e88fbdaaf135e",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:24:21.236914-10:00"
+    "last_success_at": "2026-09-26T02:33:24.603006-10:00"
   },
   "nws_fire_zones": {
     "resource_id": "nws_fire_zones",
@@ -1836,14 +1836,14 @@
     "resource_id": "hfo_rra_direct",
     "url": "https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo",
     "local_resource_dir": "forecast.weather.gov/product.php/issuedby=HFO&product=RRA&site=hfo",
-    "current_fetch_timestamp_hst": "2026-09-26T02:16:39.450022-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:39.489102-10:00",
     "etag": null,
     "last_modified": null,
     "content_length": 41897,
-    "content_sha256": "7acbcece22b539ac35f8f8adc0cdbc270efdb80d9077fbd1b992fc75d3ebbb29",
+    "content_sha256": "743288112f88c4aee040d32a018cbc71bab58efa163e8cb6fc3f5a1b1359d0eb",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:24:36.074724-10:00"
+    "last_success_at": "2026-09-26T02:33:39.489102-10:00"
   },
   "solar_calculation_table": {
     "resource_id": "solar_calculation_table",
@@ -1856,20 +1856,20 @@
     "content_sha256": "d2856dd0420f07102926038ff8f5ad16b949e7fe78197153face76ed4d5f86d5",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:24:37.723176-10:00"
+    "last_success_at": "2026-09-26T02:33:41.707853-10:00"
   },
   "hfo_surf_reports_direct": {
     "resource_id": "hfo_surf_reports_direct",
     "url": "https://www.weather.gov/hfo/surfreports",
     "local_resource_dir": "weather.gov/hfo/surfreports",
-    "current_fetch_timestamp_hst": "2026-09-26T02:24:38.849433-10:00",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:42.477359-10:00",
     "etag": null,
     "last_modified": null,
-    "content_length": 65599,
-    "content_sha256": "5b0840da5cbeb4e16a4af50e753e73c83f7eb87541dcf57896c3ed426585dc9a",
+    "content_length": 65619,
+    "content_sha256": "a889109fc4fc6b3bd0472938568477716cf0de80742caae484fc8854820d091b",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:24:38.849433-10:00"
+    "last_success_at": "2026-09-26T02:33:42.477359-10:00"
   },
   "nhc_gtwo_cpac_2day": {
     "resource_id": "nhc_gtwo_cpac_2day",
@@ -1880,9 +1880,9 @@
     "last_modified": null,
     "content_length": 133688,
     "content_sha256": "d8f3a2d3408d7b9e161af8374dba11a0135cfa69d98d7d3631b04f53d13078c1",
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T02:25:19.959075-10:00",
-    "last_success_at": "2026-09-26T02:17:20.887206-10:00"
+    "last_success_at": "2026-09-26T02:34:20.721198-10:00"
   },
   "nhc_gtwo_cpac_7day": {
     "resource_id": "nhc_gtwo_cpac_7day",
@@ -1893,9 +1893,9 @@
     "last_modified": null,
     "content_length": 133688,
     "content_sha256": "b2b83aa4b1cc594c0ced6a06b57d40faf4ef3072acba875756d09bde88fd4655",
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_failure_at": "2026-09-26T02:26:20.065561-10:00",
-    "last_success_at": "2026-09-26T02:18:20.789478-10:00"
+    "last_success_at": "2026-09-26T02:35:20.829559-10:00"
   },
   "nhc_gtwo_epac_2day": {
     "resource_id": "nhc_gtwo_epac_2day",
@@ -1908,7 +1908,7 @@
     "content_sha256": "0cc2c161099d237d209dcbfe8ce6fddd6db776e2c7dad2c95bcba4f50a11076a",
     "consecutive_failures": 0,
     "last_failure_at": "2026-09-25T23:38:40.149885-10:00",
-    "last_success_at": "2026-09-26T02:27:21.755346-10:00"
+    "last_success_at": "2026-09-26T02:36:20.630887-10:00"
   },
   "nhc_gtwo_epac_7day": {
     "resource_id": "nhc_gtwo_epac_7day",
@@ -1921,7 +1921,7 @@
     "content_sha256": "57eb17dbe50ef28dbc53902ff197e64f531259d91bec0b869e9055057810d96e",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:28:20.715077-10:00"
+    "last_success_at": "2026-09-26T02:37:20.632681-10:00"
   },
   "nws_public_counties_catalog": {
     "resource_id": "nws_public_counties_catalog",
@@ -2012,7 +2012,7 @@
     "content_sha256": "cd3efa95709530dd91d2773b44ba9bc3c60884ff9bb7974ebcbbdaf56134506e",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:29:20.802046-10:00"
+    "last_success_at": "2026-09-26T02:38:20.950512-10:00"
   },
   "nhc_gtwo_atlc_7day": {
     "resource_id": "nhc_gtwo_atlc_7day",
@@ -2122,53 +2122,53 @@
     "resource_id": "goes19_eep_02",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/02/GOES19-EEP-02-900x540.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/02/GOES19-EEP-02-900x540",
-    "current_fetch_timestamp_hst": "2026-09-26T01:42:17.467239-10:00",
-    "etag": "\"6ab7ac0c-1c0d8a\"",
-    "last_modified": "Sat, 26 Sep 2026 11:27:08 GMT",
-    "content_length": 1838474,
-    "content_sha256": "97cd9335aebcdda8bd29d53edc821dbaaad7f21637aefed3c8cf186e9ea170a2",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:24.088149-10:00",
+    "etag": "\"6ab7ba3d-200184\"",
+    "last_modified": "Sat, 26 Sep 2026 12:27:41 GMT",
+    "content_length": 2097540,
+    "content_sha256": "7b8061c49829b03a372df6b180467800a7fe2bccfed4c2823529f4c2ee1df879",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:16:16.850575-10:00"
+    "last_success_at": "2026-09-26T02:33:24.088149-10:00"
   },
   "goes19_eep_07": {
     "resource_id": "goes19_eep_07",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/07/GOES19-EEP-07-900x540",
-    "current_fetch_timestamp_hst": "2026-09-26T01:25:37.254244-10:00",
-    "etag": "\"6ab7aa4b-cc810d\"",
-    "last_modified": "Sat, 26 Sep 2026 11:19:39 GMT",
-    "content_length": 13402381,
-    "content_sha256": "5b7427ee6301d9ea90374e231aa9adf056e9c848d9e1c92e55beeb2699ce4289",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:39.661985-10:00",
+    "etag": "\"6ab7b877-cc7f6b\"",
+    "last_modified": "Sat, 26 Sep 2026 12:20:07 GMT",
+    "content_length": 13401963,
+    "content_sha256": "35820dc6fcb2b8213a1d6f671ae57999babf7a572f0ad4b4c31b5cd393dbd9c0",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:16:31.735631-10:00"
+    "last_success_at": "2026-09-26T02:33:39.661985-10:00"
   },
   "goes19_eep_13": {
     "resource_id": "goes19_eep_13",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/13/GOES19-EEP-13-900x540.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/13/GOES19-EEP-13-900x540",
-    "current_fetch_timestamp_hst": "2026-09-26T01:25:51.405642-10:00",
-    "etag": "\"6ab7ab0e-c4f9d0\"",
-    "last_modified": "Sat, 26 Sep 2026 11:22:54 GMT",
-    "content_length": 12909008,
-    "content_sha256": "923e7149640cc44c7f34e60365e84345ab39572a55fc4aa5895173569f0dca5a",
+    "current_fetch_timestamp_hst": "2026-09-26T02:33:54.295717-10:00",
+    "etag": "\"6ab7b943-c43dff\"",
+    "last_modified": "Sat, 26 Sep 2026 12:23:31 GMT",
+    "content_length": 12860927,
+    "content_sha256": "2b4fd33ee0fc19d9192d40b1fc7b48dde207072ca157302bd4f1892e1c72793b",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:16:46.690376-10:00"
+    "last_success_at": "2026-09-26T02:33:54.295717-10:00"
   },
   "goes19_eep_14": {
     "resource_id": "goes19_eep_14",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/14/GOES19-EEP-14-900x540.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/14/GOES19-EEP-14-900x540",
-    "current_fetch_timestamp_hst": "2026-09-26T01:26:06.640641-10:00",
-    "etag": "\"6ab7ab96-c556f4\"",
-    "last_modified": "Sat, 26 Sep 2026 11:25:10 GMT",
-    "content_length": 12932852,
-    "content_sha256": "50796faa91327f81a81f0c2e4b449d19d14f60a6d026023ba32dc55341b906aa",
+    "current_fetch_timestamp_hst": "2026-09-26T02:34:09.521129-10:00",
+    "etag": "\"6ab7b9ce-c51535\"",
+    "last_modified": "Sat, 26 Sep 2026 12:25:50 GMT",
+    "content_length": 12916021,
+    "content_sha256": "f773faffbd150587a477cdef40f801afbe12acb8b2a51f0432e6a7901d5df8ed",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:17:01.761843-10:00"
+    "last_success_at": "2026-09-26T02:34:09.521129-10:00"
   },
   "goes18_hi_glm_extent3": {
     "resource_id": "goes18_hi_glm_extent3",
@@ -2179,22 +2179,22 @@
     "last_modified": null,
     "content_length": null,
     "content_sha256": null,
-    "consecutive_failures": 20,
-    "last_failure_at": "2026-09-26T02:17:31.844425-10:00",
+    "consecutive_failures": 21,
+    "last_failure_at": "2026-09-26T02:34:37.948438-10:00",
     "last_success_at": null
   },
   "goes18_hi_airmass": {
     "resource_id": "goes18_hi_airmass",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/AirMass/GOES18-HI-AirMass-600x600",
-    "current_fetch_timestamp_hst": "2026-09-26T02:17:49.709674-10:00",
-    "etag": "\"6ab7b4a1-801426\"",
-    "last_modified": "Sat, 26 Sep 2026 12:03:45 GMT",
-    "content_length": 8393766,
-    "content_sha256": "d4bd633cbc6b10a0c68be14174d62c81230a9624684200a14bd210de326f96cf",
+    "current_fetch_timestamp_hst": "2026-09-26T02:34:55.950691-10:00",
+    "etag": "\"6ab7bbaf-7fbcbf\"",
+    "last_modified": "Sat, 26 Sep 2026 12:33:51 GMT",
+    "content_length": 8371391,
+    "content_sha256": "65271f473c5fba8975b0f1c838e73a7c2afd8aaad4cca621527671f00bbf4ec2",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:17:49.709674-10:00"
+    "last_success_at": "2026-09-26T02:34:55.950691-10:00"
   },
   "goes18_hi_sandwich": {
     "resource_id": "goes18_hi_sandwich",
@@ -2207,7 +2207,7 @@
     "content_sha256": "6b27ec271df6b106b5ead01c56b931d37509dbc45ccc8e55ba3ef40726da560b",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:18:05.994623-10:00"
+    "last_success_at": "2026-09-26T02:35:07.967280-10:00"
   },
   "goes18_hi_daynight_cloud_micro_combo": {
     "resource_id": "goes18_hi_daynight_cloud_micro_combo",
@@ -2220,7 +2220,7 @@
     "content_sha256": "c9d32a905353fd0ea8c8dbe3505ef8f536a1ce3dac4dc5d9d5e6599a6fcec4d3",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:18:17.974908-10:00"
+    "last_success_at": "2026-09-26T02:35:24.373279-10:00"
   },
   "goes18_hi_fire_temperature": {
     "resource_id": "goes18_hi_fire_temperature",
@@ -2233,33 +2233,33 @@
     "content_sha256": "2011baf0de0dfd302a8432d2d601f56efeb29231176f90087fab77b41c4ae690",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:18:32.734456-10:00"
+    "last_success_at": "2026-09-26T02:35:37.967828-10:00"
   },
   "goes18_hi_07": {
     "resource_id": "goes18_hi_07",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/07/GOES18-HI-07-600x600",
-    "current_fetch_timestamp_hst": "2026-09-26T02:18:48.011545-10:00",
-    "etag": "\"6ab7b44d-6e181e\"",
-    "last_modified": "Sat, 26 Sep 2026 12:02:21 GMT",
-    "content_length": 7215134,
-    "content_sha256": "d998a6e7270c8dc773fa2d318525b3facd502bdefb5c075c293eb11552586a1a",
+    "current_fetch_timestamp_hst": "2026-09-26T02:35:54.281146-10:00",
+    "etag": "\"6ab7bb5a-6e097c\"",
+    "last_modified": "Sat, 26 Sep 2026 12:32:26 GMT",
+    "content_length": 7211388,
+    "content_sha256": "4909e87f88c2364e2e998cd0be1b50298e67377bb23a868d8300a38c0b32989b",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:18:48.011545-10:00"
+    "last_success_at": "2026-09-26T02:35:54.281146-10:00"
   },
   "goes18_hi_08": {
     "resource_id": "goes18_hi_08",
     "url": "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600.gif",
     "local_resource_dir": "cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/08/GOES18-HI-08-600x600",
-    "current_fetch_timestamp_hst": "2026-09-26T02:19:04.901708-10:00",
-    "etag": "\"6ab7b4a8-63863c\"",
-    "last_modified": "Sat, 26 Sep 2026 12:03:52 GMT",
-    "content_length": 6522428,
-    "content_sha256": "cc0c94ae387a3fce65e34e2628b42b7adcf01370402d0ec154eb22a5839c6dda",
+    "current_fetch_timestamp_hst": "2026-09-26T02:36:09.164925-10:00",
+    "etag": "\"6ab7bbb6-63f4af\"",
+    "last_modified": "Sat, 26 Sep 2026 12:33:58 GMT",
+    "content_length": 6550703,
+    "content_sha256": "807fb7ab146ce171f199367055ba1c254c67b8005e8c8c8bd808ba49208c44f0",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:19:04.901708-10:00"
+    "last_success_at": "2026-09-26T02:36:09.164925-10:00"
   },
   "goes18_hi_14": {
     "resource_id": "goes18_hi_14",
@@ -2272,6 +2272,6 @@
     "content_sha256": "73598a4c9b38dcb1cd8fb881446a6ea2abd1fa85e9b980f182d3b3b211e1e52d",
     "consecutive_failures": 0,
     "last_failure_at": null,
-    "last_success_at": "2026-09-26T02:19:17.922198-10:00"
+    "last_success_at": "2026-09-26T02:36:23.012556-10:00"
   }
 }
