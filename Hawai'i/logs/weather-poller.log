@@ -1132,3 +1132,25 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-26T03:19:14-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
 2026-09-26T03:19:14-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
 2026-09-26T03:19:14-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:19:20-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-26T03:20:00-10:00 module:marine resource:hsf_high_seas_spac INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-26T03:20:00-10:00 module:marine resource:mfm_marine_forecast_matrix INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:20:00-10:00 module:marine resource:srf_statewide_surf_forecast INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:20:00-10:00 module:marine resource:surfreports_statewide_observations INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:20:00-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: Server error '500 Internal Server Error' for url 'https://forecast.weather.gov/product.php?site=HFO&product=MWW&site=hfo'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2026-09-26T03:20:57-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-26T03:20:57-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-26T03:21:06-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:22:34-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:22:34-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-26T03:22:34-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:22:38-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-26T03:23:18-10:00 module:marine resource:hsf_high_seas_spac INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-26T03:23:18-10:00 module:marine resource:mfm_marine_forecast_matrix INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:23:18-10:00 module:marine resource:srf_statewide_surf_forecast INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:23:18-10:00 module:marine resource:surfreports_statewide_observations INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-26T03:23:18-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: Server error '500 Internal Server Error' for url 'https://forecast.weather.gov/product.php?site=HFO&product=MWW&site=hfo'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
