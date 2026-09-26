@@ -1418,3 +1418,8 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-26T05:15:59-10:00 reports: updated source-isolated official report mirrors
 2026-09-26T05:15:59-10:00 reports: regenerated Level 1 county Markdown reports
 2026-09-26T05:16:29-10:00 dispatching 3 due task(s) concurrently: alerts, text_products, misc
+2026-09-26T05:21:30-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-26T05:21:30-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-26T05:23:57-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-26T05:23:57-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-26T05:24:10-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
