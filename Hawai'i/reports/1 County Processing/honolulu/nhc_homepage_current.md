@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T04:51:22-10:00 HST
-- **Report created:** 2026-09-26T04:51:22-10:00 HST
+- **Generated:** 2026-09-26T05:00:22-10:00 HST
+- **Report created:** 2026-09-26T05:00:22-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 14:50:07 UTC
+Last update Sat, 26 Sep 2026 14:59:18 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -317,16 +317,16 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO STILL NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
-...EXPECTED TO STRENGTHEN DURING THE NEXT COUPLE OF DAYS WHILE REMAINING WELL SOUTH OF THE HAWAIIAN ISLANDS...
+...NOLO STILL MEANDERING SOUTH OF THE BIG ISLAND OF HAWAII...
+...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-2:00 AM HST Sat Sep 26
+5:00 AM HST Sat Sep 26
 
-Location: 16.9°N 155.3°W
+Location: 16.9°N 155.5°W
 
 Moving: Stationary
 
-Min pressure: 975 mb
+Min pressure: 976 mb
 
 Max sustained: 105 mph
 
@@ -334,33 +334,33 @@ Public
 
 Advisory
 
-#23A
+#24
 
-200 AM HST
+500 AM HST
 
 Forecast
 
 Advisory
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 Forecast
 
 Discussion
 
-#23
+#24
 
-1100 PM HST
+500 AM HST
 
 Wind Speed
 
 Probabilities
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 NWS Local
 
@@ -670,17 +670,17 @@ Forecast
 
 Discussion
 
-#23
+#24
 
-200 AM MST
+800 AM MST
 
 Wind Speed
 
 Probabilities
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 Productos en español:
 

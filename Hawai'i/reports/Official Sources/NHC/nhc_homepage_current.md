@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T04:51:22-10:00 HST
-- **Report created:** 2026-09-26T04:51:22-10:00 HST
+- **Generated:** 2026-09-26T05:00:22-10:00 HST
+- **Report created:** 2026-09-26T05:00:22-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T04:51:19.789707-10:00 HST
+- **Collected:** 2026-09-26T05:00:19.763143-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 14:50:07 UTC
+Last update Sat, 26 Sep 2026 14:59:18 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -316,16 +316,16 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO STILL NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
-...EXPECTED TO STRENGTHEN DURING THE NEXT COUPLE OF DAYS WHILE REMAINING WELL SOUTH OF THE HAWAIIAN ISLANDS...
+...NOLO STILL MEANDERING SOUTH OF THE BIG ISLAND OF HAWAII...
+...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-2:00 AM HST Sat Sep 26
+5:00 AM HST Sat Sep 26
 
-Location: 16.9°N 155.3°W
+Location: 16.9°N 155.5°W
 
 Moving: Stationary
 
-Min pressure: 975 mb
+Min pressure: 976 mb
 
 Max sustained: 105 mph
 
@@ -333,33 +333,33 @@ Public
 
 Advisory
 
-#23A
+#24
 
-200 AM HST
+500 AM HST
 
 Forecast
 
 Advisory
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 Forecast
 
 Discussion
 
-#23
+#24
 
-1100 PM HST
+500 AM HST
 
 Wind Speed
 
 Probabilities
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 NWS Local
 
@@ -669,17 +669,17 @@ Forecast
 
 Discussion
 
-#23
+#24
 
-200 AM MST
+800 AM MST
 
 Wind Speed
 
 Probabilities
 
-#23
+#24
 
-0900 UTC
+1500 UTC
 
 Productos en español:
 
