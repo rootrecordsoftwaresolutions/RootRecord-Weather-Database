@@ -69,6 +69,7 @@ function noCache(url) {
         aviation: "https://aviationweather.gov",
         water: "https://water.weather.gov",
         graphical: "https://graphical.weather.gov",
+        alerts: "",
         api: "https://api.weather.gov",
         radar: "https://radar.weather.gov",
         esriGeocode: "https://geocode.arcgis.com"
@@ -440,10 +441,10 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/satellite"> Satellite</a>
+                                        <a href="/hfo/obs"> Observations</a>
                                     </li>
                                                                     <li>
-                                        <a href="/hfo/obs"> Observations</a>
+                                        <a href="/hfo/satellite"> Satellite</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/hydrology"> Hydrology</a>
@@ -1099,11 +1100,11 @@ displayRainSummary()
                         <span class="footer-column-head">
                             <a href="/hfo/radar">Radar</a>
                         </span><br />
-                                                    <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
                                                     <a href="/hfo/radar">Hawaii Radar</a><br />
                                                     <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
                                                     <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
                                                     <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
+                                                    <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -1111,7 +1112,6 @@ displayRainSummary()
                         <span class="footer-column-head">
                             <a href="/hfo/forecast">Forecasts</a>
                         </span><br />
-                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
                                                     <a href="/hfo/aviation">Aviation</a><br />
                                                     <a href="/hfo/gfe_graphics">Local Graphics</a><br />
                                                     <a href="/hfo/marine">Marine</a><br />
@@ -1119,6 +1119,7 @@ displayRainSummary()
                                                     <a href="/hfo/forecast">Hawaii</a><br />
                                                     <a href="/hfo/model">Model Output</a><br />
                                                     <a href="/hfo/firewx">Fire Weather</a><br />
+                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
