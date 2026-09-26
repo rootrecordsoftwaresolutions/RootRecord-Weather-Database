@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T11:54:33-10:00 HST
-- **Report created:** 2026-09-26T11:54:33-10:00 HST
+- **Generated:** 2026-09-26T12:05:05-10:00 HST
+- **Report created:** 2026-09-26T12:05:05-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3334,7 +3334,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T11:39:54.118523-10:00 HST
+- **Collected:** 2026-09-26T11:58:37.790243-10:00 HST
 
 ```text
                         
@@ -3525,7 +3525,7 @@ TO 11N BETWEEN 160W AND 178W.
 
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO
-- **Collected:** 2026-09-26T11:32:51.545003-10:00 HST
+- **Collected:** 2026-09-26T12:00:21.071154-10:00 HST
 
 ```text
 583
@@ -4193,7 +4193,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T11:20:33.067217-10:00 HST
+- **Collected:** 2026-09-26T12:04:38.536172-10:00 HST
 
 ```text
 Home
@@ -4317,7 +4317,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 21:12:27 UTC
+Last update Sat, 26 Sep 2026 21:56:56 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4561,7 +4561,7 @@ NWS Local
 
 Products
 
-1101 AM HST
+1112 AM HST
 
 Productos en español:
 
@@ -4610,205 +4610,6 @@ Claves
 
 Rainfall
 Potential
-
-Atlantic - Caribbean Sea - Gulf of America
-
-Tropical Weather Outlook
-
-(en Español*)
-
-200 PM EDT Sat Sep 26 2026
-
-Tropical Weather Discussion
-
-1815 UTC Sat Sep 26 2026
-
-Post-Tropical Cyclone Gonzalo
-
-Satellite |
-Buoys |
-Grids |
-Storm Archive
-
-...GONZALO NO LONGER A TROPICAL CYCLONE...
-...THIS IS THE FINAL ADVISORY...
-
-8:00 PM CVT Sat Sep 26
-
-Location: 19.3°N 23.3°W
-
-Moving: NNW at 7 mph
-
-Min pressure: 1005 mb
-
-Max sustained: 40 mph
-
-Public
-
-Advisory
-
-#8
-
-800 PM CVT
-
-Forecast
-
-Advisory
-
-#8
-
-2100 UTC
-
-Forecast
-
-Discussion
-
-#8
-
-800 PM CVT
-
-Wind Speed
-
-Probabilities
-
-#8
-
-2100 UTC
-
-Productos en español:
-
-(más información)
-
-Aviso
-
-Publico
-
-Pronóstico
-
-Discusión
-
-Wind Speed
-Probabilities
-
-Arrival Time
-of Winds
-
-Wind
-History
-
-Interactive
-Cone
-
-Warnings/Cone
-Static Images
-
-Warnings/Cone
-Interactive Map
-
-Experimental Cone
-Static Images
-
-Experimental Cone
-Interactive Map
-
-Warnings and
-Surface Wind
-
-Rip
-Currents
-
-Tropical Depression Fay
-
-Satellite |
-Buoys |
-Grids |
-Storm Archive
-
-...FAY SLOWLY MOVING SOUTHWARD...
-
-9:00 PM GMT Sat Sep 26
-
-Location: 29.8°N 43.9°W
-
-Moving: S at 2 mph
-
-Min pressure: 1009 mb
-
-Max sustained: 35 mph
-
-Public
-
-Advisory
-
-#27
-
-900 PM GMT
-
-Forecast
-
-Advisory
-
-#27
-
-2100 UTC
-
-Forecast
-
-Discussion
-
-#27
-
-900 PM GMT
-
-Wind Speed
-
-Probabilities
-
-#27
-
-2100 UTC
-
-Productos en español:
-
-(más información)
-
-Aviso
-
-Publico
-
-Pronóstico
-
-Discusión
-
-Wind Speed
-Probabilities
-
-Arrival Time
-of Winds
-
-Wind
-History
-
-Interactive
-Cone
-
-Warnings/Cone
-Static Images
-
-Warnings/Cone
-Interactive Map
-
-Experimental Cone
-Static Images
-
-Experimental Cone
-Interactive Map
-
-Warnings and
-Surface Wind
-
-Rip
-Currents
 
 Eastern North Pacific
 (East of 140°W)
@@ -4974,6 +4775,205 @@ Wind Speed
 Probabilities
 
 #28
+
+2100 UTC
+
+Productos en español:
+
+(más información)
+
+Aviso
+
+Publico
+
+Pronóstico
+
+Discusión
+
+Wind Speed
+Probabilities
+
+Arrival Time
+of Winds
+
+Wind
+History
+
+Interactive
+Cone
+
+Warnings/Cone
+Static Images
+
+Warnings/Cone
+Interactive Map
+
+Experimental Cone
+Static Images
+
+Experimental Cone
+Interactive Map
+
+Warnings and
+Surface Wind
+
+Rip
+Currents
+
+Atlantic - Caribbean Sea - Gulf of America
+
+Tropical Weather Outlook
+
+(en Español*)
+
+200 PM EDT Sat Sep 26 2026
+
+Tropical Weather Discussion
+
+1815 UTC Sat Sep 26 2026
+
+Post-Tropical Cyclone Gonzalo
+
+Satellite |
+Buoys |
+Grids |
+Storm Archive
+
+...GONZALO NO LONGER A TROPICAL CYCLONE...
+...THIS IS THE FINAL ADVISORY...
+
+8:00 PM CVT Sat Sep 26
+
+Location: 19.3°N 23.3°W
+
+Moving: NNW at 7 mph
+
+Min pressure: 1005 mb
+
+Max sustained: 40 mph
+
+Public
+
+Advisory
+
+#8
+
+800 PM CVT
+
+Forecast
+
+Advisory
+
+#8
+
+2100 UTC
+
+Forecast
+
+Discussion
+
+#8
+
+800 PM CVT
+
+Wind Speed
+
+Probabilities
+
+#8
+
+2100 UTC
+
+Productos en español:
+
+(más información)
+
+Aviso
+
+Publico
+
+Pronóstico
+
+Discusión
+
+Wind Speed
+Probabilities
+
+Arrival Time
+of Winds
+
+Wind
+History
+
+Interactive
+Cone
+
+Warnings/Cone
+Static Images
+
+Warnings/Cone
+Interactive Map
+
+Experimental Cone
+Static Images
+
+Experimental Cone
+Interactive Map
+
+Warnings and
+Surface Wind
+
+Rip
+Currents
+
+Tropical Depression Fay
+
+Satellite |
+Buoys |
+Grids |
+Storm Archive
+
+...FAY SLOWLY MOVING SOUTHWARD...
+
+9:00 PM GMT Sat Sep 26
+
+Location: 29.8°N 43.9°W
+
+Moving: S at 2 mph
+
+Min pressure: 1009 mb
+
+Max sustained: 35 mph
+
+Public
+
+Advisory
+
+#27
+
+900 PM GMT
+
+Forecast
+
+Advisory
+
+#27
+
+2100 UTC
+
+Forecast
+
+Discussion
+
+#27
+
+900 PM GMT
+
+Wind Speed
+
+Probabilities
+
+#27
 
 2100 UTC
 
