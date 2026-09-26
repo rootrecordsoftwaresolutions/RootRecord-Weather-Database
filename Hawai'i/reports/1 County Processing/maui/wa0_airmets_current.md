@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T05:15:59-10:00 HST
-- **Report created:** 2026-09-26T05:15:59-10:00 HST
+- **Generated:** 2026-09-26T05:33:00-10:00 HST
+- **Report created:** 2026-09-26T05:33:00-10:00 HST
 - **County:** Maui County
 - **Resource ID:** wa0_airmets
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=WA0&issuedby=HI
