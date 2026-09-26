@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T21:49:09-10:00 HST
-- **Report created:** 2026-09-25T21:49:09-10:00 HST
+- **Generated:** 2026-09-25T22:01:50-10:00 HST
+- **Report created:** 2026-09-25T22:01:50-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
@@ -17,377 +17,128 @@
 ```text
 Home
 
+Mobile Site
 
-
-
-Mobile Si e
-
-
-
-
-Tex Version
-
-
-
+Text Version
 
 RSS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Local Forecas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Local Forecast
 
 NATIONAL HURRICANE CENTER and
 CENTRAL PACIFIC HURRICANE CENTER
 
+National Oceanic and Atmospheric Administration
 
-Na ional Oceanic and A mospheric Adminis ra ion
+Analysis & Forecasts
 
+Tropical Cyclone Products
 
+Tropical Weather Outlooks
 
+Marine Products
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Analysis & Forecas s
-
-
-
-
-Tropical Cyclone Produc s
-
-
-Tropical Wea her Ou looks
-
-
-Marine Produc s
-
-
-Rip Curren s Map
-
+Rip Currents Map
 
 RSS Feeds
 
+GIS Products
 
-GIS Produc s
+Alternate Formats
 
+Tropical Cyclone Product Descriptions
 
-Al erna e Forma s
+Tropical Cyclone Product Examples
 
+Marine Product Descriptions
 
-Tropical Cyclone Produc Descrip ions
+Data & Tools
 
-
-Tropical Cyclone Produc Examples
-
-
-Marine Produc Descrip ions
-
-
-
-
-
-
-
-
-
-
-Da a & Tools
-
-
-
-
-Sa elli e Imagery
-
+Satellite Imagery
 
 Radar Imagery
 
-
-Aircraf Reconnaissance
-
+Aircraft Reconnaissance
 
 Tropical Analysis Tools
 
+Experimental Products
 
-Experimen al Produc s
-
-
-La /Lon Dis ance Calcula or
-
+Lat/Lon Distance Calculator
 
 Blank Tracking Maps
 
-
-
-
-
-
-
-
-
-
-Educa ional Resources
-
-
-
-
-
+Educational Resources
 
 Be Prepared!
 NWS Hurricane Prep Week
 
-
-
-
-Ou reach Documen s
-
+Outreach Documents
 
 TC Videos
 
+Rip Currents
 
-Rip Curren s
+Storm Surge
 
+Watch/Warning Breakpoints
 
-S orm Surge
-
-
-Wa ch/Warning Breakpoin s
-
-
-Clima ology
-
+Climatology
 
 Tropical Cyclone Names
 
-
 Wind Scale
 
+Records and Facts
 
-Records and Fac s
+Historical Hurricane Summaries
 
+Forecast Models
 
-His orical Hurricane Summaries
-
-
-Forecas Models
-
-
-NHC Publica ions
-
+NHC Publications
 
 NHC Glossary
 
-
 Acronyms
 
-
-Frequen Ques ions
-
-
-
-
-
-
-
-
-
+Frequent Questions
 
 Archives
 
-
-
-
 Tropical Cyclone Advisories
 
+Tropical Weather Outlooks
 
-Tropical Wea her Ou looks
+Tropical Cyclone Reports and Season Summaries
 
-
-Tropical Cyclone Repor s and Season Summaries
-
-
-Tropical Cyclone Forecas Verifica ion
-
+Tropical Cyclone Forecast Verification
 
 NHC News Archive
 
+Other Archives: HURDAT, Track Maps, Marine Products, and more
 
-O her Archives: HURDAT, Track Maps, Marine Produc s, and more
+About
 
+National Hurricane Center
 
-
-
-
-
-
-
-
-
-Abou
-
-
-
-
-Na ional Hurricane Cen er
-
-
-Cen ral Pacific Hurricane Cen er
-
+Central Pacific Hurricane Center
 
 Library
 
-
-Con ac Us
-
-
-
-
-
-
-
-
-
+Contact Us
 
 Search
-
-
-
-
-
-
-
-
 
 Search for
 
-
 Search
 
+Top News of the Day...
+view past news
 
+Last update Sat, 26 Sep 2026 07:47:49 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Top News of he Day...
-view pas news
-
-
-
-
-Las upda e Sa , 26 Sep 2026 07:47:49 UTC
-
-
-
-
-
-
-
-
-
-
-
-
-
-NHC issuing advisories for he A lan ic on
-
+NHC issuing advisories for the Atlantic on
 
 TS Fay
 
@@ -395,14 +146,7 @@ and
 
 TS Gonzalo
 
-
-
-
-
-
-
-NHC issuing advisories for he Eas ern Pacific on
-
+NHC issuing advisories for the Eastern Pacific on
 
 Hurricane Odalys
 
@@ -410,1467 +154,179 @@ and
 
 Hurricane Polo
 
-
-
-
-
-
-
-NHC issuing advisories for he Cen ral Pacific on
-
+NHC issuing advisories for the Central Pacific on
 
 Hurricane Nolo
 
-
-
-
-
-
-
-
-
-
-
-Marine warnings are in effec for he A lan ic and Eas ern Pacific
-
-
-
-
-
-
-
-
-
-
-
-
+Marine warnings are in effect for the Atlantic and Eastern Pacific
 
 Key messages regarding Hurricane Polo
 
 (en Español: Mensajes Claves)
 
-
-
-
 Key messages regarding Hurricane Nolo
 
 (en Español: Mensajes Claves)
 
-
-
-
-
 Local info on Nolo:
 Honolulu
 
+Graphical Tropical Weather Outlook (Static Images)
 
+JavaScript is currently disabled in your browser or you are using an older browser that is incompatible with this map. To view the interactive map, please enable JavaScript or update your browser if possible. Direct links to the latest high-resolution forecast images are provided below:
 
+View Atlantic 2-Day Outlook
 
+View Atlantic 7-Day Outlook
 
+View Eastern Pacific 2-Day Outlook
 
+View Eastern Pacific 7-Day Outlook
 
+View Central Pacific 2-Day Outlook
 
+View Central Pacific 7-Day Outlook
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Graphical Tropical Wea her Ou look (S a ic Images)
-
-
-
-JavaScrip is curren ly disabled in your browser or you are using an older browser ha is incompa ible wi h his map. To view he in erac ive map, please enable JavaScrip or upda e your browser if possible. Direc links o he la es high-resolu ion forecas images are provided below:
-
-
-
-
-
-
-
-View A lan ic 2-Day Ou look
-
-
-
-
-
-
-View A lan ic 7-Day Ou look
-
-
-
-
-
-
-View Eas ern Pacific 2-Day Ou look
-
-
-
-
-
-
-View Eas ern Pacific 7-Day Ou look
-
-
-
-
-
-
-View Cen ral Pacific 2-Day Ou look
-
-
-
-
-
-
-View Cen ral Pacific 7-Day Ou look
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cen ral Pacific
-
-
-
+Central Pacific
 
 Pacific
 
+Atlantic
 
+2-Day Forecast
 
+7-Day Forecast
 
-A lan ic
-
-
-
-
-
-
-
-
-
-
-
-
-
-2-Day Forecas
-
-
-
-
-7-Day Forecas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
+Disturbances:
 
 None
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
+Disturbances:
 
 None
 
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-View Full Graphical Tropical Wea her Ou look
-| Marine Produc s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+View Full Graphical Tropical Weather Outlook
+| Marine Products
 
 Close (X)
 
+View Storm Details
 
+Central North Pacific
+(140°W to 180°)
 
-
-
-
-
-
-
-
-
-
-View S orm De ails
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cen ral Nor h Pacific
-(140°W o 180°)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
-
 800 PM HST Fri Sep 25 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Hurricane Nolo
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...NOLO NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
 
-
-
-
-
-
-
-
-
 8:00 PM HST Fri Sep 25
 
-Loca ion: 16.9°N 155.2°W
+Location: 16.9°N 155.2°W
 
-
-Moving: S a ionary
-
+Moving: Stationary
 
 Min pressure: 975 mb
 
-Max sus ained: 105 mph
-
-
-
-
+Max sustained: 105 mph
 
 Public
 
@@ -1880,9 +336,7 @@ Advisory
 
 800 PM HST
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -1890,9 +344,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -1900,453 +352,101 @@ Discussion
 
 500 PM HST
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #22
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 NWS Local
 
-Produc s
+Products
 
 520 PM HST
 
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Key
 Messages
 
-
-
-
-
-
-
-
-
-
 Mensajes
 Claves
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Peak
 Surge
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rainfall
-Po en ial
+Potential
 
+Atlantic - Caribbean Sea - Gulf of America
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A lan ic - Caribbean Sea - Gulf of America
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
+200 AM EDT Sat Sep 26 2026
 
-200 AM EDT Sa Sep 26 2026
+Tropical Weather Discussion
 
+0615 UTC Sat Sep 26 2026
 
+Tropical Storm Gonzalo
 
-Tropical Wea her Discussion
-
-0615 UTC Sa Sep 26 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical S orm Gonzalo
-
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...GONZALO WEAKENS AS IT CONTINUES NORTHWARD...
 
+2:00 AM CVT Sat Sep 26
 
+Location: 16.9°N 22.5°W
 
-
-
-
-
-
-
-2:00 AM CVT Sa Sep 26
-
-Loca ion: 16.9°N 22.5°W
-
-
-Moving: N a 9 mph
-
+Moving: N at 9 mph
 
 Min pressure: 1002 mb
 
-Max sus ained: 45 mph
-
-
-
-
+Max sustained: 45 mph
 
 Public
 
@@ -2356,9 +456,7 @@ Advisory
 
 200 AM CVT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -2366,9 +464,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -2376,328 +472,74 @@ Discussion
 
 200 AM CVT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #5
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
+Tropical Storm Fay
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical S orm Fay
-
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...FAY CONTINUES TO WEAKEN OVER THE ATLANTIC OCEAN...
 
+3:00 AM GMT Sat Sep 26
 
+Location: 29.9°N 43.4°W
 
-
-
-
-
-
-
-3:00 AM GMT Sa Sep 26
-
-Loca ion: 29.9°N 43.4°W
-
-
-Moving: WSW a 7 mph
-
+Moving: WSW at 7 mph
 
 Min pressure: 1006 mb
 
-Max sus ained: 40 mph
-
-
-
-
+Max sustained: 40 mph
 
 Public
 
@@ -2707,9 +549,7 @@ Advisory
 
 300 AM GMT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -2717,9 +557,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -2727,388 +565,88 @@ Discussion
 
 300 AM GMT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #24
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
+Eastern North Pacific
+(East of 140°W)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eas ern Nor h Pacific
-(Eas of 140°W)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
-
 1100 PM PDT Fri Sep 25 2026
 
+Tropical Weather Discussion
 
-
-Tropical Wea her Discussion
-
-0405 UTC Sa Sep 26 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+0405 UTC Sat Sep 26 2026
 
 Hurricane Polo
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...POLO REMAINS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
 ...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A POWERFUL HURRICANE...
 
-
-
-
-
-
-
-
-
 11:00 PM MST Fri Sep 25
 
-Loca ion: 17.5°N 110.5°W
+Location: 17.5°N 110.5°W
 
-
-Moving: WNW a 10 mph
-
+Moving: WNW at 10 mph
 
 Min pressure: 911 mb
 
-Max sus ained: 175 mph
-
-
-
-
+Max sustained: 175 mph
 
 Public
 
@@ -3118,9 +656,7 @@ Advisory
 
 1100 PM MST
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -3128,9 +664,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -3138,366 +672,83 @@ Discussion
 
 800 PM MST
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #22
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Key
 Messages
-
-
-
-
-
-
-
-
-
 
 Mensajes
 Claves
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Currents
 
 Rainfall
-Po en ial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Potential
 
 Hurricane Odalys
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...ODALYS STILL A MAJOR HURRICANE AS IT MOVES SLOWLY NORTHWARD...
 
-
-
-
-
-
-
-
-
 8:00 PM PDT Fri Sep 25
 
-Loca ion: 18.8°N 123.6°W
+Location: 18.8°N 123.6°W
 
-
-Moving: N a 5 mph
-
+Moving: N at 5 mph
 
 Min pressure: 952 mb
 
-Max sus ained: 120 mph
-
-
-
-
+Max sustained: 120 mph
 
 Public
 
@@ -3507,9 +758,7 @@ Advisory
 
 800 PM PDT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -3517,9 +766,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -3527,937 +774,202 @@ Discussion
 
 800 PM PDT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #25
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane Knowledge Ki
-
-
-
-
-
-
+Building Your Hurricane Knowledge Kit
 
 ‹
 
+National Hurricane Center Track Forecast Cone (2026)
 
+Building Your Hurricane "Knowledge" Kit: Storm Surge Warning
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Na ional Hurricane Cen er Track Forecas Cone (2026)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : S orm Surge Warning
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Po en ial Tropical Cyclones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Building Your Hurricane "Knowledge" Kit: Potential Tropical Cyclones
 
 Tropical Cyclone Names
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tropical Waves
 
+Artificial Intelligence (AI) in Hurricane Forecasting
 
+Building Your Hurricane "Knowledge" Kit: Tropical Weather Outlook
 
+Building Your Hurricane "Knowledge" Kit: Time of Arrival
 
+Building Your Hurricane "Knowledge" Kit: Wind Speed Probabilities
 
+Building Your Hurricane "Knowledge" Kit: Saffir-Simpson Hurricane Wind Scale
 
+Building Your Hurricane "Knowledge" Kit: Storm Surge Watch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ar ificial In elligence (AI) in Hurricane Forecas ing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Tropical Wea her Ou look
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Time of Arrival
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Wind Speed Probabili ies
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Saffir-Simpson Hurricane Wind Scale
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : S orm Surge Wa ch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Na ional Hurricane Preparedness Week Preview: Assembling Your Hurricane "Knowledge" Ki
-
-
-
-
-
-
-
-
+National Hurricane Preparedness Week Preview: Assembling Your Hurricane "Knowledge" Kit
 
 ›
 
+Quick Links and Additional Resources
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick Links and Addi ional Resources
-
-
-
-
-
-Tropical Cyclone Forecas s
+Tropical Cyclone Forecasts
 
 Tropical Cyclone Advisories
 
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
-Audio/Podcas s
+Audio/Podcasts
 
-Abou Advisories
+About Advisories
 
+Marine Forecasts
 
+Offshore Waters Forecasts
 
-Marine Forecas s
+Gridded Forecasts
 
-Offshore Wa ers Forecas s
+Graphicast
 
-Gridded Forecas s
-
-Graphicas
-
-Abou Marine
-
-
-
-
+About Marine
 
 Social Media
 
-
 NHC on Facebook
-
-
 
 NHC on X
 
-
-
 NHC on YouTube
 
-
-
 NHC Blog:
-"Inside he Eye"
-
-
-
+"Inside the Eye"
 
 Hurricane Preparedness
 
-
 Preparedness Guide
-
 
 Hurricane Hazards
 
+Watches and Warnings
 
-Wa ches and Warnings
-
-
-Marine Safe y
-
+Marine Safety
 
 Ready.gov Hurricanes
 
+Weather-Ready Nation
 
-Wea her-Ready Na ion
+Emergency Management Offices
 
-
-Emergency Managemen Offices
-
-
-
-
-
-
-Research and Developmen
-
+Research and Development
 
 NOAA Hurricane Research Division
 
+Hurricane and Ocean Testbed
 
-Hurricane and Ocean Tes bed
+Hurricane Forecast Improvement Program
 
+Other Resources
 
-Hurricane Forecas Improvemen Program
-
-
-
-
-O her Resources
-
-Q & A wi h NHC
-
+Q & A with NHC
 
 NHC/AOML Library Branch
 
-
-
 NOAA: Hurricane FAQs
 
+National Hurricane Operations Plan
 
-Na ional Hurricane Opera ions Plan
+WX4NHC Amateur Radio
 
+NWS Forecast Offices
 
-WX4NHC Ama eur Radio
+Weather Prediction Center
 
+Storm Prediction Center
 
+Ocean Prediction Center
 
+Local Forecast Offices
 
+Worldwide Tropical Cyclone Centers
 
+Canadian Hurricane Centre
 
-NWS Forecas Offices
+Joint Typhoon Warning Center
 
+Other Tropical Cyclone Centers
 
-Wea her Predic ion Cen er
+WMO Severe Weather Info Centre
 
+US Dept of Commerce
 
+National Oceanic and Atmospheric Administration
 
-S orm Predic ion Cen er
+National Hurricane Center
 
-
-
-Ocean Predic ion Cen er
-
-
-
-Local Forecas Offices
-
-
-
-
-Worldwide Tropical Cyclone Cen ers
-
-
-Canadian Hurricane Cen re
-
-
-
-Join Typhoon Warning Cen er
-
-
-O her Tropical Cyclone Cen ers
-
-
-WMO Severe Wea her Info Cen re
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-US Dep of Commerce
-
-
-
-Na ional Oceanic and A mospheric Adminis ra ion
-
-
-Na ional Hurricane Cen er
-
-11691 SW 17 h S ree
+11691 SW 17th Street
 
 Miami, FL, 33165
 
-nhcwebmas er@noaa.gov
+nhcwebmaster@noaa.gov
 
-
-
-
-
-
-
-
-
-Cen ral Pacific Hurricane Cen er
+Central Pacific Hurricane Center
 
 2525 Correa Rd
 
-Sui e 250
+Suite 250
 
 Honolulu, HI 96822
 
-W-HFO.webmas er@noaa.gov
-
-
-
-
-
-
-
-
+W-HFO.webmaster@noaa.gov
 
 Disclaimer
 
-Informa ion Quali y
+Information Quality
 
 Help
 
 Glossary
-
-
-
-
-
-
-
-
-
-Privacy Policy
-
-Freedom of Informa ion Ac (FOIA)
-
-Abou Us
-
-Career Oppor uni ies
 ```

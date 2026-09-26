@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-25T21:49:04-10:00 HST
-- **Report created:** 2026-09-25T21:49:04-10:00 HST
+- **Generated:** 2026-09-25T22:01:49-10:00 HST
+- **Report created:** 2026-09-25T22:01:49-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -2391,7 +2391,7 @@ UPDATE...M Ballard
 
 - **Resource ID:** cwf_coastal_waters
 - **Source:** https://api.weather.gov/products/types/CWF/locations/HFO
-- **Collected:** 2026-09-25T21:48:34.880827-10:00 HST
+- **Collected:** 2026-09-25T16:49:18.233970-10:00 HST
 
 ```text
 000
@@ -3420,19 +3420,19 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-25T21:42:34.700350-10:00 HST
+- **Collected:** 2026-09-25T21:53:23.921331-10:00 HST
 
 ```text
-325
-SRHW80 PHFO 260646
+817
+SRHW80 PHFO 260746
 RRAHFO
 
 Hawaii Rainfall Summary
 National Weather Service Honolulu HI
-845 PM HST Fri Sep 25 2026
+945 PM HST Fri Sep 25 2026
 
 :
-.B HFO  0925 H  DH20 /DRH-03/PPT/DRH-06/PPQ/DRH-12/PPK/DRH-24/PPD
+.B HFO  0925 H  DH21 /DRH-03/PPT/DRH-06/PPQ/DRH-12/PPK/DRH-24/PPD
 :
 :Automated rain gage reports from around the State of Hawaii.
 :These are provisional reports that have not been quality
@@ -3440,40 +3440,40 @@ National Weather Service Honolulu HI
 :
 :T=Trace Rainfall, M=Missing Data
 :
-:Precipitation totals ending  8 PM HST
+:Precipitation totals ending  9 PM HST
 :
 :Island of Kauai                                   Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward/Mauka Sites
 MKAH1 : Makaha Ridge (RAWS)         :    0.00  /  0.00  /  0.00  /  0.00
-PLRH1 : Puu Lua (RAWS)              :    0.02  /  0.02  /  0.02  /  0.02
-WKRH1 : Waiakoali (USGS)            :    0.27  /  0.32  /  0.33  /  0.37
-KLOH1 : Kilohana (USGS)             :    0.73  /  0.90  /  1.34  /  1.54
-MCRH1 : Mohihi Crossing (USGS)      :    0.23  /  0.25  /  0.28  /  0.32
-WLGH1 : Waialae (USGS)              :    0.06  /  0.06  /  0.06  /  0.07
-LLMH1 : Lower Limahuli (UHM)        :    0.09  /  0.10  /  0.10  /  0.14
-WNHH1 : Wainiha (12010)             :    0.18  /  0.21  /  0.22  /  0.31
-WIPH1 : Waipa (UHM)                 :    0.14  /  0.15  /  0.16  /  0.25
-HNIH1 : Hanalei (12009)             :    0.14  /  0.18  /  0.20  /  0.26
+PLRH1 : Puu Lua (RAWS)              :    0.06  /  0.06  /  0.06  /  0.06
+WKRH1 : Waiakoali (USGS)            :    0.34  /  0.41  /  0.42  /  0.45
+KLOH1 : Kilohana (USGS)             :    0.69  /  1.13  /  1.38  /  1.77
+MCRH1 : Mohihi Crossing (USGS)      :    0.33  /  0.38  /  0.39  /  0.44
+WLGH1 : Waialae (USGS)              :    0.08  /  0.08  /  0.08  /  0.08
+LLMH1 : Lower Limahuli (UHM)        :    0.19  /  0.22  /  0.22  /  0.26
+WNHH1 : Wainiha (12010)             :    0.27  /  0.32  /  0.32  /  0.42
+WIPH1 : Waipa (UHM)                 :    0.19  /  0.26  /  0.27  /  0.36
+HNIH1 : Hanalei (12009)             :    0.17  /  0.25  /  0.25  /  0.33
 WLLH1 : Mount Waialeale (USGS)      :      M   /    M   /    M   /    M
-PRIH1 : Princeville Airport (12011) :    0.03  /  0.05  /  0.05  /  0.07
-CMGH1 : Common Ground (UHM)         :    0.09  /  0.09  /  0.09  /  0.11
-HLIH1 : Hanalei (RAWS)              :    0.12  /  0.17  /  0.18  /  0.20
+PRIH1 : Princeville Airport (12011) :    0.07  /  0.09  /  0.09  /  0.11
+CMGH1 : Common Ground (UHM)         :    0.10  /  0.15  /  0.15  /  0.17
+HLIH1 : Hanalei (RAWS)              :    0.22  /  0.27  /  0.27  /  0.30
 MLDH1 : Moloaa Dairy (RAWS)         :    0.00  /  0.00  /  0.00  /  0.00
-ANHH1 : Anahola (12001)             :    0.02  /  0.02  /  0.02  /  0.02
-KPIH1 : Kapahi (12003)              :    0.13  /  0.14  /  0.15  /  0.17
-WLDH1 : N Wailua Ditch (USGS)       :    0.12  /  0.12  /  0.16  /  0.19
-WUHH1 : Wailua (12005)              :    0.21  /  0.27  /  0.27  /  0.33
-WIRH1 : Waiahi Rain Gage (USGS)     :    0.11  /  0.17  /  0.30  /  0.33
-LIHH1 : Lihue Var. Stn. (12006)     :    0.20  /  0.21  /  0.21  /  0.25
-HNMH1 : Hanamaulu (UHM)             :    0.15  /  0.17  /  0.22  /  0.23
-HLI   : Lihue Airport (ASOS)        :    0.01  /  0.03  /  0.03  /  0.04
+ANHH1 : Anahola (12001)             :    0.04  /  0.04  /  0.04  /  0.04
+KPIH1 : Kapahi (12003)              :    0.22  /  0.24  /  0.25  /  0.27
+WLDH1 : N Wailua Ditch (USGS)       :    0.27  /  0.30  /  0.34  /  0.36
+WUHH1 : Wailua (12005)              :    0.31  /  0.38  /  0.38  /  0.44
+WIRH1 : Waiahi Rain Gage (USGS)     :    0.30  /  0.38  /  0.49  /  0.54
+LIHH1 : Lihue Var. Stn. (12006)     :    0.21  /  0.29  /  0.29  /  0.33
+HNMH1 : Hanamaulu (UHM)             :    0.27  /  0.34  /  0.39  /  0.41
+HLI   : Lihue Airport (ASOS)        :    0.01  /  0.03  /  0.05  /  0.06
 :       Leeward Sites
-OMAH1 : Omao (12004)                :    0.18  /  0.18  /  0.21  /  0.21
-LNTH1 : Lawai NTBG (UHM)            :    0.11  /  0.11  /  0.12  /  0.12
-KHEH1 : Kalaheo (12008)             :    0.08  /  0.09  /  0.10  /  0.10
+OMAH1 : Omao (12004)                :    0.16  /  0.18  /  0.21  /  0.21
+LNTH1 : Lawai NTBG (UHM)            :    0.14  /  0.15  /  0.15  /  0.16
+KHEH1 : Kalaheo (12008)             :    0.09  /  0.10  /  0.11  /  0.11
 PAKH1 : Port Allen (HSOIS)          :    0.00  /  0.00  /  0.00  /  0.00
-HNPH1 : Hanapepe (12002)            :    0.01  /  0.01  /  0.01  /  0.01
+HNPH1 : Hanapepe (12002)            :    0.03  /  0.03  /  0.03  /  0.03
 POPH1 : Puu Opae (RAWS)             :    0.00  /  0.00  /  0.00  /  0.00
 WHGH1 : Waimea Heights (RAWS)       :    0.00  /  0.00  /  0.00  /  0.00
 WMTH1 : Waimea Tank (12007)         :    0.00  /  0.00  /  0.00  /  0.00
@@ -3482,24 +3482,24 @@ MNRH1 : Mana (RAWS)                 :    0.00  /  0.00  /  0.00  /  0.00
 :Island of Oahu                                    Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward/Mauka Sites
-KAHH1 : Kahuku (13027)              :    0.02  /  0.02  /  0.02  /  0.02
+KAHH1 : Kahuku (13027)              :    0.03  /  0.03  /  0.03  /  0.03
 KTAH1 : Kahuku Training Area (RAWS) :    0.00  /  0.00  /  0.00  /  0.00
 KFWH1 : Kii (RAWS)                  :    0.00  /  0.00  /  0.00  /  0.00
-PUNH1 : Punaluu Pump (13013)        :    0.04  /  0.06  /  0.07  /  0.15
-PNSH1 : Punaluu Stream (USGS)       :    0.02  /  0.08  /  0.18  /  0.24
-KNRH1 : Kahana (USGS)               :    0.03  /  0.06  /  0.17  /  0.31
-HAKH1 : Hakipuu Mauka (13004)       :    0.02  /  0.02  /  0.06  /  0.32
-WPPH1 : Waihee Pump (13002)         :    0.01  /  0.04  /  0.05  /  0.12
-WHSH1 : Waiahole (USGS)             :    0.02  /  0.04  /  0.06  /  0.10
-OFRH1 : Oahu Forest NWR (USFWS)     :    0.03  /  0.03  /  0.06  /  0.11
-AHUH1 : Ahuimanu Loop (13005)       :    0.02  /  0.04  /  0.05  /  0.07
-HRRH1 : Heeia NERR (NOAA/NOS)       :    0.01  /  0.05  /  0.07  /  0.12
+PUNH1 : Punaluu Pump (13013)        :    0.04  /  0.08  /  0.08  /  0.17
+PNSH1 : Punaluu Stream (USGS)       :    0.08  /  0.15  /  0.20  /  0.31
+KNRH1 : Kahana (USGS)               :    0.03  /  0.06  /  0.15  /  0.31
+HAKH1 : Hakipuu Mauka (13004)       :    0.02  /  0.03  /  0.03  /  0.33
+WPPH1 : Waihee Pump (13002)         :    0.00  /  0.03  /  0.04  /  0.12
+WHSH1 : Waiahole (USGS)             :    0.00  /  0.04  /  0.05  /  0.10
+OFRH1 : Oahu Forest NWR (USFWS)     :    0.05  /  0.06  /  0.07  /  0.14
+AHUH1 : Ahuimanu Loop (13005)       :    0.01  /  0.04  /  0.04  /  0.07
+HRRH1 : Heeia NERR (NOAA/NOS)       :    0.00  /  0.05  /  0.05  /  0.12
 LULH1 : Luluku (13016)              :    0.00  /  0.00  /  0.00  /  0.00
-NRSH1 : Nuuanu Res No. 1 (UHM)      :    0.00  /  0.00  /  0.02  /  0.09
-KWIH1 : Kalawahine (UHM)            :    0.01  /  0.01  /  0.06  /  0.23
-LYOH1 : Lyon (UHM)                  :    0.00  /  0.00  /  0.08  /  0.33
-MNLH1 : Manoa Lyon Arboretum (13023):    0.00  /  0.01  /  0.03  /  0.27
-STVH1 : St. Stephens (13006)        :    0.00  /  0.02  /  0.04  /  0.16
+NRSH1 : Nuuanu Res No. 1 (UHM)      :    0.00  /  0.00  /  0.00  /  0.07
+KWIH1 : Kalawahine (UHM)            :    0.00  /  0.01  /  0.01  /  0.17
+LYOH1 : Lyon (UHM)                  :    0.01  /  0.01  /  0.03  /  0.28
+MNLH1 : Manoa Lyon Arboretum (13023):    0.01  /  0.01  /  0.02  /  0.28
+STVH1 : St. Stephens (13006)        :    0.00  /  0.02  /  0.02  /  0.16
 MAUH1 : Maunawili (13008)           :      M   /    M   /    M   /    M
 OFSH1 : Olomana Fire Station (13009):    0.00  /  0.00  /  0.00  /  0.04
 WMLH1 : Waimanalo (13011)           :    0.00  /  0.00  /  0.01  /  0.07
@@ -3507,32 +3507,32 @@ BELH1 : Bellows AFS (HSOIS)         :    0.00  /  0.00  /  0.00  /  0.00
 KMHH1 : Kamehame (13012)            :    0.00  /  0.00  /  0.00  /  0.08
 HAJH1 : Hawaii Kai Golf Crse (13015):    0.00  /  0.00  /  0.00  /  0.17
 :       Leeward/Central Sites
-KUXH1 : Kaluanui (UHM)              :    0.00  /  0.01  /  0.04  /  0.13
-NIUH1 : Niu Valley (13001)          :    0.00  /  0.00  /  0.02  /  0.24
-PFSH1 : Palolo Fire Station (13010) :    0.00  /  0.00  /  0.03  /  0.15
+KUXH1 : Kaluanui (UHM)              :    0.00  /  0.00  /  0.01  /  0.13
+NIUH1 : Niu Valley (13001)          :    0.00  /  0.00  /  0.01  /  0.24
+PFSH1 : Palolo Fire Station (13010) :    0.00  /  0.00  /  0.01  /  0.15
 HNL   : Honolulu Airport (ASOS)             See note at bottom  :
-MOAH1 : Moanalua (13003)            :    0.01  /  0.02  /  0.03  /  0.10
-MOGH1 : Moanalua RG (USGS)          :    0.04  /  0.15  /  0.16  /  0.39
-TNLH1 : Tunnel RG (USGS)            :    0.01  /  0.11  /  0.19  /  0.39
-PACH1 : Palisades (13020)           :    0.01  /  0.02  /  0.02  /  0.05
-WAWH1 : Waiawa C.F. (13025)         :    0.02  /  0.02  /  0.03  /  0.03
-MITH1 : Mililani (13022)            :    0.01  /  0.01  /  0.01  /  0.01
-SCBH1 : Schofield Barracks (RAWS)   :    0.00  /  0.00  /  0.00  /  0.00
+MOAH1 : Moanalua (13003)            :    0.01  /  0.02  /  0.02  /  0.09
+MOGH1 : Moanalua RG (USGS)          :    0.00  /  0.14  /  0.16  /  0.38
+TNLH1 : Tunnel RG (USGS)            :    0.02  /  0.13  /  0.15  /  0.41
+PACH1 : Palisades (13020)           :    0.02  /  0.04  /  0.04  /  0.07
+WAWH1 : Waiawa C.F. (13025)         :    0.02  /  0.03  /  0.03  /  0.04
+MITH1 : Mililani (13022)            :    0.01  /  0.02  /  0.02  /  0.02
+SCBH1 : Schofield Barracks (RAWS)   :      M   /    M   /  0.00  /  0.00
 SCEH1 : Schofield East (RAWS)       :      M   /    M   /    M   /    M
-WAFH1 : Wheeler Airfield            :    0.04  /  0.04  /  0.04  /  0.04
-POAH1 : Poamoho (13018)             :    0.00  /  0.00  /  0.00  /  0.00
-KRGH1 : Kalahee Ridge (UHM)         :    0.03  /  0.03  /  0.06  /  0.06
-KMRH1 : Kamananui Stream (USGS)     :    0.14  /  0.17  /  0.20  /  0.27
-PPRH1 : Pupukea Road (USGS)         :    0.11  /  0.13  /  0.16  /  0.21
-PMHH1 : Poamoho RG 1 (USGS)         :    0.04  /  0.07  /  0.15  /  0.41
-DLGH1 : Dillingham (RAWS)           :    0.00  /  0.00  /  0.00  /  0.00
-AALH1 : Kaala (UHM)                 :    0.06  /  0.14  /  0.25  /  0.29
-PECH1 : Waipio (13019)              :    0.00  /  0.00  /  0.00  /  0.00
+WAFH1 : Wheeler Airfield            :    0.09  /  0.09  /  0.09  /  0.09
+POAH1 : Poamoho (13018)             :    0.02  /  0.02  /  0.02  /  0.02
+KRGH1 : Kalahee Ridge (UHM)         :    0.14  /  0.15  /  0.15  /  0.18
+KMRH1 : Kamananui Stream (USGS)     :    0.12  /  0.17  /  0.20  /  0.27
+PPRH1 : Pupukea Road (USGS)         :    0.09  /  0.13  /  0.13  /  0.21
+PMHH1 : Poamoho RG 1 (USGS)         :    0.02  /  0.06  /  0.09  /  0.41
+DLGH1 : Dillingham (RAWS)           :    0.01  /  0.01  /  0.01  /  0.01
+AALH1 : Kaala (UHM)                 :    0.05  /  0.11  /  0.26  /  0.32
+PECH1 : Waipio (13019)              :    0.01  /  0.01  /  0.01  /  0.01
 KUNH1 : Kunia Substation (13021)    :    0.00  /  0.00  /  0.00  /  0.00
 HOFH1 : Honouliuli (RAWS)           :    0.00  /  0.00  /  0.00  /  0.00
 PTWH1 : Ewa Beach USGS (13024)      :    0.00  /  0.00  /  0.00  /  0.00
 HJR   : Kalaeloa Airport (ASOS)             See note at bottom  :
-PLHH1 : Palehua (RAWS)              :    0.01  /  0.01  /  0.02  /  0.02
+PLHH1 : Palehua (RAWS)              :    0.01  /  0.01  /  0.01  /  0.02
 LUAH1 : Lualualei (13017)           :    0.00  /  0.00  /  0.00  /  0.00
 WNVH1 : Waianae Valley (RAWS)       :    0.00  /  0.00  /  0.00  /  0.00
 WBHH1 : Waianae Boat Harbor (HSOIS) :    0.00  /  0.00  /  0.00  /  0.00
@@ -3544,10 +3544,10 @@ KKRH1 : Kuaokala (RAWS)             :    0.00  /  0.00  /  0.00  /  0.00
 :Island of Molokai                                 Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 KOPH1 : Keopukaloa (UHM)            :    0.01  /  0.01  /  0.01  /  0.01
-HOMH1 : Honolimaloo (UHM)           :    0.04  /  0.04  /  0.04  /  0.10
-KMLH1 : Kamalo (14013)              :    0.00  /  0.00  /  0.00  /  0.00
+HOMH1 : Honolimaloo (UHM)           :    0.05  /  0.06  /  0.06  /  0.12
+KMLH1 : Kamalo (14013)              :    0.01  /  0.01  /  0.01  /  0.01
 MKPH1 : Makapulapai (RAWS)          :    0.00  /  0.00  /  0.00  /  0.02
-PAFH1 : Puu Alii (RAWS)             :    0.06  /  0.07  /  0.08  /  0.59
+PAFH1 : Puu Alii (RAWS)             :    0.13  /  0.15  /  0.15  /  0.66
 MLKH1 : Molokai 1 (RAWS)            :      M   /    M   /    M   /    M
 KACH1 : Kaunakakai Mauka (14004)    :    0.00  /  0.00  /  0.00  /  0.00
 HMK   : Molokai Airport (ASOS)      :    0.00  /  0.00  /  0.00  /    T
@@ -3566,23 +3566,23 @@ KAOH1 : Kaneloa (RAWS)              :      M   /    M   /    M   /    M
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward Sites
 HNAH1 : Hana Airport (HSOIS)        :      M   /    M   /    M   /    M
-WWKH1 : West Wailuaiki (USGS)       :    0.15  /  0.51  /  0.86  /  1.85
-EBYH1 : EMI Baseyard (UHM)          :    0.02  /  0.04  /  0.04  /  0.31
+WWKH1 : West Wailuaiki (USGS)       :    0.32  /  0.67  /  1.05  /  2.10
+EBYH1 : EMI Baseyard (UHM)          :    0.00  /  0.02  /  0.04  /  0.31
 AIKH1 : Haiku (14001)               :    0.01  /  0.01  /  0.01  /  0.08
 HOG   : Kahului Airport (ASOS)      :    0.00  /  0.00  /  0.00  /    T
 WUKH1 : Wailuku (14007)             :    0.00  /  0.00  /  0.00  /  0.00
 KHKH1 : Kahakuloa (14002)           :    0.00  /  0.00  /  0.00  /  0.00
-PKKH1 : Puu Kukui (USGS)            :    0.11  /  0.16  /  0.90  /  2.50
+PKKH1 : Puu Kukui (USGS)            :    0.14  /  0.20  /  0.38  /  2.52
 :       Leeward/Upcountry Sites
 NKUH1 : Na Kula (RAWS)              :    0.00  /  0.00  /  0.00  /  0.00
 KPNH1 : Kepuni (USGS)               :    0.00  /  0.00  /  0.00  /  0.00
-PILH1 : Piiholo (UHM)               :    0.07  /  0.07  /  0.09  /  0.19
-WKTH1 : Waikamoi Treeline (UHM)     :    0.21  /  0.22  /  0.24  /  0.53
-PUKH1 : Pukalani (14006)            :    0.00  /  0.00  /  0.00  /  0.00
+PILH1 : Piiholo (UHM)               :    0.14  /  0.19  /  0.20  /  0.31
+WKTH1 : Waikamoi Treeline (UHM)     :    0.32  /  0.44  /  0.45  /  0.75
+PUKH1 : Pukalani (14006)            :    0.02  /  0.02  /  0.02  /  0.02
 KBSH1 : Kula Branch Station (14008) :      M   /    M   /    M   /    M
 KLGH1 : Kula Ag (UHM)               :    0.00  /  0.00  /  0.00  /  0.00
-PHQH1 : Park HQ (UHM)               :    0.03  /  0.03  /  0.03  /  0.03
-NNEH1 : Nene Nest (UHM)             :    0.03  /  0.03  /  0.03  /  0.03
+PHQH1 : Park HQ (UHM)               :    0.07  /  0.08  /  0.08  /  0.08
+NNEH1 : Nene Nest (UHM)             :    0.07  /  0.08  /  0.08  /  0.08
 SUMH1 : Summit (UHM)                :    0.00  /  0.00  /  0.00  /  0.00
 KLFH1 : Kula 1 (RAWS)               :    0.00  /  0.00  /  0.00  /  0.00
 KKNH1 : Kahikinui 1 (RAWS)          :    0.00  /  0.00  /  0.00  /  0.00
@@ -3593,8 +3593,8 @@ LPOH1 : Lipoa (UHM)                 :    0.00  /  0.00  /  0.00  /  0.00
 KHIH1 : Kihei #2 (14009)            :      M   /    M   /  0.00  /    M
 KPDH1 : Kealia Pond (USFWS)         :    0.00  /  0.00  /  0.00  /  0.00
 WCCH1 : Waikapu Country Club (14005):    0.00  /  0.00  /  0.00  /  0.00
-HULH1 : Hanaula (UHM)               :    0.00  /  0.00  /  0.01  /  0.14
-OLUH1 : Olowalu (UHM)               :    0.00  /  0.00  /  0.01  /  0.02
+HULH1 : Hanaula (UHM)               :    0.01  /  0.01  /  0.02  /  0.14
+OLUH1 : Olowalu (UHM)               :    0.00  /  0.00  /  0.00  /  0.02
 LAHH1 : Lahainaluna (14011)         :    0.00  /  0.00  /  0.00  /  0.00
 LWTH1 : Lahaina WTP (UHM)           :    0.00  /  0.00  /  0.00  /  0.00
 HOOH1 : Honolua (UHM)               :    0.00  /  0.00  /  0.00  /  0.05
@@ -3602,51 +3602,51 @@ HOOH1 : Honolua (UHM)               :    0.00  /  0.00  /  0.00  /  0.05
 :Island of Hawaii                                  Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward Sites
-UPLH1 : Upolu Airport (HSOIS)       :    0.02  /  0.05  /  0.16  /  0.20
-KMMH1 : Kaluamakani (UHM)           :    0.15  /  0.30  /  0.30  /  0.30
-KWSH1 : Kawainui Stream (USGS)      :    1.37  /  1.91  /  2.74  /  4.20
-KUUH1 : Kamuela Upper (15002)       :    0.45  /  0.74  /  1.06  /  1.67
-KMUH1 : Kamuela (15005)             :    0.21  /  0.45  /  0.46  /  0.56
-HNKH1 : Honokaa (15010)             :    1.01  /  1.58  /  1.71  /  2.39
-PMLH1 : Puu Mali (RAWS)             :    0.17  /  0.45  /  0.47  /  0.47
-WPNH1 : Waipunalei (UHM)            :      M   /    M   /  0.20  /    M
-KNKH1 : Kanakaleonui (UHM)          :    0.85  /  1.86  /  2.12  /  2.14
-LPHH1 : Laupahoehoe PD (15001)      :    0.00  /  0.83  /  1.35  /  1.82
-LAUH1 : Laupahoehoe (UHM)           :    1.86  /  3.67  /  4.19  /  4.96
-SPNH1 : Spencer (UHM)               :    0.17  /  1.22  /  2.02  /  4.60
-HKUH1 : Hakalau (RAWS)              :    1.07  /  2.10  /  2.32  /  2.49
-KLXH1 : Kulaimano (UHM)             :    0.00  /  0.31  /  0.89  /  1.23
-NLIH1 : Honolii Stream (USGS)       :    0.09  /  0.72  /  1.47  /  2.31
-SDQH1 : Saddle Quarry (USGS)        :    0.98  /  1.71  /  2.28  /  2.67
-PIOH1 : Piihonua (UHM)              :    0.44  /  0.94  /  1.75  /  2.89
-PIIH1 : Piihonua (15016)            :    0.00  /  0.00  /  0.01  /  0.03
-IPIH1 : IPIF (UHM)                  :    0.00  /  0.35  /  1.13  /  1.54
-WKAH1 : Waiakea Uka (15017)         :    0.04  /  0.30  /  1.20  /  1.70
-WEXH1 : Waiakea Exp Stn (NOAA/CRN)  :    0.00  /  0.25  /  0.72  /  0.83
-HTO   : Hilo Airport (ASOS)         :      T   /  0.08  /  0.89  /  1.18
-PHAH1 : Pahoa (15015)               :    0.00  /  0.29  /  1.36  /  1.78
-PAOH1 : Pahoa (UHM)                 :    0.01  /  0.44  /  1.12  /  1.40
-MTVH1 : Mountain View (15014)       :    0.15  /  0.63  /  1.76  /  2.18
-GLNH1 : Glenwood (15013)            :    0.86  /  1.56  /  2.23  /  3.09
+UPLH1 : Upolu Airport (HSOIS)       :    0.01  /  0.05  /  0.16  /  0.20
+KMMH1 : Kaluamakani (UHM)           :    0.04  /  0.30  /  0.32  /  0.32
+KWSH1 : Kawainui Stream (USGS)      :    1.16  /  2.12  /  2.81  /  4.32
+KUUH1 : Kamuela Upper (15002)       :    0.40  /  0.80  /  1.13  /  1.74
+KMUH1 : Kamuela (15005)             :    0.26  /  0.51  /  0.56  /  0.66
+HNKH1 : Honokaa (15010)             :    1.02  /  1.61  /  1.97  /  2.66
+PMLH1 : Puu Mali (RAWS)             :    0.13  /  0.42  /  0.51  /  0.51
+WPNH1 : Waipunalei (UHM)            :      M   /    M   /  0.16  /    M
+KNKH1 : Kanakaleonui (UHM)          :    0.90  /  2.04  /  2.67  /  2.73
+LPHH1 : Laupahoehoe PD (15001)      :    0.00  /  0.37  /  1.28  /  1.81
+LAUH1 : Laupahoehoe (UHM)           :    1.77  /  3.69  /  4.95  /  5.81
+SPNH1 : Spencer (UHM)               :    0.13  /  0.50  /  1.85  /  4.53
+HKUH1 : Hakalau (RAWS)              :    0.99  /  2.21  /  2.67  /  2.86
+KLXH1 : Kulaimano (UHM)             :    0.00  /  0.01  /  0.74  /  1.15
+NLIH1 : Honolii Stream (USGS)       :    0.14  /  0.60  /  1.46  /  2.40
+SDQH1 : Saddle Quarry (USGS)        :    0.91  /  1.82  /  2.45  /  2.91
+PIOH1 : Piihonua (UHM)              :    0.84  /  1.16  /  2.03  /  3.28
+PIIH1 : Piihonua (15016)            :    0.01  /  0.01  /  0.02  /  0.04
+IPIH1 : IPIF (UHM)                  :    0.01  /  0.04  /  1.01  /  1.55
+WKAH1 : Waiakea Uka (15017)         :    0.04  /  0.12  /  1.17  /  1.67
+WEXH1 : Waiakea Exp Stn (NOAA/CRN)  :      M   /  0.08  /  0.64  /  0.80
+HTO   : Hilo Airport (ASOS)         :    0.00  /    T   /  0.20  /  1.18
+PHAH1 : Pahoa (15015)               :    0.00  /  0.21  /  1.26  /  1.73
+PAOH1 : Pahoa (UHM)                 :    0.00  /  0.18  /  1.03  /  1.39
+MTVH1 : Mountain View (15014)       :    0.21  /  0.43  /  1.81  /  2.24
+GLNH1 : Glenwood (15013)            :    0.96  /  1.75  /  2.54  /  3.42
 :       Leeward Sites
-MOBH1 : Mauna Loa Ob Stn (NOAA/CRN) :    0.21  /  0.46  /  0.56  /  0.56
-NHKH1 : Nahuku (UHM)                :    0.67  /  1.52  /  1.95  /  2.24
-KKUH1 : Keaumo (RAWS)               :    0.35  /  0.99  /  1.02  /  1.02
-KMOH1 : Kealakomo (RAWS)            :    0.00  /  0.17  /  0.19  /  0.20
-PLIH1 : Pali 2 (RAWS)               :    0.06  /  0.13  /  0.13  /  0.13
+MOBH1 : Mauna Loa Ob Stn (NOAA/CRN) :    0.16  /  0.51  /  0.63  /  0.63
+NHKH1 : Nahuku (UHM)                :    0.82  /  1.85  /  2.39  /  2.77
+KKUH1 : Keaumo (RAWS)               :    0.47  /  1.10  /  1.25  /  1.25
+KMOH1 : Kealakomo (RAWS)            :    0.00  /  0.17  /  0.17  /  0.20
+PLIH1 : Pali 2 (RAWS)               :    0.08  /  0.18  /  0.18  /  0.18
 KPRH1 : Kapapala (RAWS)             :    0.00  /  0.02  /  0.02  /  0.04
 KAYH1 : Kapapala Ranch (15003)      :    0.00  /  0.00  /  0.00  /  0.00
-PPLH1 : Pahala (15004)              :    0.00  /  0.06  /  0.06  /  0.13
+PPLH1 : Pahala (15004)              :    0.03  /  0.09  /  0.09  /  0.16
 KIOH1 : Kaiholena (UHM)             :      M   /    M   /    M   /    M
-NENH1 : Nene Cabin (RAWS)           :    0.29  /  0.64  /  0.70  /  0.70
-SOPH1 : South Point (HSOIS)         :    0.10  /  0.17  /  0.18  /  0.19
-LKHH1 : Lower Kahuku (RAWS)         :    0.23  /  0.66  /  0.68  /  0.69
-KRCH1 : Kahuku Ranch (RAWS)         :    0.01  /  0.01  /  0.01  /  0.01
+NENH1 : Nene Cabin (RAWS)           :    0.03  /  0.65  /  0.71  /  0.71
+SOPH1 : South Point (HSOIS)         :    0.16  /  0.28  /  0.29  /  0.30
+LKHH1 : Lower Kahuku (RAWS)         :    0.22  /  0.72  /  0.79  /  0.80
+KRCH1 : Kahuku Ranch (RAWS)         :    0.00  /  0.01  /  0.01  /  0.01
 KOMH1 : Kona Hema (UHM)             :    0.00  /  0.01  /  0.01  /  0.02
 PHRH1 : Puho CS (RAWS)              :    0.00  /  0.00  /  0.00  /  0.00
 HAUH1 : Honaunau (15007)            :    0.01  /  0.01  /  0.01  /  0.02
 KLEH1 : Kealakekua (15008)          :    0.00  /  0.00  /  0.00  /  0.02
-WIHH1 : Waiaha Stream (15009)       :    0.01  /  0.01  /  0.01  /  0.01
+WIHH1 : Waiaha Stream (15009)       :    0.00  /  0.01  /  0.01  /  0.01
 KOUH1 : Keahuolu (UHM)              :    0.01  /  0.01  /  0.01  /  0.01
 KHOH1 : Kaloko-Honokohau (RAWS)     :    0.00  /  0.00  /  0.00  /  0.00
 HKO   : Kona Intl Airport (ASOS)    :    0.00  /  0.00  /  0.00  /  0.00
@@ -3664,13 +3664,13 @@ PKWH1 : Pohakuloa West (RAWS)       :    0.00  /  0.00  /  0.00  /  0.00
 PKMH1 : Pohakuloa Keamuku (RAWS)    :    0.00  /  0.00  /  0.00  /  0.00
 AHMH1 : Ahumoa (RAWS)               :    0.00  /  0.00  /  0.00  /  0.00
 WHIH1 : Waikii (15011)              :    0.00  /  0.00  /  0.00  /  0.00
-LLAH1 : Lalamilo (UHM)              :    0.09  /  0.13  /  0.17  /  0.23
+LLAH1 : Lalamilo (UHM)              :    0.10  /  0.18  /  0.21  /  0.28
 WKVH1 : Waikoloa (RAWS)             :    0.00  /  0.00  /  0.00  /  0.00
 PERH1 : Puhe CS (RAWS)              :    0.00  /  0.00  /  0.00  /  0.00
 KHRH1 : Kohala Ranch (RAWS)         :    0.00  /  0.00  /  0.00  /  0.00
-KASH1 : Kahua Ranch (15006)         :    0.22  /  0.39  /  0.50  /  0.64
-KEHH1 : Kehena (UHM)                :    0.82  /  1.18  /  1.69  /  2.29
-PLAH1 : Puuloa (UHM)                :    0.22  /  0.30  /  0.30  /  0.30
+KASH1 : Kahua Ranch (15006)         :    0.25  /  0.46  /  0.55  /  0.72
+KEHH1 : Kehena (UHM)                :    0.71  /  1.40  /  1.85  /  2.59
+PLAH1 : Puuloa (UHM)                :    0.25  /  0.44  /  0.46  /  0.46
 .END
 
 Service Note
@@ -3691,9 +3691,10 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-25T21:42:38.187800-10:00 HST
+- **Collected:** 2026-09-25T21:53:26.193042-10:00 HST
 
 ```text
+                        
 948
 SXHW80 PHFO 260115
 OMRHFO
@@ -3882,14 +3883,14 @@ AND 150W.
 SXHW50 PHFO 260044
 OSOHFO
 
-Hawaii Wind Da a
-Na ional Wea her Service Honolulu HI
+Hawaii Wind Data
+National Weather Service Honolulu HI
 243 PM HST Fri Sep 25 2026
 
 W I N D D A T A
 ----------------------
 IN KNOTS
-ID Loca ion Da e Time DIR SPD GUST
+ID Location Date Time DIR SPD GUST
 -------- ------------------------- ------- -(HST)- ---- ---- ----
 0000LLMH1 Lower Limahuli Kauai 25Sep26 14:15 310 4 10
 0000CMGH1 Common Ground Kauai 25Sep26 14:15 90 8 13
@@ -3900,19 +3901,19 @@ ID Loca ion Da e Time DIR SPD GUST
 0000NWWH1 Nawiliwili NOS Kauai 25Sep26 14:30 30 16 23
 0000POIH1 Poipu Kauai MSG MSG MSG MSG
 0000LNTH1 Lawai NTBG Kauai 25Sep26 14:15 70 18 28
-0000PAKH1 Por Allen Kauai 25Sep26 14:00 80 17 29
+0000PAKH1 Port Allen Kauai 25Sep26 14:00 80 17 29
 0000MKAH1 Makaha Ridge Kauai 25Sep26 14:11 60 4 15
 0000MNRH1 Mana Kauai 25Sep26 14:34 250 4 11
 0000PHBK Barking Sands Kauai 25Sep26 14:00 240 6 MSG
 0000PLRH1 Puu Lua Kauai 25Sep26 14:35 90 7 18
 0000POPH1 Puu Opae Kauai 25Sep26 14:34 200 4 20
-0000WHGH1 Waimea Heigh s Kauai 25Sep26 14:35 30 6 10
+0000WHGH1 Waimea Heights Kauai 25Sep26 14:35 30 6 10
 
 0000KRGH1 Kalahee Ridge Oahu 25Sep26 14:10 40 8 20
 0000KAHH1 Kahuku Oahu MSG MSG MSG MSG
 0000KTAH1 Kahuku Trng Oahu 25Sep26 13:59 100 3 22
 0000KFWH1 Kii Oahu 25Sep26 13:45 70 15 23
-0000OFRH1 Oahu Fores NWR Oahu 25Sep26 14:36 80 27 44
+0000OFRH1 Oahu Forest NWR Oahu 25Sep26 14:36 80 27 44
 0000KWMH1 Kaaawa Makai Oahu 25Sep26 14:15 40 5 9
 0000PHNG Kaneohe MCBH Oahu 25Sep26 14:00 50 13 21
 0000MOKH1 Mokuoloe Is NOS Oahu 25Sep26 14:30 50 14 17
@@ -3924,10 +3925,10 @@ ID Loca ion Da e Time DIR SPD GUST
 0000OOUH1 Honolulu Hbr NOS Oahu 25Sep26 14:24 10 6 15
 0000HOFH1 Honouliuli PHB Oahu 25Sep26 14:41 60 12 21
 0000SCBH1 Schofield Brks Oahu 25Sep26 13:57 60 5 16
-0000SCEH1 Schofield Eas Oahu MSG MSG MSG MSG
+0000SCEH1 Schofield East Oahu MSG MSG MSG MSG
 0000HWLH1 HECO Wilikina Oahu 25Sep26 14:30 30 4 10
 0000PHJR Kalaeloa Oahu 25Sep26 14:18 50 9 25
-0000HFHH1 HECO Farring on Oahu 25Sep26 14:30 70 11 22
+0000HFHH1 HECO Farrington Oahu 25Sep26 14:30 70 11 22
 0000HPLH1 HECO Palehua Oahu 25Sep26 14:30 60 10 22
 0000HPDH1 HECO Palehua 2 Oahu 25Sep26 14:30 60 17 25
 0000HPHH1 HECO Palehua 3 Oahu 25Sep26 14:30 50 9 19
@@ -3936,15 +3937,15 @@ ID Loca ion Da e Time DIR SPD GUST
 0000HWVH1 HECO Waianae Vly Oahu 25Sep26 14:30 10 7 17
 0000PLHH1 Palehua Oahu 25Sep26 14:36 50 0 0
 0000WNVH1 Waianae Valley Oahu 25Sep26 14:37 60 8 30
-0000HHSH1 HECO Ala Hema S Oahu 25Sep26 14:30 90 6 12
+0000HHSH1 HECO Ala Hema St Oahu 25Sep26 14:30 90 6 12
 0000WBHH1 Waianae Harbor Oahu MSG MSG MSG MSG
 0000HKRH1 HECO Kili Dr Oahu 25Sep26 14:30 340 8 16
 0000HMVH1 HECO Makaha Vly Oahu 25Sep26 14:30 340 8 20
 0000MKRH1 Makua Range Oahu 25Sep26 13:58 70 14 29
 0000KKRH1 Kuaokala Oahu 25Sep26 14:36 30 14 36
 0000AALH1 Kaala Oahu 25Sep26 14:15 60 6 13
-0000HFRH1 HECO Farring on2 Oahu 25Sep26 14:30 60 7 15
-0000HFYH1 HECO Farring on3 Oahu 25Sep26 14:30 70 17 23
+0000HFRH1 HECO Farrington2 Oahu 25Sep26 14:30 60 7 15
+0000HFYH1 HECO Farrington3 Oahu 25Sep26 14:30 70 17 23
 0000DLGH1 Dillingham Oahu 25Sep26 13:49 50 8 16
 
 0000MKPH1 Makapulapai Molokai 25Sep26 14:15 90 22 34
@@ -3975,11 +3976,11 @@ ID Loca ion Da e Time DIR SPD GUST
 0000KLFH1 Kula 1 Maui 25Sep26 13:48 310 5 9
 0000KKNH1 Kahikinui 1 Maui 25Sep26 14:34 150 3 11
 0000KMEH1 Kamehamenui 1 Maui 25Sep26 13:48 310 3 9
-0000SUMH1 Summi Maui 25Sep26 14:15 80 7 10
-0000NNEH1 Nene Nes Maui 25Sep26 14:15 130 2 5
+0000SUMH1 Summit Maui 25Sep26 14:15 80 7 10
+0000NNEH1 Nene Nest Maui 25Sep26 14:15 130 2 5
 0000PHQH1 Park HQ Maui 25Sep26 14:15 70 2 8
 0000WKTH1 Waikamoi Treeline Maui 25Sep26 14:15 130 4 10
-0000MCTH1 MECO Cra er Rd Maui 25Sep26 14:30 300 2 4
+0000MCTH1 MECO Crater Rd Maui 25Sep26 14:30 300 2 4
 0000KLGH1 Kula Ag Maui 25Sep26 14:15 280 3 7
 0000MWAH1 MECO Waipoli Rd Maui 25Sep26 14:30 270 2 5
 0000KKEH1 Keokea Maui 25Sep26 14:15 290 2 5
@@ -3988,7 +3989,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000MNDH1 MECO Naalaea Rd Maui 25Sep26 14:30 210 5 9
 0000MURH1 MECO Ulupalakua Maui 25Sep26 14:30 180 9 15
 0000LPOH1 Lipoa Maui 25Sep26 14:15 190 8 15
-0000MVHH1 MECO Ve erans Hwy Maui 25Sep26 14:30 330 20 29
+0000MVHH1 MECO Veterans Hwy Maui 25Sep26 14:30 330 20 29
 0000KPDH1 Kealia Pond Maui 25Sep26 14:20 20 20 34
 0000MMAH1 MECO Maalaea Maui 25Sep26 14:30 360 17 30
 00000P36 Maalaea Bay Maui 25Sep26 14:15 0 0 0
@@ -4009,7 +4010,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000PHJH Kapalua-W Maui Maui 25Sep26 14:00 30 20 30
 0000HOOH1 Honolua Maui 25Sep26 14:15 120 12 28
 
-0000UPLH1 Upolu Airpor Hawaii 25Sep26 14:15 90 15 23
+0000UPLH1 Upolu Airport Hawaii 25Sep26 14:15 90 15 23
 0000KMMH1 Kaluamakani Hawaii 25Sep26 14:15 50 16 24
 0000PMLH1 Puu Mali Hawaii 25Sep26 14:00 90 20 30
 0000KNKH1 Kanakaleonui Hawaii 25Sep26 14:15 90 5 7
@@ -4022,7 +4023,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000PHTO Hilo AP Hawaii 25Sep26 14:16 320 6 MSG
 0000ILOH1 Hilo Hbr NOS Hawaii 25Sep26 14:24 360 8 10
 0000IPIH1 IPIF Hawaii 25Sep26 14:15 30 3 5
-0000WEXH1 Waiakea Exp S n Hawaii 25Sep26 14:00 MSG 1 4
+0000WEXH1 Waiakea Exp Stn Hawaii 25Sep26 14:00 MSG 1 4
 0000KEUH1 Keaau Hawaii 25Sep26 14:15 340 3 7
 0000PAOH1 Pahoa Hawaii 25Sep26 14:15 20 1 5
 0000NHKH1 Nahuku Hawaii 25Sep26 14:15 20 14 25
@@ -4034,14 +4035,14 @@ ID Loca ion Da e Time DIR SPD GUST
 0000NENH1 Nene Cabin Hawaii 25Sep26 14:23 80 10 24
 0000KIOH1 Kaiholena Hawaii 25Sep26 14:15 360 4 6
 0000LKHH1 Lower Kahuku Hawaii 25Sep26 14:23 350 3 13
-0000SOPH1 Sou h Poin Hawaii 25Sep26 14:00 60 14 24
+0000SOPH1 South Point Hawaii 25Sep26 14:00 60 14 24
 0000KOMH1 Kona Hema Hawaii 25Sep26 14:15 230 4 5
 0000KRCH1 Kahuku Ranch Hawaii 25Sep26 14:29 300 4 12
 0000PHRH1 Puho CS Hawaii 25Sep26 14:22 290 3 7
 0000HLNH1 HELCO Lolo Ln Hawaii 25Sep26 14:30 270 2 4
 0000HHUH1 HELCO Hualalai Rd Hawaii 25Sep26 14:30 280 2 5
 0000KOUH1 Keahuolu Hawaii 25Sep26 14:15 270 2 3
-0000PHKO Kona In l AP Hawaii 25Sep26 14:00 230 7 MSG
+0000PHKO Kona Intl AP Hawaii 25Sep26 14:00 230 7 MSG
 0000KHOH1 Kaloko-Honokohau Hawaii 25Sep26 14:15 250 5 8
 0000PLMH1 Palamanui Hawaii 25Sep26 14:15 230 2 6
 0000PWAH1 Puu Waawaa (UHM) Hawaii 25Sep26 14:15 230 0 1
@@ -4064,7 +4065,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000LLAH1 Lalamilo Hawaii 25Sep26 14:15 30 6 15
 0000HKWH1 HELCO Kawaihae Rd Hawaii 25Sep26 14:30 50 28 41
 0000PKAH1 PTA Kipuka Alala Hawaii 25Sep26 13:55 110 16 26
-0000PKWH1 PTA Wes Hawaii 25Sep26 13:56 320 7 15
+0000PKWH1 PTA West Hawaii 25Sep26 13:56 320 7 15
 0000PKMH1 PTA Keamuku Hawaii 25Sep26 13:50 30 0 0
 0000PTRH1 PTA Range 17 Hawaii MSG MSG MSG MSG
 0000PERH1 Puhe CS Hawaii 25Sep26 14:24 60 9 29
@@ -4548,377 +4549,128 @@ T INDICATES TRACE AMOUNT.
 ```text
 Home
 
+Mobile Site
 
-
-
-Mobile Si e
-
-
-
-
-Tex Version
-
-
-
+Text Version
 
 RSS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Local Forecas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Local Forecast
 
 NATIONAL HURRICANE CENTER and
 CENTRAL PACIFIC HURRICANE CENTER
 
+National Oceanic and Atmospheric Administration
 
-Na ional Oceanic and A mospheric Adminis ra ion
+Analysis & Forecasts
 
+Tropical Cyclone Products
 
+Tropical Weather Outlooks
 
+Marine Products
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Analysis & Forecas s
-
-
-
-
-Tropical Cyclone Produc s
-
-
-Tropical Wea her Ou looks
-
-
-Marine Produc s
-
-
-Rip Curren s Map
-
+Rip Currents Map
 
 RSS Feeds
 
+GIS Products
 
-GIS Produc s
+Alternate Formats
 
+Tropical Cyclone Product Descriptions
 
-Al erna e Forma s
+Tropical Cyclone Product Examples
 
+Marine Product Descriptions
 
-Tropical Cyclone Produc Descrip ions
+Data & Tools
 
-
-Tropical Cyclone Produc Examples
-
-
-Marine Produc Descrip ions
-
-
-
-
-
-
-
-
-
-
-Da a & Tools
-
-
-
-
-Sa elli e Imagery
-
+Satellite Imagery
 
 Radar Imagery
 
-
-Aircraf Reconnaissance
-
+Aircraft Reconnaissance
 
 Tropical Analysis Tools
 
+Experimental Products
 
-Experimen al Produc s
-
-
-La /Lon Dis ance Calcula or
-
+Lat/Lon Distance Calculator
 
 Blank Tracking Maps
 
-
-
-
-
-
-
-
-
-
-Educa ional Resources
-
-
-
-
-
+Educational Resources
 
 Be Prepared!
 NWS Hurricane Prep Week
 
-
-
-
-Ou reach Documen s
-
+Outreach Documents
 
 TC Videos
 
+Rip Currents
 
-Rip Curren s
+Storm Surge
 
+Watch/Warning Breakpoints
 
-S orm Surge
-
-
-Wa ch/Warning Breakpoin s
-
-
-Clima ology
-
+Climatology
 
 Tropical Cyclone Names
 
-
 Wind Scale
 
+Records and Facts
 
-Records and Fac s
+Historical Hurricane Summaries
 
+Forecast Models
 
-His orical Hurricane Summaries
-
-
-Forecas Models
-
-
-NHC Publica ions
-
+NHC Publications
 
 NHC Glossary
 
-
 Acronyms
 
-
-Frequen Ques ions
-
-
-
-
-
-
-
-
-
+Frequent Questions
 
 Archives
 
-
-
-
 Tropical Cyclone Advisories
 
+Tropical Weather Outlooks
 
-Tropical Wea her Ou looks
+Tropical Cyclone Reports and Season Summaries
 
-
-Tropical Cyclone Repor s and Season Summaries
-
-
-Tropical Cyclone Forecas Verifica ion
-
+Tropical Cyclone Forecast Verification
 
 NHC News Archive
 
+Other Archives: HURDAT, Track Maps, Marine Products, and more
 
-O her Archives: HURDAT, Track Maps, Marine Produc s, and more
+About
 
+National Hurricane Center
 
-
-
-
-
-
-
-
-
-Abou
-
-
-
-
-Na ional Hurricane Cen er
-
-
-Cen ral Pacific Hurricane Cen er
-
+Central Pacific Hurricane Center
 
 Library
 
-
-Con ac Us
-
-
-
-
-
-
-
-
-
+Contact Us
 
 Search
-
-
-
-
-
-
-
-
 
 Search for
 
-
 Search
 
+Top News of the Day...
+view past news
 
+Last update Sat, 26 Sep 2026 07:47:49 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Top News of he Day...
-view pas news
-
-
-
-
-Las upda e Sa , 26 Sep 2026 07:47:49 UTC
-
-
-
-
-
-
-
-
-
-
-
-
-
-NHC issuing advisories for he A lan ic on
-
+NHC issuing advisories for the Atlantic on
 
 TS Fay
 
@@ -4926,14 +4678,7 @@ and
 
 TS Gonzalo
 
-
-
-
-
-
-
-NHC issuing advisories for he Eas ern Pacific on
-
+NHC issuing advisories for the Eastern Pacific on
 
 Hurricane Odalys
 
@@ -4941,1467 +4686,179 @@ and
 
 Hurricane Polo
 
-
-
-
-
-
-
-NHC issuing advisories for he Cen ral Pacific on
-
+NHC issuing advisories for the Central Pacific on
 
 Hurricane Nolo
 
-
-
-
-
-
-
-
-
-
-
-Marine warnings are in effec for he A lan ic and Eas ern Pacific
-
-
-
-
-
-
-
-
-
-
-
-
+Marine warnings are in effect for the Atlantic and Eastern Pacific
 
 Key messages regarding Hurricane Polo
 
 (en Español: Mensajes Claves)
 
-
-
-
 Key messages regarding Hurricane Nolo
 
 (en Español: Mensajes Claves)
 
-
-
-
-
 Local info on Nolo:
 Honolulu
 
+Graphical Tropical Weather Outlook (Static Images)
 
+JavaScript is currently disabled in your browser or you are using an older browser that is incompatible with this map. To view the interactive map, please enable JavaScript or update your browser if possible. Direct links to the latest high-resolution forecast images are provided below:
 
+View Atlantic 2-Day Outlook
 
+View Atlantic 7-Day Outlook
 
+View Eastern Pacific 2-Day Outlook
 
+View Eastern Pacific 7-Day Outlook
 
+View Central Pacific 2-Day Outlook
 
+View Central Pacific 7-Day Outlook
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Graphical Tropical Wea her Ou look (S a ic Images)
-
-
-
-JavaScrip is curren ly disabled in your browser or you are using an older browser ha is incompa ible wi h his map. To view he in erac ive map, please enable JavaScrip or upda e your browser if possible. Direc links o he la es high-resolu ion forecas images are provided below:
-
-
-
-
-
-
-
-View A lan ic 2-Day Ou look
-
-
-
-
-
-
-View A lan ic 7-Day Ou look
-
-
-
-
-
-
-View Eas ern Pacific 2-Day Ou look
-
-
-
-
-
-
-View Eas ern Pacific 7-Day Ou look
-
-
-
-
-
-
-View Cen ral Pacific 2-Day Ou look
-
-
-
-
-
-
-View Cen ral Pacific 7-Day Ou look
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cen ral Pacific
-
-
-
+Central Pacific
 
 Pacific
 
+Atlantic
 
+2-Day Forecast
 
+7-Day Forecast
 
-A lan ic
-
-
-
-
-
-
-
-
-
-
-
-
-
-2-Day Forecas
-
-
-
-
-7-Day Forecas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
+Disturbances:
 
 None
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
+Disturbances:
 
 None
 
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
 
 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-Dis urbances:
-
-
-
-
-
-
-
+Disturbances:
 
 ALL
 
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-View Full Graphical Tropical Wea her Ou look
-| Marine Produc s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+View Full Graphical Tropical Weather Outlook
+| Marine Products
 
 Close (X)
 
+View Storm Details
 
+Central North Pacific
+(140°W to 180°)
 
-
-
-
-
-
-
-
-
-
-View S orm De ails
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cen ral Nor h Pacific
-(140°W o 180°)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
-
 800 PM HST Fri Sep 25 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Hurricane Nolo
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...NOLO NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
 
-
-
-
-
-
-
-
-
 8:00 PM HST Fri Sep 25
 
-Loca ion: 16.9°N 155.2°W
+Location: 16.9°N 155.2°W
 
-
-Moving: S a ionary
-
+Moving: Stationary
 
 Min pressure: 975 mb
 
-Max sus ained: 105 mph
-
-
-
-
+Max sustained: 105 mph
 
 Public
 
@@ -6411,9 +4868,7 @@ Advisory
 
 800 PM HST
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -6421,9 +4876,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -6431,453 +4884,101 @@ Discussion
 
 500 PM HST
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #22
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 NWS Local
 
-Produc s
+Products
 
 520 PM HST
 
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Key
 Messages
 
-
-
-
-
-
-
-
-
-
 Mensajes
 Claves
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Peak
 Surge
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rainfall
-Po en ial
+Potential
 
+Atlantic - Caribbean Sea - Gulf of America
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A lan ic - Caribbean Sea - Gulf of America
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
+200 AM EDT Sat Sep 26 2026
 
-200 AM EDT Sa Sep 26 2026
+Tropical Weather Discussion
 
+0615 UTC Sat Sep 26 2026
 
+Tropical Storm Gonzalo
 
-Tropical Wea her Discussion
-
-0615 UTC Sa Sep 26 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical S orm Gonzalo
-
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...GONZALO WEAKENS AS IT CONTINUES NORTHWARD...
 
+2:00 AM CVT Sat Sep 26
 
+Location: 16.9°N 22.5°W
 
-
-
-
-
-
-
-2:00 AM CVT Sa Sep 26
-
-Loca ion: 16.9°N 22.5°W
-
-
-Moving: N a 9 mph
-
+Moving: N at 9 mph
 
 Min pressure: 1002 mb
 
-Max sus ained: 45 mph
-
-
-
-
+Max sustained: 45 mph
 
 Public
 
@@ -6887,9 +4988,7 @@ Advisory
 
 200 AM CVT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -6897,9 +4996,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -6907,328 +5004,74 @@ Discussion
 
 200 AM CVT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #5
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
+Tropical Storm Fay
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical S orm Fay
-
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...FAY CONTINUES TO WEAKEN OVER THE ATLANTIC OCEAN...
 
+3:00 AM GMT Sat Sep 26
 
+Location: 29.9°N 43.4°W
 
-
-
-
-
-
-
-3:00 AM GMT Sa Sep 26
-
-Loca ion: 29.9°N 43.4°W
-
-
-Moving: WSW a 7 mph
-
+Moving: WSW at 7 mph
 
 Min pressure: 1006 mb
 
-Max sus ained: 40 mph
-
-
-
-
+Max sustained: 40 mph
 
 Public
 
@@ -7238,9 +5081,7 @@ Advisory
 
 300 AM GMT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -7248,9 +5089,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -7258,388 +5097,88 @@ Discussion
 
 300 AM GMT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #24
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
+Eastern North Pacific
+(East of 140°W)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eas ern Nor h Pacific
-(Eas of 140°W)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
 (en Español*)
 
-
 1100 PM PDT Fri Sep 25 2026
 
+Tropical Weather Discussion
 
-
-Tropical Wea her Discussion
-
-0405 UTC Sa Sep 26 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+0405 UTC Sat Sep 26 2026
 
 Hurricane Polo
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...POLO REMAINS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
 ...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A POWERFUL HURRICANE...
 
-
-
-
-
-
-
-
-
 11:00 PM MST Fri Sep 25
 
-Loca ion: 17.5°N 110.5°W
+Location: 17.5°N 110.5°W
 
-
-Moving: WNW a 10 mph
-
+Moving: WNW at 10 mph
 
 Min pressure: 911 mb
 
-Max sus ained: 175 mph
-
-
-
-
+Max sustained: 175 mph
 
 Public
 
@@ -7649,9 +5188,7 @@ Advisory
 
 1100 PM MST
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -7659,9 +5196,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -7669,366 +5204,83 @@ Discussion
 
 800 PM MST
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #22
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Key
 Messages
-
-
-
-
-
-
-
-
-
 
 Mensajes
 Claves
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Currents
 
 Rainfall
-Po en ial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Potential
 
 Hurricane Odalys
 
-
-
-
-
-
-
-
-Sa elli e |
+Satellite |
 Buoys |
 Grids |
-S orm Archive
-
-
-
-
-
-
-
-
-
-
-
-
-
+Storm Archive
 
 ...ODALYS STILL A MAJOR HURRICANE AS IT MOVES SLOWLY NORTHWARD...
 
-
-
-
-
-
-
-
-
 8:00 PM PDT Fri Sep 25
 
-Loca ion: 18.8°N 123.6°W
+Location: 18.8°N 123.6°W
 
-
-Moving: N a 5 mph
-
+Moving: N at 5 mph
 
 Min pressure: 952 mb
 
-Max sus ained: 120 mph
-
-
-
-
+Max sustained: 120 mph
 
 Public
 
@@ -8038,9 +5290,7 @@ Advisory
 
 800 PM PDT
 
-
-
-Forecas
+Forecast
 
 Advisory
 
@@ -8048,9 +5298,7 @@ Advisory
 
 0300 UTC
 
-
-
-Forecas
+Forecast
 
 Discussion
 
@@ -8058,939 +5306,204 @@ Discussion
 
 800 PM PDT
 
-
-
 Wind Speed
 
-Probabili ies
+Probabilities
 
 #25
 
 0300 UTC
 
-
-
-
-
-
-
-
-
-
-
-
-Produc os en español:
+Productos en español:
 
 (más información)
-
-
-
-
-
-
-
-
-
 
 Aviso
 
 Publico
 
-
-
-
-
-
-
-
-
-Pronós ico
+Pronóstico
 
 Discusión
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Wind Speed
-Probabili ies
-
-
-
-
-
-
-
-
-
+Probabilities
 
 Arrival Time
 of Winds
 
-
-
-
-
-
-
-
-
-
 Wind
-His ory
+History
 
-
-
-
-
-
-
-
-
-
-In erac ive
+Interactive
 Cone
 
-
-
-
-
-
-
-
-
+Warnings/Cone
+Static Images
 
 Warnings/Cone
-S a ic Images
+Interactive Map
 
+Experimental Cone
+Static Images
 
-
-
-
-
-
-
-
-
-Warnings/Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-S a ic Images
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experimen al Cone
-In erac ive Map
-
-
-
-
-
-
-
-
-
-
-
-
-
+Experimental Cone
+Interactive Map
 
 Warnings and
 Surface Wind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Rip
-Curren s
+Currents
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane Knowledge Ki
-
-
-
-
-
-
+Building Your Hurricane Knowledge Kit
 
 ‹
 
+National Hurricane Center Track Forecast Cone (2026)
 
+Building Your Hurricane "Knowledge" Kit: Storm Surge Warning
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Na ional Hurricane Cen er Track Forecas Cone (2026)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : S orm Surge Warning
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Po en ial Tropical Cyclones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Building Your Hurricane "Knowledge" Kit: Potential Tropical Cyclones
 
 Tropical Cyclone Names
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tropical Waves
 
+Artificial Intelligence (AI) in Hurricane Forecasting
 
+Building Your Hurricane "Knowledge" Kit: Tropical Weather Outlook
 
+Building Your Hurricane "Knowledge" Kit: Time of Arrival
 
+Building Your Hurricane "Knowledge" Kit: Wind Speed Probabilities
 
+Building Your Hurricane "Knowledge" Kit: Saffir-Simpson Hurricane Wind Scale
 
+Building Your Hurricane "Knowledge" Kit: Storm Surge Watch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ar ificial In elligence (AI) in Hurricane Forecas ing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Tropical Wea her Ou look
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Time of Arrival
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Wind Speed Probabili ies
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : Saffir-Simpson Hurricane Wind Scale
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building Your Hurricane "Knowledge" Ki : S orm Surge Wa ch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Na ional Hurricane Preparedness Week Preview: Assembling Your Hurricane "Knowledge" Ki
-
-
-
-
-
-
-
-
+National Hurricane Preparedness Week Preview: Assembling Your Hurricane "Knowledge" Kit
 
 ›
 
+Quick Links and Additional Resources
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick Links and Addi ional Resources
-
-
-
-
-
-Tropical Cyclone Forecas s
+Tropical Cyclone Forecasts
 
 Tropical Cyclone Advisories
 
-Tropical Wea her Ou look
+Tropical Weather Outlook
 
-Audio/Podcas s
+Audio/Podcasts
 
-Abou Advisories
+About Advisories
 
+Marine Forecasts
 
+Offshore Waters Forecasts
 
-Marine Forecas s
+Gridded Forecasts
 
-Offshore Wa ers Forecas s
+Graphicast
 
-Gridded Forecas s
-
-Graphicas
-
-Abou Marine
-
-
-
-
+About Marine
 
 Social Media
 
-
 NHC on Facebook
-
-
 
 NHC on X
 
-
-
 NHC on YouTube
 
-
-
 NHC Blog:
-"Inside he Eye"
-
-
-
+"Inside the Eye"
 
 Hurricane Preparedness
 
-
 Preparedness Guide
-
 
 Hurricane Hazards
 
+Watches and Warnings
 
-Wa ches and Warnings
-
-
-Marine Safe y
-
+Marine Safety
 
 Ready.gov Hurricanes
 
+Weather-Ready Nation
 
-Wea her-Ready Na ion
+Emergency Management Offices
 
-
-Emergency Managemen Offices
-
-
-
-
-
-
-Research and Developmen
-
+Research and Development
 
 NOAA Hurricane Research Division
 
+Hurricane and Ocean Testbed
 
-Hurricane and Ocean Tes bed
+Hurricane Forecast Improvement Program
 
+Other Resources
 
-Hurricane Forecas Improvemen Program
-
-
-
-
-O her Resources
-
-Q & A wi h NHC
-
+Q & A with NHC
 
 NHC/AOML Library Branch
 
-
-
 NOAA: Hurricane FAQs
 
+National Hurricane Operations Plan
 
-Na ional Hurricane Opera ions Plan
+WX4NHC Amateur Radio
 
+NWS Forecast Offices
 
-WX4NHC Ama eur Radio
+Weather Prediction Center
 
+Storm Prediction Center
 
+Ocean Prediction Center
 
+Local Forecast Offices
 
+Worldwide Tropical Cyclone Centers
 
+Canadian Hurricane Centre
 
-NWS Forecas Offices
+Joint Typhoon Warning Center
 
+Other Tropical Cyclone Centers
 
-Wea her Predic ion Cen er
+WMO Severe Weather Info Centre
 
+US Dept of Commerce
 
+National Oceanic and Atmospheric Administration
 
-S orm Predic ion Cen er
+National Hurricane Center
 
-
-
-Ocean Predic ion Cen er
-
-
-
-Local Forecas Offices
-
-
-
-
-Worldwide Tropical Cyclone Cen ers
-
-
-Canadian Hurricane Cen re
-
-
-
-Join Typhoon Warning Cen er
-
-
-O her Tropical Cyclone Cen ers
-
-
-WMO Severe Wea her Info Cen re
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-US Dep of Commerce
-
-
-
-Na ional Oceanic and A mospheric Adminis ra ion
-
-
-Na ional Hurricane Cen er
-
-11691 SW 17 h S ree
+11691 SW 17th Street
 
 Miami, FL, 33165
 
-nhcwebmas er@noaa.gov
+nhcwebmaster@noaa.gov
 
-
-
-
-
-
-
-
-
-Cen ral Pacific Hurricane Cen er
+Central Pacific Hurricane Center
 
 2525 Correa Rd
 
-Sui e 250
+Suite 250
 
 Honolulu, HI 96822
 
-W-HFO.webmas er@noaa.gov
-
-
-
-
-
-
-
-
+W-HFO.webmaster@noaa.gov
 
 Disclaimer
 
-Informa ion Quali y
+Information Quality
 
 Help
 
 Glossary
-
-
-
-
-
-
-
-
-
-Privacy Policy
-
-Freedom of Informa ion Ac (FOIA)
-
-Abou Us
-
-Career Oppor uni ies
 ```
 
 ---
@@ -9002,430 +5515,135 @@ Career Oppor uni ies
 - **Collected:** 2026-09-25T20:03:50.351846-10:00 HST
 
 ```text
-Solar Calcula or - NOAA Global Moni oring Labora ory
+Solar Calculator - NOAA Global Monitoring Laboratory
 
+Skip to main content
 
+An official website of the United States government Here's how you know
 
+Official websites use .gov
 
+A .gov website belongs to an official government organization in the United States.
 
+Secure .gov websites use HTTPS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Skip o main con en
-
-
-
-
-
-
-
-An official websi e of he Uni ed S a es governmen Here's how you know
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Official websi es use .gov
-
-A .gov websi e belongs o an official governmen organiza ion in he Uni ed S a es.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Secure .gov websi es use HTTPS
-
-A lock () or h ps:// means you’ve safely connec ed o he .gov websi e. Share sensi ive informa ion only on official, secure websi es.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 Search
 
-
 Search GML:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Global Moni oring Labora ory
-
-
-
-
-
-
-
-
-
-
-
-
+Global Monitoring Laboratory
 
 Menu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Home
 
+About
 
-
-
-
-
-Abou
-
-
-Abou GML
+About GML
 Science Reviews
-Safe y Program
+Safety Program
 
-Employmen
-Visi ing
-Con ac Us
+Employment
+Visiting
+Contact Us
 
-In rane
-
-
-
-
-
-
+Intranet
 
 People
 
-
-Organiza ion
-S aff
-Employee Spo ligh
-
-
-
-
-
-
+Organization
+Staff
+Employee Spotlight
 
 Research
 
-
 Research Overview
 Carbon Cycle Greenhouse Gases
-Greenhouse gases and Ozone-deple ing Subs ances
-Ozone and Wa er Vapor
-Global Radia ion, Aerosols and Clouds
-Publica ions
-Calibra ion Facili ies
-WMO Cen ral Calibra ion Labora ory
-Cen ral UV Calibra ion Facili y
-Broadband Solar Calibra ion Facili y
-World Dobson Ozone Calibra ion Cen re
+Greenhouse gases and Ozone-depleting Substances
+Ozone and Water Vapor
+Global Radiation, Aerosols and Clouds
+Publications
+Calibration Facilities
+WMO Central Calibration Laboratory
+Central UV Calibration Facility
+Broadband Solar Calibration Facility
+World Dobson Ozone Calibration Centre
 
-
-
-
-
-
-
-
-Observing Ne works
-
-
-
-
-
+Observing Networks
 
 Overview
-Observa ions Overview
-Measuremen Si es
+Observations Overview
+Measurement Sites
 Field Campaigns
 
-
-
-
-A mospheric Baseline Observa ories
-Observa ory Opera ions
+Atmospheric Baseline Observatories
+Observatory Operations
 Barrow, Alaska
 Mauna Loa, Hawaii
 American Samoa
-Sou h Pole
+South Pole
 
-
-
-
-Observing Ne works
-Greenhouse Gas Reference Ne work
+Observing Networks
+Greenhouse Gas Reference Network
 Halocarbons and Trace Gases
-Surface Radia ion
-Federa ed Aerosol Ne work
+Surface Radiation
+Federated Aerosol Network
 Ozone
-Wa er Vapor
+Water Vapor
 
+Data & Products
 
+Data
+Data & Products Portal
+Data Finder
+ObsPack Data Products
+Measurement Sites
 
+Visualization & Tools
 
+Data Viewer
+South Pole Ozone Hole
+Mauna Loa Apparent Transmission
+Barrow Snow Melt Dates
 
-
-
-
-
-
-
-
-
-Da a & Produc s
-
-
-
-
-
-
-
-
-Da a
-Da a & Produc s Por al
-Da a Finder
-ObsPack Da a Produc s
-Measuremen Si es
-
-
-
-
-Visualiza ion & Tools
-
-Da a Viewer
-Sou h Pole Ozone Hole
-Mauna Loa Apparen Transmission
-Barrow Snow Mel Da es
-
-
-
-
-
-Produc s
+Products
 Greenhouse Gas Index
-Ozone Deple ion Index
+Ozone Depletion Index
 Trends in CO2, CH4, N2O, SF6
 Modeling
 
-
-
-
-
-
-
-
-
-
-
-
-Informa ion
-
-
+Information
 
 News
 Seminars
-Educa ion/Ou reach
-S uden Oppor uni ies
+Education/Outreach
+Student Opportunities
 FAQ's
-Publica ions
+Publications
 
 Webcams
-Sou h Pole Webcam
+South Pole Webcam
 Mauna Loa Webcams
 Barrow Webcam
 
-Global Moni oring Annual Conference
+Global Monitoring Annual Conference
 GMAC Conference
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Search
 
-
 Search GML:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PDF Forma
-
-
-
-
+PDF Format
 
 Sunrise Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -9447,15 +5665,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -9483,10 +5697,6 @@ Dec
 
 06:53
 
-
-
-
-
 2
 
 07:09
@@ -9512,10 +5722,6 @@ Dec
 06:35
 
 06:53
-
-
-
-
 
 3
 
@@ -9543,10 +5749,6 @@ Dec
 
 06:54
 
-
-
-
-
 4
 
 07:10
@@ -9572,10 +5774,6 @@ Dec
 06:36
 
 06:55
-
-
-
-
 
 5
 
@@ -9603,10 +5801,6 @@ Dec
 
 06:55
 
-
-
-
-
 6
 
 07:10
@@ -9632,10 +5826,6 @@ Dec
 06:37
 
 06:56
-
-
-
-
 
 7
 
@@ -9663,10 +5853,6 @@ Dec
 
 06:56
 
-
-
-
-
 8
 
 07:11
@@ -9692,10 +5878,6 @@ Dec
 06:38
 
 06:57
-
-
-
-
 
 9
 
@@ -9723,10 +5905,6 @@ Dec
 
 06:58
 
-
-
-
-
 10
 
 07:11
@@ -9752,10 +5930,6 @@ Dec
 06:39
 
 06:58
-
-
-
-
 
 11
 
@@ -9783,10 +5957,6 @@ Dec
 
 06:59
 
-
-
-
-
 12
 
 07:11
@@ -9812,10 +5982,6 @@ Dec
 06:41
 
 07:00
-
-
-
-
 
 13
 
@@ -9843,10 +6009,6 @@ Dec
 
 07:00
 
-
-
-
-
 14
 
 07:11
@@ -9872,10 +6034,6 @@ Dec
 06:42
 
 07:01
-
-
-
-
 
 15
 
@@ -9903,10 +6061,6 @@ Dec
 
 07:01
 
-
-
-
-
 16
 
 07:11
@@ -9932,10 +6086,6 @@ Dec
 06:43
 
 07:02
-
-
-
-
 
 17
 
@@ -9963,10 +6113,6 @@ Dec
 
 07:02
 
-
-
-
-
 18
 
 07:11
@@ -9992,10 +6138,6 @@ Dec
 06:44
 
 07:03
-
-
-
-
 
 19
 
@@ -10023,10 +6165,6 @@ Dec
 
 07:04
 
-
-
-
-
 20
 
 07:11
@@ -10052,10 +6190,6 @@ Dec
 06:45
 
 07:04
-
-
-
-
 
 21
 
@@ -10083,10 +6217,6 @@ Dec
 
 07:05
 
-
-
-
-
 22
 
 07:11
@@ -10112,10 +6242,6 @@ Dec
 06:47
 
 07:05
-
-
-
-
 
 23
 
@@ -10143,10 +6269,6 @@ Dec
 
 07:06
 
-
-
-
-
 24
 
 07:11
@@ -10172,10 +6294,6 @@ Dec
 06:48
 
 07:06
-
-
-
-
 
 25
 
@@ -10203,10 +6321,6 @@ Dec
 
 07:06
 
-
-
-
-
 26
 
 07:10
@@ -10232,10 +6346,6 @@ Dec
 06:49
 
 07:07
-
-
-
-
 
 27
 
@@ -10263,10 +6373,6 @@ Dec
 
 07:07
 
-
-
-
-
 28
 
 07:10
@@ -10293,15 +6399,9 @@ Dec
 
 07:08
 
-
-
-
-
 29
 
 07:10
-
-
 
 06:27
 
@@ -10323,15 +6423,9 @@ Dec
 
 07:08
 
-
-
-
-
 30
 
 07:09
-
-
 
 06:26
 
@@ -10353,62 +6447,29 @@ Dec
 
 07:08
 
-
-
-
-
 31
 
 07:09
 
-
-
 06:25
 
-
-
 05:49
-
-
 
 06:05
 
 06:15
 
-
-
 06:34
-
-
 
 07:09
 
+Sunset Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-
-
-
-
-
-
-
-
-Sunse Table for 2026
-
-
-
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -10430,15 +6491,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -10466,10 +6523,6 @@ Dec
 
 17:48
 
-
-
-
-
 2
 
 18:02
@@ -10495,10 +6548,6 @@ Dec
 17:55
 
 17:49
-
-
-
-
 
 3
 
@@ -10526,10 +6575,6 @@ Dec
 
 17:49
 
-
-
-
-
 4
 
 18:03
@@ -10555,10 +6600,6 @@ Dec
 17:54
 
 17:49
-
-
-
-
 
 5
 
@@ -10586,10 +6627,6 @@ Dec
 
 17:49
 
-
-
-
-
 6
 
 18:04
@@ -10615,10 +6652,6 @@ Dec
 17:53
 
 17:49
-
-
-
-
 
 7
 
@@ -10646,10 +6679,6 @@ Dec
 
 17:49
 
-
-
-
-
 8
 
 18:06
@@ -10675,10 +6704,6 @@ Dec
 17:52
 
 17:50
-
-
-
-
 
 9
 
@@ -10706,10 +6731,6 @@ Dec
 
 17:50
 
-
-
-
-
 10
 
 18:07
@@ -10735,10 +6756,6 @@ Dec
 17:51
 
 17:50
-
-
-
-
 
 11
 
@@ -10766,10 +6783,6 @@ Dec
 
 17:51
 
-
-
-
-
 12
 
 18:09
@@ -10795,10 +6808,6 @@ Dec
 17:50
 
 17:51
-
-
-
-
 
 13
 
@@ -10826,10 +6835,6 @@ Dec
 
 17:51
 
-
-
-
-
 14
 
 18:10
@@ -10855,10 +6860,6 @@ Dec
 17:50
 
 17:52
-
-
-
-
 
 15
 
@@ -10886,10 +6887,6 @@ Dec
 
 17:52
 
-
-
-
-
 16
 
 18:11
@@ -10915,10 +6912,6 @@ Dec
 17:49
 
 17:53
-
-
-
-
 
 17
 
@@ -10946,10 +6939,6 @@ Dec
 
 17:53
 
-
-
-
-
 18
 
 18:13
@@ -10975,10 +6964,6 @@ Dec
 17:49
 
 17:53
-
-
-
-
 
 19
 
@@ -11006,10 +6991,6 @@ Dec
 
 17:54
 
-
-
-
-
 20
 
 18:14
@@ -11035,10 +7016,6 @@ Dec
 17:49
 
 17:54
-
-
-
-
 
 21
 
@@ -11066,10 +7043,6 @@ Dec
 
 17:55
 
-
-
-
-
 22
 
 18:15
@@ -11095,10 +7068,6 @@ Dec
 17:48
 
 17:55
-
-
-
-
 
 23
 
@@ -11126,10 +7095,6 @@ Dec
 
 17:56
 
-
-
-
-
 24
 
 18:17
@@ -11155,10 +7120,6 @@ Dec
 17:48
 
 17:56
-
-
-
-
 
 25
 
@@ -11186,10 +7147,6 @@ Dec
 
 17:57
 
-
-
-
-
 26
 
 18:18
@@ -11215,10 +7172,6 @@ Dec
 17:48
 
 17:57
-
-
-
-
 
 27
 
@@ -11246,10 +7199,6 @@ Dec
 
 17:58
 
-
-
-
-
 28
 
 18:19
@@ -11276,15 +7225,9 @@ Dec
 
 17:59
 
-
-
-
-
 29
 
 18:20
-
-
 
 18:45
 
@@ -11306,15 +7249,9 @@ Dec
 
 17:59
 
-
-
-
-
 30
 
 18:20
-
-
 
 18:46
 
@@ -11336,62 +7273,29 @@ Dec
 
 18:00
 
-
-
-
-
 31
 
 18:21
 
-
-
 18:46
 
-
-
 19:09
-
-
 
 19:11
 
 18:48
 
-
-
 17:56
 
-
-
 18:00
-
-
-
-
-
-
-
-
-
-
-
 
 Solar Noon Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -11413,15 +7317,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -11449,10 +7349,6 @@ Dec
 
 12:20:24
 
-
-
-
-
 2
 
 12:35:24
@@ -11478,10 +7374,6 @@ Dec
 12:14:55
 
 12:20:47
-
-
-
-
 
 3
 
@@ -11509,10 +7401,6 @@ Dec
 
 12:21:10
 
-
-
-
-
 4
 
 12:36:19
@@ -11538,10 +7426,6 @@ Dec
 12:14:55
 
 12:21:34
-
-
-
-
 
 5
 
@@ -11569,10 +7453,6 @@ Dec
 
 12:21:59
 
-
-
-
-
 6
 
 12:37:13
@@ -11598,10 +7478,6 @@ Dec
 12:14:58
 
 12:22:24
-
-
-
-
 
 7
 
@@ -11629,10 +7505,6 @@ Dec
 
 12:22:50
 
-
-
-
-
 8
 
 12:38:04
@@ -11658,10 +7530,6 @@ Dec
 12:15:05
 
 12:23:16
-
-
-
-
 
 9
 
@@ -11689,10 +7557,6 @@ Dec
 
 12:23:43
 
-
-
-
-
 10
 
 12:38:54
@@ -11718,10 +7582,6 @@ Dec
 12:15:16
 
 12:24:10
-
-
-
-
 
 11
 
@@ -11749,10 +7609,6 @@ Dec
 
 12:24:37
 
-
-
-
-
 12
 
 12:39:41
@@ -11778,10 +7634,6 @@ Dec
 12:15:29
 
 12:25:05
-
-
-
-
 
 13
 
@@ -11809,10 +7661,6 @@ Dec
 
 12:25:33
 
-
-
-
-
 14
 
 12:40:26
@@ -11838,10 +7686,6 @@ Dec
 12:15:47
 
 12:26:02
-
-
-
-
 
 15
 
@@ -11869,10 +7713,6 @@ Dec
 
 12:26:30
 
-
-
-
-
 16
 
 12:41:08
@@ -11898,10 +7738,6 @@ Dec
 12:16:07
 
 12:26:59
-
-
-
-
 
 17
 
@@ -11929,10 +7765,6 @@ Dec
 
 12:27:29
 
-
-
-
-
 18
 
 12:41:47
@@ -11958,10 +7790,6 @@ Dec
 12:16:31
 
 12:27:58
-
-
-
-
 
 19
 
@@ -11989,10 +7817,6 @@ Dec
 
 12:28:27
 
-
-
-
-
 20
 
 12:42:24
@@ -12018,10 +7842,6 @@ Dec
 12:16:59
 
 12:28:57
-
-
-
-
 
 21
 
@@ -12049,10 +7869,6 @@ Dec
 
 12:29:27
 
-
-
-
-
 22
 
 12:42:58
@@ -12078,10 +7894,6 @@ Dec
 12:17:29
 
 12:29:57
-
-
-
-
 
 23
 
@@ -12109,10 +7921,6 @@ Dec
 
 12:30:26
 
-
-
-
-
 24
 
 12:43:28
@@ -12138,10 +7946,6 @@ Dec
 12:18:03
 
 12:30:56
-
-
-
-
 
 25
 
@@ -12169,10 +7973,6 @@ Dec
 
 12:31:26
 
-
-
-
-
 26
 
 12:43:56
@@ -12198,10 +7998,6 @@ Dec
 12:18:40
 
 12:31:55
-
-
-
-
 
 27
 
@@ -12229,10 +8025,6 @@ Dec
 
 12:32:25
 
-
-
-
-
 28
 
 12:44:20
@@ -12259,15 +8051,9 @@ Dec
 
 12:32:54
 
-
-
-
-
 29
 
 12:44:31
-
-
 
 12:36:09
 
@@ -12289,15 +8075,9 @@ Dec
 
 12:33:23
 
-
-
-
-
 30
 
 12:44:41
-
-
 
 12:35:51
 
@@ -12319,109 +8099,29 @@ Dec
 
 12:33:52
 
-
-
-
-
 31
 
 12:44:50
 
-
-
 12:35:33
 
-
-
 12:29:06
-
-
 
 12:37:49
 
 12:31:45
 
-
-
 12:14:58
-
-
 
 12:34:21
 
+Global Monitoring Laboratory
 
+» U.S. Department of Commerce
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Global Moni oring Labora ory
-
-» U.S. Depar men of Commerce
-
-» Na ional Oceanic & A mospheric Adminis ra ion
+» National Oceanic & Atmospheric Administration
 
 » NOAA Research
-
-
-
-
-
-
-
-
-
-
-Privacy Policy  |
-Accessibili y  |
-Disclaimer  |
-Disclaimer for Ex ernal Links  |
-FOIA  |
-Usa.gov
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Si e Con en s
-
-Con ac Us  |  Webmas er
-
-Take Our Survey
 ```
 
 ---
@@ -12437,25 +8137,25 @@ Take Our Survey
 FZHW60 PHFO 260301
 OFFHFO
 
-Offshore Wa ers Forecas for Hawaii
-Na ional Wea her Service Honolulu HI
+Offshore Waters Forecast for Hawaii
+National Weather Service Honolulu HI
 501 PM HST Fri Sep 25 2026
 
-Hawaiian offshore wa ers beyond 40 nau ical miles ou o 240
-nau ical miles including he por ion of he Papahanaumokuakea
-Marine Na ional Monumen eas of French Friga e Shoals
+Hawaiian offshore waters beyond 40 nautical miles out to 240
+nautical miles including the portion of the Papahanaumokuakea
+Marine National Monument east of French Frigate Shoals
 
-Seas given as significan wave heigh , which is he average heigh
-of he highes 1/3 of he waves. Individual waves may be more han
-wice he significan wave heigh .
+Seas given as significant wave height, which is the average height
+of the highest 1/3 of the waves. Individual waves may be more than
+twice the significant wave height.
 
 PHZ105-261130-
 501 PM HST Fri Sep 25 2026
 
-.Synopsis for he Hawaiian offshore wa ers...
-S rong winds and hazardous seas will accompany Hurricane Nolo as
-i advances nor h and hen wes ward across area wa ers oday
-hrough he weekend.
+.Synopsis for the Hawaiian offshore waters...
+Strong winds and hazardous seas will accompany Hurricane Nolo as
+it advances north and then westward across area waters today
+through the weekend.
 
 AT 500 PM HST HURRICANE NOLO WAS CENTERED AT 16.9N 155.3W...MOVING N
 AT 3 KT
@@ -12473,37 +8173,37 @@ NOLO FORECAST POSITIONS
 200 PM HST WEDNESDAY 25.0N 171.0W
 
 PHZ180-261130-
-Hawaiian Offshore Wa ers-
+Hawaiian Offshore Waters-
 501 PM HST Fri Sep 25 2026
 
 ...HURRICANE WARNING IN EFFECT...
 
-.TONIGHT...Hurricane condi ions expec ed. E winds 15 o 25 k NW
-Half, E 80 o 90 k SE Half. Seas 8 o 14 f . Sca ered
-hunders orms SE Wa ers.
+.TONIGHT...Hurricane conditions expected. E winds 15 to 25 kt NW
+Half, E 80 to 90 kt SE Half. Seas 8 to 14 ft. Scattered
+thunderstorms SE Waters.
 
-.SATURDAY...Hurricane condi ions expec ed. E winds 20 o 30 k NW
-Half, E 85 o 95 k SE Half. Seas 8 o 14 f . Isola ed
-hunders orms SE Wa ers.
-.SATURDAY NIGHT...Hurricane condi ions expec ed. E winds 20 o 30
-k NW Half, E 90 o 100 k SE Half. Seas 9 o 14 f . Sca ered
-hunders orms SE Wa ers.
-.SUNDAY...Hurricane condi ions expec ed. NW Half, E winds 30 o
-40 k , rising o 40 o 50 k la e in he af ernoon. SE Half, E
-winds 90 o 100 k , diminishing o 50 o 60 k . Seas 9 o 14 f .
-Isola ed hunders orms NW Half - sca ered hunders orms SE
-Wa ers.
-.SUNDAY NIGHT...Hurricane condi ions expec ed. E winds 75 o 85
-k NW Half, E 40 o 50 k SE Half. Seas 8 o 14 f . Isola ed
-hunders orms S of 20N.
-.MONDAY...Hurricane condi ions expec ed. E winds 95 o 105 k NW
-Half, E 20 o 30 k SE Half. Seas 7 o 13 f . Isola ed
-hunders orms S of 24N.
-.TUESDAY...Hurricane condi ions possible. E winds 80 o 90 k NW
-Half, E 15 o 25 k SE Half. Seas 6 o 13 f . Isola ed
-hunders orms S of 24N.
-.WEDNESDAY...Hurricane condi ions possible. SE winds 30 o 40 k
-NW Half, E 15 o 25 k SE Half. Seas 6 o 11 f .
+.SATURDAY...Hurricane conditions expected. E winds 20 to 30 kt NW
+Half, E 85 to 95 kt SE Half. Seas 8 to 14 ft. Isolated
+thunderstorms SE Waters.
+.SATURDAY NIGHT...Hurricane conditions expected. E winds 20 to 30
+kt NW Half, E 90 to 100 kt SE Half. Seas 9 to 14 ft. Scattered
+thunderstorms SE Waters.
+.SUNDAY...Hurricane conditions expected. NW Half, E winds 30 to
+40 kt, rising to 40 to 50 kt late in the afternoon. SE Half, E
+winds 90 to 100 kt, diminishing to 50 to 60 kt. Seas 9 to 14 ft.
+Isolated thunderstorms NW Half - scattered thunderstorms SE
+Waters.
+.SUNDAY NIGHT...Hurricane conditions expected. E winds 75 to 85
+kt NW Half, E 40 to 50 kt SE Half. Seas 8 to 14 ft. Isolated
+thunderstorms S of 20N.
+.MONDAY...Hurricane conditions expected. E winds 95 to 105 kt NW
+Half, E 20 to 30 kt SE Half. Seas 7 to 13 ft. Isolated
+thunderstorms S of 24N.
+.TUESDAY...Hurricane conditions possible. E winds 80 to 90 kt NW
+Half, E 15 to 25 kt SE Half. Seas 6 to 13 ft. Isolated
+thunderstorms S of 24N.
+.WEDNESDAY...Hurricane conditions possible. SE winds 30 to 40 kt
+NW Half, E 15 to 25 kt SE Half. Seas 6 to 11 ft.
 ```
 
 ---
@@ -12650,6 +8350,7 @@ Lows 72 to 77. Southeast winds around 15 mph.
 - **Collected:** Unknown HST
 
 ```text
+                        
 948
 SXHW80 PHFO 260115
 OMRHFO
@@ -12741,2515 +8442,1497 @@ $$
 - **Collected:** 2026-09-25T21:41:50.366651-10:00 HST
 
 ```text
-Na ional Wea her Service
+National Weather Service
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Toggle naviga ion
-
-
-
-
-
-
-
-
-
-
+Toggle navigation
 
 HOME
 
-
-
-
 FORECAST
-
-
-
-
-
 
 Local
 
-
-
-
 Graphical
 
-
-
-
-Avia ion
-
-
-
+Aviation
 
 Marine
 
-
-
-
 Rivers and Lakes
-
-
-
 
 Hurricanes
 
+Severe Weather
 
+Fire Weather
 
+Sunrise/Sunset
 
-Severe Wea her
+Long Range Forecasts
 
+Climate Prediction
 
-
-
-Fire Wea her
-
-
-
-
-Sunrise/Sunse
-
-
-
-
-Long Range Forecas s
-
-
-
-
-Clima e Predic ion
-
-
-
-
-Space Wea her
-
-
-
-
-
-
-
-
+Space Weather
 
 PAST WEATHER
 
+Past Weather
 
+Astronomical Data
 
-
-
-
-Pas Wea her
-
-
-
-
-As ronomical Da a
-
-
-
-
-Cer ified Wea her Da a
-
-
-
-
-
-
-
-
+Certified Weather Data
 
 SAFETY
 
-
-
-
-
-
-
-
-
-
-
 INFORMATION
 
+Wireless Emergency Alerts
 
-
-
-
-
-Wireless Emergency Aler s
-
-
-
-
-Wea her-Ready Na ion
-
-
-
+Weather-Ready Nation
 
 Brochures
 
-
-
-
-Coopera ive Observers
-
-
-
+Cooperative Observers
 
 Daily Briefing
 
+Damage/Fatality/Injury Statistics
 
+Forecast Models
 
+GIS Data Portal
 
-Damage/Fa ali y/Injury S a is ics
+NOAA Weather Radio
 
+Publications
 
+SKYWARN Storm Spotters
 
-
-Forecas Models
-
-
-
-
-GIS Da a Por al
-
-
-
-
-NOAA Wea her Radio
-
-
-
-
-Publica ions
-
-
-
-
-SKYWARN S orm Spo ers
-
-
-
-
-S ormReady
-
-
-
+StormReady
 
 TsunamiReady
 
-
-
-
-Service Change No ices
-
-
-
-
-
-
-
-
+Service Change Notices
 
 EDUCATION
 
-
-
-
-
-
-
-
-
-
-
 NEWS
-
-
-
-
-
-
-
-
-
-
 
 SEARCH
 
-
-
-
-
-
-
-
-
-
-
 Search For
-
-
-
-
 
 NWS
 
 All NOAA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ABOUT
 
+About NWS
 
-
-
-
-
-Abou NWS
-
-
-
-
-Organiza ion
-
-
-
+Organization
 
 For NWS Employees
 
-
-
-
-Na ional Cen ers
-
-
-
+National Centers
 
 Careers
 
-
-
-
-Con ac Us
-
-
-
+Contact Us
 
 Glossary
 
-
-
-
 Social Media
 
+NWS Transformation
 
+NWS Weather Forecast Office Product Listing
 
+Click on the product identifier or description to view products:
 
-NWS Transforma ion
+Product Identifier
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NWS Wea her Forecas Office Produc Lis ing
-
-
-
-Click on he produc iden ifier or descrip ion o view produc s:
-
-
-
-
-
-Produc Iden ifier
-
-Produc Descrip ion
-
-
+Product Description
 
 ABV
 
-Rawinsonde Da a Above 100 Millibars
-
-
+Rawinsonde Data Above 100 Millibars
 
 ADA
 
-Alarm/Aler Adminis ra ive Msg
-
-
+Alarm/Alert Administrative Msg
 
 ADM
 
-Aler Adminis ra ive Message
-
-
+Alert Administrative Message
 
 ADR
 
-NWS Adminis ra ive Message
-
-
+NWS Administrative Message
 
 ADV
 
-Generic Space Environmen Advisory
-
-
+Generic Space Environment Advisory
 
 AFD
 
-Area Forecas Discussion
-
-
+Area Forecast Discussion
 
 AFM
 
-Area Forecas Ma rices
-
-
+Area Forecast Matrices
 
 AFP
 
-Area Forecas Produc
-
-
+Area Forecast Product
 
 AFW
 
-Fire Wea her Ma rix
-
-
+Fire Weather Matrix
 
 AGF
 
-Agricul ural Forecas
-
-
+Agricultural Forecast
 
 AGO
 
-Agricul ural Observa ions
-
-
+Agricultural Observations
 
 ALT
 
-Space Environmen Aler
-
-
+Space Environment Alert
 
 AQA
 
-Air Quali y Aler
-
-
+Air Quality Alert
 
 AQI
 
-Air Quali y Index S a emen
-
-
+Air Quality Index Statement
 
 ASA
 
-Air S agna ion Advisory
-
-
+Air Stagnation Advisory
 
 AVA
 
-Avalanche Wa ch
-
-
+Avalanche Watch
 
 AVG
 
-Avalanche Wea her Guidance
-
-
+Avalanche Weather Guidance
 
 AVW
 
 Avalanche Warning
 
-
-
 AWO
 
-Area Wea her Ou look
-
-
+Area Weather Outlook
 
 AWS
 
-Area Wea her Summary
-
-
+Area Weather Summary
 
 AWU
 
-Area Wea her Upda e
-
-
+Area Weather Update
 
 AWW
 
-Airpor Wea her Warning
-
-
+Airport Weather Warning
 
 BLU
 
-Blue Aler
-
-
+Blue Alert
 
 BOY
 
-Buoy Repor
-
-
+Buoy Report
 
 BRG
 
-Coas Guard Observa ions
-
-
+Coast Guard Observations
 
 BRT
 
-Hourly Roundup for Wea her Radio
-
-
+Hourly Roundup for Weather Radio
 
 CAE
 
-Child Abduc ion Emergency
-
-
+Child Abduction Emergency
 
 CCF
 
-Coded Ci y Forecas
-
-
+Coded City Forecast
 
 CDW
 
 Civil Danger Warning
 
-
-
 CEM
 
 Civil Emergency Message
 
-
-
 CF6
 
-WFO Mon hly/Daily Clima e Da a
-
-
+WFO Monthly/Daily Climate Data
 
 CFP
 
-Convec ive Forecas Produc
-
-
+Convective Forecast Product
 
 CFW
 
-Coas al Flood Warnings/Wa ches/S a emen s
-
-
+Coastal Flood Warnings/Watches/Statements
 
 CGR
 
-Coas Guard Surface Repor
-
-
+Coast Guard Surface Report
 
 CHG
 
-Compu er Hurricane Guidance
-
-
+Computer Hurricane Guidance
 
 CLA
 
-Clima ological Repor (Annual)
-
-
+Climatological Report (Annual)
 
 CLI
 
-Clima ological Repor (Daily)
-
-
+Climatological Report (Daily)
 
 CLM
 
-Clima ological Repor (Mon hly)
-
-
+Climatological Report (Monthly)
 
 CLQ
 
-Clima ological Repor (Quar erly)
-
-
+Climatological Report (Quarterly)
 
 CLS
 
-Clima ological Repor (Seasonal)
-
-
+Climatological Report (Seasonal)
 
 CLT
 
-Clima e Repor
-
-
+Climate Report
 
 CMM
 
-Coded Clima ological Mon hly Means
-
-
+Coded Climatological Monthly Means
 
 COD
 
-Coded Analysis and Forecas s
-
-
+Coded Analysis and Forecasts
 
 CPF
 
-Grea Lakes Por Forecas
-
-
+Great Lakes Port Forecast
 
 CUR
 
-Rou ine Space Environmen Produc s
-
-
+Routine Space Environment Products
 
 CWA
 
-Cen er (CWSU) Wea her Advisory
-
-
+Center (CWSU) Weather Advisory
 
 CWF
 
-Coas al Wa ers Forecas
-
-
+Coastal Waters Forecast
 
 CWS
 
-Cen er (CWSU) Wea her S a emen
-
-
+Center (CWSU) Weather Statement
 
 DAY
 
-Rou ine Space Environmen Produc (Daily)
-
-
+Routine Space Environment Product (Daily)
 
 DDO
 
-Daily Dispersion Ou look
-
-
+Daily Dispersion Outlook
 
 DGT
 
-Drough Informa ion S a emen
-
-
+Drought Information Statement
 
 DMO
 
-Prac ice/Demo Warning
-
-
+Practice/Demo Warning
 
 DSA
 
 Unnumbered Depression / Suspicious Area Advisory
 
-
-
 DSM
 
 ASOS Daily Summary
 
-
-
 DSW
 
-Dus S orm Warning and Dus Advisory
-
-
+Dust Storm Warning and Dust Advisory
 
 EFP
 
-3 To 5 Day Ex ended Forecas
-
-
+3 To 5 Day Extended Forecast
 
 EOL
 
-Average 6 To 10 Day Wea her Ou look (Local)
-
-
+Average 6 To 10 Day Weather Outlook (Local)
 
 EQI
 
-Tsunami Bulle in
-
-
+Tsunami Bulletin
 
 EQR
 
-Ear hquake Repor
-
-
+Earthquake Report
 
 EQW
 
-Ear hquake Warning
-
-
+Earthquake Warning
 
 ESF
 
-Flood Po en ial Ou look
-
-
+Flood Potential Outlook
 
 ESG
 
-Ex ended S reamflow Guidance
-
-
+Extended Streamflow Guidance
 
 ESP
 
-Ex ended S reamflow Predic ion
-
-
+Extended Streamflow Prediction
 
 ESS
 
-Wa er Supply Ou look
-
-
+Water Supply Outlook
 
 EVI
 
-Evacua ion Immedia e
-
-
+Evacuation Immediate
 
 EWW
 
-Ex reme Wind Warning
-
-
+Extreme Wind Warning
 
 FA0
 
-Avia ion Area Forecas s (Pacific)
-
-
+Aviation Area Forecasts (Pacific)
 
 FA1
 
-Avia ion Area Forecas s (Nor heas )
-
-
+Aviation Area Forecasts (Northeast)
 
 FA2
 
-Avia ion Area Forecas s (Sou heas )
-
-
+Aviation Area Forecasts (Southeast)
 
 FA3
 
-Avia ion Area Forecas s (Nor h Cen ral)
-
-
+Aviation Area Forecasts (North Central)
 
 FA4
 
-Avia ion Area Forecas s (Sou h Cen ral)
-
-
+Aviation Area Forecasts (South Central)
 
 FA5
 
-Avia ion Area Forecas s (Rocky Moun ains)
-
-
+Aviation Area Forecasts (Rocky Mountains)
 
 FA6
 
-Avia ion Area Forecas s (Wes Coas )
-
-
+Aviation Area Forecasts (West Coast)
 
 FA7
 
-Avia ion Area Forecas s (Juneau, AK)
-
-
+Aviation Area Forecasts (Juneau, AK)
 
 FA8
 
-Avia ion Area Forecas s (Anchorage, AK)
-
-
+Aviation Area Forecasts (Anchorage, AK)
 
 FA9
 
-Avia ion Area Forecas s (Fairbanks, AK)
-
-
+Aviation Area Forecasts (Fairbanks, AK)
 
 FD0
 
-24 Hr Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+24 Hr Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FD1
 
-6 Hour Winds Alof Forecas
-
-
+6 Hour Winds Aloft Forecast
 
 FD2
 
-12 Hour Winds Alof Forecas
-
-
+12 Hour Winds Aloft Forecast
 
 FD3
 
-24 Hour Winds Alof Forecas
-
-
+24 Hour Winds Aloft Forecast
 
 FD4
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD5
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD6
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD7
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD8
 
-6 Hour Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+6 Hour Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FD9
 
-12 Hr Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+12 Hr Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FDI
 
 Fire Danger Indices
 
-
-
 FFA
 
-Flash Flood Wa ch
-
-
+Flash Flood Watch
 
 FFG
 
 Flash Flood Guidance
 
-
-
 FFH
 
-Headwa er Guidance
-
-
+Headwater Guidance
 
 FFS
 
-Flash Flood S a emen
-
-
+Flash Flood Statement
 
 FFW
 
 Flash Flood Warning
 
-
-
 FLN
 
-Na ional Flood Summary
-
-
+National Flood Summary
 
 FLS
 
-Flood S a emen
-
-
+Flood Statement
 
 FLW
 
 Flood Warning
 
-
-
 FOF
 
-Upper Wind Fallou Forecas
-
-
+Upper Wind Fallout Forecast
 
 FRW
 
 Fire Warning
 
-
-
 FSH
 
-Na l Marine Fisheries Adminis ra ive Service Message
-
-
+Natl Marine Fisheries Administrative Service Message
 
 FTM
 
-WSR-88D Radar Ou age No ifica ion / Free Tex Message
-
-
+WSR-88D Radar Outage Notification / Free Text Message
 
 FTP
 
 FOUS Prog Max/Min Temp/Pop Guidance
 
-
-
 FWA
 
-Fire Wea her Adminis ra ive Message
-
-
+Fire Weather Administrative Message
 
 FWD
 
-Fire Wea her Ou look Discussion
-
-
+Fire Weather Outlook Discussion
 
 FWF
 
-Rou ine Fire Wx Fcs (Wi h/Wi hou 6-10 Day Ou look)
-
-
+Routine Fire Wx Fcst (With/Without 6-10 Day Outlook)
 
 FWL
 
-Land Managemen Forecas s
-
-
+Land Management Forecasts
 
 FWM
 
-Miscellaneous Fire Wea her Produc
-
-
+Miscellaneous Fire Weather Product
 
 FWN
 
-Fire Wea her No ifica ion
-
-
+Fire Weather Notification
 
 FWO
 
-Fire Wea her Observa ion
-
-
+Fire Weather Observation
 
 FWS
 
-Spo Forecas
-
-
+Spot Forecast
 
 FZL
 
-Freezing Level Da a (RADAT)
-
-
+Freezing Level Data (RADAT)
 
 GLF
 
-Grea Lakes Forecas
-
-
+Great Lakes Forecast
 
 GLS
 
-Grea Lakes S orm Summary
-
-
+Great Lakes Storm Summary
 
 GRE
 
 GREEN
 
-
-
 HD1
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD2
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD3
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD4
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD7
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD8
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD9
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HLS
 
-Hurricane Local S a emen
-
-
+Hurricane Local Statement
 
 HMD
 
-Hydrome eorological Discussion
-
-
+Hydrometeorological Discussion
 
 HML
 
 AHPS XML
 
-
-
 HMW
 
-Hazardous Ma erials Warning
-
-
+Hazardous Materials Warning
 
 HP1
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP2
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP3
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP4
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP5
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP6
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP7
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP8
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HRR
 
-Wea her Roundup
-
-
+Weather Roundup
 
 HSF
 
-High Seas Forecas
-
-
+High Seas Forecast
 
 HWO
 
-Hazardous Wea her Ou look
-
-
+Hazardous Weather Outlook
 
 HWR
 
-Hourly Wea her Roundup
-
-
+Hourly Weather Roundup
 
 HYD
 
-Daily Hydrome eorological Produc s
-
-
+Daily Hydrometeorological Products
 
 HYM
 
-Mon hly Hydrome eorological Plain Language Produc
-
-
+Monthly Hydrometeorological Plain Language Product
 
 ICE
 
-Ice Forecas
-
-
+Ice Forecast
 
 IDM
 
-Ice Drif Vec ors
-
-
+Ice Drift Vectors
 
 INI
 
 ADMINISTR [NOUS51 KWBC]
 
-
-
 IOB
 
-Ice Observa ion
-
-
+Ice Observation
 
 KPA
 
 Keep Alive Message
 
-
-
 LAE
 
 Local Area Emergency
 
-
-
 LCD
 
-Preliminary Local Clima ological Da a
-
-
+Preliminary Local Climatological Data
 
 LCO
 
-Local Coopera ive Observa ion
-
-
+Local Cooperative Observation
 
 LEW
 
-Law Enforcemen Warning
-
-
+Law Enforcement Warning
 
 LFP
 
-Local Forecas
-
-
+Local Forecast
 
 LKE
 
-Lake S ages
-
-
+Lake Stages
 
 LLS
 
 Low-Level Sounding
 
-
-
 LOW
 
-Low Tempera ures
-
-
+Low Temperatures
 
 LSR
 
-Local S orm Repor
-
-
+Local Storm Report
 
 LTG
 
-Ligh ning Da a
-
-
+Lightning Data
 
 MAN
 
-Rawinsonde Observa ion Manda ory Levels
-
-
+Rawinsonde Observation Mandatory Levels
 
 MAP
 
-Mean Areal Precipi a ion
-
-
+Mean Areal Precipitation
 
 MAW
 
-Amended Marine Forecas
-
-
+Amended Marine Forecast
 
 MFM
 
-Marine Forecas Ma rix
-
-
+Marine Forecast Matrix
 
 MIM
 
-Marine In erpre a ion Message
-
-
+Marine Interpretation Message
 
 MIS
 
-Miscellaneous Local Produc
-
-
+Miscellaneous Local Product
 
 MOB
 
-MOB Observa ions
-
-
+MOB Observations
 
 MON
 
-Rou ine Space Environmen Produc Issued Mon hly
-
-
+Routine Space Environment Product Issued Monthly
 
 MRP
 
-Techniques Developmen Labora ory Marine Produc
-
-
+Techniques Development Laboratory Marine Product
 
 MSM
 
-ASOS Mon hly Summary Message
-
-
+ASOS Monthly Summary Message
 
 MTR
 
-METAR Forma ed Surface Wea her Observa ion
-
-
+METAR Formatted Surface Weather Observation
 
 MTT
 
-METAR Tes Message
-
-
+METAR Test Message
 
 MVF
 
-Marine Verifica ion Coded Message
-
-
+Marine Verification Coded Message
 
 MWS
 
-Marine Wea her S a emen
-
-
+Marine Weather Statement
 
 MWW
 
-Marine Wea her Message
-
-
+Marine Weather Message
 
 NOU
 
-Wea her Reconnaisance Fligh s
-
-
+Weather Reconnaisance Flights
 
 NOW
 
-Shor Term Forecas
-
-
+Short Term Forecast
 
 NOX
 
-Da a Mg Message
-
-
+Data Mgt Message
 
 NPW
 
-Non-Precipi a ion Warnings / Wa ches / Advisories
-
-
+Non-Precipitation Warnings / Watches / Advisories
 
 NSH
 
-Nearshore Marine Forecas
-
-
+Nearshore Marine Forecast
 
 NUW
 
-Nuclear Power Plan Warning
-
-
+Nuclear Power Plant Warning
 
 NWR
 
-NOAA Wea her Radio Forecas
-
-
+NOAA Weather Radio Forecast
 
 OAV
 
-O her Avia ion Produc s
-
-
+Other Aviation Products
 
 OBS
 
-Observa ions
-
-
+Observations
 
 OFA
 
-Offshore Avia ion Area Forecas
-
-
+Offshore Aviation Area Forecast
 
 OFF
 
-Offshore Forecas
-
-
+Offshore Forecast
 
 OMR
 
-O her Marine Produc s
-
-
+Other Marine Products
 
 OPU
 
-O her Public Produc s
-
-
+Other Public Products
 
 OSO
 
-O her Surface Observa ions
-
-
+Other Surface Observations
 
 OSW
 
 Ocean Surface Winds
 
-
-
 OUA
 
-O her Upper Air Da a
-
-
+Other Upper Air Data
 
 OZF
 
-Zone Forecas
-
-
+Zone Forecast
 
 PFM
 
-Poin Forecas Ma rices
-
-
+Point Forecast Matrices
 
 PFW
 
-Fire Wea her Poin Forecas Ma rices
-
-
+Fire Weather Point Forecast Matrices
 
 PLS
 
-Plain Language Ship Repor
-
-
+Plain Language Ship Report
 
 PMD
 
-Prognos ic Me eorological Discussion
-
-
+Prognostic Meteorological Discussion
 
 PNS
 
-Public Informa ion S a emen
-
-
+Public Information Statement
 
 POE
 
-Probabili y of Exceed
-
-
+Probability of Exceed
 
 PRB
 
-Hea Index Forecas Tables
-
-
+Heat Index Forecast Tables
 
 PRC
 
-S a e Pilo Repor Collec ive
-
-
+State Pilot Report Collective
 
 PRE
 
-Preliminary Forecas s
-
-
+Preliminary Forecasts
 
 PSH
 
-Pos S orm Hurricane Repor
-
-
+Post Storm Hurricane Report
 
 PTS
 
-Probabilis ic Ou look Poin s
-
-
+Probabilistic Outlook Points
 
 PWO
 
-Public Severe Wea her Ou look
-
-
+Public Severe Weather Outlook
 
 PWS
 
-Tropical Cyclone Probabili ies
-
-
+Tropical Cyclone Probabilities
 
 QPF
 
-Quan i a ive Precipi a ion Forecas
-
-
+Quantitative Precipitation Forecast
 
 QPS
 
-Quan i a ive Precipi a ion S a emen
-
-
+Quantitative Precipitation Statement
 
 RDF
 
-Revised Digi al Forecas
-
-
+Revised Digital Forecast
 
 REC
 
-Recrea ional Repor
-
-
+Recreational Report
 
 RER
 
-Record Repor
-
-
+Record Report
 
 RET
 
-EAS Ac iva ion Reques
-
-
+EAS Activation Request
 
 RFD
 
-Rangeland Fire Danger Forecas
-
-
+Rangeland Fire Danger Forecast
 
 RFI
 
-RFI Observa ion
-
-
+RFI Observation
 
 RFR
 
-Rou e Forecas
-
-
+Route Forecast
 
 RFW
 
 Red Flag Warning
 
-
-
 RHW
 
 Radiological Hazard Warning
 
-
-
 RMT
 
-Required Mon hly Tes
-
-
+Required Monthly Test
 
 RNS
 
-Rain Informa ion S a emen
-
-
+Rain Information Statement
 
 RR1
 
-Hydro-Me Da a Repor Par 1
-
-
+Hydro-Met Data Report Part 1
 
 RR2
 
-Hydro-Me Da a Repor Par 2
-
-
+Hydro-Met Data Report Part 2
 
 RR3
 
-Hydro-Me Da a Repor Par 3
-
-
+Hydro-Met Data Report Part 3
 
 RR4
 
-Hydro-Me Da a Repor Par 4
-
-
+Hydro-Met Data Report Part 4
 
 RR5
 
-Hydro-Me Da a Repor Par 5
-
-
+Hydro-Met Data Report Part 5
 
 RR6
 
-Hydro-Me Da a Repor Par 6
-
-
+Hydro-Met Data Report Part 6
 
 RR7
 
-Hydro-Me Da a Repor Par 7
-
-
+Hydro-Met Data Report Part 7
 
 RR8
 
-Hydro-Me Da a Repor Par 8
-
-
+Hydro-Met Data Report Part 8
 
 RR9
 
-Hydro-Me Da a Repor Par 9
-
-
+Hydro-Met Data Report Part 9
 
 RRA
 
-Au oma ed Hydrologic Observa ion S a Repor (AHOS)
-
-
+Automated Hydrologic Observation Sta Report (AHOS)
 
 RRM
 
-Miscellaneous Hydrologic Da a
-
-
+Miscellaneous Hydrologic Data
 
 RRS
 
-HADS Da a
-
-
+HADS Data
 
 RRY
 
-ASOS SHEF Hourly Rou ine Tes Message
-
-
+ASOS SHEF Hourly Routine Test Message
 
 RSD
 
-Daily Sno el Da a
-
-
+Daily Snotel Data
 
 RSM
 
-Mon hly Sno el Da a
-
-
+Monthly Snotel Data
 
 RTP
 
-Regional Max/Min Temp and Precipi a ion Table
-
-
+Regional Max/Min Temp and Precipitation Table
 
 RVA
 
 River Summary
 
-
-
 RVD
 
-Daily River Forecas s
-
-
+Daily River Forecasts
 
 RVF
 
-River Forecas
-
-
+River Forecast
 
 RVI
 
-River Ice S a emen
-
-
+River Ice Statement
 
 RVM
 
-Miscellaneous River Produc
-
-
+Miscellaneous River Product
 
 RVR
 
-River Recrea ion S a emen
-
-
+River Recreation Statement
 
 RVS
 
-River S a emen
-
-
+River Statement
 
 RWR
 
-Regional Wea her Roundup
-
-
+Regional Weather Roundup
 
 RWS
 
-Regional Wea her Summary
-
-
+Regional Weather Summary
 
 RWT
 
-Required Weekly Tes
-
-
+Required Weekly Test
 
 SAB
 
-Special Avalanche Bulle in
-
-
+Special Avalanche Bulletin
 
 SAF
 
-Speci Agri Wx Fcs / Advisory / Flying Farmer Fcs Ou look
-
-
+Speci Agri Wx Fcst / Advisory / Flying Farmer Fcst Outlook
 
 SAG
 
 Snow Avalanche Guidance
 
-
-
 SAT
 
-APT Predic ion
-
-
+APT Prediction
 
 SAW
 
-Prelim No ice of Wa ch & Cancella ion Msg (Avia ion)
-
-
+Prelim Notice of Watch & Cancellation Msg (Aviation)
 
 SCC
 
-S orm Summary
-
-
+Storm Summary
 
 SCD
 
-Supplemen ary Clima ological Da a (ASOS)
-
-
+Supplementary Climatological Data (ASOS)
 
 SCN
 
-Soil Clima e Analysis Ne work Da a
-
-
+Soil Climate Analysis Network Data
 
 SCP
 
-Sa elli e Cloud Produc
-
-
+Satellite Cloud Product
 
 SCS
 
-Selec ed Ci ies Summary
-
-
+Selected Cities Summary
 
 SDO
 
-Supplemen ary Da a Observa ion (ASOS)
-
-
+Supplementary Data Observation (ASOS)
 
 SDS
 
-Special Dispersion S a emen
-
-
+Special Dispersion Statement
 
 SEL
 
-Severe Local S orm Wa ch and Wa ch Cancella ion Msg
-
-
+Severe Local Storm Watch and Watch Cancellation Msg
 
 SEV
 
-SPC Wa ch Poin Informa ion Message
-
-
+SPC Watch Point Information Message
 
 SFP
 
-S a e Forecas
-
-
+State Forecast
 
 SFT
 
-Tabular S a e Forecas
-
-
+Tabular State Forecast
 
 SGL
 
-Rawinsonde Observa ion Significan Levels
-
-
+Rawinsonde Observation Significant Levels
 
 SHP
 
-Surface Ship Repor a Synop ic Time
-
-
+Surface Ship Report at Synoptic Time
 
 SIG
 
-In erna ional Sigme / Convec ive Sigme
-
-
+International Sigmet / Convective Sigmet
 
 SIM
 
-Sa elli e In erpre a ion Message
-
-
+Satellite Interpretation Message
 
 SLS
 
-Severe Local S orm Wa ch and Areal Ou line
-
-
+Severe Local Storm Watch and Areal Outline
 
 SMF
 
-Smoke Managemen Wea her Forecas
-
-
+Smoke Management Weather Forecast
 
 SMW
 
 Special Marine Warning
 
-
-
 SOO
 
-SOO Produc
-
-
+SOO Product
 
 SPE
 
-Sa elli e Precipi a ion Es ima es (TXUS20 KWBC)
-
-
+Satellite Precipitation Estimates (TXUS20 KWBC)
 
 SPF
 
-S orm S rike Probabili y Bulle in (TPC)
-
-
+Storm Strike Probability Bulletin (TPC)
 
 SPS
 
-Special Wea her S a emen
-
-
+Special Weather Statement
 
 SPW
 
-Shel er in Place Warning
-
-
+Shelter in Place Warning
 
 SQW
 
 Snow Squall Warning
 
-
-
 SRD
 
 Surf Discussion
 
-
-
 SRF
 
-Surf Forecas
-
-
+Surf Forecast
 
 SRG
 
 Soaring Guidance
 
-
-
 SSM
 
-Main Synop ic Hour Surface Observa ion
-
-
+Main Synoptic Hour Surface Observation
 
 STA
 
-Ne work and Severe Wea her S a is ical Summaries
-
-
+Network and Severe Weather Statistical Summaries
 
 STD
 
-Sa elli e Tropical Dis urbance Summary
-
-
+Satellite Tropical Disturbance Summary
 
 STO
 
-Road Condi ion Repor s (S a e Agencies)
-
-
+Road Condition Reports (State Agencies)
 
 STP
 
-S a e Max/Min Tempera ure and Precipi a ion Table
-
-
+State Max/Min Temperature and Precipitation Table
 
 STQ
 
-Spo Forecas Reques
-
-
+Spot Forecast Request
 
 SUM
 
-Space Wea her Message
-
-
+Space Weather Message
 
 SVR
 
-Severe Thunders orm Warning
-
-
+Severe Thunderstorm Warning
 
 SVS
 
-Severe Wea her S a emen
-
-
+Severe Weather Statement
 
 SWO
 
-Severe S orm Ou look Narra ive (AC)
-
-
+Severe Storm Outlook Narrative (AC)
 
 SWS
 
-S a e Wea her Summary
-
-
+State Weather Summary
 
 SYN
 
-Regional Wea her Synopsis
-
-
+Regional Weather Synopsis
 
 TAF
 
-Terminal Aerodrome Forecas
-
-
+Terminal Aerodrome Forecast
 
 TAP
 
-Terminal Aler ing Produc s
-
-
+Terminal Alerting Products
 
 TAV
 
-Travelers Forecas Table
-
-
+Travelers Forecast Table
 
 TCA
 
-Avia ion Tropical Cyclone Advisory
-
-
+Aviation Tropical Cyclone Advisory
 
 TCD
 
 Tropical Cyclone Discussion
 
-
-
 TCE
 
-Tropical Cyclone Posi ion Es ima e
-
-
+Tropical Cyclone Position Estimate
 
 TCM
 
-Marine/Avia ion Tropical Cyclone Advisory
-
-
+Marine/Aviation Tropical Cyclone Advisory
 
 TCP
 
 Public Tropical Cyclone Advisory
 
-
-
 TCS
 
-Sa elli e Tropical Cyclone Summary
-
-
+Satellite Tropical Cyclone Summary
 
 TCU
 
-Tropical Cyclone Upda e
-
-
+Tropical Cyclone Update
 
 TCV
 
-Tropical Cyclone Wa ch/Warning Break Poin s
-
-
+Tropical Cyclone Watch/Warning Break Points
 
 TIB
 
-Tsunami Bulle in
-
-
+Tsunami Bulletin
 
 TID
 
-Tide Repor
-
-
+Tide Report
 
 TMA
 
-Tsunami Tide/Seismic Message Acknowledgemen
-
-
+Tsunami Tide/Seismic Message Acknowledgement
 
 TOE
 
-911 Telephone Ou age Emergency
-
-
+911 Telephone Outage Emergency
 
 TOR
 
 Tornado Warning
 
-
-
 TPT
 
-Tempera ure Precipi a ion Table (Na l and In nl)
-
-
+Temperature Precipitation Table (Natl and Intnl)
 
 TSU
 
-Tsunami Wa ch/Warning
-
-
+Tsunami Watch/Warning
 
 TUV
 
-Wea her Bulle in
-
-
+Weather Bulletin
 
 TVL
 
-Travelers Forecas
-
-
+Travelers Forecast
 
 TWB
 
-Transcribed Wea her Broadcas
-
-
+Transcribed Weather Broadcast
 
 TWD
 
-Tropical Wea her Discussion
-
-
+Tropical Weather Discussion
 
 TWO
 
-Tropical Wea her Ou look and Summary
-
-
+Tropical Weather Outlook and Summary
 
 TWS
 
-Tropical Wea her Summary
-
-
+Tropical Weather Summary
 
 URN
 
-Aircraf Reconnaissance
-
-
+Aircraft Reconnaissance
 
 UVI
 
-Ul raviole Index
-
-
+Ultraviolet Index
 
 VAA
 
-Volcanic Ac ivi y Advisory
-
-
+Volcanic Activity Advisory
 
 VER
 
-Forecas Verifica ion S a is ics
-
-
+Forecast Verification Statistics
 
 VFT
 
-Terminal Aerodrome Forecas (TAF) Verifica ion
-
-
+Terminal Aerodrome Forecast (TAF) Verification
 
 VOW
 
 Volcano Warning
 
-
-
 WA0
 
-Airme (Pacific)
-
-
+Airmet (Pacific)
 
 WA1
 
-Airme (Nor heas )
-
-
+Airmet (Northeast)
 
 WA2
 
-Airme (Sou heas )
-
-
+Airmet (Southeast)
 
 WA3
 
-Airme (Nor h Cen ral)
-
-
+Airmet (North Central)
 
 WA4
 
-Airme (Sou h Cen ral)
-
-
+Airmet (South Central)
 
 WA5
 
-Airme (Rocky Moun ains)
-
-
+Airmet (Rocky Mountains)
 
 WA6
 
-Airme (Wes Coas )
-
-
+Airmet (West Coast)
 
 WA7
 
-Airme (Juneau, AK)
-
-
+Airmet (Juneau, AK)
 
 WA8
 
-Airme (Anchorage, AK)
-
-
+Airmet (Anchorage, AK)
 
 WA9
 
-Airme (Fairbanks, AK)
-
-
+Airmet (Fairbanks, AK)
 
 WAR
 
-Space Environmen Warning
-
-
+Space Environment Warning
 
 WAT
 
-Space Environmen Wa ch
-
-
+Space Environment Watch
 
 WCN
 
-Wea her Wa ch Clearance No ifica ion
-
-
+Weather Watch Clearance Notification
 
 WCR
 
-Weekly Wea her and Crop Repor
-
-
+Weekly Weather and Crop Report
 
 WDA
 
-Weekly Da a for Agricul ure
-
-
+Weekly Data for Agriculture
 
 WDU
 
-Warning Decision Upda e
-
-
+Warning Decision Update
 
 WEK
 
-Rou ine Space Environmen Produc Issued Weekly
-
-
+Routine Space Environment Product Issued Weekly
 
 WOU
 
-Tornado/Severe Thunders orm Wa ch
-
-
+Tornado/Severe Thunderstorm Watch
 
 WS1
 
-Sigme (Nor heas )
-
-
+Sigmet (Northeast)
 
 WS2
 
-Sigme (Sou heas )
-
-
+Sigmet (Southeast)
 
 WS3
 
-Sigme (Nor h Cen ral)
-
-
+Sigmet (North Central)
 
 WS4
 
-Sigme (Sou h Cen ral)
-
-
+Sigmet (South Central)
 
 WS5
 
-Sigme (Rocky Moun ains)
-
-
+Sigmet (Rocky Mountains)
 
 WS6
 
-Sigme (Wes Coas )
-
-
+Sigmet (West Coast)
 
 WST
 
-Tropical Cyclone Sigme
-
-
+Tropical Cyclone Sigmet
 
 WSV
 
-Volcanic Ac ivi y Sigme
-
-
+Volcanic Activity Sigmet
 
 WSW
 
-Win er Wea her Warnings / Wa ches / Advisories
-
-
+Winter Weather Warnings / Watches / Advisories
 
 WWA
 
-Wa ch S a us Repor
-
-
+Watch Status Report
 
 WWP
 
-Severe Thunders orm / Tornado Wa ch Probabili ies
-
-
+Severe Thunderstorm / Tornado Watch Probabilities
 
 ZFP
 
-Zone Forecas Produc
+Zone Forecast Product
 
+US Dept of Commerce
 
+National Oceanic and Atmospheric Administration
 
+National Weather Service
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-US Dep of Commerce
-
-
-Na ional Oceanic and A mospheric Adminis ra ion
-
-
-Na ional Wea her Service
-
-
-1325 Eas Wes Highway
-
-
-
+1325 East West Highway
 
 Silver Spring, MD 20910
 
-
-
-
-Commen s? Ques ions? Please Con ac Us.
-
-
-
-
-
-
-
-
-
+Comments? Questions? Please Contact Us.
 
 Disclaimer
 
-
-Informa ion Quali y
-
+Information Quality
 
 Help
 
-
 Glossary
-
-
-
-
-
-
-
-
-
-
-Privacy Policy
-
-
-Freedom of Informa ion Ac (FOIA)
-
-
-Abou Us
-
-
-Career Oppor uni ies
 ```
 
 ---

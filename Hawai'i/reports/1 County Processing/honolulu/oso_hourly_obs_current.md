@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T21:49:09-10:00 HST
-- **Report created:** 2026-09-25T21:49:09-10:00 HST
+- **Generated:** 2026-09-25T22:01:50-10:00 HST
+- **Report created:** 2026-09-25T22:01:50-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO
@@ -20,14 +20,14 @@
 SXHW50 PHFO 260044
 OSOHFO
 
-Hawaii Wind Da a
-Na ional Wea her Service Honolulu HI
+Hawaii Wind Data
+National Weather Service Honolulu HI
 243 PM HST Fri Sep 25 2026
 
 W I N D D A T A
 ----------------------
 IN KNOTS
-ID Loca ion Da e Time DIR SPD GUST
+ID Location Date Time DIR SPD GUST
 -------- ------------------------- ------- -(HST)- ---- ---- ----
 0000LLMH1 Lower Limahuli Kauai 25Sep26 14:15 310 4 10
 0000CMGH1 Common Ground Kauai 25Sep26 14:15 90 8 13
@@ -38,19 +38,19 @@ ID Loca ion Da e Time DIR SPD GUST
 0000NWWH1 Nawiliwili NOS Kauai 25Sep26 14:30 30 16 23
 0000POIH1 Poipu Kauai MSG MSG MSG MSG
 0000LNTH1 Lawai NTBG Kauai 25Sep26 14:15 70 18 28
-0000PAKH1 Por Allen Kauai 25Sep26 14:00 80 17 29
+0000PAKH1 Port Allen Kauai 25Sep26 14:00 80 17 29
 0000MKAH1 Makaha Ridge Kauai 25Sep26 14:11 60 4 15
 0000MNRH1 Mana Kauai 25Sep26 14:34 250 4 11
 0000PHBK Barking Sands Kauai 25Sep26 14:00 240 6 MSG
 0000PLRH1 Puu Lua Kauai 25Sep26 14:35 90 7 18
 0000POPH1 Puu Opae Kauai 25Sep26 14:34 200 4 20
-0000WHGH1 Waimea Heigh s Kauai 25Sep26 14:35 30 6 10
+0000WHGH1 Waimea Heights Kauai 25Sep26 14:35 30 6 10
 
 0000KRGH1 Kalahee Ridge Oahu 25Sep26 14:10 40 8 20
 0000KAHH1 Kahuku Oahu MSG MSG MSG MSG
 0000KTAH1 Kahuku Trng Oahu 25Sep26 13:59 100 3 22
 0000KFWH1 Kii Oahu 25Sep26 13:45 70 15 23
-0000OFRH1 Oahu Fores NWR Oahu 25Sep26 14:36 80 27 44
+0000OFRH1 Oahu Forest NWR Oahu 25Sep26 14:36 80 27 44
 0000KWMH1 Kaaawa Makai Oahu 25Sep26 14:15 40 5 9
 0000PHNG Kaneohe MCBH Oahu 25Sep26 14:00 50 13 21
 0000MOKH1 Mokuoloe Is NOS Oahu 25Sep26 14:30 50 14 17
@@ -62,10 +62,10 @@ ID Loca ion Da e Time DIR SPD GUST
 0000OOUH1 Honolulu Hbr NOS Oahu 25Sep26 14:24 10 6 15
 0000HOFH1 Honouliuli PHB Oahu 25Sep26 14:41 60 12 21
 0000SCBH1 Schofield Brks Oahu 25Sep26 13:57 60 5 16
-0000SCEH1 Schofield Eas Oahu MSG MSG MSG MSG
+0000SCEH1 Schofield East Oahu MSG MSG MSG MSG
 0000HWLH1 HECO Wilikina Oahu 25Sep26 14:30 30 4 10
 0000PHJR Kalaeloa Oahu 25Sep26 14:18 50 9 25
-0000HFHH1 HECO Farring on Oahu 25Sep26 14:30 70 11 22
+0000HFHH1 HECO Farrington Oahu 25Sep26 14:30 70 11 22
 0000HPLH1 HECO Palehua Oahu 25Sep26 14:30 60 10 22
 0000HPDH1 HECO Palehua 2 Oahu 25Sep26 14:30 60 17 25
 0000HPHH1 HECO Palehua 3 Oahu 25Sep26 14:30 50 9 19
@@ -74,15 +74,15 @@ ID Loca ion Da e Time DIR SPD GUST
 0000HWVH1 HECO Waianae Vly Oahu 25Sep26 14:30 10 7 17
 0000PLHH1 Palehua Oahu 25Sep26 14:36 50 0 0
 0000WNVH1 Waianae Valley Oahu 25Sep26 14:37 60 8 30
-0000HHSH1 HECO Ala Hema S Oahu 25Sep26 14:30 90 6 12
+0000HHSH1 HECO Ala Hema St Oahu 25Sep26 14:30 90 6 12
 0000WBHH1 Waianae Harbor Oahu MSG MSG MSG MSG
 0000HKRH1 HECO Kili Dr Oahu 25Sep26 14:30 340 8 16
 0000HMVH1 HECO Makaha Vly Oahu 25Sep26 14:30 340 8 20
 0000MKRH1 Makua Range Oahu 25Sep26 13:58 70 14 29
 0000KKRH1 Kuaokala Oahu 25Sep26 14:36 30 14 36
 0000AALH1 Kaala Oahu 25Sep26 14:15 60 6 13
-0000HFRH1 HECO Farring on2 Oahu 25Sep26 14:30 60 7 15
-0000HFYH1 HECO Farring on3 Oahu 25Sep26 14:30 70 17 23
+0000HFRH1 HECO Farrington2 Oahu 25Sep26 14:30 60 7 15
+0000HFYH1 HECO Farrington3 Oahu 25Sep26 14:30 70 17 23
 0000DLGH1 Dillingham Oahu 25Sep26 13:49 50 8 16
 
 0000MKPH1 Makapulapai Molokai 25Sep26 14:15 90 22 34
@@ -113,11 +113,11 @@ ID Loca ion Da e Time DIR SPD GUST
 0000KLFH1 Kula 1 Maui 25Sep26 13:48 310 5 9
 0000KKNH1 Kahikinui 1 Maui 25Sep26 14:34 150 3 11
 0000KMEH1 Kamehamenui 1 Maui 25Sep26 13:48 310 3 9
-0000SUMH1 Summi Maui 25Sep26 14:15 80 7 10
-0000NNEH1 Nene Nes Maui 25Sep26 14:15 130 2 5
+0000SUMH1 Summit Maui 25Sep26 14:15 80 7 10
+0000NNEH1 Nene Nest Maui 25Sep26 14:15 130 2 5
 0000PHQH1 Park HQ Maui 25Sep26 14:15 70 2 8
 0000WKTH1 Waikamoi Treeline Maui 25Sep26 14:15 130 4 10
-0000MCTH1 MECO Cra er Rd Maui 25Sep26 14:30 300 2 4
+0000MCTH1 MECO Crater Rd Maui 25Sep26 14:30 300 2 4
 0000KLGH1 Kula Ag Maui 25Sep26 14:15 280 3 7
 0000MWAH1 MECO Waipoli Rd Maui 25Sep26 14:30 270 2 5
 0000KKEH1 Keokea Maui 25Sep26 14:15 290 2 5
@@ -126,7 +126,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000MNDH1 MECO Naalaea Rd Maui 25Sep26 14:30 210 5 9
 0000MURH1 MECO Ulupalakua Maui 25Sep26 14:30 180 9 15
 0000LPOH1 Lipoa Maui 25Sep26 14:15 190 8 15
-0000MVHH1 MECO Ve erans Hwy Maui 25Sep26 14:30 330 20 29
+0000MVHH1 MECO Veterans Hwy Maui 25Sep26 14:30 330 20 29
 0000KPDH1 Kealia Pond Maui 25Sep26 14:20 20 20 34
 0000MMAH1 MECO Maalaea Maui 25Sep26 14:30 360 17 30
 00000P36 Maalaea Bay Maui 25Sep26 14:15 0 0 0
@@ -147,7 +147,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000PHJH Kapalua-W Maui Maui 25Sep26 14:00 30 20 30
 0000HOOH1 Honolua Maui 25Sep26 14:15 120 12 28
 
-0000UPLH1 Upolu Airpor Hawaii 25Sep26 14:15 90 15 23
+0000UPLH1 Upolu Airport Hawaii 25Sep26 14:15 90 15 23
 0000KMMH1 Kaluamakani Hawaii 25Sep26 14:15 50 16 24
 0000PMLH1 Puu Mali Hawaii 25Sep26 14:00 90 20 30
 0000KNKH1 Kanakaleonui Hawaii 25Sep26 14:15 90 5 7
@@ -160,7 +160,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000PHTO Hilo AP Hawaii 25Sep26 14:16 320 6 MSG
 0000ILOH1 Hilo Hbr NOS Hawaii 25Sep26 14:24 360 8 10
 0000IPIH1 IPIF Hawaii 25Sep26 14:15 30 3 5
-0000WEXH1 Waiakea Exp S n Hawaii 25Sep26 14:00 MSG 1 4
+0000WEXH1 Waiakea Exp Stn Hawaii 25Sep26 14:00 MSG 1 4
 0000KEUH1 Keaau Hawaii 25Sep26 14:15 340 3 7
 0000PAOH1 Pahoa Hawaii 25Sep26 14:15 20 1 5
 0000NHKH1 Nahuku Hawaii 25Sep26 14:15 20 14 25
@@ -172,14 +172,14 @@ ID Loca ion Da e Time DIR SPD GUST
 0000NENH1 Nene Cabin Hawaii 25Sep26 14:23 80 10 24
 0000KIOH1 Kaiholena Hawaii 25Sep26 14:15 360 4 6
 0000LKHH1 Lower Kahuku Hawaii 25Sep26 14:23 350 3 13
-0000SOPH1 Sou h Poin Hawaii 25Sep26 14:00 60 14 24
+0000SOPH1 South Point Hawaii 25Sep26 14:00 60 14 24
 0000KOMH1 Kona Hema Hawaii 25Sep26 14:15 230 4 5
 0000KRCH1 Kahuku Ranch Hawaii 25Sep26 14:29 300 4 12
 0000PHRH1 Puho CS Hawaii 25Sep26 14:22 290 3 7
 0000HLNH1 HELCO Lolo Ln Hawaii 25Sep26 14:30 270 2 4
 0000HHUH1 HELCO Hualalai Rd Hawaii 25Sep26 14:30 280 2 5
 0000KOUH1 Keahuolu Hawaii 25Sep26 14:15 270 2 3
-0000PHKO Kona In l AP Hawaii 25Sep26 14:00 230 7 MSG
+0000PHKO Kona Intl AP Hawaii 25Sep26 14:00 230 7 MSG
 0000KHOH1 Kaloko-Honokohau Hawaii 25Sep26 14:15 250 5 8
 0000PLMH1 Palamanui Hawaii 25Sep26 14:15 230 2 6
 0000PWAH1 Puu Waawaa (UHM) Hawaii 25Sep26 14:15 230 0 1
@@ -202,7 +202,7 @@ ID Loca ion Da e Time DIR SPD GUST
 0000LLAH1 Lalamilo Hawaii 25Sep26 14:15 30 6 15
 0000HKWH1 HELCO Kawaihae Rd Hawaii 25Sep26 14:30 50 28 41
 0000PKAH1 PTA Kipuka Alala Hawaii 25Sep26 13:55 110 16 26
-0000PKWH1 PTA Wes Hawaii 25Sep26 13:56 320 7 15
+0000PKWH1 PTA West Hawaii 25Sep26 13:56 320 7 15
 0000PKMH1 PTA Keamuku Hawaii 25Sep26 13:50 30 0 0
 0000PTRH1 PTA Range 17 Hawaii MSG MSG MSG MSG
 0000PERH1 Puhe CS Hawaii 25Sep26 14:24 60 9 29

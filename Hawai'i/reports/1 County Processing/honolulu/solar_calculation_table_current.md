@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T21:49:09-10:00 HST
-- **Report created:** 2026-09-25T21:49:09-10:00 HST
+- **Generated:** 2026-09-25T22:01:50-10:00 HST
+- **Report created:** 2026-09-25T22:01:50-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** solar_calculation_table
 - **Source:** https://gml.noaa.gov/grad/solcalc/table.php?lat=21.3&lon=-157.85&year=2026
@@ -16,430 +16,135 @@
 ---
 
 ```text
-Solar Calcula or - NOAA Global Moni oring Labora ory
+Solar Calculator - NOAA Global Monitoring Laboratory
 
+Skip to main content
 
+An official website of the United States government Here's how you know
 
+Official websites use .gov
 
+A .gov website belongs to an official government organization in the United States.
 
+Secure .gov websites use HTTPS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Skip o main con en
-
-
-
-
-
-
-
-An official websi e of he Uni ed S a es governmen Here's how you know
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Official websi es use .gov
-
-A .gov websi e belongs o an official governmen organiza ion in he Uni ed S a es.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Secure .gov websi es use HTTPS
-
-A lock () or h ps:// means you’ve safely connec ed o he .gov websi e. Share sensi ive informa ion only on official, secure websi es.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 Search
 
-
 Search GML:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Global Moni oring Labora ory
-
-
-
-
-
-
-
-
-
-
-
-
+Global Monitoring Laboratory
 
 Menu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Home
 
+About
 
-
-
-
-
-Abou
-
-
-Abou GML
+About GML
 Science Reviews
-Safe y Program
+Safety Program
 
-Employmen
-Visi ing
-Con ac Us
+Employment
+Visiting
+Contact Us
 
-In rane
-
-
-
-
-
-
+Intranet
 
 People
 
-
-Organiza ion
-S aff
-Employee Spo ligh
-
-
-
-
-
-
+Organization
+Staff
+Employee Spotlight
 
 Research
 
-
 Research Overview
 Carbon Cycle Greenhouse Gases
-Greenhouse gases and Ozone-deple ing Subs ances
-Ozone and Wa er Vapor
-Global Radia ion, Aerosols and Clouds
-Publica ions
-Calibra ion Facili ies
-WMO Cen ral Calibra ion Labora ory
-Cen ral UV Calibra ion Facili y
-Broadband Solar Calibra ion Facili y
-World Dobson Ozone Calibra ion Cen re
+Greenhouse gases and Ozone-depleting Substances
+Ozone and Water Vapor
+Global Radiation, Aerosols and Clouds
+Publications
+Calibration Facilities
+WMO Central Calibration Laboratory
+Central UV Calibration Facility
+Broadband Solar Calibration Facility
+World Dobson Ozone Calibration Centre
 
-
-
-
-
-
-
-
-Observing Ne works
-
-
-
-
-
+Observing Networks
 
 Overview
-Observa ions Overview
-Measuremen Si es
+Observations Overview
+Measurement Sites
 Field Campaigns
 
-
-
-
-A mospheric Baseline Observa ories
-Observa ory Opera ions
+Atmospheric Baseline Observatories
+Observatory Operations
 Barrow, Alaska
 Mauna Loa, Hawaii
 American Samoa
-Sou h Pole
+South Pole
 
-
-
-
-Observing Ne works
-Greenhouse Gas Reference Ne work
+Observing Networks
+Greenhouse Gas Reference Network
 Halocarbons and Trace Gases
-Surface Radia ion
-Federa ed Aerosol Ne work
+Surface Radiation
+Federated Aerosol Network
 Ozone
-Wa er Vapor
+Water Vapor
 
+Data & Products
 
+Data
+Data & Products Portal
+Data Finder
+ObsPack Data Products
+Measurement Sites
 
+Visualization & Tools
 
+Data Viewer
+South Pole Ozone Hole
+Mauna Loa Apparent Transmission
+Barrow Snow Melt Dates
 
-
-
-
-
-
-
-
-
-Da a & Produc s
-
-
-
-
-
-
-
-
-Da a
-Da a & Produc s Por al
-Da a Finder
-ObsPack Da a Produc s
-Measuremen Si es
-
-
-
-
-Visualiza ion & Tools
-
-Da a Viewer
-Sou h Pole Ozone Hole
-Mauna Loa Apparen Transmission
-Barrow Snow Mel Da es
-
-
-
-
-
-Produc s
+Products
 Greenhouse Gas Index
-Ozone Deple ion Index
+Ozone Depletion Index
 Trends in CO2, CH4, N2O, SF6
 Modeling
 
-
-
-
-
-
-
-
-
-
-
-
-Informa ion
-
-
+Information
 
 News
 Seminars
-Educa ion/Ou reach
-S uden Oppor uni ies
+Education/Outreach
+Student Opportunities
 FAQ's
-Publica ions
+Publications
 
 Webcams
-Sou h Pole Webcam
+South Pole Webcam
 Mauna Loa Webcams
 Barrow Webcam
 
-Global Moni oring Annual Conference
+Global Monitoring Annual Conference
 GMAC Conference
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Search
 
-
 Search GML:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PDF Forma
-
-
-
-
+PDF Format
 
 Sunrise Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -461,15 +166,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -497,10 +198,6 @@ Dec
 
 06:53
 
-
-
-
-
 2
 
 07:09
@@ -526,10 +223,6 @@ Dec
 06:35
 
 06:53
-
-
-
-
 
 3
 
@@ -557,10 +250,6 @@ Dec
 
 06:54
 
-
-
-
-
 4
 
 07:10
@@ -586,10 +275,6 @@ Dec
 06:36
 
 06:55
-
-
-
-
 
 5
 
@@ -617,10 +302,6 @@ Dec
 
 06:55
 
-
-
-
-
 6
 
 07:10
@@ -646,10 +327,6 @@ Dec
 06:37
 
 06:56
-
-
-
-
 
 7
 
@@ -677,10 +354,6 @@ Dec
 
 06:56
 
-
-
-
-
 8
 
 07:11
@@ -706,10 +379,6 @@ Dec
 06:38
 
 06:57
-
-
-
-
 
 9
 
@@ -737,10 +406,6 @@ Dec
 
 06:58
 
-
-
-
-
 10
 
 07:11
@@ -766,10 +431,6 @@ Dec
 06:39
 
 06:58
-
-
-
-
 
 11
 
@@ -797,10 +458,6 @@ Dec
 
 06:59
 
-
-
-
-
 12
 
 07:11
@@ -826,10 +483,6 @@ Dec
 06:41
 
 07:00
-
-
-
-
 
 13
 
@@ -857,10 +510,6 @@ Dec
 
 07:00
 
-
-
-
-
 14
 
 07:11
@@ -886,10 +535,6 @@ Dec
 06:42
 
 07:01
-
-
-
-
 
 15
 
@@ -917,10 +562,6 @@ Dec
 
 07:01
 
-
-
-
-
 16
 
 07:11
@@ -946,10 +587,6 @@ Dec
 06:43
 
 07:02
-
-
-
-
 
 17
 
@@ -977,10 +614,6 @@ Dec
 
 07:02
 
-
-
-
-
 18
 
 07:11
@@ -1006,10 +639,6 @@ Dec
 06:44
 
 07:03
-
-
-
-
 
 19
 
@@ -1037,10 +666,6 @@ Dec
 
 07:04
 
-
-
-
-
 20
 
 07:11
@@ -1066,10 +691,6 @@ Dec
 06:45
 
 07:04
-
-
-
-
 
 21
 
@@ -1097,10 +718,6 @@ Dec
 
 07:05
 
-
-
-
-
 22
 
 07:11
@@ -1126,10 +743,6 @@ Dec
 06:47
 
 07:05
-
-
-
-
 
 23
 
@@ -1157,10 +770,6 @@ Dec
 
 07:06
 
-
-
-
-
 24
 
 07:11
@@ -1186,10 +795,6 @@ Dec
 06:48
 
 07:06
-
-
-
-
 
 25
 
@@ -1217,10 +822,6 @@ Dec
 
 07:06
 
-
-
-
-
 26
 
 07:10
@@ -1246,10 +847,6 @@ Dec
 06:49
 
 07:07
-
-
-
-
 
 27
 
@@ -1277,10 +874,6 @@ Dec
 
 07:07
 
-
-
-
-
 28
 
 07:10
@@ -1307,15 +900,9 @@ Dec
 
 07:08
 
-
-
-
-
 29
 
 07:10
-
-
 
 06:27
 
@@ -1337,15 +924,9 @@ Dec
 
 07:08
 
-
-
-
-
 30
 
 07:09
-
-
 
 06:26
 
@@ -1367,62 +948,29 @@ Dec
 
 07:08
 
-
-
-
-
 31
 
 07:09
 
-
-
 06:25
 
-
-
 05:49
-
-
 
 06:05
 
 06:15
 
-
-
 06:34
-
-
 
 07:09
 
+Sunset Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-
-
-
-
-
-
-
-
-Sunse Table for 2026
-
-
-
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -1444,15 +992,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -1480,10 +1024,6 @@ Dec
 
 17:48
 
-
-
-
-
 2
 
 18:02
@@ -1509,10 +1049,6 @@ Dec
 17:55
 
 17:49
-
-
-
-
 
 3
 
@@ -1540,10 +1076,6 @@ Dec
 
 17:49
 
-
-
-
-
 4
 
 18:03
@@ -1569,10 +1101,6 @@ Dec
 17:54
 
 17:49
-
-
-
-
 
 5
 
@@ -1600,10 +1128,6 @@ Dec
 
 17:49
 
-
-
-
-
 6
 
 18:04
@@ -1629,10 +1153,6 @@ Dec
 17:53
 
 17:49
-
-
-
-
 
 7
 
@@ -1660,10 +1180,6 @@ Dec
 
 17:49
 
-
-
-
-
 8
 
 18:06
@@ -1689,10 +1205,6 @@ Dec
 17:52
 
 17:50
-
-
-
-
 
 9
 
@@ -1720,10 +1232,6 @@ Dec
 
 17:50
 
-
-
-
-
 10
 
 18:07
@@ -1749,10 +1257,6 @@ Dec
 17:51
 
 17:50
-
-
-
-
 
 11
 
@@ -1780,10 +1284,6 @@ Dec
 
 17:51
 
-
-
-
-
 12
 
 18:09
@@ -1809,10 +1309,6 @@ Dec
 17:50
 
 17:51
-
-
-
-
 
 13
 
@@ -1840,10 +1336,6 @@ Dec
 
 17:51
 
-
-
-
-
 14
 
 18:10
@@ -1869,10 +1361,6 @@ Dec
 17:50
 
 17:52
-
-
-
-
 
 15
 
@@ -1900,10 +1388,6 @@ Dec
 
 17:52
 
-
-
-
-
 16
 
 18:11
@@ -1929,10 +1413,6 @@ Dec
 17:49
 
 17:53
-
-
-
-
 
 17
 
@@ -1960,10 +1440,6 @@ Dec
 
 17:53
 
-
-
-
-
 18
 
 18:13
@@ -1989,10 +1465,6 @@ Dec
 17:49
 
 17:53
-
-
-
-
 
 19
 
@@ -2020,10 +1492,6 @@ Dec
 
 17:54
 
-
-
-
-
 20
 
 18:14
@@ -2049,10 +1517,6 @@ Dec
 17:49
 
 17:54
-
-
-
-
 
 21
 
@@ -2080,10 +1544,6 @@ Dec
 
 17:55
 
-
-
-
-
 22
 
 18:15
@@ -2109,10 +1569,6 @@ Dec
 17:48
 
 17:55
-
-
-
-
 
 23
 
@@ -2140,10 +1596,6 @@ Dec
 
 17:56
 
-
-
-
-
 24
 
 18:17
@@ -2169,10 +1621,6 @@ Dec
 17:48
 
 17:56
-
-
-
-
 
 25
 
@@ -2200,10 +1648,6 @@ Dec
 
 17:57
 
-
-
-
-
 26
 
 18:18
@@ -2229,10 +1673,6 @@ Dec
 17:48
 
 17:57
-
-
-
-
 
 27
 
@@ -2260,10 +1700,6 @@ Dec
 
 17:58
 
-
-
-
-
 28
 
 18:19
@@ -2290,15 +1726,9 @@ Dec
 
 17:59
 
-
-
-
-
 29
 
 18:20
-
-
 
 18:45
 
@@ -2320,15 +1750,9 @@ Dec
 
 17:59
 
-
-
-
-
 30
 
 18:20
-
-
 
 18:46
 
@@ -2350,62 +1774,29 @@ Dec
 
 18:00
 
-
-
-
-
 31
 
 18:21
 
-
-
 18:46
 
-
-
 19:09
-
-
 
 19:11
 
 18:48
 
-
-
 17:56
 
-
-
 18:00
-
-
-
-
-
-
-
-
-
-
-
 
 Solar Noon Table for 2026
 
+Location: Latitude 21.30000 Longitude -157.85000
 
+Time Zone Offset: Pacific/Honolulu -10.0
 
-Loca ion: La i ude 21.30000 Longi ude -157.85000
-
-Time Zone Offse : Pacific/Honolulu -10.0
-
-All imes are in local ime. Cells wi h ligh green color indica e when dayligh saving ime is in effec .
-
-
-
-
-
-
+All times are in local time. Cells with light green color indicate when daylight saving time is in effect.
 
 Day
 
@@ -2427,15 +1818,11 @@ Aug
 
 Sep
 
-Oc
+Oct
 
 Nov
 
 Dec
-
-
-
-
 
 1
 
@@ -2463,10 +1850,6 @@ Dec
 
 12:20:24
 
-
-
-
-
 2
 
 12:35:24
@@ -2492,10 +1875,6 @@ Dec
 12:14:55
 
 12:20:47
-
-
-
-
 
 3
 
@@ -2523,10 +1902,6 @@ Dec
 
 12:21:10
 
-
-
-
-
 4
 
 12:36:19
@@ -2552,10 +1927,6 @@ Dec
 12:14:55
 
 12:21:34
-
-
-
-
 
 5
 
@@ -2583,10 +1954,6 @@ Dec
 
 12:21:59
 
-
-
-
-
 6
 
 12:37:13
@@ -2612,10 +1979,6 @@ Dec
 12:14:58
 
 12:22:24
-
-
-
-
 
 7
 
@@ -2643,10 +2006,6 @@ Dec
 
 12:22:50
 
-
-
-
-
 8
 
 12:38:04
@@ -2672,10 +2031,6 @@ Dec
 12:15:05
 
 12:23:16
-
-
-
-
 
 9
 
@@ -2703,10 +2058,6 @@ Dec
 
 12:23:43
 
-
-
-
-
 10
 
 12:38:54
@@ -2732,10 +2083,6 @@ Dec
 12:15:16
 
 12:24:10
-
-
-
-
 
 11
 
@@ -2763,10 +2110,6 @@ Dec
 
 12:24:37
 
-
-
-
-
 12
 
 12:39:41
@@ -2792,10 +2135,6 @@ Dec
 12:15:29
 
 12:25:05
-
-
-
-
 
 13
 
@@ -2823,10 +2162,6 @@ Dec
 
 12:25:33
 
-
-
-
-
 14
 
 12:40:26
@@ -2852,10 +2187,6 @@ Dec
 12:15:47
 
 12:26:02
-
-
-
-
 
 15
 
@@ -2883,10 +2214,6 @@ Dec
 
 12:26:30
 
-
-
-
-
 16
 
 12:41:08
@@ -2912,10 +2239,6 @@ Dec
 12:16:07
 
 12:26:59
-
-
-
-
 
 17
 
@@ -2943,10 +2266,6 @@ Dec
 
 12:27:29
 
-
-
-
-
 18
 
 12:41:47
@@ -2972,10 +2291,6 @@ Dec
 12:16:31
 
 12:27:58
-
-
-
-
 
 19
 
@@ -3003,10 +2318,6 @@ Dec
 
 12:28:27
 
-
-
-
-
 20
 
 12:42:24
@@ -3032,10 +2343,6 @@ Dec
 12:16:59
 
 12:28:57
-
-
-
-
 
 21
 
@@ -3063,10 +2370,6 @@ Dec
 
 12:29:27
 
-
-
-
-
 22
 
 12:42:58
@@ -3092,10 +2395,6 @@ Dec
 12:17:29
 
 12:29:57
-
-
-
-
 
 23
 
@@ -3123,10 +2422,6 @@ Dec
 
 12:30:26
 
-
-
-
-
 24
 
 12:43:28
@@ -3152,10 +2447,6 @@ Dec
 12:18:03
 
 12:30:56
-
-
-
-
 
 25
 
@@ -3183,10 +2474,6 @@ Dec
 
 12:31:26
 
-
-
-
-
 26
 
 12:43:56
@@ -3212,10 +2499,6 @@ Dec
 12:18:40
 
 12:31:55
-
-
-
-
 
 27
 
@@ -3243,10 +2526,6 @@ Dec
 
 12:32:25
 
-
-
-
-
 28
 
 12:44:20
@@ -3273,15 +2552,9 @@ Dec
 
 12:32:54
 
-
-
-
-
 29
 
 12:44:31
-
-
 
 12:36:09
 
@@ -3303,15 +2576,9 @@ Dec
 
 12:33:23
 
-
-
-
-
 30
 
 12:44:41
-
-
 
 12:35:51
 
@@ -3333,107 +2600,27 @@ Dec
 
 12:33:52
 
-
-
-
-
 31
 
 12:44:50
 
-
-
 12:35:33
 
-
-
 12:29:06
-
-
 
 12:37:49
 
 12:31:45
 
-
-
 12:14:58
-
-
 
 12:34:21
 
+Global Monitoring Laboratory
 
+» U.S. Department of Commerce
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Global Moni oring Labora ory
-
-» U.S. Depar men of Commerce
-
-» Na ional Oceanic & A mospheric Adminis ra ion
+» National Oceanic & Atmospheric Administration
 
 » NOAA Research
-
-
-
-
-
-
-
-
-
-
-Privacy Policy  |
-Accessibili y  |
-Disclaimer  |
-Disclaimer for Ex ernal Links  |
-FOIA  |
-Usa.gov
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Si e Con en s
-
-Con ac Us  |  Webmas er
-
-Take Our Survey
 ```

@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T21:49:09-10:00 HST
-- **Report created:** 2026-09-25T21:49:09-10:00 HST
+- **Generated:** 2026-09-25T22:01:50-10:00 HST
+- **Report created:** 2026-09-25T22:01:50-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hfo_tib_reference
 - **Official source:** https://forecast.weather.gov/product_types.php
@@ -15,2513 +15,1495 @@
 ---
 
 ```text
-Na ional Wea her Service
+National Weather Service
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Toggle naviga ion
-
-
-
-
-
-
-
-
-
-
+Toggle navigation
 
 HOME
 
-
-
-
 FORECAST
-
-
-
-
-
 
 Local
 
-
-
-
 Graphical
 
-
-
-
-Avia ion
-
-
-
+Aviation
 
 Marine
 
-
-
-
 Rivers and Lakes
-
-
-
 
 Hurricanes
 
+Severe Weather
 
+Fire Weather
 
+Sunrise/Sunset
 
-Severe Wea her
+Long Range Forecasts
 
+Climate Prediction
 
-
-
-Fire Wea her
-
-
-
-
-Sunrise/Sunse
-
-
-
-
-Long Range Forecas s
-
-
-
-
-Clima e Predic ion
-
-
-
-
-Space Wea her
-
-
-
-
-
-
-
-
+Space Weather
 
 PAST WEATHER
 
+Past Weather
 
+Astronomical Data
 
-
-
-
-Pas Wea her
-
-
-
-
-As ronomical Da a
-
-
-
-
-Cer ified Wea her Da a
-
-
-
-
-
-
-
-
+Certified Weather Data
 
 SAFETY
 
-
-
-
-
-
-
-
-
-
-
 INFORMATION
 
+Wireless Emergency Alerts
 
-
-
-
-
-Wireless Emergency Aler s
-
-
-
-
-Wea her-Ready Na ion
-
-
-
+Weather-Ready Nation
 
 Brochures
 
-
-
-
-Coopera ive Observers
-
-
-
+Cooperative Observers
 
 Daily Briefing
 
+Damage/Fatality/Injury Statistics
 
+Forecast Models
 
+GIS Data Portal
 
-Damage/Fa ali y/Injury S a is ics
+NOAA Weather Radio
 
+Publications
 
+SKYWARN Storm Spotters
 
-
-Forecas Models
-
-
-
-
-GIS Da a Por al
-
-
-
-
-NOAA Wea her Radio
-
-
-
-
-Publica ions
-
-
-
-
-SKYWARN S orm Spo ers
-
-
-
-
-S ormReady
-
-
-
+StormReady
 
 TsunamiReady
 
-
-
-
-Service Change No ices
-
-
-
-
-
-
-
-
+Service Change Notices
 
 EDUCATION
 
-
-
-
-
-
-
-
-
-
-
 NEWS
-
-
-
-
-
-
-
-
-
-
 
 SEARCH
 
-
-
-
-
-
-
-
-
-
-
 Search For
-
-
-
-
 
 NWS
 
 All NOAA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ABOUT
 
+About NWS
 
-
-
-
-
-Abou NWS
-
-
-
-
-Organiza ion
-
-
-
+Organization
 
 For NWS Employees
 
-
-
-
-Na ional Cen ers
-
-
-
+National Centers
 
 Careers
 
-
-
-
-Con ac Us
-
-
-
+Contact Us
 
 Glossary
 
-
-
-
 Social Media
 
+NWS Transformation
 
+NWS Weather Forecast Office Product Listing
 
+Click on the product identifier or description to view products:
 
-NWS Transforma ion
+Product Identifier
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NWS Wea her Forecas Office Produc Lis ing
-
-
-
-Click on he produc iden ifier or descrip ion o view produc s:
-
-
-
-
-
-Produc Iden ifier
-
-Produc Descrip ion
-
-
+Product Description
 
 ABV
 
-Rawinsonde Da a Above 100 Millibars
-
-
+Rawinsonde Data Above 100 Millibars
 
 ADA
 
-Alarm/Aler Adminis ra ive Msg
-
-
+Alarm/Alert Administrative Msg
 
 ADM
 
-Aler Adminis ra ive Message
-
-
+Alert Administrative Message
 
 ADR
 
-NWS Adminis ra ive Message
-
-
+NWS Administrative Message
 
 ADV
 
-Generic Space Environmen Advisory
-
-
+Generic Space Environment Advisory
 
 AFD
 
-Area Forecas Discussion
-
-
+Area Forecast Discussion
 
 AFM
 
-Area Forecas Ma rices
-
-
+Area Forecast Matrices
 
 AFP
 
-Area Forecas Produc
-
-
+Area Forecast Product
 
 AFW
 
-Fire Wea her Ma rix
-
-
+Fire Weather Matrix
 
 AGF
 
-Agricul ural Forecas
-
-
+Agricultural Forecast
 
 AGO
 
-Agricul ural Observa ions
-
-
+Agricultural Observations
 
 ALT
 
-Space Environmen Aler
-
-
+Space Environment Alert
 
 AQA
 
-Air Quali y Aler
-
-
+Air Quality Alert
 
 AQI
 
-Air Quali y Index S a emen
-
-
+Air Quality Index Statement
 
 ASA
 
-Air S agna ion Advisory
-
-
+Air Stagnation Advisory
 
 AVA
 
-Avalanche Wa ch
-
-
+Avalanche Watch
 
 AVG
 
-Avalanche Wea her Guidance
-
-
+Avalanche Weather Guidance
 
 AVW
 
 Avalanche Warning
 
-
-
 AWO
 
-Area Wea her Ou look
-
-
+Area Weather Outlook
 
 AWS
 
-Area Wea her Summary
-
-
+Area Weather Summary
 
 AWU
 
-Area Wea her Upda e
-
-
+Area Weather Update
 
 AWW
 
-Airpor Wea her Warning
-
-
+Airport Weather Warning
 
 BLU
 
-Blue Aler
-
-
+Blue Alert
 
 BOY
 
-Buoy Repor
-
-
+Buoy Report
 
 BRG
 
-Coas Guard Observa ions
-
-
+Coast Guard Observations
 
 BRT
 
-Hourly Roundup for Wea her Radio
-
-
+Hourly Roundup for Weather Radio
 
 CAE
 
-Child Abduc ion Emergency
-
-
+Child Abduction Emergency
 
 CCF
 
-Coded Ci y Forecas
-
-
+Coded City Forecast
 
 CDW
 
 Civil Danger Warning
 
-
-
 CEM
 
 Civil Emergency Message
 
-
-
 CF6
 
-WFO Mon hly/Daily Clima e Da a
-
-
+WFO Monthly/Daily Climate Data
 
 CFP
 
-Convec ive Forecas Produc
-
-
+Convective Forecast Product
 
 CFW
 
-Coas al Flood Warnings/Wa ches/S a emen s
-
-
+Coastal Flood Warnings/Watches/Statements
 
 CGR
 
-Coas Guard Surface Repor
-
-
+Coast Guard Surface Report
 
 CHG
 
-Compu er Hurricane Guidance
-
-
+Computer Hurricane Guidance
 
 CLA
 
-Clima ological Repor (Annual)
-
-
+Climatological Report (Annual)
 
 CLI
 
-Clima ological Repor (Daily)
-
-
+Climatological Report (Daily)
 
 CLM
 
-Clima ological Repor (Mon hly)
-
-
+Climatological Report (Monthly)
 
 CLQ
 
-Clima ological Repor (Quar erly)
-
-
+Climatological Report (Quarterly)
 
 CLS
 
-Clima ological Repor (Seasonal)
-
-
+Climatological Report (Seasonal)
 
 CLT
 
-Clima e Repor
-
-
+Climate Report
 
 CMM
 
-Coded Clima ological Mon hly Means
-
-
+Coded Climatological Monthly Means
 
 COD
 
-Coded Analysis and Forecas s
-
-
+Coded Analysis and Forecasts
 
 CPF
 
-Grea Lakes Por Forecas
-
-
+Great Lakes Port Forecast
 
 CUR
 
-Rou ine Space Environmen Produc s
-
-
+Routine Space Environment Products
 
 CWA
 
-Cen er (CWSU) Wea her Advisory
-
-
+Center (CWSU) Weather Advisory
 
 CWF
 
-Coas al Wa ers Forecas
-
-
+Coastal Waters Forecast
 
 CWS
 
-Cen er (CWSU) Wea her S a emen
-
-
+Center (CWSU) Weather Statement
 
 DAY
 
-Rou ine Space Environmen Produc (Daily)
-
-
+Routine Space Environment Product (Daily)
 
 DDO
 
-Daily Dispersion Ou look
-
-
+Daily Dispersion Outlook
 
 DGT
 
-Drough Informa ion S a emen
-
-
+Drought Information Statement
 
 DMO
 
-Prac ice/Demo Warning
-
-
+Practice/Demo Warning
 
 DSA
 
 Unnumbered Depression / Suspicious Area Advisory
 
-
-
 DSM
 
 ASOS Daily Summary
 
-
-
 DSW
 
-Dus S orm Warning and Dus Advisory
-
-
+Dust Storm Warning and Dust Advisory
 
 EFP
 
-3 To 5 Day Ex ended Forecas
-
-
+3 To 5 Day Extended Forecast
 
 EOL
 
-Average 6 To 10 Day Wea her Ou look (Local)
-
-
+Average 6 To 10 Day Weather Outlook (Local)
 
 EQI
 
-Tsunami Bulle in
-
-
+Tsunami Bulletin
 
 EQR
 
-Ear hquake Repor
-
-
+Earthquake Report
 
 EQW
 
-Ear hquake Warning
-
-
+Earthquake Warning
 
 ESF
 
-Flood Po en ial Ou look
-
-
+Flood Potential Outlook
 
 ESG
 
-Ex ended S reamflow Guidance
-
-
+Extended Streamflow Guidance
 
 ESP
 
-Ex ended S reamflow Predic ion
-
-
+Extended Streamflow Prediction
 
 ESS
 
-Wa er Supply Ou look
-
-
+Water Supply Outlook
 
 EVI
 
-Evacua ion Immedia e
-
-
+Evacuation Immediate
 
 EWW
 
-Ex reme Wind Warning
-
-
+Extreme Wind Warning
 
 FA0
 
-Avia ion Area Forecas s (Pacific)
-
-
+Aviation Area Forecasts (Pacific)
 
 FA1
 
-Avia ion Area Forecas s (Nor heas )
-
-
+Aviation Area Forecasts (Northeast)
 
 FA2
 
-Avia ion Area Forecas s (Sou heas )
-
-
+Aviation Area Forecasts (Southeast)
 
 FA3
 
-Avia ion Area Forecas s (Nor h Cen ral)
-
-
+Aviation Area Forecasts (North Central)
 
 FA4
 
-Avia ion Area Forecas s (Sou h Cen ral)
-
-
+Aviation Area Forecasts (South Central)
 
 FA5
 
-Avia ion Area Forecas s (Rocky Moun ains)
-
-
+Aviation Area Forecasts (Rocky Mountains)
 
 FA6
 
-Avia ion Area Forecas s (Wes Coas )
-
-
+Aviation Area Forecasts (West Coast)
 
 FA7
 
-Avia ion Area Forecas s (Juneau, AK)
-
-
+Aviation Area Forecasts (Juneau, AK)
 
 FA8
 
-Avia ion Area Forecas s (Anchorage, AK)
-
-
+Aviation Area Forecasts (Anchorage, AK)
 
 FA9
 
-Avia ion Area Forecas s (Fairbanks, AK)
-
-
+Aviation Area Forecasts (Fairbanks, AK)
 
 FD0
 
-24 Hr Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+24 Hr Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FD1
 
-6 Hour Winds Alof Forecas
-
-
+6 Hour Winds Aloft Forecast
 
 FD2
 
-12 Hour Winds Alof Forecas
-
-
+12 Hour Winds Aloft Forecast
 
 FD3
 
-24 Hour Winds Alof Forecas
-
-
+24 Hour Winds Aloft Forecast
 
 FD4
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD5
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD6
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD7
 
-Winds Alof Forecas
-
-
+Winds Aloft Forecast
 
 FD8
 
-6 Hour Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+6 Hour Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FD9
 
-12 Hr Fd Winds Alof Fcs (45,000 and 53,000 F )
-
-
+12 Hr Fd Winds Aloft Fcst (45,000 and 53,000 Ft)
 
 FDI
 
 Fire Danger Indices
 
-
-
 FFA
 
-Flash Flood Wa ch
-
-
+Flash Flood Watch
 
 FFG
 
 Flash Flood Guidance
 
-
-
 FFH
 
-Headwa er Guidance
-
-
+Headwater Guidance
 
 FFS
 
-Flash Flood S a emen
-
-
+Flash Flood Statement
 
 FFW
 
 Flash Flood Warning
 
-
-
 FLN
 
-Na ional Flood Summary
-
-
+National Flood Summary
 
 FLS
 
-Flood S a emen
-
-
+Flood Statement
 
 FLW
 
 Flood Warning
 
-
-
 FOF
 
-Upper Wind Fallou Forecas
-
-
+Upper Wind Fallout Forecast
 
 FRW
 
 Fire Warning
 
-
-
 FSH
 
-Na l Marine Fisheries Adminis ra ive Service Message
-
-
+Natl Marine Fisheries Administrative Service Message
 
 FTM
 
-WSR-88D Radar Ou age No ifica ion / Free Tex Message
-
-
+WSR-88D Radar Outage Notification / Free Text Message
 
 FTP
 
 FOUS Prog Max/Min Temp/Pop Guidance
 
-
-
 FWA
 
-Fire Wea her Adminis ra ive Message
-
-
+Fire Weather Administrative Message
 
 FWD
 
-Fire Wea her Ou look Discussion
-
-
+Fire Weather Outlook Discussion
 
 FWF
 
-Rou ine Fire Wx Fcs (Wi h/Wi hou 6-10 Day Ou look)
-
-
+Routine Fire Wx Fcst (With/Without 6-10 Day Outlook)
 
 FWL
 
-Land Managemen Forecas s
-
-
+Land Management Forecasts
 
 FWM
 
-Miscellaneous Fire Wea her Produc
-
-
+Miscellaneous Fire Weather Product
 
 FWN
 
-Fire Wea her No ifica ion
-
-
+Fire Weather Notification
 
 FWO
 
-Fire Wea her Observa ion
-
-
+Fire Weather Observation
 
 FWS
 
-Spo Forecas
-
-
+Spot Forecast
 
 FZL
 
-Freezing Level Da a (RADAT)
-
-
+Freezing Level Data (RADAT)
 
 GLF
 
-Grea Lakes Forecas
-
-
+Great Lakes Forecast
 
 GLS
 
-Grea Lakes S orm Summary
-
-
+Great Lakes Storm Summary
 
 GRE
 
 GREEN
 
-
-
 HD1
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD2
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD3
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD4
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD7
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD8
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HD9
 
-RFC Derived QPF Da a Produc
-
-
+RFC Derived QPF Data Product
 
 HLS
 
-Hurricane Local S a emen
-
-
+Hurricane Local Statement
 
 HMD
 
-Hydrome eorological Discussion
-
-
+Hydrometeorological Discussion
 
 HML
 
 AHPS XML
 
-
-
 HMW
 
-Hazardous Ma erials Warning
-
-
+Hazardous Materials Warning
 
 HP1
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP2
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP3
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP4
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP5
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP6
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP7
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HP8
 
-RFC QPF Verifica ion Produc
-
-
+RFC QPF Verification Product
 
 HRR
 
-Wea her Roundup
-
-
+Weather Roundup
 
 HSF
 
-High Seas Forecas
-
-
+High Seas Forecast
 
 HWO
 
-Hazardous Wea her Ou look
-
-
+Hazardous Weather Outlook
 
 HWR
 
-Hourly Wea her Roundup
-
-
+Hourly Weather Roundup
 
 HYD
 
-Daily Hydrome eorological Produc s
-
-
+Daily Hydrometeorological Products
 
 HYM
 
-Mon hly Hydrome eorological Plain Language Produc
-
-
+Monthly Hydrometeorological Plain Language Product
 
 ICE
 
-Ice Forecas
-
-
+Ice Forecast
 
 IDM
 
-Ice Drif Vec ors
-
-
+Ice Drift Vectors
 
 INI
 
 ADMINISTR [NOUS51 KWBC]
 
-
-
 IOB
 
-Ice Observa ion
-
-
+Ice Observation
 
 KPA
 
 Keep Alive Message
 
-
-
 LAE
 
 Local Area Emergency
 
-
-
 LCD
 
-Preliminary Local Clima ological Da a
-
-
+Preliminary Local Climatological Data
 
 LCO
 
-Local Coopera ive Observa ion
-
-
+Local Cooperative Observation
 
 LEW
 
-Law Enforcemen Warning
-
-
+Law Enforcement Warning
 
 LFP
 
-Local Forecas
-
-
+Local Forecast
 
 LKE
 
-Lake S ages
-
-
+Lake Stages
 
 LLS
 
 Low-Level Sounding
 
-
-
 LOW
 
-Low Tempera ures
-
-
+Low Temperatures
 
 LSR
 
-Local S orm Repor
-
-
+Local Storm Report
 
 LTG
 
-Ligh ning Da a
-
-
+Lightning Data
 
 MAN
 
-Rawinsonde Observa ion Manda ory Levels
-
-
+Rawinsonde Observation Mandatory Levels
 
 MAP
 
-Mean Areal Precipi a ion
-
-
+Mean Areal Precipitation
 
 MAW
 
-Amended Marine Forecas
-
-
+Amended Marine Forecast
 
 MFM
 
-Marine Forecas Ma rix
-
-
+Marine Forecast Matrix
 
 MIM
 
-Marine In erpre a ion Message
-
-
+Marine Interpretation Message
 
 MIS
 
-Miscellaneous Local Produc
-
-
+Miscellaneous Local Product
 
 MOB
 
-MOB Observa ions
-
-
+MOB Observations
 
 MON
 
-Rou ine Space Environmen Produc Issued Mon hly
-
-
+Routine Space Environment Product Issued Monthly
 
 MRP
 
-Techniques Developmen Labora ory Marine Produc
-
-
+Techniques Development Laboratory Marine Product
 
 MSM
 
-ASOS Mon hly Summary Message
-
-
+ASOS Monthly Summary Message
 
 MTR
 
-METAR Forma ed Surface Wea her Observa ion
-
-
+METAR Formatted Surface Weather Observation
 
 MTT
 
-METAR Tes Message
-
-
+METAR Test Message
 
 MVF
 
-Marine Verifica ion Coded Message
-
-
+Marine Verification Coded Message
 
 MWS
 
-Marine Wea her S a emen
-
-
+Marine Weather Statement
 
 MWW
 
-Marine Wea her Message
-
-
+Marine Weather Message
 
 NOU
 
-Wea her Reconnaisance Fligh s
-
-
+Weather Reconnaisance Flights
 
 NOW
 
-Shor Term Forecas
-
-
+Short Term Forecast
 
 NOX
 
-Da a Mg Message
-
-
+Data Mgt Message
 
 NPW
 
-Non-Precipi a ion Warnings / Wa ches / Advisories
-
-
+Non-Precipitation Warnings / Watches / Advisories
 
 NSH
 
-Nearshore Marine Forecas
-
-
+Nearshore Marine Forecast
 
 NUW
 
-Nuclear Power Plan Warning
-
-
+Nuclear Power Plant Warning
 
 NWR
 
-NOAA Wea her Radio Forecas
-
-
+NOAA Weather Radio Forecast
 
 OAV
 
-O her Avia ion Produc s
-
-
+Other Aviation Products
 
 OBS
 
-Observa ions
-
-
+Observations
 
 OFA
 
-Offshore Avia ion Area Forecas
-
-
+Offshore Aviation Area Forecast
 
 OFF
 
-Offshore Forecas
-
-
+Offshore Forecast
 
 OMR
 
-O her Marine Produc s
-
-
+Other Marine Products
 
 OPU
 
-O her Public Produc s
-
-
+Other Public Products
 
 OSO
 
-O her Surface Observa ions
-
-
+Other Surface Observations
 
 OSW
 
 Ocean Surface Winds
 
-
-
 OUA
 
-O her Upper Air Da a
-
-
+Other Upper Air Data
 
 OZF
 
-Zone Forecas
-
-
+Zone Forecast
 
 PFM
 
-Poin Forecas Ma rices
-
-
+Point Forecast Matrices
 
 PFW
 
-Fire Wea her Poin Forecas Ma rices
-
-
+Fire Weather Point Forecast Matrices
 
 PLS
 
-Plain Language Ship Repor
-
-
+Plain Language Ship Report
 
 PMD
 
-Prognos ic Me eorological Discussion
-
-
+Prognostic Meteorological Discussion
 
 PNS
 
-Public Informa ion S a emen
-
-
+Public Information Statement
 
 POE
 
-Probabili y of Exceed
-
-
+Probability of Exceed
 
 PRB
 
-Hea Index Forecas Tables
-
-
+Heat Index Forecast Tables
 
 PRC
 
-S a e Pilo Repor Collec ive
-
-
+State Pilot Report Collective
 
 PRE
 
-Preliminary Forecas s
-
-
+Preliminary Forecasts
 
 PSH
 
-Pos S orm Hurricane Repor
-
-
+Post Storm Hurricane Report
 
 PTS
 
-Probabilis ic Ou look Poin s
-
-
+Probabilistic Outlook Points
 
 PWO
 
-Public Severe Wea her Ou look
-
-
+Public Severe Weather Outlook
 
 PWS
 
-Tropical Cyclone Probabili ies
-
-
+Tropical Cyclone Probabilities
 
 QPF
 
-Quan i a ive Precipi a ion Forecas
-
-
+Quantitative Precipitation Forecast
 
 QPS
 
-Quan i a ive Precipi a ion S a emen
-
-
+Quantitative Precipitation Statement
 
 RDF
 
-Revised Digi al Forecas
-
-
+Revised Digital Forecast
 
 REC
 
-Recrea ional Repor
-
-
+Recreational Report
 
 RER
 
-Record Repor
-
-
+Record Report
 
 RET
 
-EAS Ac iva ion Reques
-
-
+EAS Activation Request
 
 RFD
 
-Rangeland Fire Danger Forecas
-
-
+Rangeland Fire Danger Forecast
 
 RFI
 
-RFI Observa ion
-
-
+RFI Observation
 
 RFR
 
-Rou e Forecas
-
-
+Route Forecast
 
 RFW
 
 Red Flag Warning
 
-
-
 RHW
 
 Radiological Hazard Warning
 
-
-
 RMT
 
-Required Mon hly Tes
-
-
+Required Monthly Test
 
 RNS
 
-Rain Informa ion S a emen
-
-
+Rain Information Statement
 
 RR1
 
-Hydro-Me Da a Repor Par 1
-
-
+Hydro-Met Data Report Part 1
 
 RR2
 
-Hydro-Me Da a Repor Par 2
-
-
+Hydro-Met Data Report Part 2
 
 RR3
 
-Hydro-Me Da a Repor Par 3
-
-
+Hydro-Met Data Report Part 3
 
 RR4
 
-Hydro-Me Da a Repor Par 4
-
-
+Hydro-Met Data Report Part 4
 
 RR5
 
-Hydro-Me Da a Repor Par 5
-
-
+Hydro-Met Data Report Part 5
 
 RR6
 
-Hydro-Me Da a Repor Par 6
-
-
+Hydro-Met Data Report Part 6
 
 RR7
 
-Hydro-Me Da a Repor Par 7
-
-
+Hydro-Met Data Report Part 7
 
 RR8
 
-Hydro-Me Da a Repor Par 8
-
-
+Hydro-Met Data Report Part 8
 
 RR9
 
-Hydro-Me Da a Repor Par 9
-
-
+Hydro-Met Data Report Part 9
 
 RRA
 
-Au oma ed Hydrologic Observa ion S a Repor (AHOS)
-
-
+Automated Hydrologic Observation Sta Report (AHOS)
 
 RRM
 
-Miscellaneous Hydrologic Da a
-
-
+Miscellaneous Hydrologic Data
 
 RRS
 
-HADS Da a
-
-
+HADS Data
 
 RRY
 
-ASOS SHEF Hourly Rou ine Tes Message
-
-
+ASOS SHEF Hourly Routine Test Message
 
 RSD
 
-Daily Sno el Da a
-
-
+Daily Snotel Data
 
 RSM
 
-Mon hly Sno el Da a
-
-
+Monthly Snotel Data
 
 RTP
 
-Regional Max/Min Temp and Precipi a ion Table
-
-
+Regional Max/Min Temp and Precipitation Table
 
 RVA
 
 River Summary
 
-
-
 RVD
 
-Daily River Forecas s
-
-
+Daily River Forecasts
 
 RVF
 
-River Forecas
-
-
+River Forecast
 
 RVI
 
-River Ice S a emen
-
-
+River Ice Statement
 
 RVM
 
-Miscellaneous River Produc
-
-
+Miscellaneous River Product
 
 RVR
 
-River Recrea ion S a emen
-
-
+River Recreation Statement
 
 RVS
 
-River S a emen
-
-
+River Statement
 
 RWR
 
-Regional Wea her Roundup
-
-
+Regional Weather Roundup
 
 RWS
 
-Regional Wea her Summary
-
-
+Regional Weather Summary
 
 RWT
 
-Required Weekly Tes
-
-
+Required Weekly Test
 
 SAB
 
-Special Avalanche Bulle in
-
-
+Special Avalanche Bulletin
 
 SAF
 
-Speci Agri Wx Fcs / Advisory / Flying Farmer Fcs Ou look
-
-
+Speci Agri Wx Fcst / Advisory / Flying Farmer Fcst Outlook
 
 SAG
 
 Snow Avalanche Guidance
 
-
-
 SAT
 
-APT Predic ion
-
-
+APT Prediction
 
 SAW
 
-Prelim No ice of Wa ch & Cancella ion Msg (Avia ion)
-
-
+Prelim Notice of Watch & Cancellation Msg (Aviation)
 
 SCC
 
-S orm Summary
-
-
+Storm Summary
 
 SCD
 
-Supplemen ary Clima ological Da a (ASOS)
-
-
+Supplementary Climatological Data (ASOS)
 
 SCN
 
-Soil Clima e Analysis Ne work Da a
-
-
+Soil Climate Analysis Network Data
 
 SCP
 
-Sa elli e Cloud Produc
-
-
+Satellite Cloud Product
 
 SCS
 
-Selec ed Ci ies Summary
-
-
+Selected Cities Summary
 
 SDO
 
-Supplemen ary Da a Observa ion (ASOS)
-
-
+Supplementary Data Observation (ASOS)
 
 SDS
 
-Special Dispersion S a emen
-
-
+Special Dispersion Statement
 
 SEL
 
-Severe Local S orm Wa ch and Wa ch Cancella ion Msg
-
-
+Severe Local Storm Watch and Watch Cancellation Msg
 
 SEV
 
-SPC Wa ch Poin Informa ion Message
-
-
+SPC Watch Point Information Message
 
 SFP
 
-S a e Forecas
-
-
+State Forecast
 
 SFT
 
-Tabular S a e Forecas
-
-
+Tabular State Forecast
 
 SGL
 
-Rawinsonde Observa ion Significan Levels
-
-
+Rawinsonde Observation Significant Levels
 
 SHP
 
-Surface Ship Repor a Synop ic Time
-
-
+Surface Ship Report at Synoptic Time
 
 SIG
 
-In erna ional Sigme / Convec ive Sigme
-
-
+International Sigmet / Convective Sigmet
 
 SIM
 
-Sa elli e In erpre a ion Message
-
-
+Satellite Interpretation Message
 
 SLS
 
-Severe Local S orm Wa ch and Areal Ou line
-
-
+Severe Local Storm Watch and Areal Outline
 
 SMF
 
-Smoke Managemen Wea her Forecas
-
-
+Smoke Management Weather Forecast
 
 SMW
 
 Special Marine Warning
 
-
-
 SOO
 
-SOO Produc
-
-
+SOO Product
 
 SPE
 
-Sa elli e Precipi a ion Es ima es (TXUS20 KWBC)
-
-
+Satellite Precipitation Estimates (TXUS20 KWBC)
 
 SPF
 
-S orm S rike Probabili y Bulle in (TPC)
-
-
+Storm Strike Probability Bulletin (TPC)
 
 SPS
 
-Special Wea her S a emen
-
-
+Special Weather Statement
 
 SPW
 
-Shel er in Place Warning
-
-
+Shelter in Place Warning
 
 SQW
 
 Snow Squall Warning
 
-
-
 SRD
 
 Surf Discussion
 
-
-
 SRF
 
-Surf Forecas
-
-
+Surf Forecast
 
 SRG
 
 Soaring Guidance
 
-
-
 SSM
 
-Main Synop ic Hour Surface Observa ion
-
-
+Main Synoptic Hour Surface Observation
 
 STA
 
-Ne work and Severe Wea her S a is ical Summaries
-
-
+Network and Severe Weather Statistical Summaries
 
 STD
 
-Sa elli e Tropical Dis urbance Summary
-
-
+Satellite Tropical Disturbance Summary
 
 STO
 
-Road Condi ion Repor s (S a e Agencies)
-
-
+Road Condition Reports (State Agencies)
 
 STP
 
-S a e Max/Min Tempera ure and Precipi a ion Table
-
-
+State Max/Min Temperature and Precipitation Table
 
 STQ
 
-Spo Forecas Reques
-
-
+Spot Forecast Request
 
 SUM
 
-Space Wea her Message
-
-
+Space Weather Message
 
 SVR
 
-Severe Thunders orm Warning
-
-
+Severe Thunderstorm Warning
 
 SVS
 
-Severe Wea her S a emen
-
-
+Severe Weather Statement
 
 SWO
 
-Severe S orm Ou look Narra ive (AC)
-
-
+Severe Storm Outlook Narrative (AC)
 
 SWS
 
-S a e Wea her Summary
-
-
+State Weather Summary
 
 SYN
 
-Regional Wea her Synopsis
-
-
+Regional Weather Synopsis
 
 TAF
 
-Terminal Aerodrome Forecas
-
-
+Terminal Aerodrome Forecast
 
 TAP
 
-Terminal Aler ing Produc s
-
-
+Terminal Alerting Products
 
 TAV
 
-Travelers Forecas Table
-
-
+Travelers Forecast Table
 
 TCA
 
-Avia ion Tropical Cyclone Advisory
-
-
+Aviation Tropical Cyclone Advisory
 
 TCD
 
 Tropical Cyclone Discussion
 
-
-
 TCE
 
-Tropical Cyclone Posi ion Es ima e
-
-
+Tropical Cyclone Position Estimate
 
 TCM
 
-Marine/Avia ion Tropical Cyclone Advisory
-
-
+Marine/Aviation Tropical Cyclone Advisory
 
 TCP
 
 Public Tropical Cyclone Advisory
 
-
-
 TCS
 
-Sa elli e Tropical Cyclone Summary
-
-
+Satellite Tropical Cyclone Summary
 
 TCU
 
-Tropical Cyclone Upda e
-
-
+Tropical Cyclone Update
 
 TCV
 
-Tropical Cyclone Wa ch/Warning Break Poin s
-
-
+Tropical Cyclone Watch/Warning Break Points
 
 TIB
 
-Tsunami Bulle in
-
-
+Tsunami Bulletin
 
 TID
 
-Tide Repor
-
-
+Tide Report
 
 TMA
 
-Tsunami Tide/Seismic Message Acknowledgemen
-
-
+Tsunami Tide/Seismic Message Acknowledgement
 
 TOE
 
-911 Telephone Ou age Emergency
-
-
+911 Telephone Outage Emergency
 
 TOR
 
 Tornado Warning
 
-
-
 TPT
 
-Tempera ure Precipi a ion Table (Na l and In nl)
-
-
+Temperature Precipitation Table (Natl and Intnl)
 
 TSU
 
-Tsunami Wa ch/Warning
-
-
+Tsunami Watch/Warning
 
 TUV
 
-Wea her Bulle in
-
-
+Weather Bulletin
 
 TVL
 
-Travelers Forecas
-
-
+Travelers Forecast
 
 TWB
 
-Transcribed Wea her Broadcas
-
-
+Transcribed Weather Broadcast
 
 TWD
 
-Tropical Wea her Discussion
-
-
+Tropical Weather Discussion
 
 TWO
 
-Tropical Wea her Ou look and Summary
-
-
+Tropical Weather Outlook and Summary
 
 TWS
 
-Tropical Wea her Summary
-
-
+Tropical Weather Summary
 
 URN
 
-Aircraf Reconnaissance
-
-
+Aircraft Reconnaissance
 
 UVI
 
-Ul raviole Index
-
-
+Ultraviolet Index
 
 VAA
 
-Volcanic Ac ivi y Advisory
-
-
+Volcanic Activity Advisory
 
 VER
 
-Forecas Verifica ion S a is ics
-
-
+Forecast Verification Statistics
 
 VFT
 
-Terminal Aerodrome Forecas (TAF) Verifica ion
-
-
+Terminal Aerodrome Forecast (TAF) Verification
 
 VOW
 
 Volcano Warning
 
-
-
 WA0
 
-Airme (Pacific)
-
-
+Airmet (Pacific)
 
 WA1
 
-Airme (Nor heas )
-
-
+Airmet (Northeast)
 
 WA2
 
-Airme (Sou heas )
-
-
+Airmet (Southeast)
 
 WA3
 
-Airme (Nor h Cen ral)
-
-
+Airmet (North Central)
 
 WA4
 
-Airme (Sou h Cen ral)
-
-
+Airmet (South Central)
 
 WA5
 
-Airme (Rocky Moun ains)
-
-
+Airmet (Rocky Mountains)
 
 WA6
 
-Airme (Wes Coas )
-
-
+Airmet (West Coast)
 
 WA7
 
-Airme (Juneau, AK)
-
-
+Airmet (Juneau, AK)
 
 WA8
 
-Airme (Anchorage, AK)
-
-
+Airmet (Anchorage, AK)
 
 WA9
 
-Airme (Fairbanks, AK)
-
-
+Airmet (Fairbanks, AK)
 
 WAR
 
-Space Environmen Warning
-
-
+Space Environment Warning
 
 WAT
 
-Space Environmen Wa ch
-
-
+Space Environment Watch
 
 WCN
 
-Wea her Wa ch Clearance No ifica ion
-
-
+Weather Watch Clearance Notification
 
 WCR
 
-Weekly Wea her and Crop Repor
-
-
+Weekly Weather and Crop Report
 
 WDA
 
-Weekly Da a for Agricul ure
-
-
+Weekly Data for Agriculture
 
 WDU
 
-Warning Decision Upda e
-
-
+Warning Decision Update
 
 WEK
 
-Rou ine Space Environmen Produc Issued Weekly
-
-
+Routine Space Environment Product Issued Weekly
 
 WOU
 
-Tornado/Severe Thunders orm Wa ch
-
-
+Tornado/Severe Thunderstorm Watch
 
 WS1
 
-Sigme (Nor heas )
-
-
+Sigmet (Northeast)
 
 WS2
 
-Sigme (Sou heas )
-
-
+Sigmet (Southeast)
 
 WS3
 
-Sigme (Nor h Cen ral)
-
-
+Sigmet (North Central)
 
 WS4
 
-Sigme (Sou h Cen ral)
-
-
+Sigmet (South Central)
 
 WS5
 
-Sigme (Rocky Moun ains)
-
-
+Sigmet (Rocky Mountains)
 
 WS6
 
-Sigme (Wes Coas )
-
-
+Sigmet (West Coast)
 
 WST
 
-Tropical Cyclone Sigme
-
-
+Tropical Cyclone Sigmet
 
 WSV
 
-Volcanic Ac ivi y Sigme
-
-
+Volcanic Activity Sigmet
 
 WSW
 
-Win er Wea her Warnings / Wa ches / Advisories
-
-
+Winter Weather Warnings / Watches / Advisories
 
 WWA
 
-Wa ch S a us Repor
-
-
+Watch Status Report
 
 WWP
 
-Severe Thunders orm / Tornado Wa ch Probabili ies
-
-
+Severe Thunderstorm / Tornado Watch Probabilities
 
 ZFP
 
-Zone Forecas Produc
+Zone Forecast Product
 
+US Dept of Commerce
 
+National Oceanic and Atmospheric Administration
 
+National Weather Service
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-US Dep of Commerce
-
-
-Na ional Oceanic and A mospheric Adminis ra ion
-
-
-Na ional Wea her Service
-
-
-1325 Eas Wes Highway
-
-
-
+1325 East West Highway
 
 Silver Spring, MD 20910
 
-
-
-
-Commen s? Ques ions? Please Con ac Us.
-
-
-
-
-
-
-
-
-
+Comments? Questions? Please Contact Us.
 
 Disclaimer
 
-
-Informa ion Quali y
-
+Information Quality
 
 Help
 
-
 Glossary
-
-
-
-
-
-
-
-
-
-
-Privacy Policy
-
-
-Freedom of Informa ion Ac (FOIA)
-
-
-Abou Us
-
-
-Career Oppor uni ies
 ```
