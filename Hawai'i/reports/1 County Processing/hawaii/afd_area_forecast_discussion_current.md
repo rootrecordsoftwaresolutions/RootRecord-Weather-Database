@@ -1,9 +1,9 @@
 # Area Forecast Discussion — Hawaii County
 
-> **Level 1 county report — deterministically derived from Level 0.**
+> **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** afd_area_forecast_discussion
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO

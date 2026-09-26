@@ -1,9 +1,9 @@
 # Offshore Forecast (40-240nm) — Hawaii County
 
-> **Level 1 county report — deterministically derived from Level 0.**
+> **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** off_offshore_forecast
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OFF&issuedby=HFO

@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** nws_public_zones_catalog
 - **Official source:** https://www.weather.gov/gis/publiczones
-- **Collected:** 2026-09-25T20:10:07.288997-10:00 HST
+- **Collected:** 2026-09-25T20:34:03.346057-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -237,12 +237,12 @@ Wireless Emergency Aler s
 
 
 
-Wea her-Ready Na ion
-
-
-
-
 Brochures
+
+
+
+
+Wea her-Ready Na ion
 
 
 

@@ -1,9 +1,9 @@
 # State Forecast for Hawaii — Kalawao County
 
-> **Level 1 county report — deterministically derived from Level 0.**
+> **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **County:** Kalawao County
 - **Resource ID:** sfp_state_forecast
 - **Source:** https://api.weather.gov/products/types/SFP/locations/HFO

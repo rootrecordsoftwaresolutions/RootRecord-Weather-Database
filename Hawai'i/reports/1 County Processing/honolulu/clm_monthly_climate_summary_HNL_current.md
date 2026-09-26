@@ -1,9 +1,9 @@
 # Monthly Climate Summary — HNL — Honolulu County
 
-> **Level 1 county report — deterministically derived from Level 0.**
+> **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** clm_monthly_climate_summary_HNL
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=CLM&issuedby=HNL

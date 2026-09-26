@@ -1,9 +1,9 @@
 # Kauai County Weather Report
 
-> **Level 1 county aggregate — deterministically derived from Level 0.**
+> **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-25T20:13:01-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Generated:** 2026-09-25T20:41:28-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **County:** Kauai County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 12

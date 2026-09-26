@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.weather.gov/gis/CWABounds
-- **Collected:** 2026-09-25T20:10:43.228832-10:00 HST
-- **Report created:** 2026-09-25T20:13:01-10:00 HST
+- **Collected:** 2026-09-25T20:34:39.310055-10:00 HST
+- **Report created:** 2026-09-25T20:41:28-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -231,12 +231,12 @@ Wireless Emergency Aler s
 
 
 
-Wea her-Ready Na ion
-
-
-
-
 Brochures
+
+
+
+
+Wea her-Ready Na ion
 
 
 
