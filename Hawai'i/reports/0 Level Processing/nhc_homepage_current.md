@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T02:06:20.745184-10:00 HST
-- **Report created:** 2026-09-26T02:06:21-10:00 HST
+- **Collected:** 2026-09-26T02:14:20.660978-10:00 HST
+- **Report created:** 2026-09-26T02:14:21-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 12:00:28 UTC
+Last update Sat, 26 Sep 2026 12:12:54 UTC
 
 NHC issuing advisories for the Atlantic on
 

@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T02:06:21-10:00 HST
-- **Report created:** 2026-09-26T02:06:21-10:00 HST
+- **Generated:** 2026-09-26T02:14:21-10:00 HST
+- **Report created:** 2026-09-26T02:14:21-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3377,7 +3377,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T01:59:38.490689-10:00 HST
+- **Collected:** 2026-09-26T02:07:36.392200-10:00 HST
 
 ```text
 771
@@ -4467,10 +4467,10 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_gtwo_cpac_2day
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=2
-- **Collected:** 2026-09-26T02:00:22.045852-10:00 HST
+- **Collected:** 2026-09-26T02:08:20.630450-10:00 HST
 
 ```text
-033 ACCA62 KNHC 261143TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 AM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Tormenta Tropical Gonzalo, ubicada justo aleste-noreste de las Islas de Cabo Verde, y sobre la TormentaTropical Fay, ubicada al oeste-suroeste de las Azores.No se espera la formación de ciclones tropicales durante lospróximos 7 días.$$Pronosticador Katz*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
+172 ACCA62 KNHC 261200TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 AM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Tormenta Tropical Gonzalo, ubicada justo aleste-noreste de las Islas de Cabo Verde, y sobre la DepresiónTropical Fay, ubicada al oeste-suroeste de las Azores.No se espera la formación de ciclones tropicales durante lospróximos 7 días.$$Pronosticador Katz*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
 ```
 
 ---
@@ -4515,7 +4515,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T02:06:20.745184-10:00 HST
+- **Collected:** 2026-09-26T02:14:20.660978-10:00 HST
 
 ```text
 Home
@@ -4639,7 +4639,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 12:00:28 UTC
+Last update Sat, 26 Sep 2026 12:12:54 UTC
 
 NHC issuing advisories for the Atlantic on
 
