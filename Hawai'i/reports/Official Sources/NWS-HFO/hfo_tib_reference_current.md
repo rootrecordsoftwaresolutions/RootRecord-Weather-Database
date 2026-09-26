@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T10:55:35-10:00 HST
-- **Report created:** 2026-09-26T10:55:35-10:00 HST
+- **Generated:** 2026-09-26T11:03:35-10:00 HST
+- **Report created:** 2026-09-26T11:03:35-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hfo_tib_reference
 - **Official source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T10:39:36.064962-10:00 HST
+- **Collected:** 2026-09-26T10:56:33.424004-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -61,9 +61,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
