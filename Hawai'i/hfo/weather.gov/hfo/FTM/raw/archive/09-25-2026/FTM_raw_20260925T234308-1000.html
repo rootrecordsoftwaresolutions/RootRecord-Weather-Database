@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>Hawaii Rainfall Summary 90 Day Archive</title>
-<meta name="DC.title" content="Hawaii Rainfall Summary 90 Day Archive" />
-<meta name="DC.description" content="Hawaii Rainfall Summary 90 Day Archive" />
+<title>Radar Free Text Messages for Hawaii </title>
+<meta name="DC.title" content="Radar Free Text Messages for Hawaii " />
+<meta name="DC.description" content="Latest radar free text message status for each of the four weather radars in Hawaii." />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="February 6th 2019 7:38 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="December 24th 2018 1:03 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="hawaii, rainfall, summary, archive, precipitation" />
+<meta name="DC.keywords" content="radar, hawaii, upolu point, south point, molokai, kauai, weather, rain, flood, status, ftm" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -379,11 +379,11 @@ function noCache(url) {
         <p class="sitename-class">Weather Forecast Office</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>Hawaii Rainfall Summary 90 Day Archive</h1>
+        <h1 class='location-pagetitle'>Radar Free Text Messages for Hawaii </h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
-                                &gt; Hawaii Rainfall Summary 90 Day Archive
+                                &gt; Radar Free Text Messages for Hawaii 
                     </div>
     </div>
 </div>
@@ -682,123 +682,65 @@ border-collapse: collapse;
 border: 2px solid white; 
 }
 </style>
-<div id="RRA">&nbsp;</div>
-<script type="text/javascript">
-function displayRRAarchive() {
-    var output = "";
+<p><a name="HKI"></a><strong>Kauai Radar (PHKI/SOK)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // see if product time request in url
-    var timerequested = location.hash.substr(1);
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
 
-    if (timerequested == "") {
-        timerequested="summary";
-        output += '<ul>';
-    }
-    
-    var filename = "/source/hfo/xml/RRAHFO.xml";
+<hr />
+<p><a name="HKM"></a><strong>Molokai Radar (PHMO/HMO)&nbsp;<a href="/source/hfo/xml/FTMHMO.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // Get information from the forecast feed
-    if (window.XMLHttpRequest){
-      xhttp=new XMLHttpRequest();
-    } else { // code for IE5 and IE6
-      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }	
-    xhttp.open("GET",filename,false);
-    xhttp.setRequestHeader("Content-Type", "text/xml");
-    xhttp.send();
+<p>    <pre>
+                        
+858
+NOUS60 PHFO 242239
+FTMHMO
 
-    // Place the response in an XML document.
-    var TheDocument = xhttp.responseXML;
-    // Place the root node in an element.
-    var Customers = TheDocument.childNodes[0];
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1239 PM HST THU SEP 24 2026
 
-    var items = Customers.children[0].getElementsByTagName("item");
-    var feedlink = Customers.children[0].getElementsByTagName("link");
-    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+WSR-88D PHMO/HMO MOLOKAI RADAR IS BACK IN SERVICE.
 
-    // go through each item in the feed
-    for (var i = 0; i < items.length; i++) {
-      var Customer = items[i];
- 
-      // output all sections
-      var description = Customer.getElementsByTagName("description");
-      var desc = description[0].textContent;
+$$
 
-      var ts = desc.match(/a name="[0-9]+"/gm);
-      var tsn = ts[0].match(/[0-9]+/gm);
-      var timestring = tsn;   
 
-      var title = Customer.getElementsByTagName("title");
-      var titleinfo = title[0].textContent;
 
-      // if summary requested, just list the titles with the links
-      if (timerequested == "summary") {
-        output += '<li><a id="RRA' + timestring + '" title="' + titleinfo + '" href="/hfo/HRS_archive#' + timestring + '" onclick="displayRRA(' + timestring + ');return false;">' + titleinfo + '</a></li>';
-      } else {
-        if (timestring == timerequested) {
-          output += '<p><a href="/hfo/HRS_archive">Listing of archive</a></p>';
-          output += desc;
-        }
-      }
-    }
-    if (timerequested == "summary") {
-      output += '</ul>';
-    }
+                </pre>
+</p>
 
-    document.getElementById("RRA").innerHTML = output;
-}
-function displayRRA(link) {
-    var output = "";
+<hr />
+<p><a name="HKM"></a><strong>Upolu Point/North Kohala Radar (PHKM/UPP)&nbsp;<a href="/source/hfo/xml/FTMHKM.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // see if product time request in url
-    var timerequested = link;
-    
-    var filename = "/source/hfo/xml/RRAHFO.xml";
+<p>    <pre>
+                        
+646
+NOUS60 PHFO 252159
+FTMHKM
 
-    // Get information from the forecast feed
-    if (window.XMLHttpRequest){
-      xhttp=new XMLHttpRequest();
-    } else { // code for IE5 and IE6
-      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }	
-    xhttp.open("GET",filename,false);
-    xhttp.setRequestHeader("Content-Type", "text/xml");
-    xhttp.send();
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1159 AM HST FRI SEP 25 2026
 
-    // Place the response in an XML document.
-    var TheDocument = xhttp.responseXML;
-    // Place the root node in an element.
-    var Customers = TheDocument.childNodes[0];
+WSR-88D PHKM/UPP UPOLU POINT RADAR IS BACK IN SERVICE.
 
-    var items = Customers.children[0].getElementsByTagName("item");
-    var feedlink = Customers.children[0].getElementsByTagName("link");
-    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+$$
 
-    // go through each item in the feed
-    for (var i = 0; i < items.length; i++) {
-      var Customer = items[i];
- 
-      // output all sections
-      var description = Customer.getElementsByTagName("description");
-      var desc = description[0].textContent;
+LF
 
-      var ts = desc.match(/a name="[0-9]+"/gm);
-      var tsn = ts[0].match(/[0-9]+/gm);
-      var timestring = tsn;   
 
-      var title = Customer.getElementsByTagName("title");
-      var titleinfo = title[0].textContent;
 
-      if (timestring == timerequested) {
-        output += '<p><a href="/hfo/HRS_archive">Listing of archive</a></p>';
-        output += desc;
-      }
-    }
+                </pre>
+</p>
 
-    document.getElementById("RRA").innerHTML = output;
-}
-displayRRAarchive();
-</script>
+<hr />
+<p><a name="HWA"></a><strong>Naalehu/South Hawaii (PHWA/HWC)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
+
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
+
 </div>
 </div>
 <div style="clear:both"></div>
@@ -894,11 +836,11 @@ displayRRAarchive();
                         <span class="footer-column-head">
                             <a href="/hfo/radar">Radar</a>
                         </span><br />
+                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
                                                     <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
                                                     <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
                                                     <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
                                                     <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
-                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -906,6 +848,7 @@ displayRRAarchive();
                         <span class="footer-column-head">
                             <a href="/hfo/forecast">Forecasts</a>
                         </span><br />
+                                                    <a href="/hfo/aviation">Aviation</a><br />
                                                     <a href="/hfo/gfe_graphics">Local Graphics</a><br />
                                                     <a href="/hfo/marine">Marine</a><br />
                                                     <a href="http://forecast.weather.gov/wxplanner.php?site=hfo">Activity Planner</a><br />
@@ -913,7 +856,6 @@ displayRRAarchive();
                                                     <a href="/hfo/model">Model Output</a><br />
                                                     <a href="/hfo/firewx">Fire Weather</a><br />
                                                     <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
-                                                    <a href="/hfo/aviation">Aviation</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
