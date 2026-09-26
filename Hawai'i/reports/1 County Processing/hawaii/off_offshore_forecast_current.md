@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T11:37:35-10:00 HST
-- **Report created:** 2026-09-26T11:37:35-10:00 HST
+- **Generated:** 2026-09-26T11:46:35-10:00 HST
+- **Report created:** 2026-09-26T11:46:35-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** off_offshore_forecast
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OFF&issuedby=HFO
@@ -16,13 +16,13 @@
 ---
 
 ```text
-001
-FZHW60 PHFO 261518
+853
+FZHW60 PHFO 262125
 OFFHFO
 
 Offshore Waters Forecast for Hawaii
 National Weather Service Honolulu HI
-518 AM HST Sat Sep 26 2026
+1125 AM HST Sat Sep 26 2026
 
 Hawaiian offshore waters beyond 40 nautical miles out to 240
 nautical miles including the portion of the Papahanaumokuakea
@@ -32,39 +32,38 @@ Seas given as significant wave height, which is the average height
 of the highest 1/3 of the waves. Individual waves may be more than
 twice the significant wave height.
 
-PHZ105-262230-
-518 AM HST Sat Sep 26 2026
+PHZ105-270415-
+1125 AM HST Sat Sep 26 2026
 
 .Synopsis for the Hawaiian offshore waters...
 Strong winds and hazardous seas will accompany Hurricane Nolo as
 it advances west across area waters through this weekend, then
-turns northwest early next week and weakens to a tropical storm
-by Wednesday.
+turns northwest early next week and weakens.
 
-AT 500 AM HST HURRICANE NOLO WAS CENTERED AT 16.9N 155.5W...NEARLY
-STATIONARY
+AT 1100 AM HST HURRICANE NOLO WAS CENTERED AT 16.7N 156.0W...MOVING W
+AT 4 KT.
 
 NOLO FORECAST POSITIONS
-200 PM HST SATURDAY 16.9N 156.2W
-200 AM HST SUNDAY 16.8N 157.8W
-200 PM HST SUNDAY 16.8N 159.7W
-200 AM HST MONDAY 17.7N 161.5W
-200 PM HST MONDAY 19.3N 163.0W
-200 AM HST TUESDAY 21.0N 163.9W
-200 AM HST WEDNESDAY 23.3N 165.3W
-200 AM HST TUESDAY 23.5N 168.0W
-200 AM HST WEDNESDAY 23.0N 170.5W
-200 AM HST THURSDAY 22.5N 173.0W
+800 PM HST SATURDAY 16.7N 157.0W
+800 AM HST SUNDAY 16.8N 158.8W
+800 PM HST SUNDAY 17.2N 160.9W
+800 AM HST MONDAY 18.4N 162.5W
+800 PM HST MONDAY 20.2N 163.8W
+800 AM HST TUESDAY 21.9N 164.5W
+800 AM HST WEDNESDAY 23.2N 166.1W
+800 AM HST THURSDAY 23.0N 168.8W
+800 AM HST FRIDAY 22.7N 171.7W
+800 AM HST SATURDAY 21.5N 176.0W
 
-PHZ180-262230-
+PHZ180-270415-
 Hawaiian Offshore Waters-
-518 AM HST Sat Sep 26 2026
+1125 AM HST Sat Sep 26 2026
 
 ...HURRICANE WARNING IN EFFECT...
 
-.TODAY...Hurricane conditions expected S of 19N. Elsewhere, NE
-to E winds 20 to 30 kt. Seas 9 to 15 ft. Isolated thunderstorms
-S of 19N.
+.THIS AFTERNOON...Hurricane conditions expected S of 19N.
+Elsewhere, NE to E winds 20 to 30 kt. Seas 9 to 15 ft. Isolated
+thunderstorms S of 19N.
 .TONIGHT...Hurricane conditions expected S of 19N. Elsewhere,
 NE to E winds 20 to 30 kt. Seas 11 to 15 ft. Isolated
 thunderstorms S of 19N.
