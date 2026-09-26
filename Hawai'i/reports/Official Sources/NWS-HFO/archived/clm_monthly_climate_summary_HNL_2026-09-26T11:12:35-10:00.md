@@ -1,0 +1,106 @@
+# Monthly Climate Summary — HNL
+
+> **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
+
+- **Generated:** 2026-09-26T11:12:35-10:00 HST
+- **Report created:** 2026-09-26T11:12:35-10:00 HST
+- **Source authority:** NWS-HFO
+- **Resource ID:** clm_monthly_climate_summary_HNL
+- **Official source:** https://forecast.weather.gov/product.php?site=HFO&product=CLM&issuedby=HNL
+- **Collected:** 2026-09-25T16:46:18.012145-10:00 HST
+- **Processing:** none; this layer preserves the readable official-product representation.
+- **Raw source:** retained separately in the URL-mirrored weather data tree.
+- **Level 0:** not used as an input.
+
+---
+
+```text
+434
+CXHW50 PHFO 011625
+CLMHNL
+
+CLIMATE REPORT
+NATIONAL WEATHER SERVICE HONOLULU HI
+625 AM HST TUE SEP 01 2026
+
+...................................
+
+...THE HONOLULU CLIMATE SUMMARY FOR THE MONTH OF AUGUST 2026...
+
+CLIMATE NORMAL PERIOD 1991 TO 2020
+CLIMATE RECORD PERIOD 1940 TO 2026
+
+WEATHER OBSERVED NORMAL DEPART LAST YEAR`S
+VALUE DATE(S) VALUE FROM VALUE DATE(S)
+NORMAL
+................................................................
+TEMPERATURE (F)
+RECORD
+HIGH 95 08/31/2019
+LOW 25 08/02/2024
+HIGHEST 90 08/09 89 1 92 08/11
+08/11
+08/22
+LOWEST 74 08/19 75 -1 74 08/11
+08/20
+08/14
+08/30
+AVG. MAXIMUM 88.3 88.8 -0.5 89.2
+AVG. MINIMUM 76.7 75.6 1.1 76.6
+MEAN 82.5 82.2 0.3 82.9
+DAYS MAX >= 93 0 0
+DAYS MAX >= 90 6 13
+DAYS MAX <= 80 0 0
+DAYS MIN >= 72 31 31
+DAYS MIN <= 60 0 0
+DAYS MIN <= 55 0 0
+
+PRECIPITATION (INCHES)
+RECORD
+MAXIMUM 3.74 2004
+MINIMUM T 2025
+TOTALS 0.91 0.84 0.07 T
+DAILY AVG. 0.03 0.03 0.00 T
+DAYS >= .01 1 5.7 -4.7 0
+DAYS >= .10 0 1.2 -1.2 0
+DAYS >= .50 0 0.4 -0.4 0
+DAYS >= 1.00 0 0.2 -0.2 0
+GREATEST
+24 HR. TOTAL 0.86 08/15 TO 08/16 T
+
+DEGREE DAYS
+HEATING TOTAL 0 0 0 0
+SINCE 7/1 0 0 0 MM
+COOLING TOTAL 550 533 17 561
+SINCE 1/1 3210 3077 133 MM
+................................................................
+
+WIND (MPH)
+AVERAGE WIND SPEED 12.5
+HIGHEST WIND SPEED/DIRECTION 38/050 DATE 08/16
+HIGHEST GUST SPEED/DIRECTION 53/060 DATE 08/16
+
+SKY COVER
+POSSIBLE SUNSHINE (PERCENT) MM
+AVERAGE SKY COVER 0.45
+NUMBER OF DAYS FAIR 10
+NUMBER OF DAYS PC 19
+NUMBER OF DAYS CLOUDY 2
+
+AVERAGE RH (PERCENT) 66
+
+WEATHER CONDITIONS. NUMBER OF DAYS WITH
+THUNDERSTORM MM MIXED PRECIP MM
+HEAVY RAIN 1 RAIN 1
+LIGHT RAIN 12 FREEZING RAIN MM
+LT FREEZING RAIN MM HAIL MM
+HEAVY SNOW MM SNOW MM
+LIGHT SNOW MM SLEET MM
+FOG 3 FOG W/VIS <= 1/4 MILE MM
+HAZE MM
+
+- INDICATES NEGATIVE NUMBERS.
+R INDICATES RECORD WAS SET OR TIED.
+MM INDICATES DATA IS MISSING.
+T INDICATES TRACE AMOUNT.
+```
