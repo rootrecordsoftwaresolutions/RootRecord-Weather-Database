@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T00:41:35.366546-10:00 HST
-- **Report created:** 2026-09-26T00:42:02-10:00 HST
+- **Collected:** 2026-09-26T00:58:20.568466-10:00 HST
+- **Report created:** 2026-09-26T00:58:46-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 10:40:09 UTC
+Last update Sat, 26 Sep 2026 10:56:22 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -422,7 +422,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-0615 UTC Sat Sep 26 2026
+1215 UTC Sat Sep 26 2026
 
 Tropical Storm Gonzalo
 

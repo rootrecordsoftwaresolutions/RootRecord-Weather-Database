@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T00:42:04-10:00 HST
-- **Report created:** 2026-09-26T00:42:04-10:00 HST
+- **Generated:** 2026-09-26T00:58:47-10:00 HST
+- **Report created:** 2026-09-26T00:58:47-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 10:40:09 UTC
+Last update Sat, 26 Sep 2026 10:56:22 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -429,7 +429,7 @@ Tropical Weather Outlook
 
 Tropical Weather Discussion
 
-0615 UTC Sat Sep 26 2026
+1215 UTC Sat Sep 26 2026
 
 Tropical Storm Gonzalo
 
