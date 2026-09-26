@@ -1,0 +1,1 @@
+{"@id": "https://api.weather.gov/products/bb2e07e0-96a2-49a3-8ac3-a76bae49ffd6", "id": "bb2e07e0-96a2-49a3-8ac3-a76bae49ffd6", "wmoCollectiveId": "FZHW50", "issuingOffice": "PHFO", "issuanceTime": "2026-09-25T20:53:00+00:00", "productCode": "CWF", "productName": "Coastal Waters Forecast"}

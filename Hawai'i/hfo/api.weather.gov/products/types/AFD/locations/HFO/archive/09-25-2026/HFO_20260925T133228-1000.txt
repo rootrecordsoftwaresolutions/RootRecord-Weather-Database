@@ -1,0 +1,1 @@
+{"@id": "https://api.weather.gov/products/351559e9-26ac-4cd1-84b4-62c43fa5e6bd", "id": "351559e9-26ac-4cd1-84b4-62c43fa5e6bd", "wmoCollectiveId": "FXHW60", "issuingOffice": "PHFO", "issuanceTime": "2026-09-25T21:12:00+00:00", "productCode": "AFD", "productName": "Area Forecast Discussion"}

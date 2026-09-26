@@ -1,0 +1,9 @@
+# Runtime/transient files only.
+# Weather data and media are intentionally tracked.
+
+*.lock
+*.tmp
+*.part
+*.swp
+*~
+.DS_Store

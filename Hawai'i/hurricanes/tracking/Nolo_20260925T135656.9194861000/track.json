@@ -1,0 +1,124 @@
+{
+  "storm_name": "Nolo",
+  "positions": [
+    {
+      "polled_at_hst": "2026-09-25T13:56:56.919486-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T13:59:07.681102-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T14:16:49.970675-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T14:25:34.266724-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T14:43:16.253208-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T14:51:58.807106-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T14:54:56.469119-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T15:11:44.294211-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T15:13:34.409533-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T15:31:17.751867-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T15:46:24.107122-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T16:03:52.433901-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T16:20:41.525924-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T16:38:10.795909-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T16:42:18.193926-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T16:43:48.096321-10:00",
+      "lat": 16.8,
+      "lon": -155.4,
+      "intensity": "90",
+      "classification": "HU"
+    },
+    {
+      "polled_at_hst": "2026-09-25T17:01:00.466289-10:00",
+      "lat": 16.9,
+      "lon": -155.3,
+      "intensity": "90",
+      "classification": "HU"
+    }
+  ]
+}
