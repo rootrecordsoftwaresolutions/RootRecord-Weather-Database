@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T20:41:28-10:00 HST
-- **Report created:** 2026-09-25T20:41:28-10:00 HST
+- **Generated:** 2026-09-25T21:06:49-10:00 HST
+- **Report created:** 2026-09-25T21:06:49-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -373,7 +373,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 06:40:22 UTC
+Las upda e Sa , 26 Sep 2026 07:00:17 UTC
 
 
 

@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T20:41:28-10:00 HST
-- **Report created:** 2026-09-25T20:41:28-10:00 HST
+- **Generated:** 2026-09-25T21:06:49-10:00 HST
+- **Report created:** 2026-09-25T21:06:49-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T20:41:27.796653-10:00 HST
+- **Collected:** 2026-09-25T21:06:48.464923-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -372,7 +372,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 06:40:22 UTC
+Las upda e Sa , 26 Sep 2026 07:00:17 UTC
 
 
 

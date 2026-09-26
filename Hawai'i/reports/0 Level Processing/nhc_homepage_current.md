@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T20:41:27.796653-10:00 HST
-- **Report created:** 2026-09-25T20:41:28-10:00 HST
+- **Collected:** 2026-09-25T21:06:48.464923-10:00 HST
+- **Report created:** 2026-09-25T21:06:48-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -366,7 +366,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 06:40:22 UTC
+Las upda e Sa , 26 Sep 2026 07:00:17 UTC
 
 
 
