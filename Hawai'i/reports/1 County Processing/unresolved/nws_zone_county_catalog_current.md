@@ -2,8 +2,8 @@
 
 > **Level 1 unresolved-source record.** This product was not assigned to a county by an authoritative geographic rule and is intentionally excluded from county reports.
 
-- **Generated:** 2026-09-26T05:00:22-10:00 HST
-- **Report created:** 2026-09-26T05:00:22-10:00 HST
+- **Generated:** 2026-09-26T05:15:59-10:00 HST
+- **Report created:** 2026-09-26T05:15:59-10:00 HST
 - **Resource ID:** nws_zone_county_catalog
 - **Source:** https://www.weather.gov/gis/ZoneCounty
 - **County assignment:** unresolved/no-geographic-assignment

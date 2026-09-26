@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T05:00:22-10:00 HST
-- **Report created:** 2026-09-26T05:00:22-10:00 HST
+- **Generated:** 2026-09-26T05:15:59-10:00 HST
+- **Report created:** 2026-09-26T05:15:59-10:00 HST
 - **County:** Kalawao County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 6
@@ -70,147 +70,144 @@ FZLVL...159 PHLI SLOPING TO 167 PHTO.
 
 ```text
 000
-FXHW60 PHFO 260902
+FXHW60 PHFO 261507
 AFDHFO
 
 Area Forecast Discussion
 National Weather Service Honolulu HI
-1102 PM HST Fri Sep 25 2026
+507 AM HST Sat Sep 26 2026
 
 .SYNOPSIS...
-Hurricane Nolo continues to slowly move to the north towards the
-Big Island, and is expected to make a turn to the west tonight.
-Moisture on the north side of Nolo will interact with the terrain
-of the Big Island and Maui, and could lead to significant flash
-flooding, particularly on the windward and southeast portions of
-the Big Island. Localized strong and gusty winds are possible
-statewide, with the highest winds expected on the Big Island due
-to the proximity to Nolo.
+Hurricane Nolo remains nearly stationary south of the Big Island,
+but is expected to make a turn to the west this morning. The
+remains a chance for flooding over portions of the Big Island and
+Maui today. Localized strong and gusty winds are possible 
+across all islands, with the highest winds expected on the Big 
+Island and along the ridges on Maui.
 
-.UPDATE...
-Forecast winds for the first 24 hours have been updated to 
-reflect the latest forecast guidance from the National Hurricane 
-Center. With little change in the track and intensity, little 
-change from the previous forecast. Hurricane Nolo has remained 
-nearly stationary about 145 miles south of South Point on the Big 
-Island. Gusts in excess of 50 mph have been reported over the Big 
-Island and Maui in the last couple of hours. Some of the outer- 
-most rainbands have been moving over the Big Island southeast 
-slopes. Nolo is expected to begin its turn to the west over the 
-next several hours. 
+.DISCUSSION...
+Hurricane Nolo remains about 145 miles south of the Big Island as
+it remained nearly stationary throughout the night. The mid 
+level trough remained firmly in place preventing Nolo from 
+beginning its westward track. As a mid-level ridge north of the
+islands pushes southward, it will help Nolo to begin its westward
+track. With Nolo remaining nearly stationary, tropical headlines 
+remain unchanged, as does the Flood Watch for Maui County and the
+Big Island. 
+
+Despite the headlines remaining the same, the forecast has been 
+updated to reflect the latest track of Nolo, but with no
+discerniblechanges to the winds for today. Most of the changes 
+relate to the QPF for today and tonight, with a downward trend 
+reflecting in the forecast. The Wind Advisory for Kauai and Oahu 
+is in effect through tomorrow afternoon. 
+
+Upper level clouds continue to stream over the Big Island and are
+at times passing over Maui County from Nolo. Lower clouds remain
+over the southeast and east sides of the Big Island, with showers
+embedded within. The highest gages reported 4 inches overnight on
+the Big Island, and about 1 inch on Maui. Winds have been
+strongest over the Kohala ridgeline on the Big Island, and over
+the West Maui Mountains on Maui, with gusts over 60 mph. 
+
+The forecast was nudged to the NBM starting Monday onwards. The
+mid level trough mentioned above will help to draw Nolo north and
+then northwestward early next week. At this time the forecast
+keeps Nolo west of Kauai. Toward the end of next week, light 
+south- to- southeast wind flow is expected to prevail as the 
+pressure gradient over the state weakens substantially. 
 
 .AVIATION...
-Issued at 918 PM HST Fri Sep 25 2026
 
-Gusty trade winds continue across the islands with gusts peaking
-between 25 to 35 knots. Gusts up to 40 knots are most likely at
-the windiest sites. Winds may ease slightly overnight but kept 
-the stronger winds as prevailing given continued trade shower 
-activity and Hurricane Nolo to the south of the Big Island. 
-Locally stronger winds are possible from Molokai south to the Big 
-Island due to Hurricane Nolo. High resolution guidance suggests 
-gusts reaching potentially as high as 45 to 50 knots Saturday 
-afternoon and continuing through the end of the TAF period. North 
-of Molokai, occasional trade showers continue across windward and 
-mauka areas while heavier showers remain closer to the Big Island.
-Moderate to heavy rain is expected to continue impacting the Big 
-Island as Hurricane Nolo remains just to its south. Occasional 
-moderate to heavy showers from Hurricane Nolo will extend up 
-through Molokai. Reductions in visibility and ceiling heights are 
-expected during heavier showers with MVFR to IFR conditions 
-likely. 
+Gusty trade winds peaking between 25 to 35 knots continue across
+the islands. Winds are expected to increase during the day with 
+the potential for gusts as high as 45 knots this 
+afternoon/evening. Locally stronger winds are possible from 
+Molokai to the Big Island due to Hurricane Nolo. North of Molokai,
+occasional trade showers and temporary reductions  in
+visibility/ceilings continue across windward and mauka areas. 
+Showers from Hurricane Nolo continued across the Big Island 
+overnight bringing temporary periods of MVFR-IFR conditions. 
+Additional rounds of showers are forecast today, so expect 
+temporary reductions in visibility and ceiling heights (MVFR-IFR 
+conditions) as stronger showers move over the island. Scattered 
+showers will extend northwards from the Big Island to Molokai with
+temporary MVFR-IFR conditions possible if a stronger shower is 
+able to develop.
 
-AIRMET Sierra has been issued for IFR conditions across eastern
-Big Island, and will likely remain in effect through tonight.
-Additionally, AIRMET Sierra remains in effect for tempo mountain
-obscuration for eastern Kauai, Oahu, Molokai, and Maui through
-tonight.
+AIRMET Sierra has been issued for IFR conditions across the eastern
+Big Island. Additionally, AIRMET Sierra remains in effect for 
+tempo mountain obscuration for eastern Kauai, Oahu, Molokai, 
+Lanai, and Maui tonight.
 
 AIRMET Tango remains in effect for moderate turbulence downwind of
 island terrain due to breezy trade winds. Expect this to continue
-through the forecast period. It is possible that an AIRMET for 
-sustained 30 kt winds will be needed for the Big Island by 
-Saturday as Nolo passes to the south.
+through the forecast period. An AIRMET has been issued for surface
+winds greater than 30 knots due to Hurricane Nolo for the Big
+Island, Maui, Lanai, and Molokai. This will remain in effect
+through at least this evening amd may need to be extended to
+include the rest of the state.
 
 TC SIGMET Oscar series covers Hurricane Nolo, and interests should
 continue to monitor for updates to this SIGMET.
 
 .MARINE...
-Issued at 918 PM HST Fri Sep 25 2026
 
 Hurricane Warnings around the Big Island and Tropical Storm 
 Warnings around Maui County remain in effect as Hurricane Nolo
-inches northward. A Gale Watch is in effect for the remaining
-waters through Sunday. Nolo is still forecast to turn west well 
-before reaching the Big Island or adjacent nearshore waters, but 
-strong winds and high seas can nonetheless be expected well away
-from the storm itself. 
+begins to accelerate slowly westward today. A Small Craft Advisory
+remains in effect for the remaining waters today. The Gale Watch
+for waters around Oahu and Kauai has been trimmed back to tonight
+and Sunday as confidence has decreased somewhat in widespread 
+gale force winds developing across the coastal waters. Nolo is 
+expected to remain south of the Hawaiian Islands, centered well 
+outside of the coastal waters this weekend, but strong winds and 
+high seas can nonetheless be expected well away from the storm 
+itself. The hurricane will gain distance from the islands as it
+begins to turn northwest by early next week, leading to more
+limited impacts by Monday.
 
-South to southeast fresh swell emanating from Nolo will spread 
-west across the southern nearshore waters as the system tracks 
-west through early next week. The High Surf Advisory (HSA) for E 
-and SE facing shores of the Big Island, Maui, and Molokai remains 
-in effect and has been extended through Sunday. In addition, an 
-HSA is now in effect for Kauai, Oahu, and Niihau beginning tonight
-due to strengthening trades. A small, long period NW swell fills 
-in this weekend in maintenance of elevated surf along exposed 
-shorelines into early next week. 
+A combination of southeast swell originating from Hurricane Nolo and
+strengthening easterly trade winds is producing advisory level surf 
+for east facing shores of Kauai and Oahu, and east and southeast 
+facing shores of Maui, Molokai, and the Big Island today. Advisory
+level surf is expected to continue through Sunday, for which the High
+Surf Advisory remains in effect. By that point, Nolo will gain some
+distance from the islands to the southwest, leading to less direct
+swell impacts and weakening trade winds, which will decrease east and
+southeast shore surf below advisory criteria. A series of small,
+medium-period east swells are expected from Hurricanes Odalys and Polo
+in the East Pacific next week. 
+
+South facing shores can expect a moderate bump to surf as Hurricane
+Nolo tracks south of the islands through at least the weekend. A 
+small, long period northwest swell also fills in this weekend and
+brings a small bump to north facing shores into early next week.
 
 .FIRE WEATHER...
-Issued at 918 PM HST Fri Sep 25 2026
-
-Winds will steadily increase as Hurricane Nolo moves closer. Very
-strong winds are possible on the Big Island, though heavy rainfall
-will likely mitigate fire danger over most areas. From Kauai to 
-Maui County, rainfall over the last month has led to some 
-improvement in fuels, but the gusty trade winds will produce 
-moderate fire weather conditions over drier leeward areas through 
-the weekend. Drier conditions are expected early next week, 
-although winds will diminish substantially as pressure gradient 
-weakens.
-
-.PREV DISCUSSION...
-Issued at 918 PM HST Fri Sep 25 2026
-
-High-level cloudiness with light showers prevailed across the Big 
-Island this afternoon as Hurricane Nolo continues to move slowly 
-north-northeast. The rest of the islands remained relatively quiet, 
-aside from breeze conditions throughout the day.
-
-Latest radar imagery shows rainbands associated with Nolo inching 
-closer to the Big Island. These bands are expected to move through 
-tonight into Saturday morning, producing periods of heavy rainfall 
-that could lead to flash flooding and dangerous mudslides.
-
-The latest National Hurricane Center track still indicates Nolo will 
-make its closest approach late tonight before turning westward. 
-Although forecast precipitation amounts for the state have been 
-adjusted slightly downward, rainfall totals remain high enough to 
-cause life-threatreninh flooding,especially across the Big Island. 
-Other impacts are summarized in the marine and aviation sections.
-
-Impacts from Nolo will worsen through tomorrow morning and persist 
-through Saturday night. A slow improvement in weather conditions is 
-expected on Sunday as Nolo moves away from the area.
-
-By the middle of next week, troughing will draw Nolo north or 
-northeastward to the west of Kauai. Toward the end of next week, 
-light south-to-southeast wind flow is expected to prevail as the 
-pressure gradient over the state weakens substantially. 
+Winds will remain strong and gusty over the highest terrain of 
+the Big Island and Maui, and gusty trades over Oahu and Kauai. The
+rainfall on the Big Island will likely mitigate fire danger over 
+most areas. From Kauai to Maui County, rainfall over the last 
+month has led to some improvement in fuels, but the gusty trade 
+winds will produce moderate fire weather conditions over drier 
+leeward areas through the weekend. Drier conditions are expected 
+early next week, although winds will diminish substantially as 
+pressure gradient weakens.
 
 .HFO WATCHES/WARNINGS/ADVISORIES...
-Wind Advisory from 6 AM Saturday to 6 PM HST Sunday for Central 
-Oahu-East Honolulu-Ewa Plain-Honolulu Metro-Kauai East-Kauai 
-Mountains-Kauai North-Kauai South-Kauai Southwest-Koolau Leeward-
-Koolau Windward-Niihau-Oahu North Shore-Olomana-Waianae Coast-
-Waianae Mountains.
+Wind Advisory until 6 PM HST Sunday for Central Oahu-East 
+Honolulu-Ewa Plain-Honolulu Metro-Kauai East-Kauai Mountains-
+Kauai North-Kauai South-Kauai Southwest-Koolau Leeward-Koolau 
+Windward-Niihau-Oahu North Shore-Olomana-Waianae Coast-Waianae 
+Mountains.
 
 High Surf Advisory until 6 PM HST Sunday for Big Island East-Big 
 Island North-Big Island Southeast-Kauai East-Kauai South-
 Kipahulu-Koolau Windward-Maui Windward West-Molokai Southeast-
 Molokai Windward-Olomana-South Haleakala-Windward Haleakala.
 
-Flood Watch through Saturday afternoon for Big Island East-Big 
+Flood Watch through this afternoon for Big Island East-Big 
 Island Interior-Big Island North-Big Island South-Big Island 
 Southeast-Big Island Summits-Haleakala Summit-Kahoolawe-Kipahulu-
 Kohala-Kona-Lanai Leeward-Lanai Mauka-Lanai South-Lanai Windward-
@@ -243,19 +240,18 @@ Big Island Southeast Waters-Big Island Windward Waters.
 Tropical Storm Warning for Alenuihaha Channel-Big Island Leeward 
 Waters-Big Island Southeast Waters-Big Island Windward Waters. 
 
-Small Craft Advisory until 6 PM HST Saturday for Kauai Channel-
-Kauai Leeward Waters-Kauai Northwest Waters-Kauai Windward 
-Waters-Oahu Leeward Waters-Oahu Windward Waters.
-
-Gale Watch from 6 AM HST Saturday through Sunday afternoon for 
-Kauai Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
+Small Craft Advisory until 6 PM HST this evening for Kauai 
+Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
 Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
 
-DISCUSSION...Castro
+Gale Watch from this evening through Sunday afternoon for Kauai 
+Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
+Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
+
+DISCUSSION...M Ballard
 AVIATION...Kennedy
-MARINE...JVC
-FIRE WEATHER...Castro
-UPDATE...M Ballard
+MARINE...Quesada
+FIRE WEATHER...M Ballard
 ```
 
 ---
@@ -269,649 +265,587 @@ UPDATE...M Ballard
 
 ```text
 000
-FZHW50 PHFO 260911
+FZHW50 PHFO 261500
 CWFHFO
 
 Coastal Waters Forecast
 National Weather Service Honolulu HI
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 Hawaiian coastal waters within 40 nautical miles including the
 Hawaiian Islands Humpback Whale National Marine Sanctuary.
 
-PHZ100-262215-
-1111 PM HST Fri Sep 25 2026
+PHZ100-270330-
+500 AM HST Sat Sep 26 2026
 
 .Synopsis for Hawaiian coastal waters...
 Strong winds and hazardous seas will accompany Hurricane Nolo as
 it advances westward across area waters through the weekend, then
 turns northwest early next week. 
 
-PHZ110-262215-
+PHZ110-270330-
 Kauai Northwest Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
 AFTERNOON...
 
-.REST OF TONIGHT...East northeast winds to 25 knots. Seas 8 to
-10 feet. Wave Detail: East 9 feet at 9 seconds and north
-northeast 3 feet at 18 seconds. Scattered showers. 
-.SATURDAY...East northeast winds 20 to 25 knots, rising to 25 to
-30 knots in the afternoon. Seas 10 to 11 feet. Wave Detail: East
-10 feet at 9 seconds and north northwest 3 feet at 17 seconds.
-Scattered showers. 
-.SATURDAY NIGHT...East northeast winds 25 to 30 knots. Seas 11 to
-14 feet. Wave Detail: East 13 feet at 9 seconds and north
-northwest 4 feet at 15 seconds. Isolated showers. 
-.SUNDAY...Tropical storm conditions possible. East northeast
-winds 25 to 35 knots. Seas 12 to 14 feet. Wave Detail: East
-13 feet at 9 seconds and north northeast 4 feet at 13 seconds.
-Scattered showers. 
-.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 11 to 13 feet.
-Wave Detail: East 12 feet at 9 seconds, north northeast 4 feet at
-12 seconds and south 4 feet at 13 seconds. Scattered showers. 
-.MONDAY...East winds 20 to 25 knots. Seas 10 to 13 feet. Wave
-Detail: East 11 feet at 8 seconds, south 5 feet at 12 seconds and
-north 4 feet at 12 seconds. Scattered showers. 
-.MONDAY NIGHT...East winds 20 to 25 knots. Seas 9 to 12 feet,
-subsiding to 9 to 10 feet after midnight. Wave Detail: East
-10 feet at 8 seconds, south southwest 5 feet at 11 seconds and
-north northwest 3 feet at 12 seconds. Scattered showers. 
+.TODAY...East northeast winds 20 to 25 knots. Gusts up to
+35 knots this afternoon. Seas 8 to 10 feet. Wave Detail: East
+10 feet at 8 seconds. Scattered showers. 
+.TONIGHT...East northeast winds 25 to 30 knots. Seas 10 to
+13 feet, building to 12 to 13 feet after midnight. Wave Detail:
+East 13 feet at 9 seconds. Isolated showers. 
+.SUNDAY...East northeast winds 25 to 30 knots. Seas 10 to
+12 feet. Wave Detail: East 12 feet at 9 seconds. Scattered
+showers. 
+.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 10 to 12 feet.
+Wave Detail: East 11 feet at 9 seconds, south 5 feet at
+12 seconds and north northwest 3 feet at 15 seconds. Scattered
+showers. 
+.MONDAY...East winds 20 to 25 knots. Seas 10 to 12 feet. Wave
+Detail: East 10 feet at 9 seconds, south southwest 6 feet at
+10 seconds and north northwest 3 feet at 14 seconds. Scattered
+showers. 
+.MONDAY NIGHT...East winds 20 to 25 knots. Seas 8 to 10 feet.
+Wave Detail: East 9 feet at 8 seconds and south southwest 5 feet
+at 10 seconds. Scattered showers. 
 .TUESDAY...East winds 15 to 20 knots, becoming east southeast
 20 to 25 knots after midnight. Seas 7 to 10 feet. Wave Detail:
-East 8 feet at 7 seconds, south southwest 5 feet at 11 seconds
-and north northwest 3 feet at 11 seconds. Scattered showers. 
-.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 7 to
-8 feet. Wave Detail: East 7 feet at 7 seconds and southwest
-5 feet at 9 seconds. Scattered showers.  
-
-PHZ111-262215-
-Kauai Windward Waters-
-1111 PM HST Fri Sep 25 2026
-
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
-AFTERNOON...
-
-.REST OF TONIGHT...East northeast winds to 25 knots. Seas 9 to
-11 feet. Wave Detail: East southeast 10 feet at 9 seconds and
-north northeast 3 feet at 18 seconds. Scattered showers. 
-.SATURDAY...East northeast winds 20 to 25 knots. Gusts up to
-35 knots in the afternoon. Seas 10 to 13 feet. Wave Detail: East
-southeast 12 feet at 9 seconds and north northwest 3 feet at
-17 seconds. Scattered showers. 
-.SATURDAY NIGHT...East northeast winds 25 to 30 knots. Seas 13 to
-14 feet. Wave Detail: East southeast 13 feet at 10 seconds and
-northwest 3 feet at 15 seconds. Scattered showers, mainly in the
-evening. 
-.SUNDAY...East winds 25 to 30 knots. Seas 13 to 14 feet. Wave
-Detail: East southeast 13 feet at 9 seconds and north northeast
-3 feet at 13 seconds. Scattered showers. 
-.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 12 to 14 feet.
-Wave Detail: East southeast 12 feet at 9 seconds, south 5 feet at
-13 seconds and north northeast 3 feet at 12 seconds. Scattered
-showers. 
-.MONDAY...East winds 20 to 25 knots. Seas 11 to 14 feet. Wave
-Detail: East southeast 12 feet at 9 seconds, south 6 feet at
-11 seconds and north northwest 3 feet at 14 seconds. Scattered
-showers. 
-.MONDAY NIGHT...East winds 20 to 25 knots. Seas 10 to 13 feet,
-subsiding to 10 to 11 feet after midnight. Wave Detail: East
-southeast 11 feet at 8 seconds, south southwest 6 feet at
-11 seconds and north northwest 3 feet at 12 seconds. Scattered
-showers. 
-.TUESDAY...East winds to 20 knots. Seas 8 to 11 feet. Wave
-Detail: East southeast 8 feet at 8 seconds and south southwest
-5 feet at 9 seconds. Scattered showers. 
-.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 7 to
-8 feet. Wave Detail: East 7 feet at 7 seconds and south southwest
-4 feet at 15 seconds. Scattered showers.  
-
-PHZ112-262215-
-Kauai Leeward Waters-
-1111 PM HST Fri Sep 25 2026
-
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
-AFTERNOON...
-
-.REST OF TONIGHT...East northeast winds 20 to 25 knots. Seas 8 to
-11 feet. Wave Detail: East southeast 10 feet at 9 seconds and
-north northeast 3 feet at 18 seconds. Scattered showers. 
-.SATURDAY...East northeast winds 20 to 25 knots, rising to 25 to
-30 knots in the afternoon. Seas 9 to 13 feet. Wave Detail: East
-southeast 12 feet at 9 seconds and north 3 feet at 17 seconds.
-Scattered showers. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 35 knots. Seas 12 to 16 feet. Wave Detail:
-East 15 feet at 10 seconds, north northwest 3 feet at 15 seconds
-and south southwest 3 feet at 15 seconds. Isolated showers. 
-.SUNDAY...Tropical storm conditions possible. East northeast
-winds 25 to 35 knots, rising to 30 to 40 knots in the afternoon.
-Seas 12 to 15 feet. Wave Detail: East 15 feet at 10 seconds and
-north 3 feet at 13 seconds. Isolated showers. 
-.SUNDAY NIGHT...Tropical storm conditions possible. East winds
-25 to 35 knots. Seas 11 to 15 feet. Wave Detail: East 14 feet at
-9 seconds, south 5 feet at 13 seconds and north 3 feet at
+East southeast 9 feet at 8 seconds and southwest 4 feet at
 16 seconds. Scattered showers. 
-.MONDAY...East winds 25 to 30 knots. Seas 11 to 14 feet. Wave
-Detail: East southeast 12 feet at 9 seconds, south 6 feet at
-11 seconds and north northwest 3 feet at 14 seconds. Scattered
-showers. 
-.MONDAY NIGHT...East winds 25 to 30 knots, easing to 20 to
-25 knots after midnight. Seas 10 to 13 feet, subsiding to 9 to
-11 feet after midnight. Wave Detail: East southeast 11 feet at
-8 seconds, south southwest 6 feet at 11 seconds and north
-northwest 3 feet at 12 seconds. Scattered showers. 
-.TUESDAY...East winds 20 to 25 knots, becoming east southeast
-25 to 30 knots. Seas 7 to 10 feet. Wave Detail: Southeast 8 feet
-at 7 seconds and south southwest 5 feet at 10 seconds. Scattered
-showers. 
-.WEDNESDAY...Southeast winds 25 to 30 knots. Seas 6 to 8 feet.
-Wave Detail: East 7 feet at 7 seconds and southwest 5 feet at
-9 seconds. Scattered showers.  
+.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 7 to
+10 feet. Wave Detail: Southeast 10 feet at 8 seconds and south
+southwest 3 feet at 15 seconds. Scattered showers.  
 
-PHZ113-262215-
-Kauai Channel-
-1111 PM HST Fri Sep 25 2026
+PHZ111-270330-
+Kauai Windward Waters-
+500 AM HST Sat Sep 26 2026
 
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
 AFTERNOON...
 
-.REST OF TONIGHT...East northeast winds to 25 knots. Seas 10 to
-12 feet. Wave Detail: East 11 feet at 9 seconds and north
-northeast 3 feet at 18 seconds. Scattered showers. 
-.SATURDAY...East northeast winds 25 to 30 knots. Seas 11 to
-13 feet. Wave Detail: East 12 feet at 9 seconds and north
-northeast 3 feet at 17 seconds. Scattered showers. 
-.SATURDAY NIGHT...East northeast winds 25 to 30 knots. Seas 13 to
-15 feet. Wave Detail: East northeast 14 feet at 9 seconds, north
-northeast 3 feet at 15 seconds and south southwest 3 feet at
-15 seconds. Isolated showers. 
-.SUNDAY...East northeast winds 25 to 30 knots. Seas 13 to
-14 feet. Wave Detail: East northeast 14 feet at 9 seconds and
-north northeast 3 feet at 13 seconds. Isolated showers. 
-.SUNDAY NIGHT...East northeast winds 25 to 30 knots. Seas 11 to
-14 feet. Wave Detail: East 13 feet at 9 seconds, south 5 feet at
-13 seconds and north northeast 3 feet at 16 seconds. Isolated
+.TODAY...East northeast winds 20 to 25 knots. Gusts up to
+35 knots this afternoon. Seas 10 to 11 feet. Wave Detail: East
+southeast 10 feet at 8 seconds. Scattered showers. 
+.TONIGHT...East northeast winds 25 to 30 knots. Seas 10 to
+13 feet, building to 12 to 13 feet after midnight. Wave Detail:
+East southeast 13 feet at 9 seconds. Scattered showers, mainly in
+the evening. 
+.SUNDAY...East winds 25 to 30 knots. Seas 12 to 14 feet. Wave
+Detail: East southeast 13 feet at 9 seconds and south 4 feet at
+14 seconds. Scattered showers. 
+.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 12 to 13 feet.
+Wave Detail: East southeast 12 feet at 9 seconds, south 5 feet at
+10 seconds and north northwest 3 feet at 16 seconds. Numerous
+showers, mainly in the evening. 
+.MONDAY...East winds 20 to 25 knots. Seas 11 to 13 feet. Wave
+Detail: East southeast 11 feet at 9 seconds, south southwest
+6 feet at 10 seconds and north northwest 3 feet at 14 seconds.
+Scattered showers. 
+.MONDAY NIGHT...East winds 20 to 25 knots. Seas 9 to 12 feet,
+subsiding to 8 to 10 feet after midnight. Wave Detail: East
+southeast 10 feet at 8 seconds, south southwest 5 feet at
+10 seconds and north northwest 3 feet at 12 seconds. Scattered
 showers. 
-.MONDAY...East winds 20 to 25 knots. Seas 10 to 13 feet. Wave
-Detail: East 11 feet at 8 seconds, south southwest 6 feet at
-11 seconds and north 3 feet at 15 seconds. Isolated showers. 
-.MONDAY NIGHT...East winds 20 to 25 knots, easing to 15 to
-20 knots after midnight. Seas 9 to 12 feet. Wave Detail: East
-southeast 10 feet at 8 seconds, south southwest 6 feet at
-11 seconds and north 3 feet at 12 seconds. Scattered showers. 
-.TUESDAY...East southeast winds 15 to 20 knots. Seas 7 to
-10 feet. Wave Detail: East southeast 7 feet at 7 seconds and
-southwest 5 feet at 9 seconds. Scattered showers. 
-.WEDNESDAY...Southeast winds 15 to 20 knots. Seas 6 to 7 feet.
-Wave Detail: East 6 feet at 7 seconds and south 5 feet at
-15 seconds. Scattered showers.  
-
-PHZ114-262215-
-Oahu Windward Waters-
-1111 PM HST Fri Sep 25 2026
-
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
-AFTERNOON...
-
-.REST OF TONIGHT...East northeast winds 25 to 30 knots. Seas
-10 to 12 feet. Wave Detail: East 12 feet at 9 seconds and north
-northeast 3 feet at 18 seconds. Scattered showers. 
-.SATURDAY...East northeast winds 25 to 30 knots. Seas 11 to
-13 feet. Wave Detail: East southeast 13 feet at 9 seconds and
-north northwest 3 feet at 17 seconds. Scattered showers. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 30 knots, veering to east 30 to 35 knots
-after midnight. Seas 13 to 14 feet. Wave Detail: East 14 feet at
-9 seconds and northwest 3 feet at 15 seconds. Isolated showers. 
-.SUNDAY...Tropical storm conditions possible. East winds 30 to
-35 knots. Seas 13 to 14 feet. Wave Detail: East southeast 13 feet
-at 9 seconds and north northeast 3 feet at 14 seconds. Isolated
-showers. 
-.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 11 to 13 feet.
-Wave Detail: East southeast 12 feet at 9 seconds, south 4 feet at
-13 seconds and north 3 feet at 16 seconds. Scattered showers. 
-.MONDAY...East winds 25 to 30 knots. Seas 11 to 13 feet. Wave
-Detail: East southeast 12 feet at 8 seconds, south southwest
-5 feet at 12 seconds and north northwest 3 feet at 15 seconds.
-Scattered showers in the morning. Isolated showers in the
-afternoon. 
-.MONDAY NIGHT...East winds 20 to 25 knots. Seas 9 to 12 feet.
-Wave Detail: East southeast 11 feet at 8 seconds, south southwest
-5 feet at 11 seconds and north northwest 3 feet at 13 seconds.
-Isolated showers. 
-.TUESDAY...East southeast winds to 20 knots. Seas 7 to 10 feet.
-Wave Detail: East southeast 8 feet at 7 seconds and south
-southwest 4 feet at 9 seconds. Isolated showers through the
-night, then scattered showers through the day. 
+.TUESDAY...East winds to 20 knots. Seas 7 to 9 feet. Wave Detail:
+East southeast 8 feet at 7 seconds and south southwest 4 feet at
+16 seconds. Scattered showers. 
 .WEDNESDAY...East southeast winds 20 to 25 knots. Seas 6 to
-7 feet. Wave Detail: East 7 feet at 7 seconds and south southwest
+9 feet. Wave Detail: East southeast 9 feet at 8 seconds and south
 3 feet at 15 seconds. Scattered showers.  
 
-PHZ115-262215-
-Oahu Leeward Waters-
-1111 PM HST Fri Sep 25 2026
+PHZ112-270330-
+Kauai Leeward Waters-
+500 AM HST Sat Sep 26 2026
 
-...GALE WATCH IN EFFECT FROM 6 AM HST SATURDAY THROUGH SUNDAY
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
 AFTERNOON...
 
-.REST OF TONIGHT...East northeast winds 25 to 30 knots. Seas 9 to
-13 feet. Wave Detail: East southeast 13 feet at 9 seconds.
-Isolated showers. 
-.SATURDAY...East northeast winds 25 to 30 knots. Seas 9 to
-13 feet. Wave Detail: East 13 feet at 9 seconds. Scattered
-showers with isolated thunderstorms. 
-.SATURDAY NIGHT...East northeast winds to 30 knots. Seas 11 to
-15 feet. Wave Detail: East 14 feet at 9 seconds. Isolated showers
-after midnight. 
+.TODAY...East northeast winds 20 to 25 knots. Gusts up to
+35 knots this afternoon. Seas 9 to 12 feet. Wave Detail: East
+southeast 11 feet at 10 seconds. Scattered showers. 
+.TONIGHT...East northeast winds 25 to 30 knots. Seas 11 to
+15 feet. Wave Detail: East 15 feet at 10 seconds and south
+southwest 3 feet at 15 seconds. Isolated showers. 
+.SUNDAY...Tropical storm conditions possible. East northeast
+winds 25 to 35 knots. Seas 11 to 15 feet. Wave Detail: East
+southeast 15 feet at 10 seconds. Isolated showers. 
+.SUNDAY NIGHT...Tropical storm conditions possible. East winds
+25 to 35 knots. Seas 11 to 15 feet. Wave Detail: East southeast
+14 feet at 9 seconds and south 5 feet at 11 seconds. Isolated
+showers. 
+.MONDAY...East winds 25 to 30 knots. Seas 10 to 13 feet. Wave
+Detail: East 11 feet at 8 seconds and south southwest 7 feet at
+10 seconds. Isolated showers. 
+.MONDAY NIGHT...East winds 25 to 30 knots, easing to 20 to
+25 knots after midnight. Seas 9 to 11 feet. Wave Detail: East
+southeast 10 feet at 8 seconds and south southwest 5 feet at
+9 seconds. Scattered showers. 
+.TUESDAY...East winds 20 to 25 knots, becoming east southeast
+25 to 30 knots. Seas 9 to 12 feet. Wave Detail: South southeast
+10 feet at 8 seconds and south southwest 5 feet at 16 seconds.
+Scattered showers in the morning, then numerous showers. 
+.WEDNESDAY...Southeast winds 25 to 30 knots. Seas 7 to 10 feet.
+Wave Detail: South southeast 10 feet at 9 seconds and south
+southwest 4 feet at 15 seconds. Numerous showers in the morning,
+then scattered showers in the afternoon. Numerous showers through
+the day.  
+
+PHZ113-270330-
+Kauai Channel-
+500 AM HST Sat Sep 26 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
+AFTERNOON...
+
+.TODAY...East northeast winds 25 to 30 knots. Seas 10 to 12 feet.
+Wave Detail: East 11 feet at 8 seconds. Scattered showers. 
+.TONIGHT...East northeast winds 25 to 30 knots. Seas 11 to
+14 feet, building to 13 to 14 feet after midnight. Wave Detail:
+East 14 feet at 9 seconds and south southwest 3 feet at
+15 seconds. Isolated showers. 
+.SUNDAY...East northeast winds 25 to 30 knots. Seas 12 to
+14 feet. Wave Detail: East 14 feet at 9 seconds and south 4 feet
+at 14 seconds. Isolated showers. 
+.SUNDAY NIGHT...East northeast winds 25 to 30 knots. Seas 11 to
+14 feet. Wave Detail: East 12 feet at 9 seconds and south 5 feet
+at 10 seconds. Isolated showers. 
+.MONDAY...East winds 20 to 25 knots. Seas 10 to 13 feet. Wave
+Detail: East 10 feet at 8 seconds and south southwest 6 feet at
+10 seconds. Isolated showers. 
+.MONDAY NIGHT...East winds 20 to 25 knots, easing to 15 to
+20 knots after midnight. Seas 8 to 10 feet. Wave Detail: East
+9 feet at 8 seconds and southwest 5 feet at 7 seconds. Isolated
+showers. 
+.TUESDAY...East southeast winds 15 to 20 knots. Seas 7 to
+10 feet. Wave Detail: East southeast 8 feet at 7 seconds and
+south southwest 4 feet at 16 seconds. Isolated showers in the
+morning, then scattered showers. 
+.WEDNESDAY...Southeast winds 15 to 20 knots. Seas 6 to 9 feet.
+Wave Detail: Southeast 9 feet at 8 seconds and south 3 feet at
+15 seconds. Scattered showers.  
+
+PHZ114-270330-
+Oahu Windward Waters-
+500 AM HST Sat Sep 26 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
+AFTERNOON...
+
+.TODAY...East northeast winds 25 to 30 knots. Seas 10 to 11 feet.
+Wave Detail: East southeast 11 feet at 8 seconds. Scattered
+showers. 
+.TONIGHT...East northeast winds to 30 knots. Seas 11 to 13 feet.
+Wave Detail: East 13 feet at 9 seconds. Isolated showers. 
+.SUNDAY...East winds 25 to 30 knots. Seas 13 to 14 feet. Wave
+Detail: East southeast 13 feet at 9 seconds and south 4 feet at
+11 seconds. Isolated showers. 
+.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 12 to 14 feet.
+Wave Detail: East southeast 13 feet at 9 seconds, south 4 feet at
+9 seconds and north northwest 3 feet at 16 seconds. Scattered
+showers. 
+.MONDAY...East winds 25 to 30 knots. Seas 11 to 13 feet. Wave
+Detail: East southeast 12 feet at 8 seconds, south southwest
+5 feet at 10 seconds and north northwest 3 feet at 14 seconds.
+Scattered showers. 
+.MONDAY NIGHT...East winds 20 to 25 knots. Seas 8 to 11 feet.
+Wave Detail: East southeast 10 feet at 8 seconds, south southwest
+4 feet at 8 seconds and north northwest 3 feet at 13 seconds.
+Isolated showers in the evening. Scattered showers after
+midnight. 
+.TUESDAY...East southeast winds to 20 knots. Seas 7 to 9 feet.
+Wave Detail: East southeast 8 feet at 7 seconds. Isolated
+showers. Scattered showers after midnight. 
+.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 5 to
+8 feet. Wave Detail: East southeast 8 feet at 7 seconds. Isolated
+showers in the morning, then scattered showers.  
+
+PHZ115-270330-
+Oahu Leeward Waters-
+500 AM HST Sat Sep 26 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE THIS AFTERNOON...
+...GALE WATCH IN EFFECT FROM THIS EVENING THROUGH SUNDAY
+AFTERNOON...
+
+.TODAY...East northeast winds 25 to 30 knots. Seas 9 to 13 feet.
+Wave Detail: East 12 feet at 8 seconds. Scattered showers with
+isolated thunderstorms. 
+.TONIGHT...East northeast winds 25 to 30 knots. Seas 10 to
+14 feet, building to 12 to 15 feet after midnight. Wave Detail:
+East 15 feet at 9 seconds. Isolated showers after midnight. 
 .SUNDAY...East northeast winds 25 to 30 knots, easing to 20 to
-25 knots in the afternoon. Seas 10 to 14 feet. Wave Detail: East
-13 feet at 9 seconds and south 3 feet at 14 seconds. Isolated
-showers in the morning. 
+25 knots in the afternoon. Seas 11 to 15 feet. Wave Detail: East
+southeast 14 feet at 10 seconds and south 5 feet at 11 seconds.
+Isolated showers in the morning. 
 .SUNDAY NIGHT...East northeast winds 20 to 25 knots. Gusts up to
-35 knots in the evening. Seas 9 to 12 feet. Wave Detail: East
-southeast 11 feet at 9 seconds and south 5 feet at 13 seconds.
-Isolated showers after midnight. 
+35 knots in the evening. Seas 9 to 13 feet. Wave Detail: East
+southeast 12 feet at 10 seconds and south 5 feet at 9 seconds. 
 .MONDAY...East winds 15 to 20 knots, easing to 10 to 15 knots in
 the afternoon. Seas 9 to 11 feet. Wave Detail: East southeast
-10 feet at 9 seconds and south southwest 5 feet at 11 seconds.
-Isolated showers in the morning. 
-.MONDAY NIGHT...East winds 10 to 15 knots. Seas 8 to 10 feet.
-Wave Detail: Southeast 8 feet at 8 seconds and south southwest
-5 feet at 11 seconds. Isolated showers. 
-.TUESDAY...East southeast winds 10 to 15 knots. Seas 7 to
-10 feet. Wave Detail: Southeast 6 feet at 7 seconds and southwest
-5 feet at 8 seconds. Isolated showers in the morning, then
-scattered showers. 
+9 feet at 8 seconds and south southwest 5 feet at 9 seconds. 
+.MONDAY NIGHT...East winds 10 to 15 knots. Seas 7 to 10 feet.
+Wave Detail: East southeast 8 feet at 8 seconds and south
+southwest 5 feet at 12 seconds. Isolated showers. 
+.TUESDAY...East southeast winds 10 to 15 knots. Seas 6 to 9 feet.
+Wave Detail: Southeast 7 feet at 8 seconds and south southwest
+4 feet at 16 seconds. Isolated showers through the night, then
+scattered showers through the day. 
 .WEDNESDAY...Southeast winds 10 to 15 knots, rising to 15 to
-20 knots. Seas 6 to 7 feet. Wave Detail: Southeast 5 feet at
-6 seconds and south southwest 5 feet at 15 seconds. Scattered
+20 knots. Seas 6 to 9 feet. Wave Detail: South southeast 8 feet
+at 8 seconds and south southwest 3 feet at 15 seconds. Scattered
 showers.  
 
 Winds and seas higher in and near tstms.
 
-PHZ116-262215-
+PHZ116-270330-
 Kaiwi Channel-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 30 knots. Seas 10 to 13 feet. Wave Detail:
-East northeast 13 feet at 8 seconds and north northeast 3 feet at
-11 seconds. Isolated showers and thunderstorms. 
-.SATURDAY...Tropical storm conditions expected. East northeast
-winds 30 to 35 knots. Seas 11 to 14 feet. Wave Detail: East
-northeast 14 feet at 9 seconds and north northeast 3 feet at
-17 seconds. Scattered showers with isolated thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 30 to 35 knots, becoming 25 to 35 knots after
-midnight. Seas 12 to 14 feet. Wave Detail: East northeast 14 feet
-at 9 seconds and north northeast 3 feet at 15 seconds. 
+.TODAY...Tropical storm conditions expected. East northeast winds
+30 to 35 knots. Seas 11 to 12 feet. Wave Detail: East northeast
+12 feet at 8 seconds. Scattered showers with isolated
+thunderstorms. 
+.TONIGHT...Tropical storm conditions expected. East northeast
+winds 30 to 35 knots, becoming 25 to 35 knots after midnight.
+Seas 12 to 14 feet. Wave Detail: East northeast 14 feet at
+8 seconds. 
 .SUNDAY...Tropical storm conditions possible. East northeast
-winds 25 to 35 knots. Seas 11 to 14 feet. Wave Detail: East
-14 feet at 9 seconds, south 4 feet at 14 seconds and north
-northeast 3 feet at 13 seconds. Isolated showers. 
-.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 10 to 14 feet.
-Wave Detail: East 12 feet at 8 seconds, south 5 feet at
-11 seconds and north 3 feet at 16 seconds. 
+winds 25 to 35 knots. Seas 12 to 16 feet. Wave Detail: East
+14 feet at 9 seconds and south 5 feet at 14 seconds. Isolated
+showers. 
+.SUNDAY NIGHT...East winds 25 to 30 knots. Seas 12 to 15 feet,
+subsiding to 10 to 14 feet after midnight. Wave Detail: East
+13 feet at 9 seconds and south southwest 5 feet at 9 seconds. 
 .MONDAY...East winds 25 to 30 knots, easing to 20 to 25 knots in
-the afternoon. Seas 9 to 13 feet. Wave Detail: East 11 feet at
-8 seconds, south southwest 5 feet at 10 seconds and north 3 feet
-at 15 seconds. 
+the afternoon. Seas 9 to 13 feet. Wave Detail: East 12 feet at
+8 seconds and southwest 5 feet at 9 seconds. 
 .MONDAY NIGHT...East winds 20 to 25 knots. Gusts up to 35 knots
-in the evening. Seas 9 to 12 feet. Wave Detail: East 10 feet at
-8 seconds, south southwest 5 feet at 10 seconds and north 3 feet
-at 13 seconds. 
+in the evening. Seas 8 to 11 feet. Wave Detail: East 9 feet at
+8 seconds and southwest 5 feet at 12 seconds. 
 .TUESDAY...East winds 15 to 20 knots. Seas 6 to 9 feet. Wave
-Detail: East southeast 8 feet at 7 seconds and southwest 5 feet
-at 8 seconds. Isolated showers. 
+Detail: East southeast 7 feet at 7 seconds and south southwest
+4 feet at 16 seconds. Isolated showers in the evening. Scattered
+showers after midnight. 
 .WEDNESDAY...East southeast winds 15 to 20 knots. Seas 5 to
-7 feet. Wave Detail: East 7 feet at 6 seconds and south southwest
-4 feet at 15 seconds. Isolated showers.  
+7 feet. Wave Detail: Southeast 7 feet at 8 seconds and south
+3 feet at 15 seconds. Isolated showers.  
 
 Winds and seas higher in and near tstms.
 
-PHZ117-262215-
+PHZ117-270330-
 Maui County Windward Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions possible. East winds
-25 to 30 knots. Seas 10 to 12 feet. Wave Detail: East 12 feet at
-8 seconds and north northeast 3 feet at 18 seconds. Scattered
-heavy showers with isolated thunderstorms. 
-.SATURDAY...Tropical storm conditions expected. East winds 25 to
-35 knots. Seas 12 to 13 feet. Wave Detail: East 13 feet at
-8 seconds and northwest 3 feet at 18 seconds. Scattered heavy
-showers with isolated thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East winds
-25 to 35 knots, rising to 30 to 40 knots after midnight. Seas
-12 to 14 feet. Wave Detail: East northeast 14 feet at 8 seconds
-and northwest 3 feet at 15 seconds. Isolated showers. 
+.TODAY...Tropical storm conditions expected. East winds 25 to
+35 knots. Seas 9 to 11 feet. Wave Detail: East 10 feet at
+7 seconds. Scattered heavy showers with isolated thunderstorms. 
+.TONIGHT...Tropical storm conditions expected. East winds 25 to
+35 knots, rising to 30 to 40 knots after midnight. Seas 10 to
+12 feet. Wave Detail: East northeast 12 feet at 8 seconds.
+Isolated showers. 
 .SUNDAY...Tropical storm conditions possible. East winds 30 to
-40 knots. Seas 11 to 13 feet. Wave Detail: East 13 feet at
-8 seconds and north northwest 3 feet at 14 seconds. Scattered
-showers. 
+40 knots. Seas 10 to 13 feet. Wave Detail: East 12 feet at
+8 seconds. Scattered showers. 
 .SUNDAY NIGHT...Tropical storm conditions possible. East winds
-25 to 35 knots. Seas 10 to 12 feet. Wave Detail: East southeast
-12 feet at 8 seconds and north northwest 3 feet at 17 seconds.
-Scattered showers. 
-.MONDAY...East winds 25 to 30 knots. Seas 10 to 11 feet. Wave
-Detail: East southeast 11 feet at 8 seconds and north northwest
+25 to 35 knots. Seas 11 to 13 feet, subsiding to 10 to 11 feet
+after midnight. Wave Detail: East southeast 12 feet at 8 seconds
+and north northwest 3 feet at 16 seconds. Scattered showers. 
+.MONDAY...East winds 25 to 30 knots. Seas 9 to 12 feet. Wave
+Detail: East southeast 11 feet at 7 seconds and north northwest
 3 feet at 15 seconds. Scattered showers in the morning. Isolated
 showers in the afternoon. 
-.MONDAY NIGHT...East southeast winds 20 to 25 knots. Seas 8 to
-10 feet. Wave Detail: East southeast 10 feet at 7 seconds and
-north northwest 3 feet at 13 seconds. Isolated showers. 
-.TUESDAY...East southeast winds 20 to 25 knots. Seas 6 to 9 feet.
-Wave Detail: East southeast 8 feet at 7 seconds and north
-northwest 3 feet at 12 seconds. Isolated showers. 
-.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 6 to
-7 feet. Wave Detail: East southeast 6 feet at 6 seconds. Isolated
-showers, then scattered showers after midnight.  
+.MONDAY NIGHT...East southeast winds 20 to 25 knots. Seas 7 to
+10 feet, subsiding to 6 to 8 feet after midnight. Wave Detail:
+East 9 feet at 7 seconds and north northwest 3 feet at
+13 seconds. Isolated showers in the evening. Scattered showers
+after midnight. 
+.TUESDAY...East southeast winds 20 to 25 knots. Seas 6 to 8 feet.
+Wave Detail: Southeast 7 feet at 6 seconds. Isolated showers. 
+.WEDNESDAY...East southeast winds 20 to 25 knots. Seas 5 to
+7 feet. Wave Detail: Southeast 7 feet at 6 seconds. Isolated
+showers.  
 
 Winds and seas higher in and near tstms.
 
-PHZ118-262215-
+PHZ118-270330-
 Maui County Leeward Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 30 knots. Seas 9 to 13 feet. Wave Detail:
-East 13 feet at 7 seconds. Scattered heavy showers with isolated
-thunderstorms. 
-.SATURDAY...Tropical storm conditions expected. East northeast
-winds 25 to 35 knots. Seas 9 to 13 feet. Wave Detail: East
-13 feet at 7 seconds. Scattered heavy showers with isolated
-thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 35 knots. Seas 11 to 15 feet. Wave Detail:
-East 15 feet at 8 seconds. 
-.SUNDAY...Tropical storm conditions possible. East northeast
+.TODAY...Tropical storm conditions expected. East northeast winds
+25 to 35 knots. Seas 8 to 11 feet. Wave Detail: East 11 feet at
+8 seconds. Scattered heavy showers with isolated thunderstorms. 
+.TONIGHT...Tropical storm conditions expected. East northeast
 winds 25 to 35 knots. Seas 10 to 14 feet. Wave Detail: East
-13 feet at 8 seconds and south 4 feet at 14 seconds. 
+14 feet at 9 seconds and south southwest 3 feet at 15 seconds. 
+.SUNDAY...Tropical storm conditions possible. East northeast
+winds 25 to 35 knots. Seas 11 to 15 feet. Wave Detail: East
+14 feet at 10 seconds and south 5 feet at 14 seconds. 
 .SUNDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 30 to 40 knots. Seas 9 to 13 feet. Wave Detail:
-East southeast 11 feet at 8 seconds and south 5 feet at
-11 seconds. 
+northeast winds 30 to 40 knots. Seas 11 to 15 feet, subsiding to
+9 to 13 feet after midnight. Wave Detail: East southeast 13 feet
+at 10 seconds and south southwest 5 feet at 9 seconds. 
 .MONDAY...East winds 25 to 30 knots, easing to 20 to 25 knots in
 the afternoon. Seas 8 to 11 feet. Wave Detail: East southeast
-10 feet at 9 seconds and south southwest 5 feet at 10 seconds. 
+9 feet at 9 seconds and southwest 5 feet at 9 seconds. 
 .MONDAY NIGHT...East winds 25 to 30 knots, easing to 20 to
-25 knots after midnight. Seas 7 to 10 feet. Wave Detail: East
-southeast 9 feet at 8 seconds and south southwest 5 feet at
-10 seconds. Isolated showers after midnight. 
-.TUESDAY...East southeast winds 15 to 20 knots. Seas 5 to 8 feet.
-Wave Detail: Southeast 6 feet at 7 seconds and southwest 4 feet
-at 16 seconds. Isolated showers through the night. Scattered
-showers through the day. 
+25 knots after midnight. Seas 8 to 11 feet. Wave Detail: East
+southeast 9 feet at 8 seconds and south southwest 4 feet at
+12 seconds. Isolated showers after midnight. 
+.TUESDAY...East southeast winds 15 to 20 knots. Seas 6 to 9 feet.
+Wave Detail: East southeast 7 feet at 7 seconds and south
+southwest 4 feet at 16 seconds. Isolated showers through the
+night. Scattered showers through the day. 
 .WEDNESDAY...East southeast winds 15 to 20 knots, rising to 20 to
 25 knots in the evening, easing to 15 to 20 knots after midnight.
-Seas 4 to 6 feet. Wave Detail: East southeast 6 feet at 6 seconds
-and south southwest 4 feet at 15 seconds. Scattered showers in
-the morning, then isolated showers through the night. Scattered
-showers after midnight.  
+Seas 5 to 7 feet. Wave Detail: South southeast 7 feet at
+8 seconds and south southwest 3 feet at 15 seconds. Scattered
+showers.  
 
 Winds and seas higher in and near tstms.
 
-PHZ119-262215-
+PHZ119-270330-
 Maalaea Bay-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions expected. North
-northeast winds to 40 knots. Seas 3 to 5 feet. Wave Detail: North
-5 feet at 4 seconds. Scattered heavy showers with isolated
-thunderstorms. 
-.SATURDAY...Tropical storm conditions expected. North winds to
-40 knots. Seas 3 to 5 feet. Wave Detail: North northeast 5 feet
-at 5 seconds. Scattered heavy showers in the morning. Isolated
-thunderstorms. Isolated heavy showers in the afternoon. 
-.SATURDAY NIGHT...Tropical storm conditions possible. North
-northeast winds 30 to 40 knots. Seas 3 to 5 feet. Wave Detail:
-East northeast 5 feet at 5 seconds. 
-.SUNDAY...East northeast winds 25 to 30 knots. Seas 3 to 5 feet.
-Wave Detail: East northeast 5 feet at 5 seconds and south 4 feet
-at 9 seconds. 
+.TODAY...Tropical storm conditions expected. North winds to
+40 knots. Seas 3 to 5 feet. Wave Detail: North 5 feet at
+4 seconds. Scattered heavy showers this morning. Isolated
+thunderstorms. Isolated heavy showers this afternoon. 
+.TONIGHT...Tropical storm conditions expected. North northeast
+winds 30 to 40 knots. Seas 3 to 5 feet. Wave Detail: North 5 feet
+at 5 seconds and south 3 feet at 13 seconds. 
+.SUNDAY...Tropical storm conditions possible. East northeast
+winds 25 to 30 knots. Seas 4 to 6 feet. Wave Detail: North 6 feet
+at 5 seconds and south 5 feet at 10 seconds. 
 .SUNDAY NIGHT...East northeast winds 20 to 25 knots, easing to
 15 to 20 knots after midnight. Seas 3 to 5 feet. Wave Detail:
-Northeast 5 feet at 4 seconds and south 4 feet at 10 seconds. 
+South southeast 5 feet at 8 seconds and south southwest 4 feet at
+9 seconds. 
 .MONDAY...East winds 15 to 20 knots. Seas 3 to 4 feet. Wave
-Detail: East 4 feet at 4 seconds and south southwest 4 feet at
-10 seconds. 
-.MONDAY NIGHT...East northeast winds 10 to 15 knots. Seas 3 to
-4 feet. Wave Detail: South southeast 4 feet at 6 seconds and
-south southwest 3 feet at 9 seconds. 
-.TUESDAY...East winds to 10 knots. Seas to 3 feet. Wave Detail:
-South southeast 3 feet at 5 seconds. 
-.WEDNESDAY...East winds 10 to 15 knots. Seas to 3 feet.  
+Detail: Southeast 4 feet at 9 seconds and south southwest 4 feet
+at 9 seconds. 
+.MONDAY NIGHT...East northeast winds 10 to 15 knots. Seas to
+3 feet. Wave Detail: South southeast 3 feet at 9 seconds. 
+.TUESDAY...East winds to 10 knots. Seas to 2 feet or less. Wave
+Detail: South southeast 2 feet at 7 seconds. 
+.WEDNESDAY...East winds 10 to 15 knots. Seas to 3 feet. Wave
+Detail: South southeast 3 feet at 7 seconds.  
 
 Winds and seas higher in and near tstms.
 
-PHZ120-262215-
+PHZ120-270330-
 Pailolo Channel-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions expected. East
-northeast winds 35 to 40 knots. Seas 8 to 11 feet. Wave Detail:
-East 10 feet at 7 seconds. Scattered heavy showers with isolated
-thunderstorms. 
-.SATURDAY...Tropical storm conditions expected. East northeast
-winds 35 to 40 knots. Seas 9 to 12 feet. Wave Detail: East
-10 feet at 7 seconds. Scattered heavy showers in the morning.
-Isolated thunderstorms. Isolated heavy showers in the afternoon. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 35 to 45 knots. Seas 9 to 12 feet. Wave Detail:
-East northeast 11 feet at 7 seconds. Isolated showers. 
+.TODAY...Tropical storm conditions expected. East northeast winds
+35 to 40 knots. Seas 8 to 10 feet. Wave Detail: East northeast
+10 feet at 7 seconds. Scattered heavy showers this morning.
+Isolated thunderstorms. Isolated heavy showers this afternoon. 
+.TONIGHT...Tropical storm conditions expected. East northeast
+winds 35 to 45 knots. Seas 9 to 11 feet. Wave Detail: East
+northeast 11 feet at 7 seconds. Isolated showers. 
 .SUNDAY...Tropical storm conditions possible. East northeast
-winds 30 to 40 knots. Seas 8 to 11 feet. Wave Detail: East
-northeast 9 feet at 7 seconds and south 3 feet at 14 seconds. 
+winds 30 to 40 knots. Seas 9 to 12 feet. Wave Detail: East
+northeast 12 feet at 7 seconds and south 4 feet at 14 seconds. 
 .SUNDAY NIGHT...Tropical storm conditions possible. East
 northeast winds 30 to 40 knots, easing to 25 to 30 knots after
-midnight. Seas 8 to 11 feet. Wave Detail: East 8 feet at
-6 seconds and south 4 feet at 10 seconds. 
-.MONDAY...East northeast winds 15 to 20 knots. Seas 6 to 9 feet.
+midnight. Seas 8 to 11 feet, subsiding to 6 to 9 feet after
+midnight. Wave Detail: East 10 feet at 7 seconds and south
+southwest 4 feet at 9 seconds. 
+.MONDAY...East northeast winds 15 to 20 knots. Seas 5 to 8 feet.
 Wave Detail: East 6 feet at 8 seconds and south southwest 4 feet
-at 10 seconds. 
+at 12 seconds. 
 .MONDAY NIGHT...East northeast winds 10 to 15 knots. Seas 5 to
-7 feet. Wave Detail: East 6 feet at 7 seconds and south southwest
-3 feet at 10 seconds. 
+7 feet. Wave Detail: East 6 feet at 7 seconds. 
 .TUESDAY...East winds 10 to 15 knots. Seas 4 to 6 feet. Wave
 Detail: East 4 feet at 6 seconds. 
-.WEDNESDAY...East winds 10 to 15 knots. Seas 3 to 4 feet. Wave
-Detail: East 4 feet at 6 seconds. Isolated showers through the
-night.  
+.WEDNESDAY...East winds 10 to 15 knots. Seas 3 to 5 feet. Wave
+Detail: East southeast 5 feet at 6 seconds.  
 
 Winds and seas higher in and near tstms.
 
-PHZ121-262215-
+PHZ121-270330-
 Alenuihaha Channel-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WARNING IN EFFECT...
 ...HURRICANE WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions expected with
-hurricane conditions possible. East northeast winds 35 to
-40 knots. Seas 12 to 16 feet. Wave Detail: East northeast 15 feet
-at 8 seconds. Scattered heavy showers with isolated
-thunderstorms. 
-.SATURDAY...Tropical storm conditions expected with hurricane
+.TODAY...Tropical storm conditions expected with hurricane
 conditions possible. East northeast winds 35 to 40 knots. Seas
-12 to 16 feet. Wave Detail: East northeast 15 feet at 8 seconds.
+11 to 15 feet. Wave Detail: East northeast 15 feet at 8 seconds.
 Scattered heavy showers with isolated thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 35 to 40 knots, rising to 40 to 50 knots after
-midnight. Seas 12 to 16 feet. Wave Detail: East northeast 16 feet
-at 8 seconds and south southwest 3 feet at 15 seconds. Scattered
-showers. 
-.SUNDAY...Tropical storm conditions possible. East northeast
-winds 40 to 50 knots. Seas 12 to 16 feet. Wave Detail: East
-northeast 16 feet at 8 seconds and south 4 feet at 14 seconds.
-Isolated showers. 
+.TONIGHT...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 35 to 40 knots, rising
+to 40 to 50 knots after midnight. Seas 12 to 16 feet, building to
+13 to 18 feet after midnight. Wave Detail: East northeast 18 feet
+at 9 seconds and south 4 feet at 15 seconds. Scattered showers. 
+.SUNDAY...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 40 to 50 knots. Seas
+13 to 18 feet. Wave Detail: East northeast 18 feet at 9 seconds
+and south southwest 6 feet at 10 seconds. Isolated showers. 
 .SUNDAY NIGHT...Tropical storm conditions possible. East winds
-40 to 50 knots. Seas 11 to 15 feet. Wave Detail: East northeast
-14 feet at 8 seconds and south southwest 5 feet at 10 seconds.
-Isolated showers. 
-.MONDAY...Tropical storm conditions possible. 
+40 to 50 knots. Seas 13 to 18 feet, subsiding to 12 to 16 feet
+after midnight. Wave Detail: East northeast 18 feet at 8 seconds
+and south southwest 5 feet at 9 seconds. 
+.MONDAY...Tropical storm conditions possible. East winds 35 to
+45 knots. Seas 10 to 14 feet. Wave Detail: East northeast 12 feet
+at 8 seconds and southwest 4 feet at 13 seconds. 
 .MONDAY NIGHT...Tropical storm conditions possible. Isolated
-showers. 
+showers after midnight. 
 .TUESDAY...East winds 20 to 25 knots, easing to 15 to 20 knots
 after midnight. Seas 6 to 9 feet. Wave Detail: East northeast
 7 feet at 6 seconds and south southwest 4 feet at 16 seconds.
-Isolated showers. 
+Isolated showers through the night. Scattered showers after
+midnight. 
 .WEDNESDAY...East winds 15 to 20 knots, rising to 20 to 25 knots
 in the afternoon and evening, easing to 15 to 20 knots after
-midnight. Seas 5 to 7 feet. Wave Detail: East northeast 6 feet at
-6 seconds and south southwest 4 feet at 15 seconds. Isolated
-showers.  
+midnight. Seas 5 to 8 feet. Wave Detail: East southeast 8 feet at
+6 seconds and south southwest 4 feet at 15 seconds. Scattered
+showers in the morning. Isolated showers in the afternoon, then
+scattered showers through the day.  
 
 Winds and seas higher in and near tstms.
 
-PHZ122-262215-
+PHZ122-270330-
 Big Island Windward Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WARNING IN EFFECT...
 ...HURRICANE WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 30 knots. Seas 10 to 13 feet. Wave Detail:
-Northeast 12 feet at 7 seconds and south 5 feet at 10 seconds.
-Occasional heavy showers with isolated thunderstorms. 
-.SATURDAY...Tropical storm conditions possible. East northeast
-winds 25 to 30 knots. Seas 12 to 14 feet. Wave Detail: Northeast
-12 feet at 8 seconds, south 4 feet at 9 seconds and north
-northeast 3 feet at 18 seconds. Occasional heavy showers with
-isolated thunderstorms. 
-.SATURDAY NIGHT...East winds 25 to 30 knots. Seas 11 to 13 feet,
-subsiding to 9 to 12 feet after midnight. Wave Detail: Northeast
-12 feet at 7 seconds, south 5 feet at 9 seconds and north
-northeast 3 feet at 15 seconds. Numerous showers, mainly in the
-evening. 
-.SUNDAY...Tropical storm conditions possible. East winds 25 to
-35 knots. Seas 9 to 12 feet. Wave Detail: Northeast 11 feet at
-7 seconds, south southwest 5 feet at 8 seconds and north
-northeast 3 feet at 14 seconds. Scattered showers. 
+.TODAY...Tropical storm conditions possible. East northeast winds
+25 to 30 knots. Seas 8 to 11 feet. Wave Detail: Northeast 9 feet
+at 7 seconds and south 5 feet at 10 seconds. Occasional heavy
+showers with isolated thunderstorms. 
+.TONIGHT...Tropical storm conditions possible. East winds 25 to
+30 knots. Seas 8 to 10 feet. Wave Detail: North northeast 9 feet
+at 7 seconds and south 5 feet at 9 seconds. Numerous showers,
+mainly in the evening. 
+.SUNDAY...Tropical storm conditions expected with hurricane
+conditions possible. East winds 25 to 35 knots. Seas 7 to
+10 feet. Wave Detail: East northeast 9 feet at 6 seconds and
+south southwest 4 feet at 8 seconds. Scattered showers. 
 .SUNDAY NIGHT...East winds 25 to 30 knots. Seas 7 to 10 feet.
-Wave Detail: East northeast 9 feet at 6 seconds, south southwest
-4 feet at 14 seconds and north 3 feet at 18 seconds. Scattered
-showers, mainly in the evening. 
+Wave Detail: East 9 feet at 6 seconds and south southwest 4 feet
+at 13 seconds. Isolated showers. 
 .MONDAY...East southeast winds 20 to 25 knots. Gusts up to
 35 knots in the morning. Seas 6 to 9 feet. Wave Detail: East
-southeast 8 feet at 6 seconds, south southwest 4 feet at
-9 seconds and north northwest 3 feet at 16 seconds. Isolated
-showers. 
+southeast 7 feet at 5 seconds and south southwest 3 feet at
+13 seconds. Isolated showers. 
 .MONDAY NIGHT...East southeast winds 15 to 20 knots, rising to
-20 to 25 knots after midnight. Seas 6 to 9 feet. Wave Detail:
-East southeast 7 feet at 6 seconds, south southwest 4 feet at
-12 seconds and north northwest 3 feet at 13 seconds. Scattered
-showers. 
-.TUESDAY...East southeast winds 15 to 20 knots. Seas 5 to 8 feet.
-Wave Detail: Southeast 6 feet at 5 seconds, south southwest
-4 feet at 15 seconds and north northwest 3 feet at 12 seconds.
-Scattered showers. 
-.WEDNESDAY...East southeast winds 15 to 20 knots. Seas 6 to
-7 feet. Wave Detail: Southeast 5 feet at 5 seconds and south
-southwest 3 feet at 15 seconds. Scattered showers.  
+20 to 25 knots after midnight. Seas 5 to 7 feet. Wave Detail:
+East southeast 6 feet at 5 seconds and south southwest 3 feet at
+12 seconds. Isolated showers in the evening. Scattered showers
+after midnight. 
+.TUESDAY...East southeast winds 15 to 20 knots. Seas 4 to 6 feet.
+Wave Detail: Southeast 5 feet at 5 seconds. Scattered showers in
+the morning. Isolated showers. 
+.WEDNESDAY...East southeast winds 15 to 20 knots. Seas 4 to
+6 feet. Wave Detail: Southeast 5 feet at 5 seconds. Isolated
+showers. Scattered showers after midnight.  
 
 Winds and seas higher in and near tstms.
 
-PHZ123-262215-
+PHZ123-270330-
 Big Island Leeward Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WARNING IN EFFECT...
 ...HURRICANE WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions expected with
-hurricane conditions possible. Northeast winds 30 to 35 knots.
-Seas 10 to 14 feet. Wave Detail: Northeast 14 feet at 9 seconds.
+.TODAY...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 30 to 40 knots. Seas
+10 to 14 feet. Wave Detail: East northeast 13 feet at 9 seconds.
 Occasional heavy showers with isolated thunderstorms. 
-.SATURDAY...Tropical storm conditions expected with hurricane
-conditions possible. East northeast winds 30 to 35 knots. Seas
-12 to 16 feet. Wave Detail: East northeast 16 feet at 9 seconds.
-Occasional heavy showers with isolated thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 25 to 35 knots. Seas 12 to 16 feet. Wave Detail:
-East northeast 16 feet at 9 seconds and south 4 feet at
-15 seconds. Scattered showers. 
-.SUNDAY...Tropical storm conditions possible. East northeast
-winds 25 to 35 knots, rising to 30 to 40 knots in the afternoon.
-Seas 10 to 14 feet. Wave Detail: East northeast 14 feet at
-8 seconds and south 5 feet at 14 seconds. Scattered showers,
-mainly in the morning. 
+.TONIGHT...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 30 to 40 knots. Seas
+11 to 15 feet. Wave Detail: East northeast 15 feet at 9 seconds
+and south southwest 4 feet at 16 seconds. Scattered showers. 
+.SUNDAY...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 25 to 35 knots, rising
+to 30 to 40 knots in the afternoon. Seas 11 to 15 feet. Wave
+Detail: East 14 feet at 9 seconds and south 6 feet at 14 seconds.
+Scattered showers, mainly in the morning. 
 .SUNDAY NIGHT...Tropical storm conditions possible. East winds
 30 to 35 knots. Seas 9 to 13 feet, subsiding to 8 to 11 feet
-after midnight. Wave Detail: East 11 feet at 7 seconds and south
-southwest 5 feet at 10 seconds. Isolated showers. 
-.MONDAY...Tropical storm conditions possible. Isolated showers. 
+after midnight. Wave Detail: East 12 feet at 8 seconds and south
+southwest 5 feet at 9 seconds. Isolated showers. 
+.MONDAY...Tropical storm conditions possible. East winds 30 to
+35 knots. Seas 7 to 10 feet. Wave Detail: East 8 feet at
+7 seconds and south southwest 4 feet at 13 seconds. Isolated
+showers. 
 .MONDAY NIGHT...Southeast winds 25 to 30 knots, backing to east
-20 to 25 knots after midnight. Seas 7 to 10 feet. Wave Detail:
-Southeast 9 feet at 7 seconds and southwest 5 feet at 10 seconds.
-Isolated showers. 
-.TUESDAY...East southeast winds 20 to 25 knots. Seas 6 to 9 feet.
-Wave Detail: East southeast 5 feet at 5 seconds and south
-southwest 4 feet at 16 seconds. Isolated showers in the morning,
-then scattered showers. 
+20 to 25 knots after midnight. Seas 6 to 9 feet. Wave Detail:
+East southeast 8 feet at 7 seconds and south 4 feet at
+12 seconds. Isolated showers. 
+.TUESDAY...East southeast winds 20 to 25 knots. Seas 5 to 8 feet.
+Wave Detail: Southeast 6 feet at 6 seconds and south 3 feet at
+16 seconds. Isolated showers through the night. Scattered showers
+after midnight. 
 .WEDNESDAY...Southeast winds 20 to 25 knots, rising to 25 to
 30 knots in the afternoon and evening, backing to east southeast
 20 to 25 knots after midnight. Seas 5 to 7 feet. Wave Detail:
-East 4 feet at 5 seconds and south 4 feet at 15 seconds.
-Scattered showers.  
+Southeast 7 feet at 7 seconds and south southwest 4 feet at
+14 seconds. Isolated showers in the morning. Scattered showers.  
 
 Winds and seas higher in and near tstms.
 
-PHZ124-262215-
+PHZ124-270330-
 Big Island Southeast Waters-
-1111 PM HST Fri Sep 25 2026
+500 AM HST Sat Sep 26 2026
 
 ...TROPICAL STORM WARNING IN EFFECT...
 ...HURRICANE WATCH IN EFFECT...
 
-.REST OF TONIGHT...Tropical storm conditions with hurricane
-conditions possible. East northeast winds 35 to 40 knots. Seas
-15 to 18 feet. Wave Detail: East 17 feet at 9 seconds and south
-4 feet at 10 seconds. Occasional heavy showers with isolated
+.TODAY...Tropical storm conditions with hurricane conditions
+possible. East northeast winds 30 to 40 knots. Seas 14 to
+19 feet. Wave Detail: East 17 feet at 9 seconds and south 4 feet
+at 16 seconds. Occasional heavy showers with isolated
 thunderstorms. 
-.SATURDAY...Tropical storm conditions expected with hurricane
+.TONIGHT...Tropical storm conditions expected with hurricane
 conditions possible. East northeast winds 30 to 40 knots. Seas
-15 to 19 feet. Wave Detail: East southeast 18 feet at 9 seconds
-and south 4 feet at 16 seconds. Occasional heavy showers with
-isolated thunderstorms. 
-.SATURDAY NIGHT...Tropical storm conditions possible. East
-northeast winds 30 to 35 knots. Seas 12 to 17 feet. Wave Detail:
-East 16 feet at 8 seconds and south 4 feet at 9 seconds.
-Occasional showers. 
-.SUNDAY...Tropical storm conditions possible. East northeast
-winds 30 to 35 knots. Seas 10 to 14 feet. Wave Detail: Northeast
-12 feet at 7 seconds and south 5 feet at 8 seconds. Numerous
-showers, mainly in the morning. 
-.SUNDAY NIGHT...East northeast winds 25 to 30 knots. Seas 9 to
-12 feet. Wave Detail: East northeast 10 feet at 7 seconds and
-south southwest 5 feet at 10 seconds. Scattered showers. 
+12 to 16 feet. Wave Detail: East northeast 15 feet at 8 seconds
+and south 5 feet at 10 seconds. Occasional showers. 
+.SUNDAY...Tropical storm conditions expected with hurricane
+conditions possible. East northeast winds 30 to 35 knots. Seas
+10 to 14 feet. Wave Detail: East northeast 12 feet at 7 seconds
+and south southwest 5 feet at 9 seconds. Numerous showers, mainly
+in the morning. 
+.SUNDAY NIGHT...East northeast winds 25 to 30 knots. Seas 8 to
+11 feet. Wave Detail: East northeast 9 feet at 6 seconds and
+south southwest 5 feet at 9 seconds. Scattered showers. 
 .MONDAY...East northeast winds 20 to 25 knots. Gusts up to
-35 knots in the morning. Seas 7 to 10 feet. Wave Detail: East
-southeast 8 feet at 6 seconds and south southwest 5 feet at
-10 seconds. Scattered showers. 
+35 knots in the morning. Seas 6 to 9 feet. Wave Detail: East
+7 feet at 6 seconds and south southwest 4 feet at 13 seconds.
+Isolated showers. 
 .MONDAY NIGHT...East winds 20 to 25 knots, easing to 15 to
-20 knots after midnight. Seas 6 to 9 feet, subsiding to 6 to
-7 feet after midnight. Wave Detail: East 7 feet at 6 seconds and
-south southwest 4 feet at 11 seconds. Scattered showers. 
-.TUESDAY...East winds 15 to 20 knots. Seas 5 to 7 feet. Wave
-Detail: East 4 feet at 5 seconds and south southwest 4 feet at
-16 seconds. Scattered showers. 
-.WEDNESDAY...East winds to 15 knots. Seas 6 to 7 feet. Wave
-Detail: East 4 feet at 5 seconds and south southwest 4 feet at
-15 seconds. Scattered showers.  
+20 knots after midnight. Seas 5 to 7 feet. Wave Detail: East
+5 feet at 5 seconds and south southwest 3 feet at 12 seconds.
+Isolated showers in the evening, then scattered showers after
+midnight. 
+.TUESDAY...East winds 15 to 20 knots. Seas 4 to 6 feet. Wave
+Detail: East 4 feet at 5 seconds. Scattered showers. 
+.WEDNESDAY...East winds to 15 knots. Seas 4 to 6 feet. Wave
+Detail: East 4 feet at 5 seconds. Isolated showers through the
+night, then scattered showers through the day.  
 
 Winds and seas higher in and near tstms.
 ```

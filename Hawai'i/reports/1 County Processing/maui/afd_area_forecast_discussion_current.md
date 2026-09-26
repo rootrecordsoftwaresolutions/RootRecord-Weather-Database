@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T05:00:22-10:00 HST
-- **Report created:** 2026-09-26T05:00:22-10:00 HST
+- **Generated:** 2026-09-26T05:15:59-10:00 HST
+- **Report created:** 2026-09-26T05:15:59-10:00 HST
 - **County:** Maui County
 - **Resource ID:** afd_area_forecast_discussion
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO
@@ -17,147 +17,144 @@
 
 ```text
 000
-FXHW60 PHFO 260902
+FXHW60 PHFO 261507
 AFDHFO
 
 Area Forecast Discussion
 National Weather Service Honolulu HI
-1102 PM HST Fri Sep 25 2026
+507 AM HST Sat Sep 26 2026
 
 .SYNOPSIS...
-Hurricane Nolo continues to slowly move to the north towards the
-Big Island, and is expected to make a turn to the west tonight.
-Moisture on the north side of Nolo will interact with the terrain
-of the Big Island and Maui, and could lead to significant flash
-flooding, particularly on the windward and southeast portions of
-the Big Island. Localized strong and gusty winds are possible
-statewide, with the highest winds expected on the Big Island due
-to the proximity to Nolo.
+Hurricane Nolo remains nearly stationary south of the Big Island,
+but is expected to make a turn to the west this morning. The
+remains a chance for flooding over portions of the Big Island and
+Maui today. Localized strong and gusty winds are possible 
+across all islands, with the highest winds expected on the Big 
+Island and along the ridges on Maui.
 
-.UPDATE...
-Forecast winds for the first 24 hours have been updated to 
-reflect the latest forecast guidance from the National Hurricane 
-Center. With little change in the track and intensity, little 
-change from the previous forecast. Hurricane Nolo has remained 
-nearly stationary about 145 miles south of South Point on the Big 
-Island. Gusts in excess of 50 mph have been reported over the Big 
-Island and Maui in the last couple of hours. Some of the outer- 
-most rainbands have been moving over the Big Island southeast 
-slopes. Nolo is expected to begin its turn to the west over the 
-next several hours. 
+.DISCUSSION...
+Hurricane Nolo remains about 145 miles south of the Big Island as
+it remained nearly stationary throughout the night. The mid 
+level trough remained firmly in place preventing Nolo from 
+beginning its westward track. As a mid-level ridge north of the
+islands pushes southward, it will help Nolo to begin its westward
+track. With Nolo remaining nearly stationary, tropical headlines 
+remain unchanged, as does the Flood Watch for Maui County and the
+Big Island. 
+
+Despite the headlines remaining the same, the forecast has been 
+updated to reflect the latest track of Nolo, but with no
+discerniblechanges to the winds for today. Most of the changes 
+relate to the QPF for today and tonight, with a downward trend 
+reflecting in the forecast. The Wind Advisory for Kauai and Oahu 
+is in effect through tomorrow afternoon. 
+
+Upper level clouds continue to stream over the Big Island and are
+at times passing over Maui County from Nolo. Lower clouds remain
+over the southeast and east sides of the Big Island, with showers
+embedded within. The highest gages reported 4 inches overnight on
+the Big Island, and about 1 inch on Maui. Winds have been
+strongest over the Kohala ridgeline on the Big Island, and over
+the West Maui Mountains on Maui, with gusts over 60 mph. 
+
+The forecast was nudged to the NBM starting Monday onwards. The
+mid level trough mentioned above will help to draw Nolo north and
+then northwestward early next week. At this time the forecast
+keeps Nolo west of Kauai. Toward the end of next week, light 
+south- to- southeast wind flow is expected to prevail as the 
+pressure gradient over the state weakens substantially. 
 
 .AVIATION...
-Issued at 918 PM HST Fri Sep 25 2026
 
-Gusty trade winds continue across the islands with gusts peaking
-between 25 to 35 knots. Gusts up to 40 knots are most likely at
-the windiest sites. Winds may ease slightly overnight but kept 
-the stronger winds as prevailing given continued trade shower 
-activity and Hurricane Nolo to the south of the Big Island. 
-Locally stronger winds are possible from Molokai south to the Big 
-Island due to Hurricane Nolo. High resolution guidance suggests 
-gusts reaching potentially as high as 45 to 50 knots Saturday 
-afternoon and continuing through the end of the TAF period. North 
-of Molokai, occasional trade showers continue across windward and 
-mauka areas while heavier showers remain closer to the Big Island.
-Moderate to heavy rain is expected to continue impacting the Big 
-Island as Hurricane Nolo remains just to its south. Occasional 
-moderate to heavy showers from Hurricane Nolo will extend up 
-through Molokai. Reductions in visibility and ceiling heights are 
-expected during heavier showers with MVFR to IFR conditions 
-likely. 
+Gusty trade winds peaking between 25 to 35 knots continue across
+the islands. Winds are expected to increase during the day with 
+the potential for gusts as high as 45 knots this 
+afternoon/evening. Locally stronger winds are possible from 
+Molokai to the Big Island due to Hurricane Nolo. North of Molokai,
+occasional trade showers and temporary reductions  in
+visibility/ceilings continue across windward and mauka areas. 
+Showers from Hurricane Nolo continued across the Big Island 
+overnight bringing temporary periods of MVFR-IFR conditions. 
+Additional rounds of showers are forecast today, so expect 
+temporary reductions in visibility and ceiling heights (MVFR-IFR 
+conditions) as stronger showers move over the island. Scattered 
+showers will extend northwards from the Big Island to Molokai with
+temporary MVFR-IFR conditions possible if a stronger shower is 
+able to develop.
 
-AIRMET Sierra has been issued for IFR conditions across eastern
-Big Island, and will likely remain in effect through tonight.
-Additionally, AIRMET Sierra remains in effect for tempo mountain
-obscuration for eastern Kauai, Oahu, Molokai, and Maui through
-tonight.
+AIRMET Sierra has been issued for IFR conditions across the eastern
+Big Island. Additionally, AIRMET Sierra remains in effect for 
+tempo mountain obscuration for eastern Kauai, Oahu, Molokai, 
+Lanai, and Maui tonight.
 
 AIRMET Tango remains in effect for moderate turbulence downwind of
 island terrain due to breezy trade winds. Expect this to continue
-through the forecast period. It is possible that an AIRMET for 
-sustained 30 kt winds will be needed for the Big Island by 
-Saturday as Nolo passes to the south.
+through the forecast period. An AIRMET has been issued for surface
+winds greater than 30 knots due to Hurricane Nolo for the Big
+Island, Maui, Lanai, and Molokai. This will remain in effect
+through at least this evening amd may need to be extended to
+include the rest of the state.
 
 TC SIGMET Oscar series covers Hurricane Nolo, and interests should
 continue to monitor for updates to this SIGMET.
 
 .MARINE...
-Issued at 918 PM HST Fri Sep 25 2026
 
 Hurricane Warnings around the Big Island and Tropical Storm 
 Warnings around Maui County remain in effect as Hurricane Nolo
-inches northward. A Gale Watch is in effect for the remaining
-waters through Sunday. Nolo is still forecast to turn west well 
-before reaching the Big Island or adjacent nearshore waters, but 
-strong winds and high seas can nonetheless be expected well away
-from the storm itself. 
+begins to accelerate slowly westward today. A Small Craft Advisory
+remains in effect for the remaining waters today. The Gale Watch
+for waters around Oahu and Kauai has been trimmed back to tonight
+and Sunday as confidence has decreased somewhat in widespread 
+gale force winds developing across the coastal waters. Nolo is 
+expected to remain south of the Hawaiian Islands, centered well 
+outside of the coastal waters this weekend, but strong winds and 
+high seas can nonetheless be expected well away from the storm 
+itself. The hurricane will gain distance from the islands as it
+begins to turn northwest by early next week, leading to more
+limited impacts by Monday.
 
-South to southeast fresh swell emanating from Nolo will spread 
-west across the southern nearshore waters as the system tracks 
-west through early next week. The High Surf Advisory (HSA) for E 
-and SE facing shores of the Big Island, Maui, and Molokai remains 
-in effect and has been extended through Sunday. In addition, an 
-HSA is now in effect for Kauai, Oahu, and Niihau beginning tonight
-due to strengthening trades. A small, long period NW swell fills 
-in this weekend in maintenance of elevated surf along exposed 
-shorelines into early next week. 
+A combination of southeast swell originating from Hurricane Nolo and
+strengthening easterly trade winds is producing advisory level surf 
+for east facing shores of Kauai and Oahu, and east and southeast 
+facing shores of Maui, Molokai, and the Big Island today. Advisory
+level surf is expected to continue through Sunday, for which the High
+Surf Advisory remains in effect. By that point, Nolo will gain some
+distance from the islands to the southwest, leading to less direct
+swell impacts and weakening trade winds, which will decrease east and
+southeast shore surf below advisory criteria. A series of small,
+medium-period east swells are expected from Hurricanes Odalys and Polo
+in the East Pacific next week. 
+
+South facing shores can expect a moderate bump to surf as Hurricane
+Nolo tracks south of the islands through at least the weekend. A 
+small, long period northwest swell also fills in this weekend and
+brings a small bump to north facing shores into early next week.
 
 .FIRE WEATHER...
-Issued at 918 PM HST Fri Sep 25 2026
-
-Winds will steadily increase as Hurricane Nolo moves closer. Very
-strong winds are possible on the Big Island, though heavy rainfall
-will likely mitigate fire danger over most areas. From Kauai to 
-Maui County, rainfall over the last month has led to some 
-improvement in fuels, but the gusty trade winds will produce 
-moderate fire weather conditions over drier leeward areas through 
-the weekend. Drier conditions are expected early next week, 
-although winds will diminish substantially as pressure gradient 
-weakens.
-
-.PREV DISCUSSION...
-Issued at 918 PM HST Fri Sep 25 2026
-
-High-level cloudiness with light showers prevailed across the Big 
-Island this afternoon as Hurricane Nolo continues to move slowly 
-north-northeast. The rest of the islands remained relatively quiet, 
-aside from breeze conditions throughout the day.
-
-Latest radar imagery shows rainbands associated with Nolo inching 
-closer to the Big Island. These bands are expected to move through 
-tonight into Saturday morning, producing periods of heavy rainfall 
-that could lead to flash flooding and dangerous mudslides.
-
-The latest National Hurricane Center track still indicates Nolo will 
-make its closest approach late tonight before turning westward. 
-Although forecast precipitation amounts for the state have been 
-adjusted slightly downward, rainfall totals remain high enough to 
-cause life-threatreninh flooding,especially across the Big Island. 
-Other impacts are summarized in the marine and aviation sections.
-
-Impacts from Nolo will worsen through tomorrow morning and persist 
-through Saturday night. A slow improvement in weather conditions is 
-expected on Sunday as Nolo moves away from the area.
-
-By the middle of next week, troughing will draw Nolo north or 
-northeastward to the west of Kauai. Toward the end of next week, 
-light south-to-southeast wind flow is expected to prevail as the 
-pressure gradient over the state weakens substantially. 
+Winds will remain strong and gusty over the highest terrain of 
+the Big Island and Maui, and gusty trades over Oahu and Kauai. The
+rainfall on the Big Island will likely mitigate fire danger over 
+most areas. From Kauai to Maui County, rainfall over the last 
+month has led to some improvement in fuels, but the gusty trade 
+winds will produce moderate fire weather conditions over drier 
+leeward areas through the weekend. Drier conditions are expected 
+early next week, although winds will diminish substantially as 
+pressure gradient weakens.
 
 .HFO WATCHES/WARNINGS/ADVISORIES...
-Wind Advisory from 6 AM Saturday to 6 PM HST Sunday for Central 
-Oahu-East Honolulu-Ewa Plain-Honolulu Metro-Kauai East-Kauai 
-Mountains-Kauai North-Kauai South-Kauai Southwest-Koolau Leeward-
-Koolau Windward-Niihau-Oahu North Shore-Olomana-Waianae Coast-
-Waianae Mountains.
+Wind Advisory until 6 PM HST Sunday for Central Oahu-East 
+Honolulu-Ewa Plain-Honolulu Metro-Kauai East-Kauai Mountains-
+Kauai North-Kauai South-Kauai Southwest-Koolau Leeward-Koolau 
+Windward-Niihau-Oahu North Shore-Olomana-Waianae Coast-Waianae 
+Mountains.
 
 High Surf Advisory until 6 PM HST Sunday for Big Island East-Big 
 Island North-Big Island Southeast-Kauai East-Kauai South-
 Kipahulu-Koolau Windward-Maui Windward West-Molokai Southeast-
 Molokai Windward-Olomana-South Haleakala-Windward Haleakala.
 
-Flood Watch through Saturday afternoon for Big Island East-Big 
+Flood Watch through this afternoon for Big Island East-Big 
 Island Interior-Big Island North-Big Island South-Big Island 
 Southeast-Big Island Summits-Haleakala Summit-Kahoolawe-Kipahulu-
 Kohala-Kona-Lanai Leeward-Lanai Mauka-Lanai South-Lanai Windward-
@@ -190,17 +187,16 @@ Big Island Southeast Waters-Big Island Windward Waters.
 Tropical Storm Warning for Alenuihaha Channel-Big Island Leeward 
 Waters-Big Island Southeast Waters-Big Island Windward Waters. 
 
-Small Craft Advisory until 6 PM HST Saturday for Kauai Channel-
-Kauai Leeward Waters-Kauai Northwest Waters-Kauai Windward 
-Waters-Oahu Leeward Waters-Oahu Windward Waters.
-
-Gale Watch from 6 AM HST Saturday through Sunday afternoon for 
-Kauai Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
+Small Craft Advisory until 6 PM HST this evening for Kauai 
+Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
 Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
 
-DISCUSSION...Castro
+Gale Watch from this evening through Sunday afternoon for Kauai 
+Channel-Kauai Leeward Waters-Kauai Northwest Waters-Kauai 
+Windward Waters-Oahu Leeward Waters-Oahu Windward Waters.
+
+DISCUSSION...M Ballard
 AVIATION...Kennedy
-MARINE...JVC
-FIRE WEATHER...Castro
-UPDATE...M Ballard
+MARINE...Quesada
+FIRE WEATHER...M Ballard
 ```
