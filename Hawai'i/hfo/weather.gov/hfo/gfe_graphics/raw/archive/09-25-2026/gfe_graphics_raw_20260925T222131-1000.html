@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>Radar Free Text Messages for Hawaii </title>
-<meta name="DC.title" content="Radar Free Text Messages for Hawaii " />
-<meta name="DC.description" content="Latest radar free text message status for each of the four weather radars in Hawaii." />
+<title>Graphical Products</title>
+<meta name="DC.title" content="Graphical Products" />
+<meta name="DC.description" content="Graphical Products" />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="December 24th 2018 1:03 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="April 21st 2026 1:13 AM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="radar, hawaii, upolu point, south point, molokai, kauai, weather, rain, flood, status, ftm" />
+<meta name="DC.keywords" content="maximum, max, min, minimum, temperature, pop, sky, qpf, wind, hawaii, graphical" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -69,6 +69,7 @@ function noCache(url) {
         aviation: "https://aviationweather.gov",
         water: "https://water.weather.gov",
         graphical: "https://graphical.weather.gov",
+        alerts: "",
         api: "https://api.weather.gov",
         radar: "https://radar.weather.gov",
         esriGeocode: "https://geocode.arcgis.com"
@@ -379,11 +380,11 @@ function noCache(url) {
         <p class="sitename-class">Weather Forecast Office</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>Radar Free Text Messages for Hawaii </h1>
+        <h1 class='location-pagetitle'>Graphical Products</h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
-                                &gt; Radar Free Text Messages for Hawaii 
+                                &gt; Graphical Products
                     </div>
     </div>
 </div>
@@ -397,9 +398,6 @@ function noCache(url) {
                     </div>
                                             <div class="sub">
                             <ul>
-                                                                    <li>
-                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
-                                    </li>
                                                                     <li>
                                         <a href="/hfo/watchwarn"> Hawaii Hazards</a>
                                     </li>
@@ -417,6 +415,9 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=FRA"> Carte des prévisions et des dangers - Français</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/cphc"> Tropical Cyclones</a>
@@ -440,10 +441,10 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/satellite"> Satellite</a>
+                                        <a href="/hfo/obs"> Observations</a>
                                     </li>
                                                                     <li>
-                                        <a href="/hfo/obs"> Observations</a>
+                                        <a href="/hfo/satellite"> Satellite</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/hydrology"> Hydrology</a>
@@ -503,9 +504,6 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/marine"> Marine</a>
-                                    </li>
-                                                                    <li>
                                         <a href="/hfo/forecast"> Hawaii</a>
                                     </li>
                                                                     <li>
@@ -513,6 +511,9 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="http://forecast.weather.gov/wxplanner.php?site=hfo"> Activity Planner</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/marine"> Marine</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/firewx"> Fire Weather</a>
@@ -634,112 +635,390 @@ function noCache(url) {
                             
                             
                             <div class="div-full">
-<div class="cms-content"><script type="text/javascript">
-	$(function(){
-		// hide the WFO level menus
-		//$('.subMenuNav').hide();
-		//$('.subMenuNav').remove();
-		$('ul#subMenuNav li').css({ 'margin-right': '25px' });
-		// reduce breadcrumb margin-bottom
-		$('.breadcrumb').css({ 'margin-bottom': '0px' });
-		// hide the big green "customize your weather.gov" box on the left
-		$('#myfcst-widget').hide();
-		// additional formatting to pull everything back to the left and style the borders, h/t WFOs ICT/btv
-		$('.full-width-border').css('border-top', 'white');
-		$('.partial-width-borderbottom').css('border-bottom', 'white');
-		$('.five-sixth-first').css({
-			'width' : '100%',
-			'padding-right': '0px',
-			'padding-left': '0px'
-		});
-		// hide the tiles on the bottom of the page since their content is already shown elsewhere on the page
-		//$('div.div-full.mod-image-tiles').hide();
-		// hide the national footer
-		//$('div.footer-content').hide();
-		// hide the local Top News section
-		//$('div#topnews').hide();
-		// hide the invisible element just below the forecast search box that's pushing the rest of the page content farther down
-		$('div#sidebar.one-sixth-first').hide();
-		// move the forecast search box from the top of the screen to where it used to be on the pre-NIDS EM page
-		$('div#forecast-lookup').appendTo('div#fcst');
-		// re-style the forecast search box's "Go" button to match the rest of the page
-		//$('input#btnSearch').button();
-		// hide the top navigation bar
-		//$('div.topnav').hide();
-		// Uncomment the next line to hide the Twitter/FB/YouTube/RSS links at the bottom of the page.
-		//$('div.full-width-first.communication-links').hide();
-		// Uncomment the next line only if you're as bold as Darth Vader in Episode IV.
-		//$('div.footer-legal').hide();
-		
+<div class="cms-content"><link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" rel="stylesheet" /><script>
+$(document).ready(function(){    
+	//$('.subMenuNav').remove();  // removes the WFO level menus - optional
+	$('#myfcst-widget').remove();
+	//$('.breadcrumb').remove();
+	$('.full-width-border').css('border-top', 'white');
+	$('.partial-width-borderbottom').css('border-bottom', 'white');
+	$('.five-sixth-first').css({
+		'width' : '100%',
+    	'padding-right': '0px',
+    	'padding-left': '0px'
 	});
-</script>
-<style type="text/css">table.collapse {  
-border-collapse: collapse; 
-border: 2px solid white; 
+
+const queryString = window.location.search;
+console.log(queryString);
+const urlParams = new URLSearchParams(queryString);
+const island = urlParams.get('island')
+console.log(island);
+
+// Using this will default to the given county (Maui) but won't allow user to change it
+// Likely need another function for load - probably onload
+//if ($("input:radio[name='options']:checked").val() =='option1' && ($("input:radio[name='options2']:checked").val() == //'option5') || island == "ma") {
+//	    	getTime("/source/hfo/gfe_graphics_maui.json")}
+
+
+
+$(':radio').change(function() {
+						//Short Term Graphics
+					    if ($("input:radio[name='options']:checked").val() =='option1' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/PR.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option1' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/gfe_graphics_bigisland.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option1' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/gfe_graphics_kauai.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option1' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/gfe_graphics_oahu.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option1' && ($("input:radio[name='options2']:checked").val() == 'option5') || island == "ma") {
+					    	getTime("/source/hfo/gfe_graphics_maui.json")}
+					    //7 Day Graphics
+					    else if ($("input:radio[name='options']:checked").val() =='option2' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/gfe_graphics_lt.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option2' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/gfe_graphics_lt_bigisland.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option2' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/gfe_graphics_lt_kauai.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option2' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/gfe_graphics_lt_oahu.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option2' && $("input:radio[name='options2']:checked").val() == 'option5') {
+					    	getTime("/source/hfo/gfe_graphics_lt_maui.json")}
+					  //Fire Weather Graphics
+					    else if ($("input:radio[name='options']:checked").val() =='option3' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/firewx_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option3' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/firewx_graphics_bigisland.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option3' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/firewx_graphics_kauai.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option3' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/firewx_graphics_oahu.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option3' && $("input:radio[name='options2']:checked").val() == 'option5') {
+					    	getTime("/source/hfo/firewx_graphics_maui.json")}
+					  //Volcano National Park Graphics
+					    else if ($("input:radio[name='options']:checked").val() =='option4' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/nps_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option4' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/nps_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option4' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/nps_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option4' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/nps_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option4' && $("input:radio[name='options2']:checked").val() == 'option5') {
+					    	getTime("/source/hfo/nps_graphics.json")}
+					  //Marine Weather Graphics
+					    else if ($("input:radio[name='options']:checked").val() =='option5' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/marine_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option5' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/marine_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option5' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/marine_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option5' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/marine_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option5' && $("input:radio[name='options2']:checked").val() == 'option5') {
+					    	getTime("/source/hfo/marine_graphics.json")}
+					  //Marine Weather Graphics 7 day
+					    else if ($("input:radio[name='options']:checked").val() =='option6' && $("input:radio[name='options2']:checked").val() == 'option1') {
+					    	getTime("/source/hfo/marinelt_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option6' && $("input:radio[name='options2']:checked").val() == 'option2') {
+					    	getTime("/source/hfo/marinelt_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option6' && $("input:radio[name='options2']:checked").val() == 'option3') {
+					    	getTime("/source/hfo/marinelt_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option6' && $("input:radio[name='options2']:checked").val() == 'option4') {
+					    	getTime("/source/hfo/marinelt_graphics.json")}
+					    else if ($("input:radio[name='options']:checked").val() =='option6' && $("input:radio[name='options2']:checked").val() == 'option5') {
+					    	getTime("/source/hfo/marinelt_graphics.json")}
+					});
+});
+
+</script><script src="https://momentjs.com/downloads/moment.js"></script><script src="https://momentjs.com/downloads/moment-timezone-with-data.min.js"></script>
+<style type="text/css">.wrapper {
+	display: flex;
+    justify-content: space-between;
 }
-table.collapse tr td{ 
-border-collapse: collapse; 
-border: 2px solid white; 
+
+div#one {
+    flex: 0 0 25%;
+}
+div#two {
+     flex: 1;
+}
+
+#map img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+table {
+	padding: 5px;
+	font-size: 13px;
+	border-collapse: initial;
+	}
+
+td {
+	text-align: center; 
+    vertical-align: middle;
+    }
+
+.boxcontainer {
+	margin: 7px;
+	border: 1px solid #aeb0b5;
+	border-radius: 2px;
+	-moz-box-shadow: 0px 3px 4px #d6d6d6;
+	-webkit-box-shadow: 0px 3px 4px #d6d6d6;
+	box-shadow: 0px 3px 4px #d6d6d6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=180, Color='#d6d6d6')";
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=180, Color='#d6d6d6');
+}
+
+.title {
+	color: #FFF;
+	padding: 12px; 
+	background-color: #0071bc;
+    font-size: 22px;
+}
+
+.subtitle {
+	font-size: 16px;
+	display: flex;
+	color: #FFF;
+	padding: 12px; 
+	background-color: #0071bc;
+	margin-top: 5px;
+}
+
+.bottom {
+	padding: 10px;
+}
+
+#map {
+	padding: 5px;
 }
 </style>
-<p><a name="HKI"></a><strong>Kauai Radar (PHKI/SOK)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
+<script>
 
-<p>    <pre>
-            No outage message at this time.        </pre>
-</p>
+    var url="/source/hfo/PR.json";
+    getTime(url);
 
-<hr />
-<p><a name="HKM"></a><strong>Molokai Radar (PHMO/HMO)&nbsp;<a href="/source/hfo/xml/FTMHMO.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
+    function getTime(url) {
+    $.ajax({
+		type: "GET",
+		url: url,
+		cache: false,
+		dataType: "json",
+        success: function(data){
+        	//Get the first image in the json to display by defult on pageload
+        	var img = data.hazards[0].highLowImage;
+                if (url = "/source/hfo/marine_graphics.json") {img = data.hazards[0].periods.period1.imagePath;}
+			var title = data.hazards[0].name;
+            var date = data.hazards[0].periods.period1.date;
+			var time = data.hazards[0].periods.period1.validStartTime;
+            //var genTime = moment(data.generation_time).format('MMMM Do YYYY, h:mm:ss a z');
+            var genTime = moment(data.generation_time).format('MMMM Do YYYY, h:mm a');
+        	$( '#map' ).html( '<a class="href2" href="' + img + '"><img class="image2" src="'+ img +'" /></a>' );
+        	$( '.maptitle' ).html(title);
+        	$( '.validTime' ).html(title + ' ' + date);
+        	$( '.productUpdate' ).html(genTime); 
+            var hilo = '<th>Day</th><th>High/ Low</th>';
+            var mnmx = '<th>Min/Max</th>';
+            $( '#titleRow' ).html( hilo ); 
+        	//Loop through json and label top line
+        	$.each( data.hazards[0].periods, function(i, item) {
+                var island = item.name;
+                var n = '';
+                switch(island) {
+                    case "Kauai_PoP":
+                    n = "PoP";
+                    break;
+                    case "Kauai_QPF":
+                    n = "QPF";
+                    break;
+                    case "Kauai_Sky":
+                    n = "Sky";
+                    break;
+                    case "Kauai_Wind":
+                    n = "Wind";
+                    break;
+                    case "Oahu_PoP":
+                    n = "PoP";
+                    break;
+                    case "Oahu_QPF":
+                    n = "QPF";
+                    break;
+                    case "Oahu_Sky":
+                    n = "Sky";
+                    break;
+                    case "Oahu_Wind":
+                    n = "Wind";
+                    break;
+                    case "MauiCty_PoP":
+                    n = "PoP";
+                    break;
+                    case "MauiCty_QPF":
+                    n = "QPF";
+                    break;
+                    case "MauiCty_Sky":
+                    n = "Sky";
+                    break;
+                    case "MauiCty_Wind":
+                    n = "Wind";
+                    break;
+                    case "BI_PoP":
+                    n = "PoP";
+                    break;
+                    case "BI_QPF":
+                    n = "QPF";
+                    break;
+                    case "BI_Sky":
+                    n = "Sky";
+                    break;
+                    case "BI_Wind":
+                    n = "Wind";
+                    break;
+                    case "Weather":
+                    n = "Wx";
+                    break;
+                    case "BI_PoP_NPS":
+                    n = "PoP";
+                    break;
+                    case "BI_Sky_NPS":
+                    n = "Sky";
+                    break;
+                    case "BI_Wind_NPS":
+                    n = "Wind";
+                    break;
+                    case "BI_LAL_NPS":
+                    n = "LAL";
+                    break;
+                    case "Significant Wave":
+                    n = "Sig Wave";
+                    break;
+                    case "BI_Transport Wind":
+                    n = "Transport Wind";
+                    break;
+                    case "BI_LAL":
+                    n = "LAL";
+                    break;
+                    case "Kauai_Transport Wind":
+                    n = "Transport Wind";
+                    break;
+                    case "Kauai_LAL":
+                    n = "LAL";
+                    break;
+                    case "Oahu_Transport Wind":
+                    n = "Transport Wind";
+                    break;
+                    case "Oahu_LAL":
+                    n = "LAL";
+                    break;
+                    case "MauiCty_Transport Wind":
+                    n = "Transport Wind";
+                    break;
+                    case "MauiCty_LAL":
+                    n = "LAL";
+                    break;
+                    default:
+                    n = island;
+                }
+        		$( '#titleRow' ).append( '<th>'+n+'</th>' );
+        	})
+        	$( '#tbody' ).html( '' );
+        	//Loop through json and list times
+            $.each( data.hazards, function(i, item) {
+            	
+            	var col = i;
+            	col++;
+            	var col2 = "col"+i;
+            	var col3 = "#"+col2;
+            	var time = item.name;
+                var hilo1 = '<td class="chicklet" data-validTime="'+ time +'"><a href="'+ item.highLowImage +'">' + item.highLow + '</a></td>';
+                var mnmax1 = '<td class="chicklet" data-validTime="'+ time +'"><a href="'+ item.minMaxImage +'">' + item.minMax + '</a></td>';
 
-<p>    <pre>
-                        
-858
-NOUS60 PHFO 242239
-FTMHMO
-
-WSR-88D NOTIFICATION
-NATIONAL WEATHER SERVICE HONOLULU HI
-1239 PM HST THU SEP 24 2026
-
-WSR-88D PHMO/HMO MOLOKAI RADAR IS BACK IN SERVICE.
-
-$$
-
-
-
-                </pre>
-</p>
-
-<hr />
-<p><a name="HKM"></a><strong>Upolu Point/North Kohala Radar (PHKM/UPP)&nbsp;<a href="/source/hfo/xml/FTMHKM.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
-
-<p>    <pre>
-                        
-646
-NOUS60 PHFO 252159
-FTMHKM
-
-WSR-88D NOTIFICATION
-NATIONAL WEATHER SERVICE HONOLULU HI
-1159 AM HST FRI SEP 25 2026
-
-WSR-88D PHKM/UPP UPOLU POINT RADAR IS BACK IN SERVICE.
-
-$$
-
-LF
+			    $( '.chickletTable' ).append( '<tr id="'+ col2 +'" class="leftCol"><td class="chicklet">' + item.name + '</td>' + hilo1 + '</tr>' );
+                $.each(this.periods, function(i,item) {
+					var time = item.validStartTime;
+                    var date = item.date;
+					$(col3).append( '<td class ="chicklet" data-validTime="'+ date + ' ' + time +'"><a href="'+ item.imagePath +'">' + item.validStartTime + '</a></div></td>' );
+				})
+				})
+        	},
+        	
+        	//Change map based on which time you click
+        complete: function() {
+        	$('.chicklet').click(function(){
+        		newSrc = $('a', this).attr('href');
+        		newAttr = $(this).attr('alt');
+        		newValidStartTime = $(this).attr('data-validTime');
+        		$('.href2').attr('href',newSrc);
+        		$('.image2').attr('src',newSrc);
+        		$('.maptitle').html(newAttr);
+        		$('.validTime').html(newValidStartTime); 
+        		return false;
+        		
+        	});
+        	 
+        }
+        	
+		});
+}
 
 
+</script>
+<p><a name="image"></a></p>
 
-                </pre>
-</p>
+<div id="btns1">
+<fieldset data-type="horizontal"><input checked="checked" id="option1" name="options" type="radio" value="option1" /> <label for="radio-choice-1">Short Term</label> <input id="option2" name="options" type="radio" value="option2" /> <label for="radio-choice-2">7 Day</label> <input id="option3" name="options" type="radio" value="option3" /> <label for="radio-choice-3">Fire Weather</label> <input id="option4" name="options" type="radio" value="option4" /> <label for="radio-choice-3">Volcano National Park</label> <input id="option5" name="options" type="radio" value="option5" /> <label for="radio-choice-3">Marine Weather</label> <input id="option6" name="options" type="radio" value="option6" /> <label for="radio-choice-3">7 Day Marine Weather</label></fieldset>
+</div>
 
-<hr />
-<p><a name="HWA"></a><strong>Naalehu/South Hawaii (PHWA/HWC)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
+<div id="btns2">
+<fieldset data-type="horizontal"><input checked="checked" id="option6" name="options2" type="radio" value="option1" /> <label for="radio-choice-1">State Scale</label> <input id="option7" name="options2" type="radio" value="option2" /> <label for="radio-choice-2">Big Island</label> <input id="option8" name="options2" type="radio" value="option3" /> <label for="radio-choice-3">Kauai</label> <input id="option9" name="options2" type="radio" value="option4" /> <label for="radio-choice-3">Oahu</label> <input id="option10" name="options2" type="radio" value="option5" /> <label for="radio-choice-3">Maui County</label></fieldset>
+</div>
 
-<p>    <pre>
-            No outage message at this time.        </pre>
-</p>
+<h3>We are aware the images are not updating and are working on correcting the issue.</h3>
+
+<div class="wrapper">
+<div class="boxcontainer" id="one">
+<div class="title">Forecast Issued:
+<div class="productUpdate">&nbsp;</div>
+</div>
+
+<table class="chickletTable">
+	<tbody id="tbody">
+	</tbody>
+	<thead>
+		<tr id="titleRow">
+		</tr>
+	</thead>
+</table>
+</div>
+
+<div class="boxcontainer" id="two">
+<div class="title">National Weather Service Forecast Office<br />
+WFO Honolulu, Hawaii - Graphical Forecast</div>
+
+<div id="map">&nbsp;</div>
+
+<div class="subtitle">Image valid:&nbsp;
+<div class="validTime">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="boxcontainer">
+<div class="title">Additional Information</div>
+
+<div class="bottom">Additional forecast parameters through 7 days are available from the National Digital Forecast Database at <a href="http://weather.gov/forecasts/graphical/sectors/hawaii.php">http://weather.gov/forecasts/graphical/sectors/hawaii.php</a>.<br />
+<br />
+The National Digital Forecast Database is made available to all customers and partners from the public, private and academic sectors. Those customers and partners may use this data to create a wide range of text, graphic, gridded and image products of their own. For step by step instructions on how to get this data, visit <a href="https://www.weather.gov/mdl/ndfd_home">https://www.weather.gov/mdl/ndfd_home</a>.<br />
+<br />
+Graphics may be slow to download depending on your internet connection.<br />
+<br />
+We would appreciate any comments about these new products. Please email <a href="mailto:W-HFO.Webmaster@noaa.gov">W-HFO.Webmaster@noaa.gov</a>.<br />
+<br />
+<a href="/hfo/">Back to homepage</a></div>
+</div>
 
 </div>
 </div>
@@ -825,10 +1104,10 @@ LF
                         <span class="footer-column-head">
                             <a href="/hfo/obs">Current Conditions</a>
                         </span><br />
+                                                    <a href="/hfo/obs">Observations</a><br />
                                                     <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
                                                     <a href="/hfo/hydrology">Hydrology</a><br />
                                                     <a href="/hfo/satellite">Satellite</a><br />
-                                                    <a href="/hfo/obs">Observations</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -836,11 +1115,11 @@ LF
                         <span class="footer-column-head">
                             <a href="/hfo/radar">Radar</a>
                         </span><br />
+                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
+                                                    <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
                                                     <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
                                                     <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
                                                     <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
-                                                    <a href="/hfo/radar">Hawaii Radar</a><br />
-                                                    <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -848,14 +1127,14 @@ LF
                         <span class="footer-column-head">
                             <a href="/hfo/forecast">Forecasts</a>
                         </span><br />
+                                                    <a href="/hfo/aviation">Aviation</a><br />
+                                                    <a href="/hfo/gfe_graphics">Local Graphics</a><br />
                                                     <a href="/hfo/marine">Marine</a><br />
                                                     <a href="http://forecast.weather.gov/wxplanner.php?site=hfo">Activity Planner</a><br />
                                                     <a href="/hfo/forecast">Hawaii</a><br />
                                                     <a href="/hfo/model">Model Output</a><br />
                                                     <a href="/hfo/firewx">Fire Weather</a><br />
                                                     <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
-                                                    <a href="/hfo/aviation">Aviation</a><br />
-                                                    <a href="/hfo/gfe_graphics">Local Graphics</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
