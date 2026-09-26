@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>U.S. Counties</title>
-<meta name="DC.title" content="U.S. Counties" />
-<meta name="DC.description" content="NWS U.S. Counties" />
+<title>NWS Coastal, Offshore and High Seas Zones</title>
+<meta name="DC.title" content="NWS Coastal, Offshore and High Seas Zones" />
+<meta name="DC.description" content="Marine Zones" />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="March 3rd 2026 4:10 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="March 3rd 2026 4:33 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="County, FIPS, CWA" />
+<meta name="DC.keywords" content="Marine, zones, coastal, offshore" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -302,11 +302,11 @@
         <p class="sitename-class">National Program</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>U.S. Counties</h1>
+        <h1 class='location-pagetitle'>NWS Coastal, Offshore and High Seas Zones</h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/gis">GIS</a>
-                                &gt; U.S. Counties
+                                &gt; NWS Coastal, Offshore and High Seas Zones
                     </div>
     </div>
 </div>
@@ -341,54 +341,28 @@
                         
                         
                         <div class="div-full">
-<div class="cms-content"><p>&nbsp;</p>
+<div class="cms-content"><p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>Overview of Coastal, Offshore and High Seas Marine Zones</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Detailed view of the <a href="/marine/usamz">Marine Zones</a> and access to forecasts.<br />
+Detailed view of the&nbsp;<a href="/marine/wrdoffmz">Offshore Zones</a> and access to forecasts.</p>
 
 <p><strong>Shapefile Type</strong>: Polygon</p>
 
-<p><strong>Data source</strong>: Derived from Census TIGER 2000</p>
+<p><strong>Data source</strong>: Coastline derived from US Counties</p>
 
-<p><strong>Naming convention</strong>: c_ddmmyy&nbsp; where ddmmyy = day-month-year</p>
+<p><strong>Naming convention</strong>: mzddmmyy (coastal marine zones), ozddmmyy (offshore zones), hzddmmyy (high seas zones)&nbsp; where ddmmyy = day-month-year</p>
 
-<p><strong>NWS Specifications</strong>: <a href="/media/directives/010_pdfs/pd01005007curr.pdf">NWSM 10-507</a></p>
+<p><strong>NWS Specifications</strong>: <b> <a href="/media/directives/010_pdfs/pd01003002curr.pdf">NWSI 10-302</a></b></p>
 
-<p><strong>Description: </strong> Counties of the U.S used by NWS to issue county based forecasts and warnings.</p>
+<p><strong>Description</strong>: The NWS issues marine forecasts, watches, warnings and advisories for a set of defined zone for offshore and coastal waters of the U.S.</p>
 
-<p><em>Additional Info: </em>This county data set differs from other county datasets in that certain counties although having the same FIPS code comprise of more than one polygon, each polygon having a different name in the countyname field. This was done in order to allow the forecasters at the sites to issue warnings to these separate parts of the counties.&nbsp; In addition a number of counties along various waterways contain two records with the same FIPS code and name.&nbsp; This is to allow NWS forecasters to visualize these inlets but at the same time to issue a land based product (opposed to a marine based product) for those entities.</p>
+<p><span style="font-size:16px;"><strong>Due to technical issues, the implementation date for zone changes has been moved to April 16, 2026. New files will be available by March 4, 2026, and the files will be locked down on March 24, 2026. (High Seas Zones are currently valid.)</strong></span></p>
 
-<p><em><b>Time Zones:</b></em> Time zone assignments use the following codes:</p>
-
-<pre>
- <b>V</b>   Atlantic Standard
- <b>E</b>   Eastern Standard
- <b>C</b>   Central Standard
- <b>M</b>   Mountain Standard (m = daylight time not observed)
- <b>P</b>   Pacific Standard
- <b>A</b>   Alaska Standard
- <b>H</b>   Hawaii-Aleutian Standard (h = daylight time observed)
- <b>G</b>   Guam &amp; Marianas
-&nbsp;J   Japan Time
- <b>S</b>   Samoa Standard
-</pre>
-
-<p>Two letters appear for the nine (9) counties (10 records total) which are divided by a time zone boundary, which are located in the states of FL (Gulf), ID (Idaho), ND (McKenzie, Dunn, and Sioux), NE (Cherry), OR (Malheur), SD (Stanley), and TX (Culberson).</p>
-
-<p><em><b>FE_AREA abbreviations:</b> </em>The field FE_AREA is used internally to allow warnings to specify the portion of the state in which the county exists.</p>
-
-<pre>
- nn northern         ss southern         ea east
- ee eastern          ww western          er east central upper
- cc central          pa panhandle        eu eastern upper 
- ne north eastern    se south eastern    nr north central upper
- nw north western    sw south western    sr south central upper  
- nc north central    sc south central    wu western upper
- ec east central     wc west central     so south
- mi middle           pd piedmont
- bb big bend         up upstate
-</pre>
-
-<p><span style="font-size:16px;"><strong>Due to technical issues, the implementation date for zone changes has been moved to April 16, 2026. New files will be available by March 4, 2026, and the files will be locked down on March 24, 2026.</strong></span></p>
-
-<table border="1" cellpadding="1" cellspacing="1" height="57" width="934">
+<table border="1" cellpadding="1" cellspacing="1" height="134" width="902">
 	<thead>
 		<tr>
 			<th scope="col">Description</th>
@@ -401,84 +375,121 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="2" style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">U.S. Counties</td>
+			<td colspan="1" rowspan="2" style="white-space: nowrap; vertical-align: middle; height: 40px;">Coastal Marine Zones<br />
+			Including the Great Lakes</td>
 			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">18 March 2025</td>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/c_18mr25.zip">c_18mr25.zip</a></td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">3359</td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">37feacd979ecdad99550017130023e06<br />
-			Date last upload: 22-FEB-2025</td>
-			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/cty_chg_log.txt">Change History</a></td>
-			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px; text-align: center;"><a href="https://www.weather.gov/gis/CountyMetadata" target="_blank">Metadata</a></td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/mz18mr25.zip">mz18mr25.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">566</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">df33ce3efc028639d870a9848c636669<br />
+			Date last upload:&nbsp;20-FEB-25</td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/mz_ch_log.txt">Change History</a></td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="https://www.weather.gov/gis/CoastalMarineMetadata" target="_blank">Metadata</a></td>
 		</tr>
 		<tr>
 			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">16 April 2026</td>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/c_16ap26.zip">c_16ap26.zip</a></td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">3352</td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">734d75df3791bdc0cbb29fd6ed75a387<br />
-			Date last upload: 03-MAR-26</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/mz16ap26.zip">mz16ap26.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">569</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">f191552ac0810b4bc4d11b46a87c2aeb<br />
+			Date last upload:&nbsp;03-MAR-26</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="white-space: nowrap; vertical-align: middle; height: 40px;">Offshore Marine Zones</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">18 March 2025</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/oz18mr25.zip">oz18mr25.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">130</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">45ba9aca774938a4f8534fa798c8cb90<br />
+			Date last upload: 20-FEB-25</td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/oz_ch_log.txt">Change History</a></td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="https://www.weather.gov/gis/OffshoreZoneMetadata" target="_blank">Metadata</a></td>
+		</tr>
+		<tr>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">16 April 2026</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/oz16ap26.zip">oz16ap26.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">130</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">aa39c4bca11fcb4d949078cef292fd7d<br />
+			Date last upload:&nbsp;03-MAR-26</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="white-space: nowrap; vertical-align: middle; height: 40px;">High Seas Marine Zones</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">20 February 2025</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/hz20fe25.zip">hz20fe25.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">6</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">33a74c3f06339ca5080ef45101bb532f<br />
+			Date last upload: 20-FEB-25</td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/hz_ch_log.txt">Change History</a></td>
+			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px;"><a href="https://www.weather.gov/gis/HighSeasMetadata" target="_blank">Metadata</a></td>
+		</tr>
+		<tr>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">17 February 2026</td>
+			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/WSOM/hz17fe26.zip">hz17fe26.zip</a></td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">5</td>
+			<td style="vertical-align: middle; height: 40px; text-align: center;">9d89a9b2c485418a2848861cf047eb6c<br />
+			Date last upload: 12-FEB-26</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p><strong>Shapefile Attributes:</strong></p>
+<p><strong>Shapefile Attributes</strong>:</p>
 
 <table border="2">
 	<tbody>
 		<tr align="TOP">
 			<th>Field Name</th>
-			<th>Ttype</th>
+			<th>Type</th>
 			<th>width,dec</th>
 			<th>Description</th>
 		</tr>
 		<tr>
-			<td>STATE</td>
+			<td>ID</td>
 			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[ss] State abbreviation (standard US Postal)</td>
+			<td>6</td>
+			<td>Marine Zone Identifier</td>
 		</tr>
 		<tr>
-			<td>CWA</td>
+			<td>WFO</td>
 			<td>character</td>
-			<td style="text-align: center;">9</td>
-			<td>[wfowfowfo] County Warning Area (WFO Identifier), see NWS Comments</td>
+			<td>3</td>
+			<td>Assigned WFO (Office Identifier)</td>
 		</tr>
 		<tr>
-			<td>COUNTYNAME</td>
+			<td>GL_WFO</td>
 			<td>character</td>
-			<td style="text-align: center;">24</td>
-			<td>County name</td>
+			<td>3</td>
+			<td>Great lakes WFO responsible for Open Lake Forecastts</td>
 		</tr>
 		<tr>
-			<td>FIPS</td>
+			<td>NAME</td>
 			<td>character</td>
-			<td style="text-align: center;">5</td>
-			<td>[ssccc] <a href="https://www.itl.nist.gov/div897/pubs/fip6-4.htm">FIPS Code</a></td>
+			<td>250</td>
+			<td>Name of Marine Zone (In the offshore zone file, this attribute is &quot;Name&quot;)&nbsp; &nbsp;</td>
 		</tr>
 		<tr>
-			<td>TIME_ZONE</td>
+			<td>AJOIN0</td>
 			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[tt] Time zone assignment (DOT), see comments</td>
+			<td>5</td>
+			<td>Not Used</td>
 		</tr>
 		<tr>
-			<td>FE_AREA</td>
+			<td>AJOIN1</td>
 			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[aa] Feature Area (location in STATE) {nc,ne, etc., see comments}</td>
+			<td>5</td>
+			<td>Not Used</td>
 		</tr>
 		<tr>
 			<td>LON</td>
 			<td>numeric</td>
-			<td style="text-align: center;">10,5</td>
+			<td>10,5</td>
 			<td>Longitude of Centroid [decimal degrees]</td>
 		</tr>
 		<tr>
 			<td>LAT</td>
 			<td>numeric</td>
-			<td style="text-align: center;">9,5</td>
+			<td>9,5</td>
 			<td>Latitude of Centroid [decimal degrees]</td>
+		</tr>
+		<tr>
 		</tr>
 	</tbody>
 </table>
