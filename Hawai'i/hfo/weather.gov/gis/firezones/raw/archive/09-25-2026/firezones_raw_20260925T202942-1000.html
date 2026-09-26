@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>U.S. Counties</title>
-<meta name="DC.title" content="U.S. Counties" />
-<meta name="DC.description" content="NWS U.S. Counties" />
+<title>NWS Fire Weather Zones</title>
+<meta name="DC.title" content="NWS Fire Weather Zones" />
+<meta name="DC.description" content="NWS Fire Weather Zone Boundaries" />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="March 3rd 2026 4:10 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="March 3rd 2026 4:22 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="County, FIPS, CWA" />
+<meta name="DC.keywords" content="zones, counties, fire, fire weather" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -168,10 +168,10 @@
                                             <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                         </li>
                                                                             <li>
-                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                         </li>
                                                                             <li>
-                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                         </li>
                                                                             <li>
                                             <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -302,11 +302,11 @@
         <p class="sitename-class">National Program</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>U.S. Counties</h1>
+        <h1 class='location-pagetitle'>NWS Fire Weather Zones</h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/gis">GIS</a>
-                                &gt; U.S. Counties
+                                &gt; NWS Fire Weather Zones
                     </div>
     </div>
 </div>
@@ -345,46 +345,11 @@
 
 <p><strong>Shapefile Type</strong>: Polygon</p>
 
-<p><strong>Data source</strong>: Derived from Census TIGER 2000</p>
+<p><strong>Data source</strong>: Derived from NWS Public Forecast Zones</p>
 
-<p><strong>Naming convention</strong>: c_ddmmyy&nbsp; where ddmmyy = day-month-year</p>
+<p><strong>Naming convention</strong>: z_ddmmyy&nbsp; where ddmmyy = day-month-year</p>
 
-<p><strong>NWS Specifications</strong>: <a href="/media/directives/010_pdfs/pd01005007curr.pdf">NWSM 10-507</a></p>
-
-<p><strong>Description: </strong> Counties of the U.S used by NWS to issue county based forecasts and warnings.</p>
-
-<p><em>Additional Info: </em>This county data set differs from other county datasets in that certain counties although having the same FIPS code comprise of more than one polygon, each polygon having a different name in the countyname field. This was done in order to allow the forecasters at the sites to issue warnings to these separate parts of the counties.&nbsp; In addition a number of counties along various waterways contain two records with the same FIPS code and name.&nbsp; This is to allow NWS forecasters to visualize these inlets but at the same time to issue a land based product (opposed to a marine based product) for those entities.</p>
-
-<p><em><b>Time Zones:</b></em> Time zone assignments use the following codes:</p>
-
-<pre>
- <b>V</b>   Atlantic Standard
- <b>E</b>   Eastern Standard
- <b>C</b>   Central Standard
- <b>M</b>   Mountain Standard (m = daylight time not observed)
- <b>P</b>   Pacific Standard
- <b>A</b>   Alaska Standard
- <b>H</b>   Hawaii-Aleutian Standard (h = daylight time observed)
- <b>G</b>   Guam &amp; Marianas
-&nbsp;J   Japan Time
- <b>S</b>   Samoa Standard
-</pre>
-
-<p>Two letters appear for the nine (9) counties (10 records total) which are divided by a time zone boundary, which are located in the states of FL (Gulf), ID (Idaho), ND (McKenzie, Dunn, and Sioux), NE (Cherry), OR (Malheur), SD (Stanley), and TX (Culberson).</p>
-
-<p><em><b>FE_AREA abbreviations:</b> </em>The field FE_AREA is used internally to allow warnings to specify the portion of the state in which the county exists.</p>
-
-<pre>
- nn northern         ss southern         ea east
- ee eastern          ww western          er east central upper
- cc central          pa panhandle        eu eastern upper 
- ne north eastern    se south eastern    nr north central upper
- nw north western    sw south western    sr south central upper  
- nc north central    sc south central    wu western upper
- ec east central     wc west central     so south
- mi middle           pd piedmont
- bb big bend         up upstate
-</pre>
+<p><strong>Description</strong>: This dataset depicts the areas of responsibility for fire weather forecasts and warnings for each WFO.</p>
 
 <p><span style="font-size:16px;"><strong>Due to technical issues, the implementation date for zone changes has been moved to April 16, 2026. New files will be available by March 4, 2026, and the files will be locked down on March 24, 2026.</strong></span></p>
 
@@ -396,25 +361,25 @@
 			<th scope="col">Data Download</th>
 			<th scope="col"># Records</th>
 			<th scope="col">MD5SUM</th>
-			<th colspan="2" scope="col">Documentation</th>
+			<th colspan="3" scope="col">Documentation</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="2" style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">U.S. Counties</td>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">18 March 2025</td>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/c_18mr25.zip">c_18mr25.zip</a></td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">3359</td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">37feacd979ecdad99550017130023e06<br />
-			Date last upload: 22-FEB-2025</td>
-			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/cty_chg_log.txt">Change History</a></td>
-			<td colspan="1" rowspan="2" style="vertical-align: middle; height: 40px; text-align: center;"><a href="https://www.weather.gov/gis/CountyMetadata" target="_blank">Metadata</a></td>
+			<td colspan="1" rowspan="2" style="white-space: nowrap; text-align: center; vertical-align: middle; height: 40px;">Fire Weather Zones</td>
+			<td style="white-space: nowrap; text-align: center; vertical-align: middle; height: 40px;">18 March 2025</td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/fz18mr25.zip">fz18mr25.zip</a></td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;">3643</td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;">cd7def338de06aa4a6343697e059dd81<br />
+			Date last upload: 5-FEB-25</td>
+			<td colspan="1" rowspan="2" style="text-align: center; vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/fz_ch_log.txt">Change History</a></td>
+			<td colspan="1" rowspan="2" style="text-align: center; vertical-align: middle; height: 40px;"><a href="https://www.weather.gov/gis/FireZoneMetadata" target="_blank">Metadata</a></td>
 		</tr>
 		<tr>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;">16 April 2026</td>
-			<td style="white-space: nowrap; vertical-align: middle; height: 40px; text-align: center;"><a href="/source/gis/Shapefiles/County/c_16ap26.zip">c_16ap26.zip</a></td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">3352</td>
-			<td style="vertical-align: middle; height: 40px; text-align: center;">734d75df3791bdc0cbb29fd6ed75a387<br />
+			<td style="white-space: nowrap; text-align: center; vertical-align: middle; height: 40px;">16 April 2026</td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;"><a href="/source/gis/Shapefiles/WSOM/fz16ap26.zip">fz16ap26.zip</a></td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;">3683</td>
+			<td style="text-align: center; vertical-align: middle; height: 40px;">17862cbdb414d7b0807ac1765b2af3d0<br />
 			Date last upload: 03-MAR-26</td>
 		</tr>
 	</tbody>
@@ -422,63 +387,71 @@
 
 <p>&nbsp;</p>
 
-<p><strong>Shapefile Attributes:</strong></p>
+<p><strong>Shapefile Attributes</strong>:</p>
 
-<table border="2">
-	<tbody>
-		<tr align="TOP">
-			<th>Field Name</th>
-			<th>Ttype</th>
-			<th>width,dec</th>
-			<th>Description</th>
+<table border="1" cellpadding="1" cellspacing="1" height="218" width="573">
+	<thead>
+		<tr>
+			<th scope="col">Field Name</th>
+			<th scope="col">Type</th>
+			<th scope="col">&nbsp;Width, Decimals</th>
+			<th scope="col">Description</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>STATE</td>
-			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[ss] State abbreviation (standard US Postal)</td>
+			<td>Character</td>
+			<td>2</td>
+			<td style="white-space: nowrap;">U.S. Postal Standard two letter abbreviation</td>
+		</tr>
+		<tr>
+			<td>ZONE</td>
+			<td>Character</td>
+			<td>3</td>
+			<td>Zone Number</td>
 		</tr>
 		<tr>
 			<td>CWA</td>
-			<td>character</td>
-			<td style="text-align: center;">9</td>
-			<td>[wfowfowfo] County Warning Area (WFO Identifier), see NWS Comments</td>
+			<td>Character</td>
+			<td>3</td>
+			<td>CWA (WFO) abbreviation</td>
 		</tr>
 		<tr>
-			<td>COUNTYNAME</td>
-			<td>character</td>
-			<td style="text-align: center;">24</td>
-			<td>County name</td>
+			<td>NAME</td>
+			<td>Character</td>
+			<td>254</td>
+			<td>Zone name from</td>
 		</tr>
 		<tr>
-			<td>FIPS</td>
-			<td>character</td>
-			<td style="text-align: center;">5</td>
-			<td>[ssccc] <a href="https://www.itl.nist.gov/div897/pubs/fip6-4.htm">FIPS Code</a></td>
+			<td>STATE_ZONE</td>
+			<td>Character</td>
+			<td>5</td>
+			<td>Concatenation of State and Zone</td>
 		</tr>
 		<tr>
 			<td>TIME_ZONE</td>
-			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[tt] Time zone assignment (DOT), see comments</td>
+			<td>Character</td>
+			<td>2</td>
+			<td>Time zone abbreviation</td>
 		</tr>
 		<tr>
 			<td>FE_AREA</td>
-			<td>character</td>
-			<td style="text-align: center;">2</td>
-			<td>[aa] Feature Area (location in STATE) {nc,ne, etc., see comments}</td>
+			<td>Character</td>
+			<td>2</td>
+			<td>Cardinal area of state</td>
 		</tr>
 		<tr>
 			<td>LON</td>
-			<td>numeric</td>
-			<td style="text-align: center;">10,5</td>
-			<td>Longitude of Centroid [decimal degrees]</td>
+			<td>Numeric</td>
+			<td>10,5</td>
+			<td>Longitude of Centroid (decimal degrees)</td>
 		</tr>
 		<tr>
 			<td>LAT</td>
-			<td>numeric</td>
-			<td style="text-align: center;">9,5</td>
-			<td>Latitude of Centroid [decimal degrees]</td>
+			<td>Numeric</td>
+			<td>9,5</td>
+			<td>Latitude of Centroid (decimal degrees)</td>
 		</tr>
 	</tbody>
 </table>
