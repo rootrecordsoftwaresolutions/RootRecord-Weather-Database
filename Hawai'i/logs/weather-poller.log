@@ -140,3 +140,12 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T19:12:22-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: Server error '500 Internal Server Error' for url 'https://forecast.weather.gov/product.php?site=HFO&product=MWW&site=hfo'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
 2026-09-25T19:12:22-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:12:52-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T19:12:54-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:13:25-10:00 dispatching 1 due task(s) concurrently: text_products
+2026-09-25T19:15:56-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:15:56-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:16:26-10:00 dispatching 2 due task(s) concurrently: alerts, satellite
+2026-09-25T19:16:54-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: Client error '404 Not Found' for url 'https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-1000x1000.gif'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T19:16:54-10:00 reports: regenerated statewide Markdown reports
