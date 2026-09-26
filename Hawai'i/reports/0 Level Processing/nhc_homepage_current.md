@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T23:51:43.207124-10:00 HST
-- **Report created:** 2026-09-25T23:51:55-10:00 HST
+- **Collected:** 2026-09-26T00:04:46.461251-10:00 HST
+- **Report created:** 2026-09-26T00:05:12-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 09:50:06 UTC
+Last update Sat, 26 Sep 2026 10:00:14 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -152,7 +152,7 @@ NHC issuing advisories for the Central Pacific on
 
 Hurricane Nolo
 
-Marine warnings are in effect for the Atlantic and Eastern Pacific
+Marine warnings are in effect for the Eastern Pacific
 
 Key messages regarding Hurricane Polo
 

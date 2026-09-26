@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T23:51:57-10:00 HST
-- **Report created:** 2026-09-25T23:51:57-10:00 HST
+- **Generated:** 2026-09-26T00:05:14-10:00 HST
+- **Report created:** 2026-09-26T00:05:14-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 09:50:06 UTC
+Last update Sat, 26 Sep 2026 10:00:14 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -159,7 +159,7 @@ NHC issuing advisories for the Central Pacific on
 
 Hurricane Nolo
 
-Marine warnings are in effect for the Atlantic and Eastern Pacific
+Marine warnings are in effect for the Eastern Pacific
 
 Key messages regarding Hurricane Polo
 

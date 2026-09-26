@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T23:51:57-10:00 HST
-- **Report created:** 2026-09-25T23:51:57-10:00 HST
+- **Generated:** 2026-09-26T00:05:14-10:00 HST
+- **Report created:** 2026-09-26T00:05:14-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** afd_area_forecast_discussion
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO
