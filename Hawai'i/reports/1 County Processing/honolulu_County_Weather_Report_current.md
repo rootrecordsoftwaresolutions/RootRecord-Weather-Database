@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T01:06:22-10:00 HST
-- **Report created:** 2026-09-26T01:06:22-10:00 HST
+- **Generated:** 2026-09-26T01:15:22-10:00 HST
+- **Report created:** 2026-09-26T01:15:22-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 21
@@ -4586,7 +4586,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 11:01:21 UTC
+Last update Sat, 26 Sep 2026 11:11:20 UTC
 
 NHC issuing advisories for the Atlantic on
 
