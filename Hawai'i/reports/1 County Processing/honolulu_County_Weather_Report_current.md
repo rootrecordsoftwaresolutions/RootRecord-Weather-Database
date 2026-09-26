@@ -2,11 +2,11 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T13:12:41-10:00 HST
-- **Report created:** 2026-09-26T13:12:41-10:00 HST
+- **Generated:** 2026-09-26T13:20:41-10:00 HST
+- **Report created:** 2026-09-26T13:20:41-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
-- **Current report sections:** 21
+- **Current report sections:** 23
 - **Processing:** deterministic rules only; no AI/LLM classification.
 - **Level 0:** untouched; its current and archived reports remain intact.
 
@@ -21,21 +21,21 @@
 
 ```text
 000
-FPHW50 PHFO 262054
+FPHW50 PHFO 262308
 ZFPHFO
 
 Zone Forecast Product for Hawaii
 National Weather Service Honolulu HI
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
-HIZ001-271115-
+HIZ001-271415-
 Niihau-
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Breezy. Partly sunny with isolated showers.
-Highs 81 to 87. Northeast winds 10 to 20 mph. Chance of rain
+Highs 81 to 87. Northeast winds 15 to 20 mph. Chance of rain
 20 percent. 
 .TONIGHT...Partly cloudy. Breezy. Lows 72 to 78. East winds 15 to
 25 mph. 
@@ -68,15 +68,15 @@ Lows 71 to 77. South winds 15 to 30 mph. Chance of rain
 .FRIDAY...Windy. Mostly sunny with isolated showers. Highs 79 to
 85. Southeast winds 10 to 30 mph. Chance of rain 20 percent. 
 
-HIZ029-271115-
+HIZ029-271415-
 Kauai North-
 Including Princeville, Hanalei, Na Pali State Park
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Breezy. Mostly cloudy with scattered showers.
-Highs 70 to 87. East winds up to 20 mph. Chance of rain
+Highs 70 to 87. East winds 10 to 20 mph. Chance of rain
 50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows 66 to
 76. East winds 10 to 30 mph. Chance of rain 20 percent. 
@@ -109,16 +109,16 @@ sunny. Isolated showers. Highs 71 to 87. Southeast winds 10 to
 .FRIDAY...Mostly sunny with isolated showers. Highs 71 to 87.
 East winds up to 10 mph. Chance of rain 20 percent. 
 
-HIZ030-271115-
+HIZ030-271415-
 Kauai East-
 Including Lihue, Kapaa, Anahola
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Windy. Mostly cloudy with scattered showers.
-Highs 78 to 86. Northeast winds 10 to 30 mph. Chance of rain
+Highs 78 to 86. Northeast winds 15 to 30 mph. Chance of rain
 50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows 68 to
 78. Northeast winds 15 to 30 mph with gusts to 50 mph. Chance of
@@ -154,10 +154,10 @@ then mostly sunny with isolated showers in the afternoon. Highs
 78 to 86. Southeast winds up to 10 mph. Chance of rain
 40 percent. 
 
-HIZ031-271115-
+HIZ031-271415-
 Kauai South-
 Including Poipu, Kalaheo, Koloa
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
@@ -199,17 +199,17 @@ mostly cloudy. Scattered showers. Lows 71 to 77. Southeast winds
 Scattered showers. Highs 79 to 89. East winds 10 to 15 mph.
 Chance of rain 40 percent. 
 
-HIZ003-271115-
+HIZ003-271415-
 Kauai Southwest-
 Including Waimea, Waimea Canyon State Park, Hanapepe, Kekaha, 
 Barking Sands
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Windy. Mostly cloudy with isolated showers.
-Highs 86 to 91 near the shore to around 77 above 3000 feet. East
-winds up to 30 mph. Chance of rain 20 percent. 
+.REST OF TODAY...Windy. Partly sunny with isolated showers. Highs
+86 to 91 near the shore to around 77 above 3000 feet. East winds
+10 to 30 mph. Chance of rain 20 percent. 
 .TONIGHT...Mostly cloudy. Windy. Lows around 75 near the shore to
 around 66 above 3000 feet. East winds up to 30 mph increasing to
 10 to 30 mph after midnight. Gusts up to 50 mph. 
@@ -242,17 +242,17 @@ partly cloudy. Isolated showers. Lows 64 to 76. Southeast winds
 .FRIDAY...Partly sunny with isolated showers. Highs 76 to 90.
 Southeast winds around 10 mph. Chance of rain 20 percent. 
 
-HIZ004-271115-
+HIZ004-271415-
 Kauai Mountains-
 Including Kokee State Park
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Windy. Mostly cloudy with scattered showers.
 Highs 74 to 82 in the valleys to around 68 above 4000 feet. East
-winds 20 to 30 mph decreasing to 10 to 30 mph in the afternoon.
-Gusts up to 50 mph. Chance of rain 50 percent. 
+winds 10 to 30 mph with gusts to 50 mph. Chance of rain
+50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows
 around 71 in the valleys to around 63 above 4000 feet. East winds
 15 to 35 mph. Gusts up to 60 mph after midnight. Chance of rain
@@ -289,14 +289,14 @@ Southeast winds 10 to 20 mph. Chance of rain 40 percent.
 .FRIDAY...Partly sunny with scattered showers. Highs 66 to 83.
 Southeast winds 10 to 15 mph. Chance of rain 40 percent. 
 
-HIZ032-271115-
+HIZ032-271415-
 East Honolulu-
 Including Hawaii Kai, Aina Haina, Kahala
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Windy. Mostly cloudy with scattered showers.
+.REST OF TODAY...Windy. Partly sunny with scattered showers.
 Highs 81 to 88. East winds around 30 mph. Chance of rain
 40 percent. 
 .TONIGHT...Mostly cloudy. Windy. Lows around 78. East winds 30 to
@@ -328,10 +328,10 @@ mostly sunny in the afternoon. Highs 81 to 88. Light winds
 becoming east around 10 mph in the afternoon. Chance of rain
 20 percent. 
 
-HIZ033-271115-
+HIZ033-271415-
 Honolulu Metro-
 Including Honolulu, Waikiki
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
@@ -371,17 +371,16 @@ mostly sunny in the afternoon. Highs 84 to 89. Light winds
 becoming east around 10 mph in the afternoon. Chance of rain
 20 percent. 
 
-HIZ034-271115-
+HIZ034-271415-
 Ewa Plain-
 Including Kapolei
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Partly sunny. Windy. Scattered showers in the
-late morning and early afternoon, then isolated showers late in
-the afternoon. Highs 83 to 89. East winds 15 to 30 mph. Chance of
-rain 40 percent. 
+.REST OF TODAY...Partly sunny. Windy. Scattered showers early in
+the afternoon, then isolated showers late in the afternoon. Highs
+83 to 89. East winds 20 to 30 mph. Chance of rain 40 percent. 
 .TONIGHT...Mostly cloudy. Windy. Isolated showers after midnight.
 Lows around 77. East winds 20 to 30 mph decreasing to 15 to
 20 mph after midnight. Gusts up to 40 mph after midnight. Chance
@@ -415,17 +414,17 @@ light. Chance of rain 20 percent.
 84 to 89. Light winds becoming southeast around 10 mph in the
 afternoon. Chance of rain 20 percent. 
 
-HIZ006-271115-
+HIZ006-271415-
 Waianae Coast-
 Including Nanakuli, Waianae, Makaha
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Partly sunny. Windy. Scattered showers in the
-late morning and early afternoon, then isolated showers late in
-the afternoon. Highs 84 to 92. East winds 15 to 30 mph with gusts
-to 55 mph. Chance of rain 30 percent. 
+.REST OF TODAY...Partly sunny. Windy. Scattered showers early in
+the afternoon, then isolated showers late in the afternoon. Highs
+84 to 92. East winds 20 to 30 mph with gusts to 55 mph. Chance of
+rain 30 percent. 
 .TONIGHT...Mostly cloudy. Windy. Isolated showers after midnight.
 Lows 72 to 79. East winds 10 to 30 mph. Gusts up to 55 mph in the
 evening. Chance of rain 20 percent. 
@@ -457,15 +456,15 @@ Chance of rain 20 percent.
 84 to 91. Light winds becoming southeast up to 10 mph in the
 afternoon. Chance of rain 20 percent. 
 
-HIZ007-271115-
+HIZ007-271415-
 Oahu North Shore-
 Including Waialua, Haleiwa, Pupukea
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Windy. Mostly cloudy with scattered showers.
-Highs 79 to 86. East winds 15 to 30 mph with gusts to 50 mph.
+Highs 79 to 86. East winds 20 to 30 mph with gusts to 50 mph.
 Chance of rain 50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows 72 to
 78. East winds 15 to 30 mph. Gusts up to 55 mph in the evening.
@@ -496,18 +495,17 @@ Southeast winds 10 to 15 mph. Chance of rain 20 percent.
 Light winds becoming east around 10 mph in the afternoon. Chance
 of rain 20 percent. 
 
-HIZ035-271115-
+HIZ035-271415-
 Koolau Windward-
 Including Kahuku, Laie, Punaluu, Kahaluu, Ahuimanu
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Mostly cloudy. Windy. Numerous showers late in
-the morning, then scattered showers in the afternoon. Highs 74 to
-85. East winds 25 to 30 mph with gusts to 55 mph. Chance of rain
-70 percent. 
+.REST OF TODAY...Windy. Mostly cloudy with scattered showers.
+Highs 74 to 85. East winds 25 to 30 mph with gusts to 50 mph.
+Chance of rain 50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows 70 to
 80. East winds 25 to 35 mph decreasing to 15 to 35 mph after
 midnight. Gusts up to 60 mph. Chance of rain 20 percent. 
@@ -545,17 +543,16 @@ rain 30 percent.
 isolated showers in the afternoon. Highs 76 to 86. East winds
 around 10 mph. Chance of rain 40 percent. 
 
-HIZ036-271115-
+HIZ036-271415-
 Koolau Leeward-
 Including Nuuanu, Manoa, Palolo
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
-.REST OF TODAY...Mostly cloudy. Windy. Numerous showers late in
-the morning, then scattered showers in the afternoon. Highs 71 to
-86. East winds 25 to 35 mph with gusts to 55 mph. Chance of rain
-70 percent. 
+.REST OF TODAY...Windy. Mostly cloudy with scattered showers.
+Highs 71 to 86. East winds 25 to 35 mph with gusts to 55 mph.
+Chance of rain 50 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with isolated showers. Lows 68 to 77. Northeast winds 25 to
 40 mph shifting to the east 15 to 35 mph after midnight. Gusts up
@@ -592,10 +589,10 @@ mostly cloudy. Scattered showers. Lows 67 to 76. Southeast winds
 isolated showers in the afternoon. Highs 73 to 86. East winds up
 to 10 mph. Chance of rain 40 percent. 
 
-HIZ009-271115-
+HIZ009-271415-
 Olomana-
 Including Kailua, Kaneohe, Waimanalo
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
@@ -633,15 +630,15 @@ up to 10 mph. Chance of rain 20 percent.
 .FRIDAY...Partly sunny with isolated showers. Highs 78 to 85.
 Light winds. Chance of rain 20 percent. 
 
-HIZ010-271115-
+HIZ010-271415-
 Central Oahu-
 Including Mililani, Wahiawa, Pearl City
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY...Windy. Mostly cloudy with scattered showers.
-Highs 77 to 85. East winds 15 to 35 mph. Chance of rain
+Highs 77 to 85. East winds 20 to 35 mph. Chance of rain
 50 percent. 
 .TONIGHT...Windy. Mostly cloudy with isolated showers. Lows
 around 73. East winds 15 to 35 mph. Chance of rain 20 percent. 
@@ -674,16 +671,16 @@ around 10 mph in the evening becoming light. Chance of rain
 Light winds becoming southeast around 10 mph in the afternoon.
 Chance of rain 20 percent. 
 
-HIZ011-271115-
+HIZ011-271415-
 Waianae Mountains-
 Including Makakilo
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...WIND ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 
 .REST OF TODAY... Tropical storm conditions possible. Partly
 sunny with scattered showers. Highs 76 to 91. East winds 30 to
-40 mph with gusts to 60 mph. Chance of rain 40 percent. 
+40 mph. Chance of rain 40 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy.
 Isolated showers after midnight. Lows 66 to 76. Northeast winds
 30 to 40 mph with gusts to 60 mph becoming east 20 to 30 mph
@@ -717,10 +714,10 @@ partly cloudy. Isolated showers. Lows 66 to 75. Southeast winds
 76 to 91. Southeast winds around 10 mph. Chance of rain
 20 percent. 
 
-HIZ037-271115-
+HIZ037-271415-
 Molokai Windward-
 Including Kalaupapa, Halawa Valley
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
@@ -762,18 +759,18 @@ Lows 61 to 77. Southeast winds 10 to 20 mph. Chance of rain
 .FRIDAY...Mostly sunny with isolated showers. Highs 69 to 84.
 East winds 10 to 15 mph. Chance of rain 20 percent. 
 
-HIZ038-271115-
+HIZ038-271415-
 Molokai Southeast-
 Including Pukoo
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
+.REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with scattered showers and isolated thunderstorms. Locally
-heavy rainfall possible. Highs 67 to 84. East winds 30 to 40 mph
+heavy rainfall possible. Highs 67 to 84. East winds 30 to 35 mph
 with gusts to 60 mph. Chance of rain 50 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with isolated showers. Lows 62 to 77. East winds 25 to 45 mph.
@@ -805,20 +802,20 @@ rain 20 percent.
 .FRIDAY...Mostly sunny. Isolated showers in the morning. Highs
 67 to 85. East winds around 10 mph. Chance of rain 20 percent. 
 
-HIZ039-271115-
+HIZ039-271415-
 Molokai North-
 Including Hoolehua
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
 .REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy. Scattered showers and isolated thunderstorms in the late
-morning and early afternoon, then isolated showers and
-thunderstorms late in the afternoon. Locally heavy rainfall
-possible. Highs 73 to 85. East winds 30 to 40 mph with gusts to
-60 mph. Chance of rain 40 percent. 
+cloudy. Scattered showers and isolated thunderstorms early in the
+afternoon, then isolated showers and thunderstorms late in the
+afternoon. Locally heavy rainfall possible. Highs 73 to 85. East
+winds 35 to 40 mph with gusts to 60 mph. Chance of rain
+40 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy.
 Isolated showers in the evening. Lows 67 to 78. East winds 30 to
 45 mph. Chance of rain 20 percent. 
@@ -846,20 +843,18 @@ mostly cloudy. Breezy. Lows 67 to 78. Southeast winds 10 to
 .FRIDAY...Partly sunny in the morning then becoming mostly sunny.
 Breezy. Highs 74 to 86. East winds 10 to 20 mph. 
 
-HIZ040-271115-
+HIZ040-271415-
 Molokai West-
 Including Kepuhi
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions possible. Mostly
-cloudy. Scattered showers and isolated thunderstorms late in the
-morning, then isolated showers and thunderstorms in the
-afternoon. Locally heavy rainfall possible. Highs 81 to 88. East
-winds 25 to 35 mph with gusts to 55 mph. Chance of rain
-30 percent. 
+.REST OF TODAY... Tropical storm conditions possible. Partly
+sunny with isolated showers and thunderstorms. Locally heavy
+rainfall possible. Highs 81 to 88. East winds 25 to 35 mph with
+gusts to 55 mph. Chance of rain 20 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy.
 Lows around 77. East winds 25 to 40 mph with gusts to 60 mph. 
 .SUNDAY... Tropical storm conditions possible. Partly sunny.
@@ -885,20 +880,20 @@ mostly cloudy. Breezy. Lows around 76. Southeast winds 10 to
 20 mph. 
 .FRIDAY...Mostly sunny. Highs 81 to 87. East winds 10 to 15 mph. 
 
-HIZ041-271115-
+HIZ041-271415-
 Molokai Leeward South-
 Including Kaunakakai, Maunaloa
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
 .REST OF TODAY... Tropical storm conditions possible. Mostly
-cloudy. Scattered showers and isolated thunderstorms in the late
-morning and early afternoon, then isolated showers and
-thunderstorms late in the afternoon. Locally heavy rainfall
-possible. Highs 70 to 89. East winds 15 to 35 mph with gusts to
-55 mph. Chance of rain 40 percent. 
+cloudy. Scattered showers and isolated thunderstorms early in the
+afternoon, then isolated showers and thunderstorms late in the
+afternoon. Locally heavy rainfall possible. Highs 70 to 89. East
+winds 15 to 35 mph with gusts to 55 mph. Chance of rain
+40 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy.
 Isolated showers in the evening. Lows 64 to 78. East winds 10 to
 35 mph with gusts to 55 mph. Chance of rain 20 percent. 
@@ -923,17 +918,17 @@ winds 10 to 20 mph.
 up to 15 mph. 
 .FRIDAY...Mostly sunny. Highs 71 to 90. East winds up to 10 mph. 
 
-HIZ042-271115-
+HIZ042-271415-
 Lanai Windward-
 Including Shipwreck Beach
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy with isolated showers and thunderstorms. Locally heavy
-rainfall possible. Highs 78 to 85. Northeast winds 15 to 40 mph.
+.REST OF TODAY... Tropical storm conditions expected. Partly
+sunny with isolated showers and thunderstorms. Locally heavy
+rainfall possible. Highs 78 to 85. Northeast winds 20 to 40 mph.
 Chance of rain 20 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy in
 the evening then becoming partly cloudy. Lows 67 to 77. Northeast
@@ -963,18 +958,18 @@ winds 10 to 20 mph.
 .FRIDAY...Mostly sunny. Highs 77 to 85. East winds up to 10 mph
 increasing to 10 to 15 mph in the afternoon. 
 
-HIZ043-271115-
+HIZ043-271415-
 Lanai Leeward-
 Including Kaumalapau Harbor
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Partly
+.REST OF TODAY... Tropical storm conditions possible. Partly
 sunny with isolated showers and thunderstorms. Locally heavy
-rainfall possible. Highs 81 to 88. Northeast winds 15 to 40 mph.
-Chance of rain 20 percent. 
+rainfall possible. Highs 81 to 88. Northeast winds 15 to 35 mph
+with gusts to 55 mph. Chance of rain 20 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy in
 the evening then becoming partly cloudy. Lows 72 to 78. Northeast
 winds 25 to 45 mph. Gusts up to 60 mph increasing to 70 mph after
@@ -1001,10 +996,10 @@ winds 15 to 30 mph. Gusts up to 50 mph in the evening.
 winds 10 to 20 mph. 
 .FRIDAY...Mostly sunny. Highs 80 to 86. East winds 10 to 15 mph. 
 
-HIZ044-271115-
+HIZ044-271415-
 Lanai South-
 Including Manele
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
@@ -1039,20 +1034,20 @@ Southeast winds 15 to 25 mph.
 10 to 15 mph. 
 .FRIDAY...Sunny. Highs around 81. Southeast winds 10 to 15 mph. 
 
-HIZ015-271115-
+HIZ015-271415-
 Lanai Mauka-
 Including Lanai City
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy. Isolated showers and thunderstorms in the late morning
-and early afternoon, then scattered showers and isolated
-thunderstorms late in the afternoon. Locally heavy rainfall
-possible. Highs 74 to 84. Northeast winds 15 to 40 mph. Chance of
-rain 30 percent. 
+.REST OF TODAY... Tropical storm conditions possible. Partly
+sunny. Isolated showers and thunderstorms early in the afternoon,
+then scattered showers and isolated thunderstorms late in the
+afternoon. Locally heavy rainfall possible. Highs 74 to 84.
+Northeast winds 20 to 35 mph with gusts to 55 mph. Chance of rain
+30 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy in
 the evening then becoming partly cloudy. Lows 69 to 74. Northeast
 winds 20 to 40 mph increasing to 30 to 40 mph after midnight.
@@ -1080,16 +1075,16 @@ winds 15 to 25 mph.
 10 to 15 mph. 
 .FRIDAY...Mostly sunny. Highs 73 to 82. East winds 10 to 15 mph. 
 
-HIZ016-271115-
+HIZ016-271415-
 Kahoolawe-
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
 .REST OF TODAY... Tropical storm conditions expected. Partly
 sunny with scattered showers and isolated thunderstorms. Locally
-heavy rainfall possible. Highs 81 to 87. East winds 20 to 40 mph
+heavy rainfall possible. Highs 81 to 87. East winds 25 to 40 mph
 with gusts to 60 mph. Chance of rain 30 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy in
 the evening then becoming partly cloudy. Lows 72 to 77. East
@@ -1119,19 +1114,20 @@ winds 10 to 20 mph.
 .FRIDAY...Sunny and breezy. Highs 79 to 85. East winds 10 to
 20 mph. 
 
-HIZ017-271115-
+HIZ017-271415-
 Maui Windward West-
 Including Wailuku
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy with scattered showers and isolated thunderstorms. Locally
+.REST OF TODAY... Tropical storm conditions possible. Partly
+sunny with scattered showers and isolated thunderstorms. Locally
 heavy rainfall possible. Highs around 81 makai to around
-64 mauka. East winds 15 to 40 mph. Chance of rain 50 percent. 
+64 mauka. East winds 25 to 35 mph with gusts to 55 mph. Chance of
+rain 50 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with isolated showers. Lows 69 to 76 makai to around 60 mauka.
 East winds 25 to 40 mph with gusts to 60 mph. Chance of rain
@@ -1166,18 +1162,18 @@ Lows 60 to 76. Southeast winds 10 to 15 mph. Chance of rain
 64 to 86. Light winds becoming east up to 10 mph in the
 afternoon. Chance of rain 20 percent. 
 
-HIZ018-271115-
+HIZ018-271415-
 Maui Leeward West-
 Including Lahaina, Kaanapali
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy with scattered showers and isolated thunderstorms. Locally
+.REST OF TODAY... Tropical storm conditions possible. Partly
+sunny with scattered showers and isolated thunderstorms. Locally
 heavy rainfall possible. Highs 79 to 87. Northeast winds 20 to
-40 mph. Chance of rain 40 percent. 
+35 mph with gusts to 55 mph. Chance of rain 40 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with isolated showers. Lows 71 to 78. Northeast winds 35 to
 40 mph decreasing to 15 to 30 mph after midnight. Gusts up to
@@ -1205,18 +1201,18 @@ up to 10 mph.
 .FRIDAY...Mostly sunny. Highs 80 to 87. Light winds becoming east
 up to 10 mph in the afternoon. 
 
-HIZ045-271115-
+HIZ045-271415-
 Maui Central Valley North-
 Including Kahului
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
 .REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with scattered showers and isolated thunderstorms. Locally
-heavy rainfall possible. Highs 81 to 88. Northeast winds 25 to
-30 mph with gusts to 55 mph. Chance of rain 50 percent. 
+heavy rainfall possible. Highs 81 to 88. East winds 25 to 30 mph
+with gusts to 50 mph. Chance of rain 50 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with isolated showers. Lows around 74. East winds 20 to 30 mph
 with gusts to 50 mph. Chance of rain 20 percent. 
@@ -1244,20 +1240,18 @@ gusts to 50 mph. Chance of rain 20 percent.
 .FRIDAY...Mostly sunny. Highs 82 to 88. Light winds becoming
 northeast 10 to 15 mph in the afternoon. 
 
-HIZ046-271115-
+HIZ046-271415-
 Maui Central Valley South-
 Including Maalaea
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions possible. Mostly
-cloudy. Scattered showers and isolated thunderstorms late in the
-morning, then isolated showers and thunderstorms in the
-afternoon. Locally heavy rainfall possible. Highs around 88.
-Northeast winds 30 to 35 mph decreasing to 20 to 35 mph in the
-afternoon. Gusts up to 55 mph. Chance of rain 30 percent. 
+.REST OF TODAY... Tropical storm conditions possible. Partly
+sunny with isolated showers and thunderstorms. Locally heavy
+rainfall possible. Highs around 88. Northeast winds 20 to 35 mph
+with gusts to 55 mph. Chance of rain 20 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with isolated showers. Lows 72 to 81. Northeast winds 20 to
 35 mph with gusts to 60 mph. Chance of rain 20 percent. 
@@ -1286,21 +1280,20 @@ winds 15 to 20 mph.
 Highs around 88. East winds up to 10 mph increasing to 10 to
 15 mph in the afternoon. 
 
-HIZ047-271115-
+HIZ047-271415-
 Windward Haleakala-
 Including Haiku, Makawao, Hana
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions possible. Occasional
-showers and isolated thunderstorms late in the morning, then
-numerous showers and isolated thunderstorms in the afternoon.
-Locally heavy rainfall possible. Highs around 81 near the shore
-to around 66 near 5000 feet. East winds 15 to 35 mph with gusts
-to 55 mph. Chance of rain near 100 percent. 
+.REST OF TODAY... Tropical storm conditions possible. Mostly
+cloudy with numerous showers and isolated thunderstorms. Locally
+heavy rainfall possible. Highs around 81 near the shore to around
+66 near 5000 feet. East winds 15 to 30 mph with gusts to 50 mph.
+Chance of rain 70 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with scattered showers. Lows 71 to 76 near the shore to around
 57 near 5000 feet. East winds 15 to 35 mph with gusts to 55 mph.
@@ -1339,20 +1332,19 @@ around 10 mph. Chance of rain 20 percent.
 .FRIDAY...Mostly sunny. Isolated showers in the morning. Highs
 66 to 83. East winds up to 10 mph. Chance of rain 20 percent. 
 
-HIZ048-271115-
+HIZ048-271415-
 Kipahulu-
 Including Hamoa
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions possible. Mostly
-cloudy. Occasional showers and isolated thunderstorms late in the
-morning, then numerous showers and isolated thunderstorms in the
-afternoon. Locally heavy rainfall possible. Highs 68 to 84.
-Northeast winds 15 to 30 mph. Chance of rain 90 percent. 
+.REST OF TODAY...Breezy. Mostly cloudy with numerous showers and
+isolated thunderstorms. Locally heavy rainfall possible. Highs
+68 to 84. Northeast winds 20 to 25 mph. Chance of rain
+70 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with scattered showers. Lows 64 to 76. Northeast winds 20 to
 25 mph increasing to east 25 to 45 mph after midnight. Chance of
@@ -1389,19 +1381,18 @@ Lows 65 to 76. Southeast winds 10 to 25 mph. Chance of rain
 mostly sunny in the afternoon. Highs 69 to 84. East winds 10 to
 15 mph. Chance of rain 20 percent. 
 
-HIZ049-271115-
+HIZ049-271415-
 South Maui/Upcountry-
 Including Kihei, Makena, Pukalani, Kula, Ulupalakua
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY...Mostly cloudy. Breezy. Isolated showers and
-thunderstorms late in the morning, then scattered showers and
-isolated thunderstorms in the afternoon. Locally heavy rainfall
-possible. Highs around 88 near the shore to around 74 near
-4000 feet. East winds up to 20 mph. Chance of rain 50 percent. 
+.REST OF TODAY...Breezy. Partly sunny with scattered showers and
+isolated thunderstorms. Locally heavy rainfall possible. Highs
+around 88 near the shore to around 74 near 4000 feet. Southeast
+winds 10 to 20 mph. Chance of rain 50 percent. 
 .TONIGHT...Breezy. Mostly cloudy with isolated showers. Lows
 around 74 near the shore to around 60 near 4000 feet. East winds
 up to 20 mph with gusts to 45 mph increasing to 10 to 20 mph
@@ -1430,19 +1421,19 @@ up to 10 mph in the evening becoming light.
 Highs 70 to 89. Light winds becoming east up to 10 mph in the
 afternoon. 
 
-HIZ050-271115-
+HIZ050-271415-
 South Haleakala-
 Including Kipahulu, Kaupo
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
+.REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with scattered showers and isolated thunderstorms. Locally
-heavy rainfall possible. Highs 75 to 87. East winds 20 to 40 mph.
-Chance of rain 50 percent. 
+heavy rainfall possible. Highs 75 to 87. East winds 20 to 35 mph
+with gusts to 55 mph. Chance of rain 50 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with scattered showers. Lows 58 to 77. East winds 25 to 45 mph
 with gusts to 65 mph. Chance of rain 50 percent. 
@@ -1474,10 +1465,10 @@ sunny. Breezy. Highs 75 to 85. East winds 10 to 25 mph.
 15 mph. 
 .FRIDAY...Mostly sunny. Highs 75 to 85. East winds 10 to 15 mph. 
 
-HIZ022-271115-
+HIZ022-271415-
 Haleakala Summit-
 Including Haleakala National Park Above 6000 feet
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WATCH IN EFFECT...
@@ -1515,20 +1506,19 @@ winds 10 to 20 mph.
 up to 10 mph. 
 .FRIDAY...Partly sunny. Highs 61 to 82. Light winds. 
 
-HIZ023-271115-
+HIZ023-271415-
 Kona-
 Including Kailua-Kona, Kealakekua, Milolii
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
 
 .REST OF TODAY...Mostly cloudy. Scattered showers and isolated
-thunderstorms in the late morning and early afternoon, then
-numerous showers and isolated thunderstorms late in the
-afternoon. Locally heavy rainfall possible. Highs 86 to 92 near
-the shore to around 72 near 5000 feet. Light winds. Chance of
-rain 70 percent. 
+thunderstorms early in the afternoon, then numerous showers and
+isolated thunderstorms late in the afternoon. Locally heavy
+rainfall possible. Highs 86 to 92 near the shore to around
+72 near 5000 feet. Light winds. Chance of rain 70 percent. 
 .TONIGHT...Mostly cloudy. Scattered showers in the evening, then
 isolated showers after midnight. Lows 71 to 78 near the shore to
 around 59 near 5000 feet. Light winds becoming east around 10 mph
@@ -1559,11 +1549,12 @@ up to 10 mph in the evening becoming light.
 Highs 69 to 90. Light winds becoming southwest up to 10 mph in
 the afternoon. 
 
-HIZ051-271115-
+HIZ051-271415-
 Big Island South-
 Including Ocean View
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
+...HIGH SURF WARNING IN EFFECT UNTIL 6 AM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
 
@@ -1604,19 +1595,20 @@ partly cloudy. Lows 60 to 79. East winds 10 to 15 mph.
 .FRIDAY...Sunny in the morning then becoming partly sunny. Highs
 69 to 85. East winds 10 to 15 mph. 
 
-HIZ052-271115-
+HIZ052-271415-
 Big Island Southeast-
 Including South Point, Pahala
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
-...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
+...HIGH SURF WARNING IN EFFECT UNTIL 6 AM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
+...HIGH SURF ADVISORY IN EFFECT FROM 6 AM TO 6 PM HST SUNDAY...
 
 .REST OF TODAY... Tropical storm conditions possible. Cloudy with
 occasional showers and isolated thunderstorms. Locally heavy
 rainfall possible. Highs 80 to 87 near the shore to 68 to 73 near
-4000 feet. Northeast winds 15 to 35 mph with gusts to 60 mph.
+4000 feet. Northeast winds 15 to 30 mph with gusts to 55 mph.
 Chance of rain 90 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with scattered showers. Lows 70 to 76 near the shore to 57 to
@@ -1650,10 +1642,10 @@ winds up to 10 mph. Chance of rain 20 percent.
 .FRIDAY...Sunny in the morning then becoming partly sunny. Highs
 69 to 89. East winds up to 10 mph. 
 
-HIZ053-271115-
+HIZ053-271415-
 Big Island East-
 Including Hilo, Volcano, Pahoa, Mountain View, Laupahoehoe
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
@@ -1698,19 +1690,19 @@ Southeast winds 10 to 15 mph. Chance of rain 30 percent.
 66 to 85. Light winds becoming east around 10 mph in the
 afternoon. Chance of rain 20 percent. 
 
-HIZ054-271115-
+HIZ054-271415-
 Big Island North-
 Including Honokaa, Kamuela, Waipio Valley, Hawi
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 6 PM HST SUNDAY...
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
+.REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with numerous showers and isolated thunderstorms. Locally
-heavy rainfall possible. Highs 63 to 84. East winds 20 to 40 mph
-with gusts to 70 mph. Chance of rain 70 percent. 
+heavy rainfall possible. Highs 63 to 84. East winds 20 to 35 mph
+with gusts to 65 mph. Chance of rain 70 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with scattered showers. Lows 67 to 75 near the shore to 61 to
 69 near 3000 feet. East winds 15 to 40 mph. Gusts up to 70 mph
@@ -1742,20 +1734,19 @@ becoming light. Chance of rain 20 percent.
 .FRIDAY...Mostly sunny. Highs 65 to 84. Light winds becoming east
 around 10 mph in the afternoon. 
 
-HIZ026-271115-
+HIZ026-271415-
 Kohala-
 Including Kawaihae, Waikoloa, Waikii, Puuanahulu
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
 
 .REST OF TODAY... Tropical storm conditions expected. Mostly
-cloudy. Isolated showers and thunderstorms late in the morning,
-then scattered showers and isolated thunderstorms in the
-afternoon. Locally heavy rainfall possible. Highs 84 to 91 near
-the shore to around 72 above 4000 feet. East winds up to 40 mph
-with gusts to 70 mph. Chance of rain 50 percent. 
+cloudy with scattered showers and isolated thunderstorms. Locally
+heavy rainfall possible. Highs 84 to 91 near the shore to around
+72 above 4000 feet. Northeast winds up to 40 mph with gusts to
+70 mph. Chance of rain 50 percent. 
 .TONIGHT... Tropical storm conditions expected. Mostly cloudy
 with isolated showers. Lows 72 to 78 near the shore to 57 to
 63 above 4000 feet. East winds up to 45 mph with gusts to 75 mph
@@ -1788,10 +1779,10 @@ evening becoming light.
 .FRIDAY...Mostly sunny. Highs 68 to 90. Light winds becoming
 northwest up to 15 mph in the afternoon. 
 
-HIZ027-271115-
+HIZ027-271415-
 Big Island Interior-
 Including Bradshaw Field, Saddle Road Above 5000 feet
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
@@ -1799,8 +1790,8 @@ Including Bradshaw Field, Saddle Road Above 5000 feet
 .REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with occasional showers and isolated thunderstorms.
 Locally heavy rainfall possible. Highs 63 to 76 near 5000 feet to
-58 to 65 near 8000 feet. East winds up to 30 mph with gusts to
-50 mph. Chance of rain 90 percent. 
+58 to 65 near 8000 feet. East winds up to 30 mph. Chance of rain
+90 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy
 with scattered showers. Lows 55 to 61 near 5000 feet to 50 to
 55 near 8000 feet. East winds up to 30 mph increasing to 10 to
@@ -1834,19 +1825,19 @@ partly cloudy. Lows 49 to 60. Southeast winds up to 10 mph.
 Highs 60 to 75. Light winds becoming south around 10 mph in the
 afternoon. 
 
-HIZ028-271115-
+HIZ028-271415-
 Big Island Summits-
 Including Mauna Loa and Mauna Kea Above 8000 feet
-1054 AM HST Sat Sep 26 2026
+108 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH IN EFFECT UNTIL 6 PM HST THIS EVENING...
 ...TROPICAL STORM WARNING IN EFFECT...
 
-.REST OF TODAY... Tropical storm conditions expected. Mostly
+.REST OF TODAY... Tropical storm conditions possible. Mostly
 cloudy with occasional showers and isolated thunderstorms.
 Locally heavy rainfall possible. Highs around 61 at the visitor
-information station to around 52 near the summits. East winds up
-to 40 mph with gusts to 60 mph. Chance of rain 90 percent. 
+information station to around 52 near the summits. East winds
+10 to 35 mph. Chance of rain 90 percent. 
 .TONIGHT... Tropical storm conditions possible. Mostly cloudy.
 Scattered showers in the evening, then isolated showers after
 midnight. Lows around 46 at the visitor information station to
@@ -4138,7 +4129,1341 @@ T INDICATES TRACE AMOUNT.
 
 ---
 
-## 17. NHC source index
+## 17. NHC Central Pacific Tropical Weather Outlook — 7 day
+
+- **Resource ID:** nhc_gtwo_cpac_7day
+- **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=7
+- **Source layer:** Official Sources
+- **County assignment:** explicit-text
+
+```text
+Graphical Tropical Weather Outlook
+
+Home
+
+Mobile Site
+
+Text Version
+
+RSS
+
+Local Forecast
+
+NATIONAL HURRICANE CENTER and
+CENTRAL PACIFIC HURRICANE CENTER
+
+National Oceanic and Atmospheric Administration
+
+Analysis & Forecasts
+
+Tropical Cyclone Products
+
+Tropical Weather Outlooks
+
+Marine Products
+
+Rip Currents Map
+
+RSS Feeds
+
+GIS Products
+
+Alternate Formats
+
+Tropical Cyclone Product Descriptions
+
+Tropical Cyclone Product Examples
+
+Marine Product Descriptions
+
+Data & Tools
+
+Satellite Imagery
+
+Radar Imagery
+
+Aircraft Reconnaissance
+
+Tropical Analysis Tools
+
+Experimental Products
+
+Lat/Lon Distance Calculator
+
+Blank Tracking Maps
+
+Educational Resources
+
+Be Prepared!
+NWS Hurricane Prep Week
+
+Outreach Documents
+
+TC Videos
+
+Rip Currents
+
+Storm Surge
+
+Watch/Warning Breakpoints
+
+Climatology
+
+Tropical Cyclone Names
+
+Wind Scale
+
+Records and Facts
+
+Historical Hurricane Summaries
+
+Forecast Models
+
+NHC Publications
+
+NHC Glossary
+
+Acronyms
+
+Frequent Questions
+
+Archives
+
+Tropical Cyclone Advisories
+
+Tropical Weather Outlooks
+
+Tropical Cyclone Reports and Season Summaries
+
+Tropical Cyclone Forecast Verification
+
+NHC News Archive
+
+Other Archives: HURDAT, Track Maps, Marine Products, and more
+
+About
+
+National Hurricane Center
+
+Central Pacific Hurricane Center
+
+Library
+
+Contact Us
+
+Search
+
+Search for
+
+Search
+
+Graphical Tropical Weather Outlook
+
+Archived Outlooks
+
+GIS Shapefiles
+
+Graphical Tropical Weather Outlook (Static Images)
+
+JavaScript is currently disabled in your browser or you are using an older browser that is incompatible with this map. To view the interactive map, please enable JavaScript or update your browser if possible. Direct links to the latest high-resolution forecast images are provided below:
+
+View Atlantic 2-Day Outlook
+
+View Atlantic 7-Day Outlook
+
+View Eastern Pacific 2-Day Outlook
+
+View Eastern Pacific 7-Day Outlook
+
+View Central Pacific 2-Day Outlook
+
+View Central Pacific 7-Day Outlook
+
+Central Pacific
+
+Pacific
+
+Atlantic
+
+2-Day Forecast
+
+7-Day Forecast
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Close (X)
+
+View Storm Details
+
+Tropical Weather Outlook Text
+
+Central Pacific
+
+Pacific
+
+Atlantic
+
+Select Language
+
+English
+
+Español
+
+English
+
+Español
+
+English
+
+Español (Unavailable)
+
+ZCZC HFOTWOCP ALL
+TTAA00 PHFO DDHHMM
+
+Tropical Weather Outlook
+NWS Central Pacific Hurricane Center Honolulu HI
+Issued by NWS National Hurricane Center Miami FL
+800 AM HST Sat Sep 26 2026
+
+For the central North Pacific...between 140W and 180W:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Hurricane
+Polo, located a few hundred miles west-southwest of Cabo Corrientes,
+Mexico, on Hurricane Odalys, located well west-southwest of the
+southern tip of Baja California, and on Hurricane Nolo, located
+south of the Big Island of Hawaii.
+
+1. Well East-Southeast of the Hawaiian Islands:
+A broad area of low pressure is expected to form within the next day
+or two about 1000 miles to the east-southeast of the Hawaiian
+Islands. Environmental conditions are expected to be conducive for
+development of the system, and a tropical depression is likely to
+form during the early to middle part of next week. The system is
+should move generally northeastward, and remain well east-southeast
+of the Hawaiian Islands.
+* Formation chance through 48 hours...low...20 percent.
+* Formation chance through 7 days...high...70 percent.
+
+Forecaster Katz/Papin
+
+714
+
+ACPN51 PHFO 261724
+
+TWOSCP
+
+Perspectiva de tiempo tropical
+
+Centro de Huracanes del Pacífico Central del SNM Honolulu HI
+
+Emitido por el Centro Nacional de Huracanes del SNM Miami FL
+
+800 AM HST sábado 26 de septiembre de 2026
+
+Para el Pacífico Norte central…entre 140 y 180 longitud oeste
+
+Sistemas activos: El Centro Nacional de Huracanes está emitiendo
+
+advertencias sobre el Huracán Polo, ubicado a unos cientos de millas
+
+al oeste-suroeste de Cabo Corrientes, México, sobre el Huracán
+
+Odalys, ubicado a gran oeste-suroeste del extremo sur de Baja
+
+California, y sobre el Huracán Nolo, ubicado al sur de la Isla
+
+Grande de Hawai.
+
+Pozo este-sureste de las Islas Hawaii: Se anticipa que se forme una
+
+amplia área de baja presión dentro del próximo día o dos, a unas
+
+1000 millas al este-sureste de las Islas Hawaii. Se espera que las
+
+condiciones ambientales sean propicias para el desarrollo del
+
+sistema, y es probable que se forme una depresión tropical durante
+
+la parte temprana o media de la próxima semana. El sistema debe
+
+moverse generalmente hacia el noreste, y permanecer bien al
+
+este-sureste de las Islas Hawaii.
+
+* Probabilidad de formación hasta 48 horas...baja...20 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...70 por ciento.
+
+$$
+
+Pronosticador Katz/Papin
+
+*** Este producto ha sido procesado automáticamente utilizando un
+
+programa de traducción y puede contener omisiones y errores. El
+
+Servicio Nacional de Meteorología no puede garantizar la precisión
+
+del texto convertido. De haber alguna duda, el texto en inglés es
+
+siempre la versión autorizada. ***
+
+ZCZC MIATWOEP ALL
+TTAA00 KNHC DDHHMM
+
+Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+1100 AM PDT Sat Sep 26 2026
+
+For the eastern and central North Pacific east of 180 longitude:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Hurricane
+Polo, located a few hundred miles west-southwest of Cabo Corrientes,
+Mexico, on Hurricane Odalys, located well west-southwest of the
+southern tip of Baja California, and on Hurricane Nolo, located
+south of the Big Island of Hawaii.
+
+1. South of the Gulf of Tehuantepec (EP90):
+Showers and thunderstorms continue to develop in association with an
+area of low pressure south of the Gulf of Tehuantepec. Additional
+development of the system is anticipated due to conducive
+environmental conditions and a tropical depression is expected to
+form in the next day or so. This system is forecast to continue
+moving slowly to the west-northwest or northwest, staying parallel
+to the coast of southern and southwestern Mexico.
+* Formation chance through 48 hours...high...90 percent.
+* Formation chance through 7 days...high...90 percent.
+
+2. Well East-Southeast of the Hawaiian Islands:
+A broad area of low pressure is expected to form within the next day
+or two about 1000 miles to the east-southeast of the Hawaiian
+Islands. Environmental conditions are expected to be conducive for
+development of the system, and a tropical depression is likely to
+form during the early to middle part of next week. The system is
+should move generally northeastward, and remain well east-southeast
+of the Hawaiian Islands.
+* Formation chance through 48 hours...low...20 percent.
+* Formation chance through 7 days...high...70 percent.
+
+Forecaster Katz/Papin
+
+Tropical Weather Discussion
+
+089
+
+ABPZ21 KNHC 261724
+
+TWOSEP
+
+Perspectiva de tiempo tropical
+
+Centro Nacional de Huracanes del SNM Miami FL
+
+1100 AM PDT sábado 26 de septiembre de 2026
+
+Para el Pacífico Norte oriental y central al este de 180 longitud
+
+Sistemas activos: El Centro Nacional de Huracanes está emitiendo
+
+advertencias sobre el Huracán Polo, ubicado a unos cientos de millas
+
+al oeste-suroeste de Cabo Corrientes, México, sobre el Huracán
+
+Odalys, ubicado a gran oeste-suroeste del extremo sur de Baja
+
+California, y sobre el Huracán Nolo, ubicado al sur de la Isla
+
+Grande de Hawai.
+
+Sur del Golfo de Tehuantepec (EP90): Aguaceros y tormentas
+
+eléctricas continúan desarrollándose en asociación con un área de
+
+baja presión al sur del Golfo de Tehuantepec. Se anticipa un
+
+desarrollo adicional del sistema debido a condiciones ambientales
+
+propicias y se espera que se forme una depresión tropical el próximo
+
+día más o menos. Se pronostica que este sistema continuará
+
+moviéndose lentamente al oeste-noroeste o noroeste, permaneciendo
+
+paralelo a la costa del sur y suroeste de México.
+
+* Probabilidad de formación hasta 48 horas...alta...90 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...90 por ciento.
+
+Pozo este-sureste de las Islas Hawaii: Se anticipa que se forme una
+
+amplia área de baja presión dentro del próximo día o dos, a unas
+
+1000 millas al este-sureste de las Islas Hawaii. Se espera que las
+
+condiciones ambientales sean propicias para el desarrollo del
+
+sistema, y es probable que se forme una depresión tropical durante
+
+la parte temprana o media de la próxima semana. El sistema debe
+
+moverse generalmente hacia el noreste, y permanecer bien al
+
+este-sureste de las Islas Hawaii.
+
+* Probabilidad de formación hasta 48 horas...baja...20 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...70 por ciento.
+
+$$
+
+Pronosticador Katz/Papin
+
+*** Este producto ha sido procesado automáticamente utilizando un
+
+programa de traducción y puede contener omisiones y errores. El
+
+Servicio Nacional de Meteorología no puede garantizar la precisión
+
+del texto convertido. De haber alguna duda, el texto en inglés es
+
+siempre la versión autorizada. ***
+
+Tropical Weather Discussion
+
+ZCZC MIATWOAT ALL
+TTAA00 KNHC DDHHMM
+
+Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+800 PM EDT Sat Sep 26 2026
+
+For the North Atlantic...Caribbean Sea and the Gulf of America:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Tropical
+Depression Fay, located well to the west-southwest of the Azores
+and has issued the last advisory on Post-Tropical Cyclone Gonzalo,
+located north of the Cabo Verde Islands.
+
+1. Central Subtropical Atlantic:
+A surface trough of low pressure located several hundred miles to
+the southeast of Bermuda is currently producing an area of
+disorganized showers and thunderstorms. Environmental conditions
+could become favorable for gradual development of this system as it
+moves northward this weekend and then turns eastward by the early to
+middle portion of next week.
+* Formation chance through 48 hours...low...10 percent.
+* Formation chance through 7 days...low...20 percent.
+
+Forecaster Pierce/Evans/Beven
+
+Tropical Weather Discussion
+
+Tropical Weather Discussion
+
+Quick Links and Additional Resources
+
+Tropical Cyclone Forecasts
+
+Tropical Cyclone Advisories
+
+Tropical Weather Outlook
+
+Audio/Podcasts
+
+About Advisories
+
+Marine Forecasts
+
+Offshore Waters Forecasts
+
+Gridded Forecasts
+
+Graphicast
+
+About Marine
+
+Social Media
+
+NHC on Facebook
+
+NHC on X
+
+NHC on YouTube
+
+NHC Blog:
+"Inside the Eye"
+
+Hurricane Preparedness
+
+Preparedness Guide
+
+Hurricane Hazards
+
+Watches and Warnings
+
+Marine Safety
+
+Ready.gov Hurricanes
+
+Weather-Ready Nation
+
+Emergency Management Offices
+
+Research and Development
+
+NOAA Hurricane Research Division
+
+Hurricane and Ocean Testbed
+
+Hurricane Forecast Improvement Program
+
+Other Resources
+
+Q & A with NHC
+
+NHC/AOML Library Branch
+
+NOAA: Hurricane FAQs
+
+National Hurricane Operations Plan
+
+WX4NHC Amateur Radio
+
+NWS Forecast Offices
+
+Weather Prediction Center
+
+Storm Prediction Center
+
+Ocean Prediction Center
+
+Local Forecast Offices
+
+Worldwide Tropical Cyclone Centers
+
+Canadian Hurricane Centre
+
+Joint Typhoon Warning Center
+
+Other Tropical Cyclone Centers
+
+WMO Severe Weather Info Centre
+
+US Dept of Commerce
+
+National Oceanic and Atmospheric Administration
+
+National Hurricane Center
+
+11691 SW 17th Street
+
+Miami, FL, 33165
+
+nhcwebmaster@noaa.gov
+
+Central Pacific Hurricane Center
+
+2525 Correa Rd
+
+Suite 250
+
+Honolulu, HI 96822
+
+W-HFO.webmaster@noaa.gov
+
+Disclaimer
+
+Information Quality
+
+Help
+
+Glossary
+```
+
+---
+
+## 18. NHC Eastern Pacific Tropical Weather Outlook — 2 day
+
+- **Resource ID:** nhc_gtwo_epac_2day
+- **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=2
+- **Source layer:** Official Sources
+- **County assignment:** explicit-text
+
+```text
+Graphical Tropical Weather Outlook
+
+Home
+
+Mobile Site
+
+Text Version
+
+RSS
+
+Local Forecast
+
+NATIONAL HURRICANE CENTER and
+CENTRAL PACIFIC HURRICANE CENTER
+
+National Oceanic and Atmospheric Administration
+
+Analysis & Forecasts
+
+Tropical Cyclone Products
+
+Tropical Weather Outlooks
+
+Marine Products
+
+Rip Currents Map
+
+RSS Feeds
+
+GIS Products
+
+Alternate Formats
+
+Tropical Cyclone Product Descriptions
+
+Tropical Cyclone Product Examples
+
+Marine Product Descriptions
+
+Data & Tools
+
+Satellite Imagery
+
+Radar Imagery
+
+Aircraft Reconnaissance
+
+Tropical Analysis Tools
+
+Experimental Products
+
+Lat/Lon Distance Calculator
+
+Blank Tracking Maps
+
+Educational Resources
+
+Be Prepared!
+NWS Hurricane Prep Week
+
+Outreach Documents
+
+TC Videos
+
+Rip Currents
+
+Storm Surge
+
+Watch/Warning Breakpoints
+
+Climatology
+
+Tropical Cyclone Names
+
+Wind Scale
+
+Records and Facts
+
+Historical Hurricane Summaries
+
+Forecast Models
+
+NHC Publications
+
+NHC Glossary
+
+Acronyms
+
+Frequent Questions
+
+Archives
+
+Tropical Cyclone Advisories
+
+Tropical Weather Outlooks
+
+Tropical Cyclone Reports and Season Summaries
+
+Tropical Cyclone Forecast Verification
+
+NHC News Archive
+
+Other Archives: HURDAT, Track Maps, Marine Products, and more
+
+About
+
+National Hurricane Center
+
+Central Pacific Hurricane Center
+
+Library
+
+Contact Us
+
+Search
+
+Search for
+
+Search
+
+Graphical Tropical Weather Outlook
+
+Archived Outlooks
+
+GIS Shapefiles
+
+Graphical Tropical Weather Outlook (Static Images)
+
+JavaScript is currently disabled in your browser or you are using an older browser that is incompatible with this map. To view the interactive map, please enable JavaScript or update your browser if possible. Direct links to the latest high-resolution forecast images are provided below:
+
+View Atlantic 2-Day Outlook
+
+View Atlantic 7-Day Outlook
+
+View Eastern Pacific 2-Day Outlook
+
+View Eastern Pacific 7-Day Outlook
+
+View Central Pacific 2-Day Outlook
+
+View Central Pacific 7-Day Outlook
+
+Central Pacific
+
+Pacific
+
+Atlantic
+
+2-Day Forecast
+
+7-Day Forecast
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+2
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Disturbances:
+
+ALL
+
+1
+
+Close (X)
+
+View Storm Details
+
+Tropical Weather Outlook Text
+
+Central Pacific
+
+Pacific
+
+Atlantic
+
+Select Language
+
+English
+
+Español
+
+English
+
+Español
+
+English
+
+Español (Unavailable)
+
+ZCZC HFOTWOCP ALL
+TTAA00 PHFO DDHHMM
+
+Tropical Weather Outlook
+NWS Central Pacific Hurricane Center Honolulu HI
+Issued by NWS National Hurricane Center Miami FL
+800 AM HST Sat Sep 26 2026
+
+For the central North Pacific...between 140W and 180W:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Hurricane
+Polo, located a few hundred miles west-southwest of Cabo Corrientes,
+Mexico, on Hurricane Odalys, located well west-southwest of the
+southern tip of Baja California, and on Hurricane Nolo, located
+south of the Big Island of Hawaii.
+
+1. Well East-Southeast of the Hawaiian Islands:
+A broad area of low pressure is expected to form within the next day
+or two about 1000 miles to the east-southeast of the Hawaiian
+Islands. Environmental conditions are expected to be conducive for
+development of the system, and a tropical depression is likely to
+form during the early to middle part of next week. The system is
+should move generally northeastward, and remain well east-southeast
+of the Hawaiian Islands.
+* Formation chance through 48 hours...low...20 percent.
+* Formation chance through 7 days...high...70 percent.
+
+Forecaster Katz/Papin
+
+714
+
+ACPN51 PHFO 261724
+
+TWOSCP
+
+Perspectiva de tiempo tropical
+
+Centro de Huracanes del Pacífico Central del SNM Honolulu HI
+
+Emitido por el Centro Nacional de Huracanes del SNM Miami FL
+
+800 AM HST sábado 26 de septiembre de 2026
+
+Para el Pacífico Norte central…entre 140 y 180 longitud oeste
+
+Sistemas activos: El Centro Nacional de Huracanes está emitiendo
+
+advertencias sobre el Huracán Polo, ubicado a unos cientos de millas
+
+al oeste-suroeste de Cabo Corrientes, México, sobre el Huracán
+
+Odalys, ubicado a gran oeste-suroeste del extremo sur de Baja
+
+California, y sobre el Huracán Nolo, ubicado al sur de la Isla
+
+Grande de Hawai.
+
+Pozo este-sureste de las Islas Hawaii: Se anticipa que se forme una
+
+amplia área de baja presión dentro del próximo día o dos, a unas
+
+1000 millas al este-sureste de las Islas Hawaii. Se espera que las
+
+condiciones ambientales sean propicias para el desarrollo del
+
+sistema, y es probable que se forme una depresión tropical durante
+
+la parte temprana o media de la próxima semana. El sistema debe
+
+moverse generalmente hacia el noreste, y permanecer bien al
+
+este-sureste de las Islas Hawaii.
+
+* Probabilidad de formación hasta 48 horas...baja...20 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...70 por ciento.
+
+$$
+
+Pronosticador Katz/Papin
+
+*** Este producto ha sido procesado automáticamente utilizando un
+
+programa de traducción y puede contener omisiones y errores. El
+
+Servicio Nacional de Meteorología no puede garantizar la precisión
+
+del texto convertido. De haber alguna duda, el texto en inglés es
+
+siempre la versión autorizada. ***
+
+ZCZC MIATWOEP ALL
+TTAA00 KNHC DDHHMM
+
+Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+1100 AM PDT Sat Sep 26 2026
+
+For the eastern and central North Pacific east of 180 longitude:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Hurricane
+Polo, located a few hundred miles west-southwest of Cabo Corrientes,
+Mexico, on Hurricane Odalys, located well west-southwest of the
+southern tip of Baja California, and on Hurricane Nolo, located
+south of the Big Island of Hawaii.
+
+1. South of the Gulf of Tehuantepec (EP90):
+Showers and thunderstorms continue to develop in association with an
+area of low pressure south of the Gulf of Tehuantepec. Additional
+development of the system is anticipated due to conducive
+environmental conditions and a tropical depression is expected to
+form in the next day or so. This system is forecast to continue
+moving slowly to the west-northwest or northwest, staying parallel
+to the coast of southern and southwestern Mexico.
+* Formation chance through 48 hours...high...90 percent.
+* Formation chance through 7 days...high...90 percent.
+
+2. Well East-Southeast of the Hawaiian Islands:
+A broad area of low pressure is expected to form within the next day
+or two about 1000 miles to the east-southeast of the Hawaiian
+Islands. Environmental conditions are expected to be conducive for
+development of the system, and a tropical depression is likely to
+form during the early to middle part of next week. The system is
+should move generally northeastward, and remain well east-southeast
+of the Hawaiian Islands.
+* Formation chance through 48 hours...low...20 percent.
+* Formation chance through 7 days...high...70 percent.
+
+Forecaster Katz/Papin
+
+Tropical Weather Discussion
+
+089
+
+ABPZ21 KNHC 261724
+
+TWOSEP
+
+Perspectiva de tiempo tropical
+
+Centro Nacional de Huracanes del SNM Miami FL
+
+1100 AM PDT sábado 26 de septiembre de 2026
+
+Para el Pacífico Norte oriental y central al este de 180 longitud
+
+Sistemas activos: El Centro Nacional de Huracanes está emitiendo
+
+advertencias sobre el Huracán Polo, ubicado a unos cientos de millas
+
+al oeste-suroeste de Cabo Corrientes, México, sobre el Huracán
+
+Odalys, ubicado a gran oeste-suroeste del extremo sur de Baja
+
+California, y sobre el Huracán Nolo, ubicado al sur de la Isla
+
+Grande de Hawai.
+
+Sur del Golfo de Tehuantepec (EP90): Aguaceros y tormentas
+
+eléctricas continúan desarrollándose en asociación con un área de
+
+baja presión al sur del Golfo de Tehuantepec. Se anticipa un
+
+desarrollo adicional del sistema debido a condiciones ambientales
+
+propicias y se espera que se forme una depresión tropical el próximo
+
+día más o menos. Se pronostica que este sistema continuará
+
+moviéndose lentamente al oeste-noroeste o noroeste, permaneciendo
+
+paralelo a la costa del sur y suroeste de México.
+
+* Probabilidad de formación hasta 48 horas...alta...90 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...90 por ciento.
+
+Pozo este-sureste de las Islas Hawaii: Se anticipa que se forme una
+
+amplia área de baja presión dentro del próximo día o dos, a unas
+
+1000 millas al este-sureste de las Islas Hawaii. Se espera que las
+
+condiciones ambientales sean propicias para el desarrollo del
+
+sistema, y es probable que se forme una depresión tropical durante
+
+la parte temprana o media de la próxima semana. El sistema debe
+
+moverse generalmente hacia el noreste, y permanecer bien al
+
+este-sureste de las Islas Hawaii.
+
+* Probabilidad de formación hasta 48 horas...baja...20 por ciento.
+
+* Probabilidad de formación hasta 7 días...alta...70 por ciento.
+
+$$
+
+Pronosticador Katz/Papin
+
+*** Este producto ha sido procesado automáticamente utilizando un
+
+programa de traducción y puede contener omisiones y errores. El
+
+Servicio Nacional de Meteorología no puede garantizar la precisión
+
+del texto convertido. De haber alguna duda, el texto en inglés es
+
+siempre la versión autorizada. ***
+
+Tropical Weather Discussion
+
+ZCZC MIATWOAT ALL
+TTAA00 KNHC DDHHMM
+
+Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+800 PM EDT Sat Sep 26 2026
+
+For the North Atlantic...Caribbean Sea and the Gulf of America:
+
+Active Systems:
+The National Hurricane Center is issuing advisories on Tropical
+Depression Fay, located well to the west-southwest of the Azores
+and has issued the last advisory on Post-Tropical Cyclone Gonzalo,
+located north of the Cabo Verde Islands.
+
+1. Central Subtropical Atlantic:
+A surface trough of low pressure located several hundred miles to
+the southeast of Bermuda is currently producing an area of
+disorganized showers and thunderstorms. Environmental conditions
+could become favorable for gradual development of this system as it
+moves northward this weekend and then turns eastward by the early to
+middle portion of next week.
+* Formation chance through 48 hours...low...10 percent.
+* Formation chance through 7 days...low...20 percent.
+
+Forecaster Pierce/Evans/Beven
+
+Tropical Weather Discussion
+
+Tropical Weather Discussion
+
+Quick Links and Additional Resources
+
+Tropical Cyclone Forecasts
+
+Tropical Cyclone Advisories
+
+Tropical Weather Outlook
+
+Audio/Podcasts
+
+About Advisories
+
+Marine Forecasts
+
+Offshore Waters Forecasts
+
+Gridded Forecasts
+
+Graphicast
+
+About Marine
+
+Social Media
+
+NHC on Facebook
+
+NHC on X
+
+NHC on YouTube
+
+NHC Blog:
+"Inside the Eye"
+
+Hurricane Preparedness
+
+Preparedness Guide
+
+Hurricane Hazards
+
+Watches and Warnings
+
+Marine Safety
+
+Ready.gov Hurricanes
+
+Weather-Ready Nation
+
+Emergency Management Offices
+
+Research and Development
+
+NOAA Hurricane Research Division
+
+Hurricane and Ocean Testbed
+
+Hurricane Forecast Improvement Program
+
+Other Resources
+
+Q & A with NHC
+
+NHC/AOML Library Branch
+
+NOAA: Hurricane FAQs
+
+National Hurricane Operations Plan
+
+WX4NHC Amateur Radio
+
+NWS Forecast Offices
+
+Weather Prediction Center
+
+Storm Prediction Center
+
+Ocean Prediction Center
+
+Local Forecast Offices
+
+Worldwide Tropical Cyclone Centers
+
+Canadian Hurricane Centre
+
+Joint Typhoon Warning Center
+
+Other Tropical Cyclone Centers
+
+WMO Severe Weather Info Centre
+
+US Dept of Commerce
+
+National Oceanic and Atmospheric Administration
+
+National Hurricane Center
+
+11691 SW 17th Street
+
+Miami, FL, 33165
+
+nhcwebmaster@noaa.gov
+
+Central Pacific Hurricane Center
+
+2525 Correa Rd
+
+Suite 250
+
+Honolulu, HI 96822
+
+W-HFO.webmaster@noaa.gov
+
+Disclaimer
+
+Information Quality
+
+Help
+
+Glossary
+```
+
+---
+
+## 19. NHC source index
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -4267,7 +5592,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:05:15 UTC
+Last update Sat, 26 Sep 2026 23:16:44 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4776,7 +6101,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-200 PM EDT Sat Sep 26 2026
+800 PM EDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 
@@ -5121,7 +6446,7 @@ Glossary
 
 ---
 
-## 18. NOAA solar calculation table
+## 20. NOAA solar calculation table
 
 - **Resource ID:** solar_calculation_table
 - **Source:** https://gml.noaa.gov/grad/solcalc/table.php?lat=21.3&lon=-157.85&year=2026
@@ -7740,7 +9065,7 @@ Global Monitoring Laboratory
 
 ---
 
-## 19. Offshore Forecast (40-240nm)
+## 21. Offshore Forecast (40-240nm)
 
 - **Resource ID:** off_offshore_forecast
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OFF&issuedby=HFO
@@ -7818,7 +9143,7 @@ thunderstorms W of 162W.
 
 ---
 
-## 20. Radar status/outage text messages
+## 22. Radar status/outage text messages
 
 - **Resource ID:** ftm_radar_status
 - **Source:** /hfo/FTM
@@ -7865,7 +9190,7 @@ No outage message at this time.
 
 ---
 
-## 21. Statewide Surf Observations
+## 23. Statewide Surf Observations
 
 - **Resource ID:** surfreports_statewide_observations
 - **Source:** /hfo/surfreports

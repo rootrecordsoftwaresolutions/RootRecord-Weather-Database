@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T13:12:41-10:00 HST
-- **Report created:** 2026-09-26T13:12:41-10:00 HST
+- **Generated:** 2026-09-26T13:20:41-10:00 HST
+- **Report created:** 2026-09-26T13:20:41-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T13:12:38.822095-10:00 HST
+- **Collected:** 2026-09-26T13:20:38.995989-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:05:15 UTC
+Last update Sat, 26 Sep 2026 23:16:44 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -645,7 +645,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-200 PM EDT Sat Sep 26 2026
+800 PM EDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 

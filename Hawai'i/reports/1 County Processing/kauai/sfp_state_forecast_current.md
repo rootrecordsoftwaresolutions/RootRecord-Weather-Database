@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T13:12:41-10:00 HST
-- **Report created:** 2026-09-26T13:12:41-10:00 HST
+- **Generated:** 2026-09-26T13:20:41-10:00 HST
+- **Report created:** 2026-09-26T13:20:41-10:00 HST
 - **County:** Kauai County
 - **Resource ID:** sfp_state_forecast
 - **Source:** https://api.weather.gov/products/types/SFP/locations/HFO
@@ -17,18 +17,18 @@
 
 ```text
 000
-FPHW60 PHFO 262054
+FPHW60 PHFO 262311
 SFPHFO
 
 State Forecast for Hawaii
 National Weather Service Honolulu HI
-1054 AM HST Sat Sep 26 2026
+111 PM HST Sat Sep 26 2026
 
 HIZ001-003-004-006-007-009>011-015>018-022-029>050-270415-
 Kauai-Oahu-Maui-Molokai-Lanai-
-1054 AM HST Sat Sep 26 2026
+111 PM HST Sat Sep 26 2026
 
-...FLOOD WATCH...
+...FLOOD WATCH FOR MOLOKAI LANAI KAHOOLAWE AND MAUI...
 ...HIGH SURF ADVISORY FOR KAUAI OAHU MOLOKAI AND MAUI...
 ...TROPICAL STORM WATCH FOR MOLOKAI LANAI KAHOOLAWE AND MAUI...
 ...WIND ADVISORY FOR NIIHAU KAUAI AND OAHU...
@@ -55,14 +55,15 @@ County, isolated showers. Highs 86 to 91. Lows 74 to 79. East
 winds 15 to 25 mph. 
 .WEDNESDAY...Mostly cloudy. Windy. Scattered showers windward and
 mountains. isolated showers leeward. Highs 84 to 89. Lows 73 to
-78. East winds 15 to 30 mph. 
+78. East winds 15 to 25 mph.
 
 HIZ023-026>028-051>054-270415-
 Big Island of Hawaii-
-1054 AM HST Sat Sep 26 2026
+111 PM HST Sat Sep 26 2026
 
 ...FLOOD WATCH...
-...HIGH SURF ADVISORY...
+...HIGH SURF ADVISORY FOR EAST FACING SHORES...
+...HIGH SURF WARNING FOR SOUTH FACING SHORES...
 ...TROPICAL STORM WARNING...
 
 .REST OF TODAY...Cloudy. Very windy. Occasional showers and
