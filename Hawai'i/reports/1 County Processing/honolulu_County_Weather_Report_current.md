@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T10:38:35-10:00 HST
-- **Report created:** 2026-09-26T10:38:35-10:00 HST
+- **Generated:** 2026-09-26T10:46:35-10:00 HST
+- **Report created:** 2026-09-26T10:46:35-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 21
@@ -4312,7 +4312,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 20:38:11 UTC
+Last update Sat, 26 Sep 2026 20:45:08 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4661,9 +4661,9 @@ Forecast
 
 Discussion
 
-#7
+#8
 
-200 PM CVT
+800 PM CVT
 
 Wind Speed
 
@@ -4754,17 +4754,17 @@ Forecast
 
 Discussion
 
-#26
+#27
 
-300 PM GMT
+900 PM GMT
 
 Wind Speed
 
 Probabilities
 
-#26
+#27
 
-1500 UTC
+2100 UTC
 
 Productos en español:
 
