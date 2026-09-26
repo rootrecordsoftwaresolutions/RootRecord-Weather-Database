@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T09:38:35-10:00 HST
-- **Report created:** 2026-09-26T09:38:35-10:00 HST
+- **Generated:** 2026-09-26T09:47:35-10:00 HST
+- **Report created:** 2026-09-26T09:47:35-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** clm_monthly_climate_summary_HNL
 - **Official source:** https://forecast.weather.gov/product.php?site=HFO&product=CLM&issuedby=HNL
