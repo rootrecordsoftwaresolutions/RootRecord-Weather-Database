@@ -35,3 +35,17 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T18:31:14-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T18:31:14-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T18:31:44-10:00 dispatching 4 due task(s) concurrently: alerts, marine, aviation, hurricanes
+2026-09-25T18:32:47-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:32:47-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T18:32:47-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:33:05-10:00 module:marine resource:hsf_high_seas_spac INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T18:33:05-10:00 module:marine resource:mfm_marine_forecast_matrix INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:33:05-10:00 module:marine resource:srf_statewide_surf_forecast INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:33:05-10:00 module:marine resource:surfreports_statewide_observations INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T18:33:05-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: Server error '500 Internal Server Error' for url 'https://forecast.weather.gov/product.php?site=HFO&product=MWW&site=hfo'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2026-09-25T18:33:35-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T18:34:07-10:00 dispatching 1 due task(s) concurrently: text_products
+2026-09-25T18:36:38-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T18:36:38-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T18:37:08-10:00 dispatching 2 due task(s) concurrently: alerts, satellite
