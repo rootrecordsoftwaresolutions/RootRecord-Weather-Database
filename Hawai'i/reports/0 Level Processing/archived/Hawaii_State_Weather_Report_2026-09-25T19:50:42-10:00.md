@@ -2,8 +2,7 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-25T19:50:42-10:00 HST
-- **Report created:** 2026-09-25T19:50:42-10:00 HST
+- **Generated:** 2026-09-25T19:38:17-10:00 HST
 - **Current report sections:** 17
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -550,7 +549,7 @@ AND 150W.
 
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO
-- **Collected:** 2026-09-25T19:47:27.822416-10:00 HST
+- **Collected:** 2026-09-25T19:29:32.014392-10:00 HST
 
 ```text
 583
