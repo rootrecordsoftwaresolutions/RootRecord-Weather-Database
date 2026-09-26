@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>Hawaii 72 Hour Archive of the RR5HFO</title>
-<meta name="DC.title" content="Hawaii 72 Hour Archive of the RR5HFO" />
-<meta name="DC.description" content="Hawaii 72 Hour Archive of the RR5HFO" />
+<title>Radar Free Text Messages for Hawaii </title>
+<meta name="DC.title" content="Radar Free Text Messages for Hawaii " />
+<meta name="DC.description" content="Latest radar free text message status for each of the four weather radars in Hawaii." />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="February 7th 2019 5:57 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="December 24th 2018 1:03 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="rr5, hourly, rainfall, precipitation, hawaii" />
+<meta name="DC.keywords" content="radar, hawaii, upolu point, south point, molokai, kauai, weather, rain, flood, status, ftm" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -379,11 +379,11 @@ function noCache(url) {
         <p class="sitename-class">Weather Forecast Office</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>Hawaii 72 Hour Archive of the RR5HFO</h1>
+        <h1 class='location-pagetitle'>Radar Free Text Messages for Hawaii </h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
-                                &gt; Hawaii 72 Hour Archive of the RR5HFO
+                                &gt; Radar Free Text Messages for Hawaii 
                     </div>
     </div>
 </div>
@@ -682,123 +682,65 @@ border-collapse: collapse;
 border: 2px solid white; 
 }
 </style>
-<div id="RR5">&nbsp;</div>
-<script type="text/javascript">
-function displayRR5archive() {
-    var output = "";
+<p><a name="HKI"></a><strong>Kauai Radar (PHKI/SOK)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // see if product time request in url
-    var timerequested = location.hash.substr(1);
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
 
-    if (timerequested == "") {
-        timerequested="summary";
-        output += '<ul>';
-    }
-    
-    var filename = "/source/hfo/xml/RR5HFO.xml";
+<hr />
+<p><a name="HKM"></a><strong>Molokai Radar (PHMO/HMO)&nbsp;<a href="/source/hfo/xml/FTMHMO.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // Get information from the forecast feed
-    if (window.XMLHttpRequest){
-      xhttp=new XMLHttpRequest();
-    } else { // code for IE5 and IE6
-      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }	
-    xhttp.open("GET",filename,false);
-    xhttp.setRequestHeader("Content-Type", "text/xml");
-    xhttp.send();
+<p>    <pre>
+                        
+858
+NOUS60 PHFO 242239
+FTMHMO
 
-    // Place the response in an XML document.
-    var TheDocument = xhttp.responseXML;
-    // Place the root node in an element.
-    var Customers = TheDocument.childNodes[0];
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1239 PM HST THU SEP 24 2026
 
-    var items = Customers.children[0].getElementsByTagName("item");
-    var feedlink = Customers.children[0].getElementsByTagName("link");
-    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+WSR-88D PHMO/HMO MOLOKAI RADAR IS BACK IN SERVICE.
 
-    // go through each item in the feed
-    for (var i = 0; i < items.length; i++) {
-      var Customer = items[i];
- 
-      // output all sections
-      var description = Customer.getElementsByTagName("description");
-      var desc = description[0].textContent;
+$$
 
-      var ts = desc.match(/a name="[0-9]+"/gm);
-      var tsn = ts[0].match(/[0-9]+/gm);
-      var timestring = tsn;   
 
-      var title = Customer.getElementsByTagName("title");
-      var titleinfo = title[0].textContent;
 
-      // if summary requested, just list the titles with the links
-      if (timerequested == "summary") {
-        output += '<li><a id="RR5' + timestring + '" title="' + titleinfo + '" href="/hfo/RR5_archive#' + timestring + '" onclick="displayRR5(' + timestring + ');return false;">' + titleinfo + '</a></li>';
-      } else {
-        if (timestring == timerequested) {
-          output += '<p><a href="/hfo/RR5_archive">Listing of archive</a></p>';
-          output += desc;
-        }
-      }
-    }
-    if (timerequested == "summary") {
-      output += '</ul>';
-    }
+                </pre>
+</p>
 
-    document.getElementById("RR5").innerHTML = output;
-}
-function displayRR5(link) {
-    var output = "";
+<hr />
+<p><a name="HKM"></a><strong>Upolu Point/North Kohala Radar (PHKM/UPP)&nbsp;<a href="/source/hfo/xml/FTMHKM.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-    // see if product time request in url
-    var timerequested = link;
-    
-    var filename = "/source/hfo/xml/RR5HFO.xml";
+<p>    <pre>
+                        
+646
+NOUS60 PHFO 252159
+FTMHKM
 
-    // Get information from the forecast feed
-    if (window.XMLHttpRequest){
-      xhttp=new XMLHttpRequest();
-    } else { // code for IE5 and IE6
-      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }	
-    xhttp.open("GET",filename,false);
-    xhttp.setRequestHeader("Content-Type", "text/xml");
-    xhttp.send();
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1159 AM HST FRI SEP 25 2026
 
-    // Place the response in an XML document.
-    var TheDocument = xhttp.responseXML;
-    // Place the root node in an element.
-    var Customers = TheDocument.childNodes[0];
+WSR-88D PHKM/UPP UPOLU POINT RADAR IS BACK IN SERVICE.
 
-    var items = Customers.children[0].getElementsByTagName("item");
-    var feedlink = Customers.children[0].getElementsByTagName("link");
-    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+$$
 
-    // go through each item in the feed
-    for (var i = 0; i < items.length; i++) {
-      var Customer = items[i];
- 
-      // output all sections
-      var description = Customer.getElementsByTagName("description");
-      var desc = description[0].textContent;
+LF
 
-      var ts = desc.match(/a name="[0-9]+"/gm);
-      var tsn = ts[0].match(/[0-9]+/gm);
-      var timestring = tsn;   
 
-      var title = Customer.getElementsByTagName("title");
-      var titleinfo = title[0].textContent;
 
-      if (timestring == timerequested) {
-        output += '<p><a href="/hfo/RR5_archive">Listing of archive</a></p>';
-        output += desc;
-      }
-    }
+                </pre>
+</p>
 
-    document.getElementById("RR5").innerHTML = output;
-}
-displayRR5archive();
-</script>
+<hr />
+<p><a name="HWA"></a><strong>Naalehu/South Hawaii (PHWA/HWC)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
+
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
+
 </div>
 </div>
 <div style="clear:both"></div>
