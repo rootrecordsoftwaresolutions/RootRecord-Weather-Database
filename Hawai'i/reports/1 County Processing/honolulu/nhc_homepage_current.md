@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T13:46:41-10:00 HST
-- **Report created:** 2026-09-26T13:46:41-10:00 HST
+- **Generated:** 2026-09-26T13:54:41-10:00 HST
+- **Report created:** 2026-09-26T13:54:41-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:42:44 UTC
+Last update Sat, 26 Sep 2026 23:52:45 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -323,7 +323,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-800 AM HST Sat Sep 26 2026
+200 PM HST Sat Sep 26 2026
 
 Hurricane Nolo
 
@@ -332,16 +332,16 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO MOVING SLOWLY WESTWARD...
+...NOLO CONTINUES MOVING SLOWLY WESTWARD...
 ...GUSTY WINDS, HEAVY RAIN, AND LARGE WAVES CONTINUE FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-11:00 AM HST Sat Sep 26
+2:00 PM HST Sat Sep 26
 
-Location: 16.7°N 156.0°W
+Location: 16.7°N 156.2°W
 
 Moving: W at 5 mph
 
-Min pressure: 977 mb
+Min pressure: 972 mb
 
 Max sustained: 90 mph
 
@@ -349,9 +349,9 @@ Public
 
 Advisory
 
-#25
+#25A
 
-1100 AM HST
+200 PM HST
 
 Forecast
 
@@ -438,7 +438,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-1100 AM PDT Sat Sep 26 2026
+500 PM PDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 

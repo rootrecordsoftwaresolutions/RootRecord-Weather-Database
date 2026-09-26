@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T13:46:41-10:00 HST
-- **Report created:** 2026-09-26T13:46:41-10:00 HST
+- **Generated:** 2026-09-26T13:54:41-10:00 HST
+- **Report created:** 2026-09-26T13:54:41-10:00 HST
 - **County:** Maui County
 - **Resource ID:** cwf_coastal_waters
 - **Source:** https://api.weather.gov/products/types/CWF/locations/HFO

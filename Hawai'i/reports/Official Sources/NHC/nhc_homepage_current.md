@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T13:46:41-10:00 HST
-- **Report created:** 2026-09-26T13:46:41-10:00 HST
+- **Generated:** 2026-09-26T13:54:41-10:00 HST
+- **Report created:** 2026-09-26T13:54:41-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T13:46:38.839656-10:00 HST
+- **Collected:** 2026-09-26T13:54:38.997599-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:42:44 UTC
+Last update Sat, 26 Sep 2026 23:52:45 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -322,7 +322,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-800 AM HST Sat Sep 26 2026
+200 PM HST Sat Sep 26 2026
 
 Hurricane Nolo
 
@@ -331,16 +331,16 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO MOVING SLOWLY WESTWARD...
+...NOLO CONTINUES MOVING SLOWLY WESTWARD...
 ...GUSTY WINDS, HEAVY RAIN, AND LARGE WAVES CONTINUE FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-11:00 AM HST Sat Sep 26
+2:00 PM HST Sat Sep 26
 
-Location: 16.7°N 156.0°W
+Location: 16.7°N 156.2°W
 
 Moving: W at 5 mph
 
-Min pressure: 977 mb
+Min pressure: 972 mb
 
 Max sustained: 90 mph
 
@@ -348,9 +348,9 @@ Public
 
 Advisory
 
-#25
+#25A
 
-1100 AM HST
+200 PM HST
 
 Forecast
 
@@ -437,7 +437,7 @@ Tropical Weather Outlook
 
 (en Español*)
 
-1100 AM PDT Sat Sep 26 2026
+500 PM PDT Sat Sep 26 2026
 
 Tropical Weather Discussion
 
