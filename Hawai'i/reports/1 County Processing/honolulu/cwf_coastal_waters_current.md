@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T02:57:22-10:00 HST
-- **Report created:** 2026-09-26T02:57:22-10:00 HST
+- **Generated:** 2026-09-26T03:05:23-10:00 HST
+- **Report created:** 2026-09-26T03:05:23-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** cwf_coastal_waters
 - **Source:** https://api.weather.gov/products/types/CWF/locations/HFO

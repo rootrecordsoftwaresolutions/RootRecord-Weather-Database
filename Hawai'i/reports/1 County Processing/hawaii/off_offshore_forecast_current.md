@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T02:57:22-10:00 HST
-- **Report created:** 2026-09-26T02:57:22-10:00 HST
+- **Generated:** 2026-09-26T03:05:23-10:00 HST
+- **Report created:** 2026-09-26T03:05:23-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** off_offshore_forecast
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OFF&issuedby=HFO
