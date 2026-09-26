@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T10:46:32.893941-10:00 HST
-- **Report created:** 2026-09-26T10:46:33-10:00 HST
+- **Collected:** 2026-09-26T10:55:33.344552-10:00 HST
+- **Report created:** 2026-09-26T10:55:34-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,7 +130,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 20:45:08 UTC
+Last update Sat, 26 Sep 2026 20:53:17 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -326,49 +326,49 @@ Grids |
 Storm Archive
 
 ...NOLO MOVING SLOWLY WESTWARD...
-...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
+...GUSTY WINDS, HEAVY RAIN, AND LARGE WAVES CONTINUE FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-8:00 AM HST Sat Sep 26
+11:00 AM HST Sat Sep 26
 
-Location: 16.8°N 155.7°W
+Location: 16.7°N 156.0°W
 
-Moving: W at 3 mph
+Moving: W at 5 mph
 
 Min pressure: 977 mb
 
-Max sustained: 100 mph
+Max sustained: 90 mph
 
 Public
 
 Advisory
 
-#24A
+#25
 
-800 AM HST
+1100 AM HST
 
 Forecast
 
 Advisory
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 Forecast
 
 Discussion
 
-#24
+#25
 
-500 AM HST
+1100 AM HST
 
 Wind Speed
 
 Probabilities
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 NWS Local
 
@@ -420,9 +420,6 @@ Messages
 
 Mensajes
 Claves
-
-Peak
-Surge
 
 Rainfall
 Potential

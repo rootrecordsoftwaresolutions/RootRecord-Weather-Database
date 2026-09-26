@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T10:46:35-10:00 HST
-- **Report created:** 2026-09-26T10:46:35-10:00 HST
+- **Generated:** 2026-09-26T10:55:36-10:00 HST
+- **Report created:** 2026-09-26T10:55:36-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 21
@@ -4312,7 +4312,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 20:45:08 UTC
+Last update Sat, 26 Sep 2026 20:53:17 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4508,49 +4508,49 @@ Grids |
 Storm Archive
 
 ...NOLO MOVING SLOWLY WESTWARD...
-...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
+...GUSTY WINDS, HEAVY RAIN, AND LARGE WAVES CONTINUE FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-8:00 AM HST Sat Sep 26
+11:00 AM HST Sat Sep 26
 
-Location: 16.8°N 155.7°W
+Location: 16.7°N 156.0°W
 
-Moving: W at 3 mph
+Moving: W at 5 mph
 
 Min pressure: 977 mb
 
-Max sustained: 100 mph
+Max sustained: 90 mph
 
 Public
 
 Advisory
 
-#24A
+#25
 
-800 AM HST
+1100 AM HST
 
 Forecast
 
 Advisory
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 Forecast
 
 Discussion
 
-#24
+#25
 
-500 AM HST
+1100 AM HST
 
 Wind Speed
 
 Probabilities
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 NWS Local
 
@@ -4602,9 +4602,6 @@ Messages
 
 Mensajes
 Claves
-
-Peak
-Surge
 
 Rainfall
 Potential

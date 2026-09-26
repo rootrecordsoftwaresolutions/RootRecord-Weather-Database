@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T10:46:35-10:00 HST
-- **Report created:** 2026-09-26T10:46:35-10:00 HST
+- **Generated:** 2026-09-26T10:55:35-10:00 HST
+- **Report created:** 2026-09-26T10:55:35-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T10:46:32.893941-10:00 HST
+- **Collected:** 2026-09-26T10:55:33.344552-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 20:45:08 UTC
+Last update Sat, 26 Sep 2026 20:53:17 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -332,49 +332,49 @@ Grids |
 Storm Archive
 
 ...NOLO MOVING SLOWLY WESTWARD...
-...ADDITIONAL HEAVY RAINFALL, GUSTY WINDS, AND LARGE WAVES EXPECTED FOR PORTIONS OF THE HAWAIIAN ISLANDS...
+...GUSTY WINDS, HEAVY RAIN, AND LARGE WAVES CONTINUE FOR PORTIONS OF THE HAWAIIAN ISLANDS...
 
-8:00 AM HST Sat Sep 26
+11:00 AM HST Sat Sep 26
 
-Location: 16.8°N 155.7°W
+Location: 16.7°N 156.0°W
 
-Moving: W at 3 mph
+Moving: W at 5 mph
 
 Min pressure: 977 mb
 
-Max sustained: 100 mph
+Max sustained: 90 mph
 
 Public
 
 Advisory
 
-#24A
+#25
 
-800 AM HST
+1100 AM HST
 
 Forecast
 
 Advisory
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 Forecast
 
 Discussion
 
-#24
+#25
 
-500 AM HST
+1100 AM HST
 
 Wind Speed
 
 Probabilities
 
-#24
+#25
 
-1500 UTC
+2100 UTC
 
 NWS Local
 
@@ -426,9 +426,6 @@ Messages
 
 Mensajes
 Claves
-
-Peak
-Surge
 
 Rainfall
 Potential
