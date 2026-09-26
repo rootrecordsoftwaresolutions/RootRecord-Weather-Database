@@ -448,3 +448,11 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T21:24:46-10:00 dispatching 3 due task(s) concurrently: alerts, text_products, misc
 2026-09-25T21:27:47-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T21:27:47-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T21:30:41-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T21:30:41-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T21:30:50-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:32:14-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T21:32:44-10:00 module:aviation resource:tafpa_tafs INVALID -- body looks like an HTML error/placeholder page (found '<html')
+2026-09-25T21:32:44-10:00 module:aviation resource:fa0_area_forecast INVALID -- extract_text failed: no <pre> block found -- page shape may have changed or returned an error page
+2026-09-25T21:32:44-10:00 module:aviation resource:aviation_sigmets INVALID -- body looks like an HTML error/placeholder page (found '<html')
