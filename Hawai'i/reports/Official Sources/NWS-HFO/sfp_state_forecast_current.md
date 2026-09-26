@@ -2,8 +2,8 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T04:09:47-10:00 HST
-- **Report created:** 2026-09-26T04:09:47-10:00 HST
+- **Generated:** 2026-09-26T04:17:22-10:00 HST
+- **Report created:** 2026-09-26T04:17:22-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** sfp_state_forecast
 - **Official source:** https://api.weather.gov/products/types/SFP/locations/HFO

@@ -4,7 +4,7 @@
 
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
 - **Collected:** 2026-09-26T04:03:15.828167-10:00 HST
-- **Report created:** 2026-09-26T04:09:45-10:00 HST
+- **Report created:** 2026-09-26T04:17:20-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
