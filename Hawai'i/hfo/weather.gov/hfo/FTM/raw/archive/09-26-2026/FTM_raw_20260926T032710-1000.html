@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>Aviation Terminal Forecasts</title>
-<meta name="DC.title" content="Aviation Terminal Forecasts" />
-<meta name="DC.description" content="Aviation Terminal Forecasts" />
+<title>Radar Free Text Messages for Hawaii </title>
+<meta name="DC.title" content="Radar Free Text Messages for Hawaii " />
+<meta name="DC.description" content="Latest radar free text message status for each of the four weather radars in Hawaii." />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="November 4th 2020 4:01 PM" />
+<meta name="DC.date.created" scheme="ISO8601" content="December 24th 2018 1:03 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="taf, aviation, forecasts, airports, airport, hawaii, midway, samoa, american samoa" />
+<meta name="DC.keywords" content="radar, hawaii, upolu point, south point, molokai, kauai, weather, rain, flood, status, ftm" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -379,11 +379,11 @@ function noCache(url) {
         <p class="sitename-class">Weather Forecast Office</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>Aviation Terminal Forecasts</h1>
+        <h1 class='location-pagetitle'>Radar Free Text Messages for Hawaii </h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
-                                &gt; Aviation Terminal Forecasts
+                                &gt; Radar Free Text Messages for Hawaii 
                     </div>
     </div>
 </div>
@@ -440,10 +440,10 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/satellite"> Satellite</a>
+                                        <a href="/hfo/obs"> Observations</a>
                                     </li>
                                                                     <li>
-                                        <a href="/hfo/obs"> Observations</a>
+                                        <a href="/hfo/satellite"> Satellite</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/hydrology"> Hydrology</a>
@@ -634,7 +634,45 @@ function noCache(url) {
                             
                             
                             <div class="div-full">
-<div class="cms-content"><script type="text/javascript" src="/source/hfo/hfo.js"></script>
+<div class="cms-content"><script type="text/javascript">
+	$(function(){
+		// hide the WFO level menus
+		//$('.subMenuNav').hide();
+		//$('.subMenuNav').remove();
+		$('ul#subMenuNav li').css({ 'margin-right': '25px' });
+		// reduce breadcrumb margin-bottom
+		$('.breadcrumb').css({ 'margin-bottom': '0px' });
+		// hide the big green "customize your weather.gov" box on the left
+		$('#myfcst-widget').hide();
+		// additional formatting to pull everything back to the left and style the borders, h/t WFOs ICT/btv
+		$('.full-width-border').css('border-top', 'white');
+		$('.partial-width-borderbottom').css('border-bottom', 'white');
+		$('.five-sixth-first').css({
+			'width' : '100%',
+			'padding-right': '0px',
+			'padding-left': '0px'
+		});
+		// hide the tiles on the bottom of the page since their content is already shown elsewhere on the page
+		//$('div.div-full.mod-image-tiles').hide();
+		// hide the national footer
+		//$('div.footer-content').hide();
+		// hide the local Top News section
+		//$('div#topnews').hide();
+		// hide the invisible element just below the forecast search box that's pushing the rest of the page content farther down
+		$('div#sidebar.one-sixth-first').hide();
+		// move the forecast search box from the top of the screen to where it used to be on the pre-NIDS EM page
+		$('div#forecast-lookup').appendTo('div#fcst');
+		// re-style the forecast search box's "Go" button to match the rest of the page
+		//$('input#btnSearch').button();
+		// hide the top navigation bar
+		//$('div.topnav').hide();
+		// Uncomment the next line to hide the Twitter/FB/YouTube/RSS links at the bottom of the page.
+		//$('div.full-width-first.communication-links').hide();
+		// Uncomment the next line only if you're as bold as Darth Vader in Episode IV.
+		//$('div.footer-legal').hide();
+		
+	});
+</script>
 <style type="text/css">table.collapse {  
 border-collapse: collapse; 
 border: 2px solid white; 
@@ -643,123 +681,66 @@ table.collapse tr td{
 border-collapse: collapse; 
 border: 2px solid white; 
 }
-table.omr { border-collapse: collapse; border: 2px solid #0A2390; color: #000; background: #fff; width: 540px; }
-table.omr caption { padding: 0 0.6em 0.8em; font-size: 1.4em; font-weight: bold; color: #000; background: transparent; }
-table.omr td, table.omr th { border: 1px solid #e0e0e0; padding: 0.5em; }
-table.omr th { border: 1px solid #e0e0e0; font-size: 1em; font-weight: bold; background: #e0e0e0; }
-table.omr th, table.omr td { border: 1px solid #e0e0e0; text-align: left; font-size: 1em; }
-table.omr th { font-weight: bold; }
-table.omr th, table.omr td { vertical-align: top; text-align: left; }
-table.omr td { border: 1px solid #996; }
-table.omr tr:hover { background: #ffffd9; }
 </style>
-<div id="PHLI"><a name="PHLI"></a>&nbsp;</div>
+<p><a name="HKI"></a><strong>Kauai Radar (PHKI/SOK)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-<div id="PHNL"><a name="PHNL"></a>&nbsp;</div>
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
 
-<div id="PHJR"><a name="PHJR"></a>&nbsp;</div>
+<hr />
+<p><a name="HKM"></a><strong>Molokai Radar (PHMO/HMO)&nbsp;<a href="/source/hfo/xml/FTMHMO.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-<div id="PHOG"><a name="PHOG"></a>&nbsp;</div>
+<p>    <pre>
+                        
+858
+NOUS60 PHFO 242239
+FTMHMO
 
-<div id="PHTO"><a name="PHTO"></a>&nbsp;</div>
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1239 PM HST THU SEP 24 2026
 
-<div id="PHKO"><a name="PHKO"></a>&nbsp;</div>
+WSR-88D PHMO/HMO MOLOKAI RADAR IS BACK IN SERVICE.
 
-<div id="PHMK"><a name="PHMK"></a>&nbsp;</div>
+$$
 
-<div id="PHJH"><a name="PHJH"></a>&nbsp;</div>
 
-<div id="PHNY"><a name="PHNY"></a>&nbsp;</div>
 
-<div id="PMDY"><a name="PMDY"></a>&nbsp;</div>
+                </pre>
+</p>
 
-<div id="NSTU"><a name="NSTU"></a>&nbsp;</div>
-<script type="text/javascript">
-// function to get TAF from xml files
-function taf() {
-  var filename = "/source/hfo/xml/TAFPA.xml";
+<hr />
+<p><a name="HKM"></a><strong>Upolu Point/North Kohala Radar (PHKM/UPP)&nbsp;<a href="/source/hfo/xml/FTMHKM.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-  // Get information from the forecast feed
-  if (window.XMLHttpRequest){
-    xhttp=new XMLHttpRequest();
-  } else { // code for IE5 and IE6
-    xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }	
-  xhttp.open("GET",filename,false);
-  xhttp.setRequestHeader("Content-Type", "text/xml");
-  xhttp.send();
+<p>    <pre>
+                        
+646
+NOUS60 PHFO 252159
+FTMHKM
 
-  // Place the response in an XML document.
-  var TheDocument = xhttp.responseXML;
-  // Place the root node in an element.
-  var Customers = TheDocument.childNodes[0];
+WSR-88D NOTIFICATION
+NATIONAL WEATHER SERVICE HONOLULU HI
+1159 AM HST FRI SEP 25 2026
 
-  var items = Customers.children[0].getElementsByTagName("item");
-  var feedlink = Customers.children[0].getElementsByTagName("link");
-  var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+WSR-88D PHKM/UPP UPOLU POINT RADAR IS BACK IN SERVICE.
 
-  // attempt to adjust time from UTC to HST
-  var buildDate = new Date(feedtime[0].textContent + "+10:00");
-  buildDate.setHours(buildDate.getHours() + 10);
-  var hstDate = buildDate.toLocaleString(undefined, {
-   day: 'numeric',
-   month: 'numeric',
-   year: 'numeric',
-   hour: '2-digit',
-   minute: '2-digit',});
+$$
 
-  // If the xml is older than 13 hours, have message 
-  // directing to the plain ZFP
-  var now = new Date().getTime() / 1000;
-  var diff = 0;
-  var d = new Date(buildDate).getTime() / 1000;
-  var diff = (now - d) / 3600;          
+LF
 
-  // go through each item in the feed
-  for (var i = 0; i < items.length; i++) {
-    var output = ""; 
-    var Customer = items[i];
 
-    // Access each of the data values.
-    var title = Customer.getElementsByTagName("title");
-    var titleinfo = title[0].textContent;
 
-    var site = titleinfo.match(/(PHLI|PHNL|PHJR|PHOG|PHTO|PHKO|PHMK|PHJH|PHNY|PMDY|NSTU)/);
-    if (site) {
-      var description = Customer.getElementsByTagName("description");      
-      var three = site[0].match(/(HLI|HNL|HJR|HOG|HTO|HKO|HMK|HJH|HNY|MDY|STU)/);
+                </pre>
+</p>
 
-      output += '<p><a href="/source/hfo/xml/' + site[0] + '.TAF.' + three[0] + '.xml"><img src="/images/hfo/reference/xml.gif" alt="alt icon" /></a>&nbsp;';
-      output += '<pre>' + description[0].textContent + '</pre>';
+<hr />
+<p><a name="HWA"></a><strong>Naalehu/South Hawaii (PHWA/HWC)&nbsp;<a href="/source/hfo/xml/FTMHKI.xml"><img alt="xml button" src="/images/hfo/reference/xml.gif" style="border-width: 0px; border-style: solid; width: 36px; height: 14px;" /></a></strong></p>
 
-      if (site[0] == "PHLI") {
-        document.getElementById("PHLI").innerHTML = output;
-      } else if (site[0] == "PHNL") {
-        document.getElementById("PHNL").innerHTML = output;
-      } else if (site[0] == "PHJR") {
-        document.getElementById("PHJR").innerHTML = output;
-      } else if (site[0] == "PHMK") {
-        document.getElementById("PHMK").innerHTML = output;
-      } else if (site[0] == "PHOG") {
-        document.getElementById("PHOG").innerHTML = output;
-      } else if (site[0] == "PHJH") {
-        document.getElementById("PHJH").innerHTML = output;
-      } else if (site[0] == "PHNY") {
-        document.getElementById("PHNY").innerHTML = output;
-      } else if (site[0] == "PHTO") {
-        document.getElementById("PHTO").innerHTML = output;
-      } else if (site[0] == "PHKO") {
-        document.getElementById("PHKO").innerHTML = output;
-      } else if (site[0] == "PMDY") {
-        document.getElementById("PMDY").innerHTML = output;
-      } else if (site[0] == "NSTU") {
-        document.getElementById("NSTU").innerHTML = output;
-      }
-    }
-  }
-}
-taf();
-</script>
+<p>    <pre>
+            No outage message at this time.        </pre>
+</p>
+
 </div>
 </div>
 <div style="clear:both"></div>
@@ -844,10 +825,10 @@ taf();
                         <span class="footer-column-head">
                             <a href="/hfo/obs">Current Conditions</a>
                         </span><br />
-                                                    <a href="/hfo/satellite">Satellite</a><br />
-                                                    <a href="/hfo/obs">Observations</a><br />
                                                     <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
                                                     <a href="/hfo/hydrology">Hydrology</a><br />
+                                                    <a href="/hfo/satellite">Satellite</a><br />
+                                                    <a href="/hfo/obs">Observations</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -855,11 +836,11 @@ taf();
                         <span class="footer-column-head">
                             <a href="/hfo/radar">Radar</a>
                         </span><br />
+                                                    <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
+                                                    <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
                                                     <a href="/hfo/radar#hwa">South Point (PHWA)</a><br />
                                                     <a href="/hfo/radar">Hawaii Radar</a><br />
                                                     <a href="/hfo/radar#hkm">Kohala (PHKM)</a><br />
-                                                    <a href="/hfo/radar#hmo">Molokai (PHMO)</a><br />
-                                                    <a href="/hfo/radar#hki">Kauai (PHKI)</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
@@ -867,14 +848,14 @@ taf();
                         <span class="footer-column-head">
                             <a href="/hfo/forecast">Forecasts</a>
                         </span><br />
-                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
-                                                    <a href="/hfo/aviation">Aviation</a><br />
                                                     <a href="/hfo/gfe_graphics">Local Graphics</a><br />
                                                     <a href="/hfo/marine">Marine</a><br />
                                                     <a href="http://forecast.weather.gov/wxplanner.php?site=hfo">Activity Planner</a><br />
                                                     <a href="/hfo/forecast">Hawaii</a><br />
                                                     <a href="/hfo/model">Model Output</a><br />
                                                     <a href="/hfo/firewx">Fire Weather</a><br />
+                                                    <a href="http://www.weather.gov/forecasts/graphical/sectors/hawaii.php">National Graphics</a><br />
+                                                    <a href="/hfo/aviation">Aviation</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
