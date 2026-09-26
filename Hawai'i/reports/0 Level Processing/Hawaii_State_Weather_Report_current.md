@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T11:29:33-10:00 HST
-- **Report created:** 2026-09-26T11:29:33-10:00 HST
+- **Generated:** 2026-09-26T11:37:33-10:00 HST
+- **Report created:** 2026-09-26T11:37:33-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3080,7 +3080,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T11:13:48.658622-10:00 HST
+- **Collected:** 2026-09-26T11:31:21.525441-10:00 HST
 
 ```text
 335
@@ -3351,7 +3351,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T11:22:53.628774-10:00 HST
+- **Collected:** 2026-09-26T11:31:23.919492-10:00 HST
 
 ```text
                         
@@ -3542,7 +3542,7 @@ TO 11N BETWEEN 160W AND 178W.
 
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO
-- **Collected:** 2026-09-26T05:11:13.226316-10:00 HST
+- **Collected:** 2026-09-26T11:32:51.545003-10:00 HST
 
 ```text
 583
@@ -8106,7 +8106,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T11:13:33.703732-10:00 HST
+- **Collected:** 2026-09-26T11:30:51.552857-10:00 HST
 
 ```text
 National Weather Service
@@ -8155,9 +8155,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
