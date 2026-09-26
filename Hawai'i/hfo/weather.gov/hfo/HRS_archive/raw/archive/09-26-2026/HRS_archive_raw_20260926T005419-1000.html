@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<title>Graphical Rainfall Summary for Hawaii</title>
-<meta name="DC.title" content="Graphical Rainfall Summary for Hawaii" />
-<meta name="DC.description" content="Graphical Rainfall Summary for Hawaii" />
+<title>Hawaii Rainfall Summary 90 Day Archive</title>
+<meta name="DC.title" content="Hawaii Rainfall Summary 90 Day Archive" />
+<meta name="DC.description" content="Hawaii Rainfall Summary 90 Day Archive" />
 <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-<meta name="DC.date.created" scheme="ISO8601" content="September 19th 2026 12:14 AM" />
+<meta name="DC.date.created" scheme="ISO8601" content="February 6th 2019 7:38 PM" />
 <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
-<meta name="DC.keywords" content="rainfall, maps, summary, hawaii, precipitation" />
+<meta name="DC.keywords" content="hawaii, rainfall, summary, archive, precipitation" />
 <meta name="DC.publisher" content="NOAA's National Weather Service" />
 <meta name="DC.contributor" content="National Weather Service" />
 <meta name="DC.rights" content="/disclaimer.php" />
@@ -173,10 +173,10 @@ function noCache(url) {
                                             <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                         </li>
                                                                             <li>
-                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                         </li>
                                                                             <li>
-                                            <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                            <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                         </li>
                                                                             <li>
                                             <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -379,11 +379,11 @@ function noCache(url) {
         <p class="sitename-class">Weather Forecast Office</p>
     </div>
     <div class="location">
-        <h1 class='location-pagetitle'>Graphical Rainfall Summary for Hawaii</h1>
+        <h1 class='location-pagetitle'>Hawaii Rainfall Summary 90 Day Archive</h1>
         <div class='location-breadcrumb'>
             <a href="https://www.weather.gov">Weather.gov</a>
                                                 &gt; <a href="https://www.weather.gov/hfo">Honolulu, HI</a>
-                                &gt; Graphical Rainfall Summary for Hawaii
+                                &gt; Hawaii Rainfall Summary 90 Day Archive
                     </div>
     </div>
 </div>
@@ -397,6 +397,9 @@ function noCache(url) {
                     </div>
                                             <div class="sub">
                             <ul>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
+                                    </li>
                                                                     <li>
                                         <a href="/hfo/watchwarn"> Hawaii Hazards</a>
                                     </li>
@@ -414,9 +417,6 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=FRA"> Carte des prévisions et des dangers - Français</a>
-                                    </li>
-                                                                    <li>
-                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/cphc"> Tropical Cyclones</a>
@@ -503,6 +503,9 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
+                                        <a href="/hfo/marine"> Marine</a>
+                                    </li>
+                                                                    <li>
                                         <a href="/hfo/forecast"> Hawaii</a>
                                     </li>
                                                                     <li>
@@ -510,9 +513,6 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="http://forecast.weather.gov/wxplanner.php?site=hfo"> Activity Planner</a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/hfo/marine"> Marine</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/firewx"> Fire Weather</a>
@@ -681,328 +681,123 @@ table.collapse tr td{
 border-collapse: collapse; 
 border: 2px solid white; 
 }
-.dataLbl { font-weight: bold; }
-.olPopup p { margin: 0px; font-size: .8em; }
-.olPopup p { margin: 0px; font-size: .9em; }
-.olPopup h2 { font-size: 1.2em; }
-.olPopupContent { padding: 5px; overflow: auto; }
-.olPopupCloseBox { background: url("img/close.gif") no-repeat; cursor: pointer; }
-.olFramedCloudPopupContent { padding: 5px; overflow: auto; }
-.dataLayersDiv .olButton { display: inline; padding-right: 10px; }
-.dataLayersDiv br { display: none; }
-.baseLbl { display: none; }
-.baseLayersDiv { display: none; }
 </style>
-<p>Graphical Rainfall</p>
+<div id="RRA">&nbsp;</div>
+<script type="text/javascript">
+function displayRRAarchive() {
+    var output = "";
 
-<form id="dataform" method="post" name="trform"><span style="font-weight: bold;">Data Type to Display:</span>
+    // see if product time request in url
+    var timerequested = location.hash.substr(1);
 
-<table>
-	<tbody>
-		<tr>
-			<td><select id="archivef3" name="archivef3">&nbsp;</select></td>
-			<td><select id="archivef6" name="archivef6">&nbsp;</select></td>
-			<td><select id="archivef12" name="archivef12">&nbsp;</select></td>
-			<td><select id="archivef24" name="archivef24">&nbsp;</select></td>
-		</tr>
-		<tr>
-			<td><input id="stnlocation" name="type" type="radio" value="stn" />Station Locations</td>
-		</tr>
-	</tbody>
-</table>
-<br />
-<span style="font-weight: bold;">Island to zoom in on:</span><br />
-<input name="area" type="radio" value="kauai" />Kauai&nbsp;&nbsp; <input checked="checked" name="area" type="radio" value="oahu" />Oahu&nbsp;&nbsp; <input name="area" type="radio" value="maui" />Maui County&nbsp;&nbsp; <input name="area" type="radio" value="hawaii" />Big Island<br />
-<input onclick="displayRainSummary()" type="button" value="Go" />&nbsp;</form>
-
-<h2 id="displayname" style="margin: 0 auto; text-align: center;">&nbsp;</h2>
-
-<div id="layerswitcher" style="display:inline-block; width: 1000px; height: 40px; margin: 0 auto; text-align: center; align: center;">&nbsp;</div>
-
-<div id="map" style="width:1000px;height:900px;margin: 0 auto; text-align: center; align: center;">&nbsp;</div>
-
-<div style="width: 95%; text-align: right;"><a href="https://www.weather.gov/credits.php">Disclaimer</a><br />
-<a href="/source/hfo/kml/RainSummary.kml">Download in KML</a></div>
-<script type="text/javascript" src="https://openlayers.org/api/OpenLayers.js"></script><script type="text/javascript">
-// --- ADD THIS BLOCK TO FIX OSM TILES ---
-(function() {
-    var meta = document.createElement('meta');
-    meta.name = "referrer";
-    meta.content = "strict-origin-when-cross-origin";
-    document.head.appendChild(meta);
-})();
-// ---------------------------------------
-
-<!-- 
-var map, select, selectT;
-
-function displayRainSummary() {
-    var kml3 = document.getElementById("archivef3").value;
-    var kml6 = document.getElementById("archivef6").value;
-    var kml12 = document.getElementById("archivef12").value;
-    var kml24 = document.getElementById("archivef24").value;
-    var stnlocation = document.getElementById("stnlocation").value;
-    if (kml3 == "" && kml6 == "" && kml12 == "" && kml24 == "" && stnlocation == "") {
-      var kml = "/source/hfo/kml/RainSummary.kml";
-      document.getElementById("displayname").innerHTML = "Rain Summary Locations";
-    } else if (kml3 != "" || kml6 != "" || kml12 != "" || kml24 != "") {
-      if (kml3 != "") {
-        var kml = "/source/hfo/kml/RRA/" + kml3;
-        var lead = "3 Hour";
-      } else if (kml6 != "") {
-        var kml = "/source/hfo/kml/RRA/" + kml6;
-        var lead = "6 Hour";
-      } else if (kml12 != "") {
-        var kml = "/source/hfo/kml/RRA/" + kml12;
-        var lead = "12 Hour";
-      } else if (kml24 != "") {
-        var kml = "/source/hfo/kml/RRA/" + kml24;
-        var lead = "24 Hour";
-      }
-      // Get name from kml
-      if (window.XMLHttpRequest){
-  		xhttp=new XMLHttpRequest();
-	  }else // code for IE5 and IE6
-      {
-	  	xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  	  }
-	  xhttp.open("GET",kml,false);
-	  xhttp.setRequestHeader("Content-Type", "text/xml");
-	  xhttp.send();
-      // Place the response in an XML document.
-	  var TheDocument = xhttp.responseXML;
-	  // Place the root node in an element.
-	  var Customers = TheDocument.childNodes[0];
-      var title = Customers.getElementsByTagName("name");
-      document.getElementById("displayname").innerHTML = lead + " " + title[0].textContent;
-    } else {
-      var kml = "/source/hfo/kml/RainSummary.kml";
-      document.getElementById("displayname").innerHTML = "Rain Summary Locations";
+    if (timerequested == "") {
+        timerequested="summary";
+        output += '<ul>';
     }
-    // Get area to initially zoom in on
-    // default to Oahu
-    var la = "21.45";
-    var lo = "-157.97";
-    var ex = "11";
-    var area = document.getElementsByName('area');
-    for (var i = 0, length = area.length; i < length; i++) {
-      if (area[i].checked) {
-        var area2display=area[i].value;
-        if (area2display == "kauai") {
-          la = "22.06";
-          lo = "-159.54";
-          ex = "11";
-        } else if (area2display == "maui") {
-          la = "20.90";
-          lo = "-156.64";
-          ex = "10";
-        } else if (area2display == "hawaii") {
-          la = "19.68";
-          lo = "-155.56";
-          ex = "9";
+    
+    var filename = "/source/hfo/xml/RRAHFO.xml";
+
+    // Get information from the forecast feed
+    if (window.XMLHttpRequest){
+      xhttp=new XMLHttpRequest();
+    } else { // code for IE5 and IE6
+      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }	
+    xhttp.open("GET",filename,false);
+    xhttp.setRequestHeader("Content-Type", "text/xml");
+    xhttp.send();
+
+    // Place the response in an XML document.
+    var TheDocument = xhttp.responseXML;
+    // Place the root node in an element.
+    var Customers = TheDocument.childNodes[0];
+
+    var items = Customers.children[0].getElementsByTagName("item");
+    var feedlink = Customers.children[0].getElementsByTagName("link");
+    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+
+    // go through each item in the feed
+    for (var i = 0; i < items.length; i++) {
+      var Customer = items[i];
+ 
+      // output all sections
+      var description = Customer.getElementsByTagName("description");
+      var desc = description[0].textContent;
+
+      var ts = desc.match(/a name="[0-9]+"/gm);
+      var tsn = ts[0].match(/[0-9]+/gm);
+      var timestring = tsn;   
+
+      var title = Customer.getElementsByTagName("title");
+      var titleinfo = title[0].textContent;
+
+      // if summary requested, just list the titles with the links
+      if (timerequested == "summary") {
+        output += '<li><a id="RRA' + timestring + '" title="' + titleinfo + '" href="/hfo/HRS_archive#' + timestring + '" onclick="displayRRA(' + timestring + ');return false;">' + titleinfo + '</a></li>';
+      } else {
+        if (timestring == timerequested) {
+          output += '<p><a href="/hfo/HRS_archive">Listing of archive</a></p>';
+          output += desc;
         }
-        break;
       }
     }
-    document.getElementById("map").innerHTML = "";
-    document.getElementById("layerswitcher").innerHTML = "";
-
-    map = new OpenLayers.Map('map', {
-        controls:[
-            new OpenLayers.Control.Graticule({numPoints: 2, labelled: true, layerName: 'Lat/Lon Lines'}),
-            new OpenLayers.Control.Navigation({'zoomWheelEnabled': true}),
-            new OpenLayers.Control.LayerSwitcher({'div':OpenLayers.Util.getElement('layerswitcher')}),
-            new OpenLayers.Control.PanZoomBar()],
-        scales: [50000000, 30000000, 10000000, 5000000]
-    });
-    map.numZoomLevels = 6;
-
-    var map_osm   = new OpenLayers.Layer.OSM();
-    map.addLayer(map_osm);
-    var projectionWGS84 = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
-    var projection900913   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
-    var default_lat = la;
-    var default_lon = lo;
-    var center_position = new OpenLayers.LonLat(default_lon,default_lat).transform( projectionWGS84, projection900913);
-    var zoom = ex;
-    map.setCenter(center_position, zoom);
-
-    // Coop display
-    var coop = new OpenLayers.Layer.Vector("Rain Summary", {
-        projection: map.displayProjection,
-        visibility: true,
-        strategies: [new OpenLayers.Strategy.Fixed()],
-        protocol: new OpenLayers.Protocol.HTTP({
-            url: kml,
-            format: new OpenLayers.Format.KML({
-                extractStyles: true,
-                extractAttributes: true
-            })
-        })
-    });
-    map.addLayer(coop);
-    selectT = new OpenLayers.Control.SelectFeature(coop);
-    coop.events.on({
-        "featureselected": onFeatureSelect,
-        "featureunselected": onFeatureUnselect
-    });
-    map.addControl(selectT);
-    selectT.activate();
-
-    getRRAlist3();
-    getRRAlist6();
-    getRRAlist12();
-    getRRAlist24();
-}
-function onPopupClose(evt) {
-    selectT.unselectAll();
-}
-function onFeatureSelect(event) {
-    var feature = event.feature;
-    // Since KML is user-generated, do naive protection against
-    // Javascript.
-    var content = "<h2>"+feature.attributes.name + "</h2>" + feature.attributes.description;
-    if (content.search("<script") != -1) {
-        content = "Content contained Javascript! Escaped content below.<br />" + content.replace(/</g, "&lt;");
+    if (timerequested == "summary") {
+      output += '</ul>';
     }
-    popup = new OpenLayers.Popup.FramedCloud("popup", 
-                             feature.geometry.getBounds().getCenterLonLat(),
-                             new OpenLayers.Size(100,100),
-                             content,
-                             null, true, onPopupClose);
-    feature.popup = popup;
-    map.addPopup(popup);
+
+    document.getElementById("RRA").innerHTML = output;
 }
-function onFeatureUnselect(event) {
-    var feature = event.feature;
-    if(feature.popup) {
-        map.removePopup(feature.popup);
-        feature.popup.destroy();
-        delete feature.popup;
+function displayRRA(link) {
+    var output = "";
+
+    // see if product time request in url
+    var timerequested = link;
+    
+    var filename = "/source/hfo/xml/RRAHFO.xml";
+
+    // Get information from the forecast feed
+    if (window.XMLHttpRequest){
+      xhttp=new XMLHttpRequest();
+    } else { // code for IE5 and IE6
+      xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }	
+    xhttp.open("GET",filename,false);
+    xhttp.setRequestHeader("Content-Type", "text/xml");
+    xhttp.send();
+
+    // Place the response in an XML document.
+    var TheDocument = xhttp.responseXML;
+    // Place the root node in an element.
+    var Customers = TheDocument.childNodes[0];
+
+    var items = Customers.children[0].getElementsByTagName("item");
+    var feedlink = Customers.children[0].getElementsByTagName("link");
+    var feedtime = Customers.children[0].getElementsByTagName("lastBuildDate");
+
+    // go through each item in the feed
+    for (var i = 0; i < items.length; i++) {
+      var Customer = items[i];
+ 
+      // output all sections
+      var description = Customer.getElementsByTagName("description");
+      var desc = description[0].textContent;
+
+      var ts = desc.match(/a name="[0-9]+"/gm);
+      var tsn = ts[0].match(/[0-9]+/gm);
+      var timestring = tsn;   
+
+      var title = Customer.getElementsByTagName("title");
+      var titleinfo = title[0].textContent;
+
+      if (timestring == timerequested) {
+        output += '<p><a href="/hfo/HRS_archive">Listing of archive</a></p>';
+        output += desc;
+      }
     }
+
+    document.getElementById("RRA").innerHTML = output;
 }
-      //-->
-function getRRAlist3() {
-		var filename = "/source/hfo/xml/RRAlist3.xml";
-        var files='<option value="">3 hour rainfall archive</option>';
-		if (window.XMLHttpRequest){
-  			xhttp=new XMLHttpRequest();
-		}else // code for IE5 and IE6
-		{
-	  		xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  		}
-		xhttp.open("GET",filename,false);
-		xhttp.setRequestHeader("Content-Type", "text/xml");
-		xhttp.send();
-        // Place the response in an XML document.
-		var TheDocument = xhttp.responseXML;
-		// Place the root node in an element.
-		var Customers = TheDocument.childNodes[0];
-		for (var y =0; y < Customers.children.length; y++) 		{
-			var items = Customers.children[y].getElementsByTagName("item");
- 			for (var i = 0; i < items.length; i++)  			{
-				var Customer = items[i];
-				// Access each of the data values.
-				var title = Customer.getElementsByTagName("title");
-				var description = Customer.getElementsByTagName("description");
-                var desc = description[0].textContent;
-                files += '<option value="' + desc + '">' + title[0].textContent + '</option>';
-			}
-		}
-        document.getElementById("archivef3").innerHTML = files;
-}
-function getRRAlist6() {
-		var filename = "/source/hfo/xml/RRAlist6.xml";
-        var files='<option value="">6 hour rainfall archive</option>';
-		if (window.XMLHttpRequest){
-  			xhttp=new XMLHttpRequest();
-		}else // code for IE5 and IE6
-		{
-	  		xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  		}
-		xhttp.open("GET",filename,false);
-		xhttp.setRequestHeader("Content-Type", "text/xml");
-		xhttp.send();
-        // Place the response in an XML document.
-		var TheDocument = xhttp.responseXML;
-		// Place the root node in an element.
-		var Customers = TheDocument.childNodes[0];
-		for (var y =0; y < Customers.children.length; y++) 		{
-			var items = Customers.children[y].getElementsByTagName("item");
- 			for (var i = 0; i < items.length; i++)  			{
-				var Customer = items[i];
-				// Access each of the data values.
-				var title = Customer.getElementsByTagName("title");
-				var description = Customer.getElementsByTagName("description");
-                var desc = description[0].textContent;
-                files += '<option value="' + desc + '">' + title[0].textContent + '</option>';
-			}
-		}
-        document.getElementById("archivef6").innerHTML = files;
-}
-function getRRAlist12() {
-		var filename = "/source/hfo/xml/RRAlist12.xml";
-        var files='<option value="">12 hour rainfall archive</option>';
-		if (window.XMLHttpRequest){
-  			xhttp=new XMLHttpRequest();
-		}else // code for IE5 and IE6
-		{
-	  		xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  		}
-		xhttp.open("GET",filename,false);
-		xhttp.setRequestHeader("Content-Type", "text/xml");
-		xhttp.send();
-        // Place the response in an XML document.
-		var TheDocument = xhttp.responseXML;
-		// Place the root node in an element.
-		var Customers = TheDocument.childNodes[0];
-		for (var y =0; y < Customers.children.length; y++) 		{
-			var items = Customers.children[y].getElementsByTagName("item");
- 			for (var i = 0; i < items.length; i++)  			{
-				var Customer = items[i];
-				// Access each of the data values.
-				var title = Customer.getElementsByTagName("title");
-				var description = Customer.getElementsByTagName("description");
-                var desc = description[0].textContent;
-                files += '<option value="' + desc + '">' + title[0].textContent + '</option>';
-			}
-		}
-        document.getElementById("archivef12").innerHTML = files;
-}
-function getRRAlist24() {
-		var filename = "/source/hfo/xml/RRAlist24.xml";
-        var files='<option value="">24 hour rainfall archive</option>';
-		if (window.XMLHttpRequest){
-  			xhttp=new XMLHttpRequest();
-		}else // code for IE5 and IE6
-		{
-	  		xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  		}
-		xhttp.open("GET",filename,false);
-		xhttp.setRequestHeader("Content-Type", "text/xml");
-		xhttp.send();
-        // Place the response in an XML document.
-		var TheDocument = xhttp.responseXML;
-		// Place the root node in an element.
-		var Customers = TheDocument.childNodes[0];
-		for (var y =0; y < Customers.children.length; y++) 		{
-			var items = Customers.children[y].getElementsByTagName("item");
- 			for (var i = 0; i < items.length; i++)  			{
-				var Customer = items[i];
-				// Access each of the data values.
-				var title = Customer.getElementsByTagName("title");
-				var description = Customer.getElementsByTagName("description");
-                var desc = description[0].textContent;
-                files += '<option value="' + desc + '">' + title[0].textContent + '</option>';
-			}
-		}
-        document.getElementById("archivef24").innerHTML = files;
-}
-getRRAlist3();
-getRRAlist6();
-getRRAlist12();
-getRRAlist24();
-displayRainSummary()
+displayRRAarchive();
 </script>
 </div>
 </div>
