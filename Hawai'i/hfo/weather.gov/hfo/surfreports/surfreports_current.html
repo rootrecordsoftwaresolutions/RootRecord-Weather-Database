@@ -69,6 +69,7 @@ function noCache(url) {
         aviation: "https://aviationweather.gov",
         water: "https://water.weather.gov",
         graphical: "https://graphical.weather.gov",
+        alerts: "",
         api: "https://api.weather.gov",
         radar: "https://radar.weather.gov",
         esriGeocode: "https://geocode.arcgis.com"
@@ -398,15 +399,6 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/hfo/watchwarn"> Hawaii Hazards</a>
-                                    </li>
-                                                                    <li>
-                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=VIE"> Dự báo và Bản đồ nguy hiểm - Tiếng Việt</a>
-                                    </li>
-                                                                    <li>
                                         <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=CHI"> 预报和灾害地图 - 中文</a>
                                     </li>
                                                                     <li>
@@ -417,6 +409,15 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=FRA"> Carte des prévisions et des dangers - Français</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=ENG"> Forecast and Hazards Map - English</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/watchwarn"> Hawaii Hazards</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.weather.gov/translate/hazards.html?lon=-157.3&amp;lat=20.57&amp;zoom=7&amp;layers=hazards&amp;lan=VIE"> Dự báo và Bản đồ nguy hiểm - Tiếng Việt</a>
                                     </li>
                                                                     <li>
                                         <a href="https://www.weather.gov/cphc"> Tropical Cyclones</a>
@@ -440,10 +441,10 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/satellite"> Satellite</a>
+                                        <a href="/hfo/obs"> Observations</a>
                                     </li>
                                                                     <li>
-                                        <a href="/hfo/obs"> Observations</a>
+                                        <a href="/hfo/satellite"> Satellite</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/hydrology"> Hydrology</a>
@@ -503,9 +504,6 @@ function noCache(url) {
                                             <div class="sub">
                             <ul>
                                                                     <li>
-                                        <a href="/hfo/marine"> Marine</a>
-                                    </li>
-                                                                    <li>
                                         <a href="/hfo/forecast"> Hawaii</a>
                                     </li>
                                                                     <li>
@@ -513,6 +511,9 @@ function noCache(url) {
                                     </li>
                                                                     <li>
                                         <a href="http://forecast.weather.gov/wxplanner.php?site=hfo"> Activity Planner</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/hfo/marine"> Marine</a>
                                     </li>
                                                                     <li>
                                         <a href="/hfo/firewx"> Fire Weather</a>
@@ -900,10 +901,10 @@ $$
                         <span class="footer-column-head">
                             <a href="/hfo/obs">Current Conditions</a>
                         </span><br />
-                                                    <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
                                                     <a href="/hfo/hydrology">Hydrology</a><br />
                                                     <a href="/hfo/satellite">Satellite</a><br />
                                                     <a href="/hfo/obs">Observations</a><br />
+                                                    <a href="/hfo/analyses">Analyses/Forecast Charts</a><br />
                                             </p>
                                     </div>
             <div class="footer-column" style="padding:10px 10px;">
