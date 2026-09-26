@@ -191,3 +191,9 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T19:37:14-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: Client error '404 Not Found' for url 'https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-1000x1000.gif'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
 2026-09-25T19:37:15-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:38:15-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T19:38:17-10:00 reports: regenerated statewide Markdown reports
+2026-09-25T19:38:47-10:00 dispatching 1 due task(s) concurrently: text_products
+2026-09-25T19:41:18-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:41:18-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-25T19:41:48-10:00 dispatching 4 due task(s) concurrently: alerts, marine, aviation, hurricanes
