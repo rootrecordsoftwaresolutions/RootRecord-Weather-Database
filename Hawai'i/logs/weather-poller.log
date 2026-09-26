@@ -537,3 +537,15 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T22:09:28-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
 2026-09-25T22:09:28-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
 2026-09-25T22:09:37-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')
+Traceback (most recent call last):
+  File "/home/rootrecord/.ollama/skills/weather/scripts/run_poller.py", line 29, in <module>
+    from scheduler import run_cycle  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rootrecord/.ollama/skills/weather/scheduler/run_cycle.py", line 60, in <module>
+    from reports import generator as weather_reports
+  File "/home/rootrecord/.ollama/skills/weather/reports/generator.py", line 1, in <module>
+    PLACEHOLDER
+NameError: name 'PLACEHOLDER' is not defined
+2026-09-25T22:17:20-10:00 weather scheduler starting -- base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hfo hurricanes_base_dir=/home/rootrecord/Database/WEATHER/Hawai'i/hurricanes
+2026-09-25T22:17:20-10:00 dispatching 13 due task(s) concurrently: alerts, text_products, satellite, analyses, radar, marine, aviation, climate, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-25T22:17:30-10:00 module:maps resource:gfe_graphics_page INVALID -- body looks like an HTML error/placeholder page (found '<html')

@@ -130,27 +130,27 @@
     "critical": false
   },
   {
-    "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.014.1",
+    "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.009.1",
     "properties": {
-      "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.014.1",
+      "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.009.1",
       "@type": "wx:Alert",
-      "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.014.1",
-      "areaDesc": "Maui Central Valley South",
+      "id": "urn:oid:2.49.0.1.840.0.6822165e775be02446b08bc1036107e1831fcdcf.009.1",
+      "areaDesc": "Lanai Mauka",
       "geocode": {
         "SAME": [
           "015009"
         ],
         "UGC": [
-          "HIZ046"
+          "HIZ015"
         ]
       },
       "affectedZones": [
-        "https://api.weather.gov/zones/forecast/HIZ046"
+        "https://api.weather.gov/zones/forecast/HIZ015"
       ],
       "references": [
         {
-          "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.014.1",
-          "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.014.1",
+          "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.009.1",
+          "identifier": "urn:oid:2.49.0.1.840.0.7808c1574e7b0a32c26c9052420d64c7400d6c63.009.1",
           "sender": "w-nws.webmaster@noaa.gov",
           "sent": "2026-09-25T11:03:00-10:00"
         }
@@ -170,7 +170,7 @@
       "sender": "w-nws.webmaster@noaa.gov",
       "senderName": "NWS Honolulu HI",
       "headline": "Tropical Storm Watch issued September 25 at 5:14PM HST by NWS Honolulu HI",
-      "description": "* LOCATIONS AFFECTED\n- Maalaea\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday evening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nmoderate flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nmoderate flooding from heavy rain. Evacuations and rescues\nare possible.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings. Failure to take\naction may result in serious injury or loss of life.\n\n- POTENTIAL IMPACTS: Significant\n- Moderate rainfall flooding may prompt several evacuations\nand rescues.\n- Rivers and tributaries may quickly become swollen with\nswifter currents and overspill their banks in a few places,\nespecially in usually vulnerable spots. Small streams,\ncreeks, canals, arroyos, and ditches overflow.\n- Flood waters can enter some structures or weaken\nfoundations. Several places may experience expanded areas\nof rapid inundation at underpasses, low-lying spots, and\npoor drainage areas. Some streets and parking lots take on\nmoving water as storm drains and retention ponds overflow.\nDriving conditions become hazardous. Some road and bridge\nclosures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "description": "* LOCATIONS AFFECTED\n- Lanai City\n- Lanai Airport\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 65 mph\n- Window for Tropical Storm force winds: until Sunday evening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
       "instruction": null,
       "response": "Prepare",
       "note": null,
@@ -196,7 +196,7 @@
           "/O.CON.PHFO.TR.A.2015.000000T0000Z-000000T0000Z/"
         ],
         "expiredReferences": [
-          "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.014.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.014.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.014.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.014.1,2026-09-24T11:19:00-10:00"
+          "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8557e3a0908b5aa519e41745c6d2352969a54c4e.009.1,2026-09-25T04:59:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4ddc2b465ec1aed8541c9a2013ad70c4bced1b08.009.1,2026-09-24T23:00:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c7c48b3a72ac7ab3a795372b13d94f0820f4b52d.009.1,2026-09-24T16:53:00-10:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.c3126c4ccaa67bc07dfa47e9cdbf46d65f9328cf.009.1,2026-09-24T11:19:00-10:00"
         ]
       },
       "scope": "Public",

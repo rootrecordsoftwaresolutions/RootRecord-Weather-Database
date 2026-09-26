@@ -4,7 +4,7 @@
 
 - **Source:** https://www.weather.gov/hfo/surfreports
 - **Collected:** 2026-09-25T21:53:26.193042-10:00 HST
-- **Report created:** 2026-09-25T22:01:49-10:00 HST
+- **Report created:** 2026-09-25T22:17:23-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
