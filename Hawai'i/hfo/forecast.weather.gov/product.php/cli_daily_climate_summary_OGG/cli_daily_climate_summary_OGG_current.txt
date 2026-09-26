@@ -1,14 +1,15 @@
-880
-CDHW42 PHFO 251245
+836
+CDHW42 PHFO 260245
 CLIOGG
 
 CLIMATE REPORT
 NATIONAL WEATHER SERVICE HONOLULU HI
-245 AM HST FRI SEP 25 2026
+445 PM HST FRI SEP 25 2026
 
 ...................................
 
-...THE KAHULUI/MAUI CLIMATE SUMMARY FOR SEPTEMBER 24 2026...
+...THE KAHULUI/MAUI CLIMATE SUMMARY FOR SEPTEMBER 25 2026...
+VALID TODAY AS OF 0425 PM LOCAL TIME.
 
 CLIMATE NORMAL PERIOD 1991 TO 2020
 CLIMATE RECORD PERIOD 1954 TO 2026
@@ -18,55 +19,59 @@ WEATHER ITEM   OBSERVED TIME   RECORD YEAR NORMAL DEPARTURE LAST
                                                   NORMAL
 ...................................................................
 TEMPERATURE (F)
- YESTERDAY
-  MAXIMUM         87    201 PM  95    2019  90     -3       86
-  MINIMUM         76    230 AM  62    2006  71      5       70
+ TODAY
+  MAXIMUM         88    113 PM  95    2022  90     -2       88
+  MINIMUM         75    545 AM  60    2011  71      4       67
   AVERAGE         82                        80      2       78
 
 PRECIPITATION (IN)
-  YESTERDAY        T             0.14 2006   0.01  -0.01     0.00
-  MONTH TO DATE    0.60                      0.36   0.24     0.01
-  SINCE SEP 1      0.60                      0.36   0.24     0.01
-  SINCE JAN 1     30.28                     10.68  19.60     6.58
+  TODAY            T             0.05 1983   0.02  -0.02     0.03
+  MONTH TO DATE    0.60                      0.38   0.22     0.04
+  SINCE SEP 1      0.60                      0.38   0.22     0.04
+  SINCE JAN 1     30.28                     10.70  19.58     6.61
 
 DEGREE DAYS
  HEATING
-  YESTERDAY        0                         0      0        0
+  TODAY            0                         0      0        0
   MONTH TO DATE    0                         0      0        0
   SINCE SEP 1      0                         0      0        0
   SINCE JUL 1      0                         0      0        0
 
  COOLING
-  YESTERDAY       17                        15      2       13
-  MONTH TO DATE  391                       382      9      381
-  SINCE SEP 1    391                       382      9      381
-  SINCE JAN 1   3175                      3229    -54     3236
+  TODAY           17                        15      2       13
+  MONTH TO DATE  408                       397     11      394
+  SINCE SEP 1    408                       397     11      394
+  SINCE JAN 1   3192                      3244    -52     3249
 ...................................................................
 
 WIND (MPH)
-  HIGHEST WIND SPEED    29   HIGHEST WIND DIRECTION    NE (40)
-  HIGHEST GUST SPEED    40   HIGHEST GUST DIRECTION    NE (50)
-  AVERAGE WIND SPEED    18.1
+  HIGHEST WIND SPEED    31   HIGHEST WIND DIRECTION    NE (40)
+  HIGHEST GUST SPEED    44   HIGHEST GUST DIRECTION    NE (50)
+  AVERAGE WIND SPEED    21.1
 
 SKY COVER
   POSSIBLE SUNSHINE  MM
-  AVERAGE SKY COVER 0.5
+  AVERAGE SKY COVER 0.4
 
 WEATHER CONDITIONS
-THE FOLLOWING WEATHER WAS RECORDED YESTERDAY.
+THE FOLLOWING WEATHER WAS RECORDED TODAY.
   LIGHT RAIN
+  FOG
 
 RELATIVE HUMIDITY (PERCENT)
- HIGHEST    90          1200 AM
- LOWEST     57           200 PM
- AVERAGE    74
+ HIGHEST    88           400 AM
+ LOWEST     53           100 PM
+ AVERAGE    71
 
 ..........................................................
 
-THE KAHULUI/MAUI CLIMATE NORMALS FOR TODAY
+THE KAHULUI/MAUI CLIMATE NORMALS FOR TOMORROW
                          NORMAL    RECORD    YEAR
- MAXIMUM TEMPERATURE (F)   90        95      2022
- MINIMUM TEMPERATURE (F)   71        60      2011
+ MAXIMUM TEMPERATURE (F)   90        92      2014
+                                             2020
+                                             2022
+ MINIMUM TEMPERATURE (F)   71        61      1967
+                                             2011
 
 SUNRISE AND SUNSET
 SEPTEMBER 25 2026.....SUNRISE   615 AM HST   SUNSET   619 PM HST
