@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T21:06:49-10:00 HST
-- **Report created:** 2026-09-25T21:06:49-10:00 HST
+- **Generated:** 2026-09-25T21:24:16-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** nws_cwa_boundaries_catalog
 - **Official source:** https://www.weather.gov/gis/CWABounds
-- **Collected:** 2026-09-25T20:59:06.493581-10:00 HST
+- **Collected:** 2026-09-25T21:16:22.042398-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.

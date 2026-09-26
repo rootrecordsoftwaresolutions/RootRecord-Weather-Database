@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-25T21:06:48-10:00 HST
-- **Report created:** 2026-09-25T21:06:48-10:00 HST
+- **Generated:** 2026-09-25T21:24:16-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Current report sections:** 35
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -457,7 +457,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-25T21:00:43.960572-10:00 HST
+- **Collected:** 2026-09-25T21:18:13.282240-10:00 HST
 
 ```text
 325
@@ -728,7 +728,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-25T21:00:47.557730-10:00 HST
+- **Collected:** 2026-09-25T21:18:15.325084-10:00 HST
 
 ```text
 948
@@ -1580,7 +1580,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T21:06:48.464923-10:00 HST
+- **Collected:** 2026-09-25T21:24:15.821166-10:00 HST
 
 ```text
 Home
@@ -1940,7 +1940,7 @@ view pas news
 
 
 
-Las upda e Sa , 26 Sep 2026 07:00:17 UTC
+Las upda e Sa , 26 Sep 2026 07:22:36 UTC
 
 
 
@@ -9467,7 +9467,7 @@ Take Our Survey
 
 - **Resource ID:** nws_cwa_boundaries_catalog
 - **Source:** https://www.weather.gov/gis/CWABounds
-- **Collected:** 2026-09-25T20:59:06.493581-10:00 HST
+- **Collected:** 2026-09-25T21:16:22.042398-10:00 HST
 
 ```text
 Coun y Warning Area Boundaries
@@ -10423,7 +10423,7 @@ Career Oppor uni ies
 
 - **Resource ID:** nws_fire_zones_catalog
 - **Source:** https://www.weather.gov/gis/firezones
-- **Collected:** 2026-09-25T20:59:18.561412-10:00 HST
+- **Collected:** 2026-09-25T21:12:13.932752-10:00 HST
 
 ```text
 NWS Fire Wea her Zones
@@ -10648,12 +10648,12 @@ Wireless Emergency Aler s
 
 
 
-Brochures
-
-
-
-
 Wea her-Ready Na ion
+
+
+
+
+Brochures
 
 
 
@@ -12385,7 +12385,7 @@ Career Oppor uni ies
 
 - **Resource ID:** nws_public_counties_catalog
 - **Source:** https://www.weather.gov/gis/Counties
-- **Collected:** 2026-09-25T20:33:45.220969-10:00 HST
+- **Collected:** 2026-09-25T21:15:46.134777-10:00 HST
 
 ```text
 nn northern         ss southern         ea east
@@ -12405,7 +12405,7 @@ nn northern         ss southern         ea east
 
 - **Resource ID:** nws_public_zones_catalog
 - **Source:** https://www.weather.gov/gis/publiczones
-- **Collected:** 2026-09-25T20:49:26.887031-10:00 HST
+- **Collected:** 2026-09-25T21:11:38.087083-10:00 HST
 
 ```text
 NWS Public Forecas Zones
@@ -14469,7 +14469,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-25T20:59:57.983508-10:00 HST
+- **Collected:** 2026-09-25T21:17:28.837777-10:00 HST
 
 ```text
 Na ional Wea her Service
@@ -14652,12 +14652,12 @@ Wireless Emergency Aler s
 
 
 
-Brochures
-
-
-
-
 Wea her-Ready Na ion
+
+
+
+
+Brochures
 
 
 

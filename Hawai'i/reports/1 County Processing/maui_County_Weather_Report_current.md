@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-25T21:06:49-10:00 HST
-- **Report created:** 2026-09-25T21:06:49-10:00 HST
+- **Generated:** 2026-09-25T21:24:16-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **County:** Maui County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 14

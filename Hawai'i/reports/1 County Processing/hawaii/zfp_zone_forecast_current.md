@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-25T21:06:49-10:00 HST
-- **Report created:** 2026-09-25T21:06:49-10:00 HST
+- **Generated:** 2026-09-25T21:24:16-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** zfp_zone_forecast
 - **Source:** https://api.weather.gov/products/types/ZFP/locations/HFO

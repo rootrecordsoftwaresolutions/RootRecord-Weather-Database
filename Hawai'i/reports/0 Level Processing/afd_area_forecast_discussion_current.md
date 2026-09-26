@@ -4,7 +4,7 @@
 
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO
 - **Collected:** 2026-09-25T16:59:00.066176-10:00 HST
-- **Report created:** 2026-09-25T21:06:48-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

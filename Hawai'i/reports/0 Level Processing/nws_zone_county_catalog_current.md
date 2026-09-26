@@ -4,7 +4,7 @@
 
 - **Source:** https://www.weather.gov/gis/ZoneCounty
 - **Collected:** 2026-09-25T20:58:54.560234-10:00 HST
-- **Report created:** 2026-09-25T21:06:48-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

@@ -4,7 +4,7 @@
 
 - **Source:** https://www.weather.gov/gis/MarineZones
 - **Collected:** 2026-09-25T20:50:14.912559-10:00 HST
-- **Report created:** 2026-09-25T21:06:48-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

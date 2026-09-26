@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.weather.gov/gis/Counties
-- **Collected:** 2026-09-25T20:33:45.220969-10:00 HST
-- **Report created:** 2026-09-25T21:06:48-10:00 HST
+- **Collected:** 2026-09-25T21:15:46.134777-10:00 HST
+- **Report created:** 2026-09-25T21:24:16-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

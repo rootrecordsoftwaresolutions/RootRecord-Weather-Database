@@ -1,1 +1,1 @@
-{"@id": "https://api.weather.gov/products/8759e216-9e2f-4366-8f44-be01140d2cfb", "id": "8759e216-9e2f-4366-8f44-be01140d2cfb", "wmoCollectiveId": "FXHW60", "issuingOffice": "PHFO", "issuanceTime": "2026-09-26T02:55:00+00:00", "productCode": "AFD", "productName": "Area Forecast Discussion"}
+{"@id": "https://api.weather.gov/products/de84d86f-855e-444a-8710-0660bb25a8ee", "id": "de84d86f-855e-444a-8710-0660bb25a8ee", "wmoCollectiveId": "FXHW60", "issuingOffice": "PHFO", "issuanceTime": "2026-09-26T07:18:00+00:00", "productCode": "AFD", "productName": "Area Forecast Discussion"}
