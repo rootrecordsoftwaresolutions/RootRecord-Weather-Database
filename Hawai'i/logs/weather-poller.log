@@ -49,3 +49,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-09-25T18:36:38-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T18:36:38-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-25T18:37:08-10:00 dispatching 2 due task(s) concurrently: alerts, satellite
+2026-09-25T18:37:35-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: Client error '404 Not Found' for url 'https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/hi/GEOCOLOR/GOES18-HI-GEOCOLOR-1000x1000.gif'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-25T18:38:35-10:00 dispatching 1 due task(s) concurrently: alerts
+2026-09-25T18:39:37-10:00 dispatching 2 due task(s) concurrently: alerts, text_products
