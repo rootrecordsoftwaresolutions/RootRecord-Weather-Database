@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T01:23:21-10:00 HST
-- **Report created:** 2026-09-26T01:23:21-10:00 HST
+- **Generated:** 2026-09-26T01:32:21-10:00 HST
+- **Report created:** 2026-09-26T01:32:21-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3377,7 +3377,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T01:08:39.706182-10:00 HST
+- **Collected:** 2026-09-26T01:25:39.335857-10:00 HST
 
 ```text
 901
@@ -3648,7 +3648,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T01:16:38.982349-10:00 HST
+- **Collected:** 2026-09-26T01:25:41.787997-10:00 HST
 
 ```text
                         
@@ -4515,7 +4515,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T01:23:20.632793-10:00 HST
+- **Collected:** 2026-09-26T01:32:20.637754-10:00 HST
 
 ```text
 Home
@@ -4639,7 +4639,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 11:21:47 UTC
+Last update Sat, 26 Sep 2026 11:31:26 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8410,7 +8410,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T01:08:24.547026-10:00 HST
+- **Collected:** 2026-09-26T01:25:24.272229-10:00 HST
 
 ```text
 National Weather Service
@@ -8459,9 +8459,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
