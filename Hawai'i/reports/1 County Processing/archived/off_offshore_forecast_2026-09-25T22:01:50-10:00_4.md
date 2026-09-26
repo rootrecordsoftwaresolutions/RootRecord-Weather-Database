@@ -1,0 +1,90 @@
+# Offshore Forecast (40-240nm) — Kauai County
+
+> **Level 1 county report — deterministically routed from preserved official-source data.**
+
+- **Generated:** 2026-09-25T22:01:50-10:00 HST
+- **Report created:** 2026-09-25T22:01:50-10:00 HST
+- **County:** Kauai County
+- **Resource ID:** off_offshore_forecast
+- **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OFF&issuedby=HFO
+- **Source layer:** Official Sources
+- **County assignment:** statewide
+- **Source level:** Official Sources
+- **Processing:** deterministic rules only; no AI/LLM classification.
+- **Level 0:** untouched; its current and archived reports remain intact.
+
+---
+
+```text
+779
+FZHW60 PHFO 260301
+OFFHFO
+
+Offshore Waters Forecast for Hawaii
+National Weather Service Honolulu HI
+501 PM HST Fri Sep 25 2026
+
+Hawaiian offshore waters beyond 40 nautical miles out to 240
+nautical miles including the portion of the Papahanaumokuakea
+Marine National Monument east of French Frigate Shoals
+
+Seas given as significant wave height, which is the average height
+of the highest 1/3 of the waves. Individual waves may be more than
+twice the significant wave height.
+
+PHZ105-261130-
+501 PM HST Fri Sep 25 2026
+
+.Synopsis for the Hawaiian offshore waters...
+Strong winds and hazardous seas will accompany Hurricane Nolo as
+it advances north and then westward across area waters today
+through the weekend.
+
+AT 500 PM HST HURRICANE NOLO WAS CENTERED AT 16.9N 155.3W...MOVING N
+AT 3 KT
+
+NOLO FORECAST POSITIONS
+200 AM HST SATURDAY 17.1N 155.5W
+200 PM HST SATURDAY 17.1N 156.4W
+200 AM HST SUNDAY 16.9N 157.9W
+200 PM HST SUNDAY 16.9N 159.8W
+200 AM HST MONDAY 17.7N 161.7W
+200 PM HST MONDAY 19.1N 163.2W
+200 PM HST TUESDAY 22.0N 164.5W
+200 PM HST MONDAY 23.6N 165.5W
+200 PM HST TUESDAY 25.0N 168.0W
+200 PM HST WEDNESDAY 25.0N 171.0W
+
+PHZ180-261130-
+Hawaiian Offshore Waters-
+501 PM HST Fri Sep 25 2026
+
+...HURRICANE WARNING IN EFFECT...
+
+.TONIGHT...Hurricane conditions expected. E winds 15 to 25 kt NW
+Half, E 80 to 90 kt SE Half. Seas 8 to 14 ft. Scattered
+thunderstorms SE Waters.
+
+.SATURDAY...Hurricane conditions expected. E winds 20 to 30 kt NW
+Half, E 85 to 95 kt SE Half. Seas 8 to 14 ft. Isolated
+thunderstorms SE Waters.
+.SATURDAY NIGHT...Hurricane conditions expected. E winds 20 to 30
+kt NW Half, E 90 to 100 kt SE Half. Seas 9 to 14 ft. Scattered
+thunderstorms SE Waters.
+.SUNDAY...Hurricane conditions expected. NW Half, E winds 30 to
+40 kt, rising to 40 to 50 kt late in the afternoon. SE Half, E
+winds 90 to 100 kt, diminishing to 50 to 60 kt. Seas 9 to 14 ft.
+Isolated thunderstorms NW Half - scattered thunderstorms SE
+Waters.
+.SUNDAY NIGHT...Hurricane conditions expected. E winds 75 to 85
+kt NW Half, E 40 to 50 kt SE Half. Seas 8 to 14 ft. Isolated
+thunderstorms S of 20N.
+.MONDAY...Hurricane conditions expected. E winds 95 to 105 kt NW
+Half, E 20 to 30 kt SE Half. Seas 7 to 13 ft. Isolated
+thunderstorms S of 24N.
+.TUESDAY...Hurricane conditions possible. E winds 80 to 90 kt NW
+Half, E 15 to 25 kt SE Half. Seas 6 to 13 ft. Isolated
+thunderstorms S of 24N.
+.WEDNESDAY...Hurricane conditions possible. SE winds 30 to 40 kt
+NW Half, E 15 to 25 kt SE Half. Seas 6 to 11 ft.
+```

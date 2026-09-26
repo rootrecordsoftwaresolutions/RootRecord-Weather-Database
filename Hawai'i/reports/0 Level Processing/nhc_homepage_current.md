@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-25T21:48:39.279865-10:00 HST
-- **Report created:** 2026-09-25T22:17:23-10:00 HST
+- **Collected:** 2026-09-25T23:51:43.207124-10:00 HST
+- **Report created:** 2026-09-25T23:51:55-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -130,11 +130,11 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 07:47:49 UTC
+Last update Sat, 26 Sep 2026 09:50:06 UTC
 
 NHC issuing advisories for the Atlantic on
 
-TS Fay
+TD Fay
 
 and
 
@@ -310,11 +310,12 @@ Buoys |
 Grids |
 Storm Archive
 
-...NOLO NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
+...NOLO STILL NEARLY STATIONARY SOUTH OF THE BIG ISLAND OF HAWAII...
+...EXPECTED TO STRENGTHEN DURING THE NEXT COUPLE OF DAYS WHILE REMAINING WELL SOUTH OF THE HAWAIIAN ISLANDS...
 
-8:00 PM HST Fri Sep 25
+11:00 PM HST Fri Sep 25
 
-Location: 16.9°N 155.2°W
+Location: 16.9°N 155.3°W
 
 Moving: Stationary
 
@@ -326,39 +327,39 @@ Public
 
 Advisory
 
-#22A
+#23
 
-800 PM HST
+1100 PM HST
 
 Forecast
 
 Advisory
 
-#22
+#23
 
-0300 UTC
+0900 UTC
 
 Forecast
 
 Discussion
 
-#22
+#23
 
-500 PM HST
+1100 PM HST
 
 Wind Speed
 
 Probabilities
 
-#22
+#23
 
-0300 UTC
+0900 UTC
 
 NWS Local
 
 Products
 
-520 PM HST
+1115 PM HST
 
 Productos en español:
 
@@ -430,11 +431,11 @@ Buoys |
 Grids |
 Storm Archive
 
-...GONZALO WEAKENS AS IT CONTINUES NORTHWARD...
+...GONZALO STILL A TROPICAL STORM AS IT MOVES AWAY FROM THE CABO VERDE ISLANDS...
 
-2:00 AM CVT Sat Sep 26
+8:00 AM CVT Sat Sep 26
 
-Location: 16.9°N 22.5°W
+Location: 17.6°N 23.0°W
 
 Moving: N at 9 mph
 
@@ -446,33 +447,33 @@ Public
 
 Advisory
 
-#5
+#6
 
-200 AM CVT
+800 AM CVT
 
 Forecast
 
 Advisory
 
-#5
+#6
 
-0300 UTC
+0900 UTC
 
 Forecast
 
 Discussion
 
-#5
+#6
 
-200 AM CVT
+800 AM CVT
 
 Wind Speed
 
 Probabilities
 
-#5
+#6
 
-0300 UTC
+0900 UTC
 
 Productos en español:
 
@@ -516,56 +517,56 @@ Surface Wind
 Rip
 Currents
 
-Tropical Storm Fay
+Tropical Depression Fay
 
 Satellite |
 Buoys |
 Grids |
 Storm Archive
 
-...FAY CONTINUES TO WEAKEN OVER THE ATLANTIC OCEAN...
+...FAY WEAKENS TO A TROPICAL DEPRESSION ONCE AGAIN...
 
-3:00 AM GMT Sat Sep 26
+9:00 AM GMT Sat Sep 26
 
-Location: 29.9°N 43.4°W
+Location: 29.7°N 43.7°W
 
-Moving: WSW at 7 mph
+Moving: WSW at 3 mph
 
-Min pressure: 1006 mb
+Min pressure: 1009 mb
 
-Max sustained: 40 mph
+Max sustained: 35 mph
 
 Public
 
 Advisory
 
-#24
+#25
 
-300 AM GMT
+900 AM GMT
 
 Forecast
 
 Advisory
 
-#24
+#25
 
-0300 UTC
+0900 UTC
 
 Forecast
 
 Discussion
 
-#24
+#25
 
-300 AM GMT
+900 AM GMT
 
 Wind Speed
 
 Probabilities
 
-#24
+#25
 
-0300 UTC
+0900 UTC
 
 Productos en español:
 
@@ -632,47 +633,47 @@ Storm Archive
 ...POLO REMAINS AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE...
 ...EXPECTED TO MAKE LANDFALL IN BAJA CALIFORNIA SUR ON MONDAY AS A POWERFUL HURRICANE...
 
-11:00 PM MST Fri Sep 25
+2:00 AM MST Sat Sep 26
 
-Location: 17.5°N 110.5°W
+Location: 17.6°N 111.0°W
 
-Moving: WNW at 10 mph
+Moving: WNW at 9 mph
 
-Min pressure: 911 mb
+Min pressure: 917 mb
 
-Max sustained: 175 mph
+Max sustained: 165 mph
 
 Public
 
 Advisory
 
-#22A
+#23
 
-1100 PM MST
+200 AM MST
 
 Forecast
 
 Advisory
 
-#22
+#23
 
-0300 UTC
+0900 UTC
 
 Forecast
 
 Discussion
 
-#22
+#23
 
-800 PM MST
+200 AM MST
 
 Wind Speed
 
 Probabilities
 
-#22
+#23
 
-0300 UTC
+0900 UTC
 
 Productos en español:
 
@@ -732,49 +733,49 @@ Buoys |
 Grids |
 Storm Archive
 
-...ODALYS STILL A MAJOR HURRICANE AS IT MOVES SLOWLY NORTHWARD...
+...ODALYS BEGINS WEAKENING AS IT CONTINUES TRACKING NORTHWARD...
 
-8:00 PM PDT Fri Sep 25
+2:00 AM PDT Sat Sep 26
 
-Location: 18.8°N 123.6°W
+Location: 19.1°N 123.7°W
 
 Moving: N at 5 mph
 
-Min pressure: 952 mb
+Min pressure: 951 mb
 
-Max sustained: 120 mph
+Max sustained: 115 mph
 
 Public
 
 Advisory
 
-#25
+#26
 
-800 PM PDT
+200 AM PDT
 
 Forecast
 
 Advisory
 
-#25
+#26
 
-0300 UTC
+0900 UTC
 
 Forecast
 
 Discussion
 
-#25
+#26
 
-800 PM PDT
+200 AM PDT
 
 Wind Speed
 
 Probabilities
 
-#25
+#26
 
-0300 UTC
+0900 UTC
 
 Productos en español:
 

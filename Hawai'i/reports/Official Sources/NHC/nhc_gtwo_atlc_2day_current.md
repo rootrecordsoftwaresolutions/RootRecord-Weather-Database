@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-25T22:01:50-10:00 HST
-- **Report created:** 2026-09-25T22:01:50-10:00 HST
+- **Generated:** 2026-09-25T23:51:57-10:00 HST
+- **Report created:** 2026-09-25T23:51:57-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_gtwo_atlc_2day
 - **Official source:** https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=2
-- **Collected:** 2026-09-25T20:19:49.399430-10:00 HST
+- **Collected:** 2026-09-25T23:49:43.181040-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
