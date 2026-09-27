@@ -2,8 +2,8 @@
 
 > **Level 1 county aggregate — deterministically assembled from preserved source-layer records.**
 
-- **Generated:** 2026-09-26T13:54:41-10:00 HST
-- **Report created:** 2026-09-26T13:54:41-10:00 HST
+- **Generated:** 2026-09-26T14:03:41-10:00 HST
+- **Report created:** 2026-09-26T14:03:41-10:00 HST
 - **County:** Honolulu County
 - **Source level:** 0 Level Processing
 - **Current report sections:** 21
@@ -4258,7 +4258,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sat, 26 Sep 2026 23:52:45 UTC
+Last update Sun, 27 Sep 2026 00:03:19 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4572,26 +4572,26 @@ Buoys |
 Grids |
 Storm Archive
 
-...POLO TURNS NORTHWESTWARD AS A POWERFUL HURRICANE...
-...FORECAST TO APPROACH BAJA CALIFORNIA SUR ON MONDAY...
+...NOAA HURRICANE HUNTER AIRCRAFT ABOUT TO INVESTIGATE POLO...
+...THE HURRICANE IS FORECAST TO APPROACH BAJA CALIFORNIA SUR ON MONDAY...
 
-2:00 PM MST Sat Sep 26
+5:00 PM MST Sat Sep 26
 
-Location: 18.7°N 112.5°W
+Location: 19.1°N 112.8°W
 
 Moving: NW at 10 mph
 
-Min pressure: 938 mb
+Min pressure: 940 mb
 
-Max sustained: 145 mph
+Max sustained: 140 mph
 
 Public
 
 Advisory
 
-#25
+#25A
 
-200 PM MST
+500 PM MST
 
 Forecast
 
