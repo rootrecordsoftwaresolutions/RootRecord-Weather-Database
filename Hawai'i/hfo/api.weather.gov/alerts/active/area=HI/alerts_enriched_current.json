@@ -1,5 +1,84 @@
 [
   {
+    "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.064979ba4fff13b8686375f3b9a99a913b815316.001.1",
+    "properties": {
+      "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.064979ba4fff13b8686375f3b9a99a913b815316.001.1",
+      "@type": "wx:Alert",
+      "id": "urn:oid:2.49.0.1.840.0.064979ba4fff13b8686375f3b9a99a913b815316.001.1",
+      "areaDesc": "Hawaii in Hawaii, HI",
+      "geocode": {
+        "SAME": [
+          "015001"
+        ],
+        "UGC": [
+          "HIC001"
+        ]
+      },
+      "affectedZones": [
+        "https://api.weather.gov/zones/county/HIC001"
+      ],
+      "references": [],
+      "sent": "2026-09-26T15:59:00-10:00",
+      "effective": "2026-09-26T15:59:00-10:00",
+      "onset": "2026-09-26T15:59:00-10:00",
+      "expires": "2026-09-26T18:45:00-10:00",
+      "ends": "2026-09-26T18:45:00-10:00",
+      "status": "Actual",
+      "messageType": "Alert",
+      "category": "Met",
+      "severity": "Minor",
+      "certainty": "Likely",
+      "urgency": "Expected",
+      "event": "Flood Advisory",
+      "sender": "w-nws.webmaster@noaa.gov",
+      "senderName": "NWS Honolulu HI",
+      "headline": "Flood Advisory issued September 26 at 3:59PM HST until September 26 at 6:45PM HST by NWS Honolulu HI",
+      "description": "* WHAT...Flooding caused by excessive rainfall is expected.\n\n* WHERE...The island of Hawaii in Hawaii County...\n\n* WHEN...Until 645 PM HST.\n\n* IMPACTS...Minor flooding on roads, poor drainage areas, and in\nstreams.\n\n* ADDITIONAL DETAILS...\n- At 348 PM HST, Doppler radar indicated moderate rain falling over\nthe southeast slopes of the Big Island, mainly between Naalehu\nand Wood Valley. Hawaii County Civil Defense Agency reported\nflooding on Kaalaiki Road near Highway 11 in Naalehu and a\nportion of Highway 11 in Waiohinu, prompting road closures. Minor\nflooding is ongoing or expected to begin shortly in the advisory\narea. Rain was falling at a rate of 0.5 to 1 inch per hour.\n- Some locations that will experience flooding include...\nHawaiian Paradise Park, Hawaii Volcanoes National Park, Wood\nValley, Volcano, Pahala, Glenwood, Punaluu Beach, Kawa Flats,\nMountain View and Hawaiian Acres.",
+      "instruction": "Stay away from streams, drainage ditches and low lying areas prone to\nflooding.\n\nA Flood Watch is also in effect until 6 PM HST.",
+      "response": "Avoid",
+      "note": null,
+      "parameters": {
+        "AWIPSidentifier": [
+          "FLSHFO"
+        ],
+        "WMOidentifier": [
+          "WGHW80 PHFO 270159"
+        ],
+        "NWSheadline": [
+          "FLOOD ADVISORY IN EFFECT UNTIL 645 PM HST THIS EVENING"
+        ],
+        "BLOCKCHANNEL": [
+          "EAS",
+          "NWEM",
+          "CMAS"
+        ],
+        "VTEC": [
+          "/O.NEW.PHFO.FA.Y.0157.260927T0159Z-260927T0445Z/"
+        ],
+        "eventEndingTime": [
+          "2026-09-26T18:45:00-10:00"
+        ]
+      },
+      "scope": "Public",
+      "code": "IPAWSv1.0",
+      "language": "en-US",
+      "web": "http://www.weather.gov",
+      "eventCode": {
+        "SAME": [
+          "NWS"
+        ],
+        "NationalWeatherService": [
+          "FAY"
+        ]
+      }
+    },
+    "counties": [
+      "hawaii"
+    ],
+    "severity_rank": 1,
+    "critical": false
+  },
+  {
     "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1faab60b5a0f6ef23a830207fc719c4804d80d32.002.1",
     "properties": {
       "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1faab60b5a0f6ef23a830207fc719c4804d80d32.002.1",

@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T15:51:04-10:00 HST
-- **Report created:** 2026-09-26T15:51:04-10:00 HST
+- **Generated:** 2026-09-26T15:59:04-10:00 HST
+- **Report created:** 2026-09-26T15:59:04-10:00 HST
 - **County:** Maui County
 - **Resource ID:** ftm_radar_status
 - **Source:** /hfo/FTM
