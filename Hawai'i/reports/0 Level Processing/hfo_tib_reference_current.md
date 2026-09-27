@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T14:21:39.401633-10:00 HST
-- **Report created:** 2026-09-26T14:37:39-10:00 HST
+- **Collected:** 2026-09-26T14:38:39.589061-10:00 HST
+- **Report created:** 2026-09-26T14:45:39-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---
@@ -55,9 +55,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 

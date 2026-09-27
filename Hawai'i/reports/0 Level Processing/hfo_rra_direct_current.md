@@ -3,8 +3,8 @@
 > **Official NWS Hawaii/HFO report — derived locally from collected source data.**
 
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T14:21:54.021628-10:00 HST
-- **Report created:** 2026-09-26T14:37:39-10:00 HST
+- **Collected:** 2026-09-26T14:38:54.431638-10:00 HST
+- **Report created:** 2026-09-26T14:45:39-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

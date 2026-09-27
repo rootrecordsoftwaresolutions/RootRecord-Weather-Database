@@ -58,7 +58,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T14:37:39-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T14:45:39-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3144,7 +3144,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | hfo_rra_direct |
 | **Official source** | https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo |
-| **Collected** | 2026-09-26T14:21:54.021628-10:00 HST |
+| **Collected** | 2026-09-26T14:38:54.431638-10:00 HST |
 
 ```text
 761
@@ -3417,7 +3417,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T14:30:59.397762-10:00 HST |
+| **Collected** | 2026-09-26T14:38:56.787177-10:00 HST |
 
 ```text
                         
@@ -4288,7 +4288,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_homepage |
 | **Official source** | https://www.nhc.noaa.gov/ |
-| **Collected** | 2026-09-26T14:37:38.796270-10:00 HST |
+| **Collected** | 2026-09-26T14:45:39.295949-10:00 HST |
 
 ```text
 Home
@@ -4412,7 +4412,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 00:35:45 UTC
+Last update Sun, 27 Sep 2026 00:43:33 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8196,7 +8196,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_tib_reference |
 | **Official source** | https://forecast.weather.gov/product_types.php |
-| **Collected** | 2026-09-26T14:21:39.401633-10:00 HST |
+| **Collected** | 2026-09-26T14:38:39.589061-10:00 HST |
 
 ```text
 National Weather Service
@@ -8245,9 +8245,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
