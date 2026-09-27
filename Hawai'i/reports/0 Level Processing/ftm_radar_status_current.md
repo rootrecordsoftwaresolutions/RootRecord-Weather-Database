@@ -4,7 +4,7 @@
 
 - **Source:** /hfo/FTM
 - **Collected:** 2026-09-25T16:42:31.196621-10:00 HST
-- **Report created:** 2026-09-26T15:34:29-10:00 HST
+- **Report created:** 2026-09-26T15:42:03-10:00 HST
 - **Raw source:** retained separately in the weather data tree.
 
 ---

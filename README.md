@@ -57,7 +57,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T15:34:29-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T15:42:03-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3143,7 +3143,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | hfo_rra_direct |
 | **Official source** | https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo |
-| **Collected** | 2026-09-26T15:27:59.540414-10:00 HST |
+| **Collected** | 2026-09-26T15:35:18.966195-10:00 HST |
 
 ```text
 893
@@ -3416,7 +3416,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T15:28:02.321892-10:00 HST |
+| **Collected** | 2026-09-26T15:35:21.526696-10:00 HST |
 
 ```text
                         
@@ -4287,7 +4287,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_homepage |
 | **Official source** | https://www.nhc.noaa.gov/ |
-| **Collected** | 2026-09-26T15:34:03.136699-10:00 HST |
+| **Collected** | 2026-09-26T15:42:03.141514-10:00 HST |
 
 ```text
 Home
@@ -4411,7 +4411,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 01:31:38 UTC
+Last update Sun, 27 Sep 2026 01:40:59 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8195,7 +8195,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_tib_reference |
 | **Official source** | https://forecast.weather.gov/product_types.php |
-| **Collected** | 2026-09-26T15:27:14.501370-10:00 HST |
+| **Collected** | 2026-09-26T15:35:04.117768-10:00 HST |
 
 ```text
 National Weather Service
@@ -8244,9 +8244,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Brochures
-
 Weather-Ready Nation
+
+Brochures
 
 Cooperative Observers
 
