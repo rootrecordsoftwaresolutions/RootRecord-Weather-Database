@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T16:16:04-10:00 HST
-- **Report created:** 2026-09-26T16:16:04-10:00 HST
+- **Generated:** 2026-09-26T16:42:04-10:00 HST
+- **Report created:** 2026-09-26T16:42:04-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T16:16:02.834408-10:00 HST
+- **Collected:** 2026-09-26T16:42:03.273897-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 02:12:22 UTC
+Last update Sun, 27 Sep 2026 02:38:27 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -752,15 +752,15 @@ Buoys |
 Grids |
 Storm Archive
 
-...FAY SLOWLY MOVING SOUTHWARD...
+...FAY VERY SLOWLY MOVING SOUTHWARD...
 
-9:00 PM GMT Sat Sep 26
+3:00 AM GMT Sun Sep 27
 
-Location: 29.8°N 43.9°W
+Location: 29.6°N 43.9°W
 
 Moving: S at 2 mph
 
-Min pressure: 1009 mb
+Min pressure: 1010 mb
 
 Max sustained: 35 mph
 
@@ -768,33 +768,33 @@ Public
 
 Advisory
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Forecast
 
 Advisory
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Forecast
 
 Discussion
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Wind Speed
 
 Probabilities
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Productos en español:
 

@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T16:16:04-10:00 HST
-- **Report created:** 2026-09-26T16:16:04-10:00 HST
+- **Generated:** 2026-09-26T16:42:04-10:00 HST
+- **Report created:** 2026-09-26T16:42:04-10:00 HST
 - **County:** Maui County
 - **Resource ID:** afd_area_forecast_discussion
 - **Source:** https://api.weather.gov/products/types/AFD/locations/HFO

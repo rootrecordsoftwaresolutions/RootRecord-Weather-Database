@@ -2,8 +2,8 @@
 
 > **Level 1 unresolved-source record.** This product was not assigned to a county by an authoritative geographic rule and is intentionally excluded from county reports.
 
-- **Generated:** 2026-09-26T16:16:04-10:00 HST
-- **Report created:** 2026-09-26T16:16:04-10:00 HST
+- **Generated:** 2026-09-26T16:42:04-10:00 HST
+- **Report created:** 2026-09-26T16:42:04-10:00 HST
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
 - **County assignment:** unresolved/no-geographic-assignment
@@ -59,9 +59,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Brochures
-
 Weather-Ready Nation
+
+Brochures
 
 Cooperative Observers
 

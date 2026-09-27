@@ -4474,3 +4474,204 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
 2026-09-26T16:21:34-10:00 module:text_products resource:nowhfo_short_term_forecast INVALID -- extract_text failed: no products in @graph -- nothing to extract
 2026-09-26T16:21:34-10:00 module:text_products resource:hwo_hazardous_weather_outlook INVALID -- extract_text failed: no products in @graph -- nothing to extract
+2026-09-26T16:25:03-10:00 module:misc resource:noaa_homepage FAILED -- request failed: Client error '403 Forbidden' for url 'https://www.noaa.gov/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-09-26T16:25:04-10:00 reports: regenerated Level 0 statewide Markdown reports
+2026-09-26T16:25:04-10:00 reports: updated source-isolated official report mirrors
+2026-09-26T16:25:04-10:00 reports: regenerated Level 1 county Markdown reports
+2026-09-26T16:25:34-10:00 dispatching 4 due task(s) concurrently: alerts, text_products, analyses, misc
+2026-09-26T16:26:38-10:00 module:analyses resource:sat_altimetry_swh FAILED -- request failed: Client error '404 Not Found' for url 'https://www.weather.gov/images/hfo/graphics/allSatellites_sgwh_latest.png'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_24hr_seastate_00 FAILED -- request failed: The read operation timed out
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_24hr_seastate_12 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_48hr_seastate_00 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_48hr_seastate_12 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_72hr_seastate_00 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_72hr_seastate_12 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_npac_sfc_00 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_npac_sfc_06 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_npac_sfc_12 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:26:38-10:00 module:analyses resource:analyses_npac_sfc_18 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:sfp_state_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:zfp_zone_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:afd_area_forecast_discussion FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:nowhfo_short_term_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:hwo_hazardous_weather_outlook FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:28:34-10:00 module:text_products resource:cwf_coastal_waters FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_shapefiles FAILED -- request failed: The read operation timed out
+2026-09-26T16:33:02-10:00 module:misc resource:hfo_tib_reference FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:hfo_rra_direct FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:solar_calculation_table FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:hfo_surf_reports_direct FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_cpac_2day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_cpac_7day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_epac_2day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_epac_7day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_atlc_2day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_gtwo_atlc_7day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:nhc_homepage FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:02-10:00 module:misc resource:noaa_homepage FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:03-10:00 reports: regenerated Level 0 statewide Markdown reports
+2026-09-26T16:33:03-10:00 reports: updated source-isolated official report mirrors
+2026-09-26T16:33:03-10:00 reports: regenerated Level 1 county Markdown reports
+2026-09-26T16:33:33-10:00 dispatching 10 due task(s) concurrently: alerts, text_products, satellite, marine, aviation, maps, ndfd_gridpoint, misc, gis, hurricanes
+2026-09-26T16:33:35-10:00 module:alerts resource:alerts_active_hi FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:35-10:00 module:alerts resource:wwamap_png FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:33:41-10:00 module:maps resource:gfe_graphics_page FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:02-10:00 module:hurricanes ERROR (skipped this pass)
+Traceback (most recent call last):
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/rootrecord/.ollama/skills/weather/scheduler/run_cycle.py", line 217, in _run_and_save
+    changed = fn()
+  File "/home/rootrecord/.ollama/skills/weather/scheduler/run_cycle.py", line 242, in <lambda>
+    tasks.append(("hurricanes", lambda: hurricane_sources.poll(hurricanes_base_dir)))
+                                        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rootrecord/.ollama/skills/weather/hurricanes/scripts/sources.py", line 92, in poll
+    storms = fetch_current_storms()
+  File "/home/rootrecord/.ollama/skills/weather/hurricanes/scripts/sources.py", line 26, in fetch_current_storms
+    result = http_client.get(CURRENT_STORMS_URL, accept="application/json")
+  File "/home/rootrecord/.ollama/skills/weather/core/http_client.py", line 122, in get
+    resp = client.get(url, headers=headers)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 1053, in get
+    return self.request(
+           ~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<7 lines>...
+        extensions=extensions,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/home/rootrecord/.local/lib/python3.14/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno -3] Temporary failure in name resolution
+
+2026-09-26T16:34:05-10:00 module:gis resource:nws_public_counties_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:05-10:00 module:gis resource:nws_public_zones_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:05-10:00 module:gis resource:nws_zone_county_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:05-10:00 module:gis resource:nws_cwa_boundaries_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:05-10:00 module:gis resource:nws_fire_zones_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:05-10:00 module:gis resource:nws_marine_zones_catalog FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:48-10:00 module:aviation resource:tafpa_tafs FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:48-10:00 module:aviation resource:fa0_area_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:48-10:00 module:aviation resource:wa0_airmets FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:34:48-10:00 module:aviation resource:aviation_sigmets FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:off_offshore_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:hsf_high_seas_npac FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:hsf_high_seas_spac FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:mfm_marine_forecast_matrix FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:srf_statewide_surf_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:surfreports_statewide_observations FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:mww_marine_weather_message FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:marine_names_zone_map FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:offhfomz_offshore_zone_map FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:35:07-10:00 module:marine resource:plbz08_sst_test_chart FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:37:03-10:00 module:ndfd_gridpoint resource:ndfd_gridpoint_HNL FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:37:03-10:00 module:ndfd_gridpoint resource:ndfd_gridpoint_LIH FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:37:03-10:00 module:ndfd_gridpoint resource:ndfd_gridpoint_OGG FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:37:03-10:00 module:ndfd_gridpoint resource:ndfd_gridpoint_ITO FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:hawaii_ir_latest FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:hawaii_ir_loop FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_geocolor FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_glm_extent3 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_airmass FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_sandwich FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_fire_temperature FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_02 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_07 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_13 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes19_eep_14 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_geocolor FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_glm_extent3 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_airmass FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_sandwich FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_daynight_cloud_micro_combo FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_fire_temperature FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_07 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_08 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:goes18_hi_14 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_00 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_01 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_02 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_03 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_04 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_05 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_06 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_07 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_08 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_09 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:14-10:00 module:satellite resource:satellite_loop_IRHawaii_10 FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:sfp_state_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:zfp_zone_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:afd_area_forecast_discussion FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:nowhfo_short_term_forecast FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:hwo_hazardous_weather_outlook FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:38:33-10:00 module:text_products resource:cwf_coastal_waters FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_shapefiles FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:hfo_tib_reference FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:hfo_rra_direct FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:solar_calculation_table FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:hfo_surf_reports_direct FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_cpac_2day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_cpac_7day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_epac_2day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_epac_7day FAILED -- request failed: [Errno -3] Temporary failure in name resolution
+2026-09-26T16:42:03-10:00 module:misc resource:nhc_gtwo_atlc_2day FAILED -- request failed: [Errno -2] Name or service not known
+2026-09-26T16:42:03-10:00 module:misc resource:noaa_homepage FAILED -- request failed: Client error '403 Forbidden' for url 'https://www.noaa.gov/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-09-26T16:42:04-10:00 reports: regenerated Level 0 statewide Markdown reports
+2026-09-26T16:42:04-10:00 reports: updated source-isolated official report mirrors
+2026-09-26T16:42:04-10:00 reports: regenerated Level 1 county Markdown reports

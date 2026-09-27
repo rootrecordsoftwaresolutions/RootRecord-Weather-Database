@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T16:16:03-10:00 HST
-- **Report created:** 2026-09-26T16:16:03-10:00 HST
+- **Generated:** 2026-09-26T16:42:03-10:00 HST
+- **Report created:** 2026-09-26T16:42:03-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3342,7 +3342,7 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T16:09:21.525814-10:00 HST
+- **Collected:** 2026-09-26T16:18:21.790848-10:00 HST
 
 ```text
                         
@@ -4127,7 +4127,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_gtwo_atlc_7day
 - **Source:** https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7
-- **Collected:** 2026-09-26T14:02:38.828660-10:00 HST
+- **Collected:** 2026-09-26T16:41:03.118332-10:00 HST
 
 ```text
 598 ACCA62 KNHC 262316TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 PM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Depresión Tropical Fay, ubicada aloeste-suroeste de las Azores y ha emitido la última advertenciasobre el Ciclón Pos-Tropical Gonzalo, ubicado al norte de las Islasde Cabo Verde.Atlántico Subtropical Central: Una vaguada en la superficie de bajapresión ubicada a varios cientos de millas al sureste de lasBermudas está produciendo actualmente un área de aguaceros ytormentas desorganizadas. Las condiciones ambientales podríanvolverse favorables para el desarrollo gradual de este sistema amedida que se mueve hacia el norte este fin de semana y luego girehacia el este a principios o mediados de la próxima semana.* Probabilidad de formación hasta 48 horas...baja...10 por ciento.* Probabilidad de formación hasta 7 días...baja...20 por ciento.$$Pronosticador Pierce/Evans/Beven*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
@@ -4187,7 +4187,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T16:16:02.834408-10:00 HST
+- **Collected:** 2026-09-26T16:42:03.273897-10:00 HST
 
 ```text
 Home
@@ -4311,7 +4311,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 02:12:22 UTC
+Last update Sun, 27 Sep 2026 02:38:27 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -4927,15 +4927,15 @@ Buoys |
 Grids |
 Storm Archive
 
-...FAY SLOWLY MOVING SOUTHWARD...
+...FAY VERY SLOWLY MOVING SOUTHWARD...
 
-9:00 PM GMT Sat Sep 26
+3:00 AM GMT Sun Sep 27
 
-Location: 29.8°N 43.9°W
+Location: 29.6°N 43.9°W
 
 Moving: S at 2 mph
 
-Min pressure: 1009 mb
+Min pressure: 1010 mb
 
 Max sustained: 35 mph
 
@@ -4943,33 +4943,33 @@ Public
 
 Advisory
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Forecast
 
 Advisory
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Forecast
 
 Discussion
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Wind Speed
 
 Probabilities
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Productos en español:
 
@@ -8083,7 +8083,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T16:00:35.710498-10:00 HST
+- **Collected:** 2026-09-26T16:18:05.909778-10:00 HST
 
 ```text
 National Weather Service
@@ -8132,9 +8132,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Brochures
-
 Weather-Ready Nation
+
+Brochures
 
 Cooperative Observers
 

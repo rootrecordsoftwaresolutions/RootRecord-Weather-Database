@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T16:16:04-10:00 HST
-- **Report created:** 2026-09-26T16:16:04-10:00 HST
+- **Generated:** 2026-09-26T16:42:04-10:00 HST
+- **Report created:** 2026-09-26T16:42:04-10:00 HST
 - **County:** Honolulu County
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
@@ -137,7 +137,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 02:12:22 UTC
+Last update Sun, 27 Sep 2026 02:38:27 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -753,15 +753,15 @@ Buoys |
 Grids |
 Storm Archive
 
-...FAY SLOWLY MOVING SOUTHWARD...
+...FAY VERY SLOWLY MOVING SOUTHWARD...
 
-9:00 PM GMT Sat Sep 26
+3:00 AM GMT Sun Sep 27
 
-Location: 29.8°N 43.9°W
+Location: 29.6°N 43.9°W
 
 Moving: S at 2 mph
 
-Min pressure: 1009 mb
+Min pressure: 1010 mb
 
 Max sustained: 35 mph
 
@@ -769,33 +769,33 @@ Public
 
 Advisory
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Forecast
 
 Advisory
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Forecast
 
 Discussion
 
-#27
+#28
 
-900 PM GMT
+300 AM GMT
 
 Wind Speed
 
 Probabilities
 
-#27
+#28
 
-2100 UTC
+0300 UTC
 
 Productos en español:
 
