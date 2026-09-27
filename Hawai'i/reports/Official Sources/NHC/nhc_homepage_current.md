@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T14:45:41-10:00 HST
-- **Report created:** 2026-09-26T14:45:41-10:00 HST
+- **Generated:** 2026-09-26T14:54:40-10:00 HST
+- **Report created:** 2026-09-26T14:54:40-10:00 HST
 - **Source authority:** NHC
 - **Resource ID:** nhc_homepage
 - **Official source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T14:45:39.295949-10:00 HST
+- **Collected:** 2026-09-26T14:54:38.669153-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
@@ -136,7 +136,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 00:43:33 UTC
+Last update Sun, 27 Sep 2026 00:52:20 UTC
 
 NHC issuing advisories for the Atlantic on
 
