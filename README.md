@@ -57,7 +57,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T15:59:03-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T16:08:03-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3143,19 +3143,19 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | hfo_rra_direct |
 | **Official source** | https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo |
-| **Collected** | 2026-09-26T15:44:20.462091-10:00 HST |
+| **Collected** | 2026-09-26T16:01:21.276619-10:00 HST |
 
 ```text
-893
-SRHW80 PHFO 270046
+392
+SRHW80 PHFO 270146
 RRAHFO
 
 Hawaii Rainfall Summary
 National Weather Service Honolulu HI
-245 PM HST Sat Sep 26 2026
+345 PM HST Sat Sep 26 2026
 
 :
-.B HFO  0926 H  DH14 /DRH-03/PPT/DRH-06/PPQ/DRH-12/PPK/DRH-24/PPD
+.B HFO  0926 H  DH15 /DRH-03/PPT/DRH-06/PPQ/DRH-12/PPK/DRH-24/PPD
 :
 :Automated rain gage reports from around the State of Hawaii.
 :These are provisional reports that have not been quality
@@ -3163,21 +3163,21 @@ National Weather Service Honolulu HI
 :
 :T=Trace Rainfall, M=Missing Data
 :
-:Precipitation totals ending  2 PM HST
+:Precipitation totals ending  3 PM HST
 :
 :Island of Kauai                                   Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward/Mauka Sites
 MKAH1 : Makaha Ridge (RAWS)         :    0.00  /  0.00  /  0.00  /  0.02
 PLRH1 : Puu Lua (RAWS)              :    0.00  /  0.00  /  0.00  /  0.09
-WKRH1 : Waiakoali (USGS)            :    0.00  /  0.02  /  0.07  /  0.79
-KLOH1 : Kilohana (USGS)             :    0.15  /  0.40  /  0.52  /  2.35
-MCRH1 : Mohihi Crossing (USGS)      :    0.00  /  0.02  /  0.08  /  0.75
-WLGH1 : Waialae (USGS)              :    0.01  /  0.02  /  0.07  /  0.36
+WKRH1 : Waiakoali (USGS)            :    0.01  /  0.02  /  0.06  /  0.80
+KLOH1 : Kilohana (USGS)             :    0.17  /  0.46  /  0.58  /  2.46
+MCRH1 : Mohihi Crossing (USGS)      :    0.00  /  0.01  /  0.05  /  0.75
+WLGH1 : Waialae (USGS)              :    0.00  /  0.02  /  0.06  /  0.36
 LLMH1 : Lower Limahuli (UHM)        :    0.00  /  0.01  /  0.04  /  0.45
-WNHH1 : Wainiha (12010)             :    0.01  /  0.04  /  0.12  /  0.61
+WNHH1 : Wainiha (12010)             :    0.00  /  0.04  /  0.12  /  0.61
 WIPH1 : Waipa (UHM)                 :    0.01  /  0.02  /  0.07  /  0.46
-HNIH1 : Hanalei (12009)             :    0.00  /  0.01  /  0.06  /  0.44
+HNIH1 : Hanalei (12009)             :    0.01  /  0.02  /  0.06  /  0.45
 WLLH1 : Mount Waialeale (USGS)      :      M   /    M   /    M   /    M
 PRIH1 : Princeville Airport (12011) :    0.00  /  0.00  /  0.01  /  0.13
 CMGH1 : Common Ground (UHM)         :    0.00  /  0.00  /  0.01  /  0.21
@@ -3185,18 +3185,18 @@ HLIH1 : Hanalei (RAWS)              :    0.00  /  0.01  /  0.03  /  0.51
 MLDH1 : Moloaa Dairy (RAWS)         :    0.00  /  0.00  /  0.00  /  0.00
 ANHH1 : Anahola (12001)             :    0.00  /  0.01  /  0.04  /  0.09
 KPIH1 : Kapahi (12003)              :    0.08  /  0.10  /  0.11  /  0.45
-WLDH1 : N Wailua Ditch (USGS)       :    0.05  /  0.14  /  0.19  /  0.86
+WLDH1 : N Wailua Ditch (USGS)       :    0.07  /  0.18  /  0.23  /  0.90
 WUHH1 : Wailua (12005)              :    0.02  /  0.09  /  0.11  /  0.58
-WIRH1 : Waiahi Rain Gage (USGS)     :    0.08  /  0.19  /  0.26  /  0.78
-LIHH1 : Lihue Var. Stn. (12006)     :    0.01  /  0.11  /  0.16  /  0.46
-HNMH1 : Hanamaulu (UHM)             :    0.02  /  0.11  /  0.21  /  0.68
-HLI   : Lihue Airport (ASOS)        :      T   /  0.02  /  0.02  /  0.07
+WIRH1 : Waiahi Rain Gage (USGS)     :    0.12  /  0.23  /  0.29  /  0.83
+LIHH1 : Lihue Var. Stn. (12006)     :    0.01  /  0.06  /  0.16  /  0.46
+HNMH1 : Hanamaulu (UHM)             :    0.03  /  0.09  /  0.17  /  0.68
+HLI   : Lihue Airport (ASOS)        :      T   /  0.01  /  0.02  /  0.05
 :       Leeward Sites
-OMAH1 : Omao (12004)                :    0.02  /  0.04  /  0.07  /  0.38
-LNTH1 : Lawai NTBG (UHM)            :    0.02  /  0.07  /  0.13  /  0.36
-KHEH1 : Kalaheo (12008)             :    0.01  /  0.12  /  0.18  /  0.40
+OMAH1 : Omao (12004)                :    0.01  /  0.04  /  0.05  /  0.38
+LNTH1 : Lawai NTBG (UHM)            :    0.02  /  0.04  /  0.12  /  0.36
+KHEH1 : Kalaheo (12008)             :    0.00  /  0.10  /  0.18  /  0.40
 PAKH1 : Port Allen (HSOIS)          :    0.00  /  0.00  /  0.00  /  0.04
-HNPH1 : Hanapepe (12002)            :    0.00  /  0.00  /  0.01  /  0.12
+HNPH1 : Hanapepe (12002)            :    0.00  /  0.00  /  0.00  /  0.12
 POPH1 : Puu Opae (RAWS)             :    0.00  /  0.00  /  0.00  /  0.01
 WHGH1 : Waimea Heights (RAWS)       :    0.00  /  0.00  /  0.00  /  0.01
 WMTH1 : Waimea Tank (12007)         :    0.00  /  0.00  /  0.00  /  0.01
@@ -3209,19 +3209,19 @@ KAHH1 : Kahuku (13027)              :    0.00  /  0.00  /  0.00  /  0.04
 KTAH1 : Kahuku Training Area (RAWS) :    0.00  /  0.01  /  0.01  /  0.01
 KFWH1 : Kii (RAWS)                  :    0.00  /  0.00  /  0.00  /  0.01
 PUNH1 : Punaluu Pump (13013)        :    0.00  /  0.00  /  0.04  /  0.13
-PNSH1 : Punaluu Stream (USGS)       :    0.09  /  0.09  /  0.11  /  0.31
-KNRH1 : Kahana (USGS)               :    0.03  /  0.03  /  0.05  /  0.14
-HAKH1 : Hakipuu Mauka (13004)       :    0.02  /  0.03  /  0.03  /  0.08
-WPPH1 : Waihee Pump (13002)         :    0.00  /  0.03  /  0.06  /  0.14
+PNSH1 : Punaluu Stream (USGS)       :    0.11  /  0.11  /  0.13  /  0.33
+KNRH1 : Kahana (USGS)               :    0.04  /  0.04  /  0.06  /  0.15
+HAKH1 : Hakipuu Mauka (13004)       :    0.02  /  0.02  /  0.03  /  0.08
+WPPH1 : Waihee Pump (13002)         :    0.02  /  0.04  /  0.06  /  0.15
 WHSH1 : Waiahole (USGS)             :    0.00  /  0.00  /  0.00  /  0.07
-OFRH1 : Oahu Forest NWR (USFWS)     :    0.03  /  0.04  /  0.09  /  0.21
+OFRH1 : Oahu Forest NWR (USFWS)     :    0.06  /  0.07  /  0.13  /  0.25
 AHUH1 : Ahuimanu Loop (13005)       :    0.00  /  0.00  /  0.00  /  0.04
 HRRH1 : Heeia NERR (NOAA/NOS)       :    0.00  /  0.00  /  0.00  /  0.05
 LULH1 : Luluku (13016)              :    0.00  /  0.00  /  0.00  /  0.00
-NRSH1 : Nuuanu Res No. 1 (UHM)      :    0.05  /  0.05  /  0.07  /  0.08
-KWIH1 : Kalawahine (UHM)            :    0.04  /  0.04  /  0.07  /  0.08
-LYOH1 : Lyon (UHM)                  :    0.39  /  0.46  /  0.47  /  0.48
-MNLH1 : Manoa Lyon Arboretum (13023):    0.35  /  0.39  /  0.44  /  0.46
+NRSH1 : Nuuanu Res No. 1 (UHM)      :    0.04  /  0.05  /  0.07  /  0.08
+KWIH1 : Kalawahine (UHM)            :    0.03  /  0.04  /  0.07  /  0.08
+LYOH1 : Lyon (UHM)                  :    0.37  /  0.43  /  0.49  /  0.50
+MNLH1 : Manoa Lyon Arboretum (13023):    0.36  /  0.42  /  0.47  /  0.48
 STVH1 : St. Stephens (13006)        :    0.00  /  0.00  /  0.02  /  0.04
 MAUH1 : Maunawili (13008)           :      M   /    M   /    M   /    M
 OFSH1 : Olomana Fire Station (13009):    0.00  /  0.00  /  0.00  /  0.00
@@ -3232,25 +3232,25 @@ HAJH1 : Hawaii Kai Golf Crse (13015):    0.00  /  0.00  /  0.00  /  0.00
 :       Leeward/Central Sites
 KUXH1 : Kaluanui (UHM)              :    0.03  /  0.03  /  0.03  /  0.03
 NIUH1 : Niu Valley (13001)          :    0.04  /  0.04  /  0.04  /  0.04
-PFSH1 : Palolo Fire Station (13010) :    0.06  /  0.07  /  0.07  /  0.07
+PFSH1 : Palolo Fire Station (13010) :    0.06  /  0.08  /  0.08  /  0.08
 HNL   : Honolulu Airport (ASOS)             See note at bottom  :
-MOAH1 : Moanalua (13003)            :    0.03  /  0.07  /  0.07  /  0.12
-MOGH1 : Moanalua RG (USGS)          :    0.02  /  0.03  /  0.08  /  0.23
-TNLH1 : Tunnel RG (USGS)            :    0.06  /  0.07  /  0.14  /  0.27
-PACH1 : Palisades (13020)           :    0.06  /  0.08  /  0.09  /  0.26
-WAWH1 : Waiawa C.F. (13025)         :    0.13  /  0.31  /  0.41  /  0.71
-MITH1 : Mililani (13022)            :    0.08  /  0.08  /  0.09  /  0.16
+MOAH1 : Moanalua (13003)            :    0.06  /  0.13  /  0.13  /  0.18
+MOGH1 : Moanalua RG (USGS)          :    0.01  /  0.04  /  0.09  /  0.23
+TNLH1 : Tunnel RG (USGS)            :    0.06  /  0.11  /  0.18  /  0.31
+PACH1 : Palisades (13020)           :    0.06  /  0.11  /  0.14  /  0.31
+WAWH1 : Waiawa C.F. (13025)         :    0.31  /  0.44  /  0.66  /  0.96
+MITH1 : Mililani (13022)            :    0.17  /  0.20  /  0.21  /  0.28
 SCBH1 : Schofield Barracks (RAWS)   :    0.00  /  0.00  /  0.00  /  0.00
-SCEH1 : Schofield East (RAWS)       :      M   /    M   /    M   /    M
-WAFH1 : Wheeler Airfield            :    0.03  /  0.06  /  0.17  /  0.49
+SCEH1 : Schofield East (RAWS)       :    0.03  /    M   /    M   /    M
+WAFH1 : Wheeler Airfield            :    0.03  /  0.06  /  0.17  /  0.50
 POAH1 : Poamoho (13018)             :    0.00  /  0.00  /  0.04  /  0.06
-KRGH1 : Kalahee Ridge (UHM)         :    0.25  /  0.25  /  0.26  /  0.59
-KMRH1 : Kamananui Stream (USGS)     :    0.24  /  0.24  /  0.26  /  0.80
-PPRH1 : Pupukea Road (USGS)         :    0.29  /  0.32  /  0.35  /  0.60
-PMHH1 : Poamoho RG 1 (USGS)         :    0.09  /  0.11  /  0.15  /  0.29
+KRGH1 : Kalahee Ridge (UHM)         :    0.40  /  0.40  /  0.41  /  0.74
+KMRH1 : Kamananui Stream (USGS)     :    0.31  /  0.34  /  0.36  /  0.90
+PPRH1 : Pupukea Road (USGS)         :    0.30  /  0.39  /  0.42  /  0.67
+PMHH1 : Poamoho RG 1 (USGS)         :    0.07  /  0.13  /  0.18  /  0.30
 DLGH1 : Dillingham (RAWS)           :    0.00  /  0.00  /  0.00  /  0.01
-AALH1 : Kaala (UHM)                 :    0.05  /  0.10  /  0.16  /  0.34
-PECH1 : Waipio (13019)              :    0.00  /  0.00  /  0.00  /  0.01
+AALH1 : Kaala (UHM)                 :    0.03  /  0.08  /  0.16  /  0.35
+PECH1 : Waipio (13019)              :    0.02  /  0.02  /  0.02  /  0.03
 KUNH1 : Kunia Substation (13021)    :    0.00  /  0.00  /  0.00  /  0.00
 HOFH1 : Honouliuli (RAWS)           :    0.00  /  0.00  /  0.00  /  0.00
 PTWH1 : Ewa Beach USGS (13024)      :    0.00  /  0.00  /  0.00  /  0.00
@@ -3267,10 +3267,10 @@ KKRH1 : Kuaokala (RAWS)             :    0.00  /  0.00  /  0.00  /  0.01
 :Island of Molokai                                 Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 KOPH1 : Keopukaloa (UHM)            :    0.00  /  0.00  /  0.00  /  0.01
-HOMH1 : Honolimaloo (UHM)           :    0.01  /  0.01  /  0.01  /  0.07
-KMLH1 : Kamalo (14013)              :    0.00  /  0.00  /  0.00  /  0.01
-MKPH1 : Makapulapai (RAWS)          :    0.00  /  0.00  /  0.00  /  0.01
-PAFH1 : Puu Alii (RAWS)             :    0.19  /  0.46  /  0.77  /  1.07
+HOMH1 : Honolimaloo (UHM)           :    0.04  /  0.05  /  0.05  /  0.11
+KMLH1 : Kamalo (14013)              :    0.01  /  0.01  /  0.01  /  0.02
+MKPH1 : Makapulapai (RAWS)          :    0.01  /  0.01  /  0.01  /  0.02
+PAFH1 : Puu Alii (RAWS)             :    0.29  /  0.49  /  0.89  /  1.22
 MLKH1 : Molokai 1 (RAWS)            :      M   /    M   /    M   /    M
 KACH1 : Kaunakakai Mauka (14004)    :    0.00  /  0.00  /  0.00  /  0.00
 HMK   : Molokai Airport (ASOS)      :      T   /    T   /    T   /    T
@@ -3289,24 +3289,24 @@ KAOH1 : Kaneloa (RAWS)              :      M   /    M   /    M   /    M
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward Sites
 HNAH1 : Hana Airport (HSOIS)        :      M   /    M   /    M   /    M
-WWKH1 : West Wailuaiki (USGS)       :    1.29  /  1.95  /  2.45  /  3.56
-EBYH1 : EMI Baseyard (UHM)          :    0.11  /  0.20  /  0.29  /  0.31
-AIKH1 : Haiku (14001)               :    0.15  /  0.26  /  0.39  /  0.41
+WWKH1 : West Wailuaiki (USGS)       :    1.42  /  2.45  /  3.04  /  4.05
+EBYH1 : EMI Baseyard (UHM)          :    0.02  /  0.20  /  0.29  /  0.31
+AIKH1 : Haiku (14001)               :    0.11  /  0.26  /  0.39  /  0.41
 HOG   : Kahului Airport (ASOS)      :      T   /    T   /    T   /    T
 WUKH1 : Wailuku (14007)             :    0.00  /  0.00  /  0.00  /  0.00
 KHKH1 : Kahakuloa (14002)           :    0.00  /  0.00  /  0.00  /  0.00
-PKKH1 : Puu Kukui (USGS)            :    0.39  /  0.64  /  0.93  /  1.59
+PKKH1 : Puu Kukui (USGS)            :    0.33  /  0.60  /  0.95  /  1.67
 :       Leeward/Upcountry Sites
 NKUH1 : Na Kula (RAWS)              :    0.01  /  0.01  /  0.01  /  0.01
 KPNH1 : Kepuni (USGS)               :    0.00  /  0.00  /  0.00  /  0.00
-PILH1 : Piiholo (UHM)               :    0.62  /  0.84  /  1.27  /  2.06
-WKTH1 : Waikamoi Treeline (UHM)     :    0.33  /  0.54  /  1.04  /  2.03
-PUKH1 : Pukalani (14006)            :    0.11  /  0.11  /  0.17  /  0.34
+PILH1 : Piiholo (UHM)               :    0.75  /  1.00  /  1.43  /  2.30
+WKTH1 : Waikamoi Treeline (UHM)     :    0.49  /  0.71  /  1.20  /  2.27
+PUKH1 : Pukalani (14006)            :    0.18  /  0.18  /  0.22  /  0.41
 KBSH1 : Kula Branch Station (14008) :      M   /    M   /    M   /    M
 KLGH1 : Kula Ag (UHM)               :    0.00  /  0.00  /  0.00  /  0.00
-PHQH1 : Park HQ (UHM)               :    0.03  /  0.05  /  0.21  /  0.48
-NNEH1 : Nene Nest (UHM)             :    0.03  /  0.04  /  0.07  /  0.29
-SUMH1 : Summit (UHM)                :    0.07  /  0.10  /  0.17  /  0.17
+PHQH1 : Park HQ (UHM)               :    0.07  /  0.07  /  0.22  /  0.52
+NNEH1 : Nene Nest (UHM)             :    0.06  /  0.08  /  0.10  /  0.33
+SUMH1 : Summit (UHM)                :    0.08  /  0.12  /  0.20  /  0.20
 KLFH1 : Kula 1 (RAWS)               :    0.00  /  0.00  /  0.00  /  0.00
 KKNH1 : Kahikinui 1 (RAWS)          :    0.00  /  0.00  /  0.00  /  0.00
 KMEH1 : Kamehamenui 1 (RAWS)        :    0.00  /  0.00  /  0.00  /  0.00
@@ -3316,55 +3316,55 @@ LPOH1 : Lipoa (UHM)                 :    0.00  /  0.00  /  0.00  /  0.00
 KHIH1 : Kihei #2 (14009)            :    0.00  /  0.00  /  0.00  /    M
 KPDH1 : Kealia Pond (USFWS)         :    0.00  /  0.00  /  0.00  /  0.00
 WCCH1 : Waikapu Country Club (14005):    0.00  /  0.00  /  0.00  /  0.00
-HULH1 : Hanaula (UHM)               :    0.01  /  0.03  /  0.06  /  0.09
+HULH1 : Hanaula (UHM)               :    0.01  /  0.02  /  0.05  /  0.09
 OLUH1 : Olowalu (UHM)               :    0.00  /  0.00  /  0.00  /  0.00
-LAHH1 : Lahainaluna (14011)         :    0.02  /  0.02  /  0.02  /  0.02
-LWTH1 : Lahaina WTP (UHM)           :    0.04  /  0.04  /  0.04  /  0.04
+LAHH1 : Lahainaluna (14011)         :    0.04  /  0.04  /  0.04  /  0.04
+LWTH1 : Lahaina WTP (UHM)           :    0.08  /  0.08  /  0.08  /  0.08
 HOOH1 : Honolua (UHM)               :    0.00  /  0.02  /  0.02  /  0.03
 :
 :Island of Hawaii                                  Inches
 :ID     Location                         3-Hr    6-Hr   12-Hr   24-Hr
 :       Windward Sites
-UPLH1 : Upolu Airport (HSOIS)       :    0.16  /  0.24  /  0.46  /  0.53
-KMMH1 : Kaluamakani (UHM)           :    0.00  /  0.00  /  0.00  /  0.33
-KWSH1 : Kawainui Stream (USGS)      :    0.37  /  1.00  /  1.79  /  5.67
-KUUH1 : Kamuela Upper (15002)       :    0.02  /  0.16  /  0.27  /  1.38
-KMUH1 : Kamuela (15005)             :    0.00  /  0.00  /  0.12  /  0.97
-HNKH1 : Honokaa (15010)             :    0.06  /  0.32  /  1.38  /  4.30
-PMLH1 : Puu Mali (RAWS)             :    0.04  /  0.11  /  0.34  /  0.96
-WPNH1 : Waipunalei (UHM)            :    0.28  /  0.28  /    M   /    M
-KNKH1 : Kanakaleonui (UHM)          :    0.67  /  1.31  /  2.88  /  6.12
-LPHH1 : Laupahoehoe PD (15001)      :    1.15  /  2.13  /  3.69  /  4.92
-LAUH1 : Laupahoehoe (UHM)           :    0.84  /  1.77  /  4.22  /  10.26
-SPNH1 : Spencer (UHM)               :    0.75  /  1.68  /  4.90  /  7.06
-HKUH1 : Hakalau (RAWS)              :    0.82  /  1.62  /  3.17  /  6.77
-KLXH1 : Kulaimano (UHM)             :    0.10  /  0.13  /  0.29  /  0.45
-NLIH1 : Honolii Stream (USGS)       :    1.00  /  2.02  /  3.83  /  4.90
-SDQH1 : Saddle Quarry (USGS)        :    1.29  /  2.26  /  4.60  /  8.17
-PIOH1 : Piihonua (UHM)              :    0.78  /  1.56  /  3.95  /  6.78
-PIIH1 : Piihonua (15016)            :    0.00  /  0.00  /  0.01  /  0.02
-IPIH1 : IPIF (UHM)                  :    0.63  /  0.89  /  1.47  /  1.74
-WKAH1 : Waiakea Uka (15017)         :    0.48  /  1.03  /  2.44  /  3.22
-WEXH1 : Waiakea Exp Stn (NOAA/CRN)  :    0.15  /  0.29  /  0.33  /  0.89
-HTO   : Hilo Airport (ASOS)         :      T   /  0.02  /  0.12  /  0.12
-PHAH1 : Pahoa (15015)               :    0.16  /  0.50  /  1.41  /  1.88
-PAOH1 : Pahoa (UHM)                 :    0.16  /  0.40  /  1.08  /  1.48
-MTVH1 : Mountain View (15014)       :    0.67  /  1.29  /  2.96  /  4.16
-GLNH1 : Glenwood (15013)            :    0.93  /  1.54  /  4.01  /  7.23
+UPLH1 : Upolu Airport (HSOIS)       :    0.23  /  0.28  /  0.51  /  0.61
+KMMH1 : Kaluamakani (UHM)           :    0.00  /  0.00  /  0.00  /  0.31
+KWSH1 : Kawainui Stream (USGS)      :    0.28  /  0.81  /  1.70  /  5.65
+KUUH1 : Kamuela Upper (15002)       :    0.01  /  0.11  /  0.26  /  1.31
+KMUH1 : Kamuela (15005)             :    0.00  /  0.00  /  0.11  /  0.92
+HNKH1 : Honokaa (15010)             :    0.02  /  0.20  /  1.36  /  4.05
+PMLH1 : Puu Mali (RAWS)             :    0.03  /  0.08  /  0.32  /  0.89
+WPNH1 : Waipunalei (UHM)            :    0.42  /  0.42  /    M   /    M
+KNKH1 : Kanakaleonui (UHM)          :    0.59  /  1.23  /  2.86  /  6.04
+LPHH1 : Laupahoehoe PD (15001)      :    1.08  /  2.50  /  4.01  /  4.92
+LAUH1 : Laupahoehoe (UHM)           :    0.84  /  1.64  /  4.12  /  9.94
+SPNH1 : Spencer (UHM)               :    0.76  /  1.77  /  4.80  /  6.97
+HKUH1 : Hakalau (RAWS)              :    0.71  /  1.47  /  3.17  /  6.67
+KLXH1 : Kulaimano (UHM)             :    0.54  /  0.56  /  0.72  /  0.78
+NLIH1 : Honolii Stream (USGS)       :    1.06  /  2.17  /  4.15  /  5.14
+SDQH1 : Saddle Quarry (USGS)        :    1.20  /  2.21  /  4.67  /  8.35
+PIOH1 : Piihonua (UHM)              :    0.84  /  1.66  /  3.80  /  6.91
+PIIH1 : Piihonua (15016)            :    0.01  /  0.01  /  0.02  /  0.03
+IPIH1 : IPIF (UHM)                  :    0.87  /  1.24  /  1.86  /  1.92
+WKAH1 : Waiakea Uka (15017)         :    0.45  /  1.16  /  2.48  /  3.31
+WEXH1 : Waiakea Exp Stn (NOAA/CRN)  :      M   /    M   /    M   /  0.33
+HTO   : Hilo Airport (ASOS)         :    0.01  /  0.01  /  0.10  /  0.13
+PHAH1 : Pahoa (15015)               :    0.17  /  0.44  /  1.17  /  1.85
+PAOH1 : Pahoa (UHM)                 :    0.13  /  0.33  /  0.96  /  1.41
+MTVH1 : Mountain View (15014)       :    0.69  /  1.44  /  2.90  /  4.21
+GLNH1 : Glenwood (15013)            :    0.94  /  1.76  /  3.89  /  7.42
 :       Leeward Sites
-MOBH1 : Mauna Loa Ob Stn (NOAA/CRN) :    0.17  /  0.28  /  0.69  /  1.37
-NHKH1 : Nahuku (UHM)                :    0.67  /  1.18  /  3.09  /  6.31
-KKUH1 : Keaumo (RAWS)               :    0.38  /  0.60  /  1.82  /  3.53
-KMOH1 : Kealakomo (RAWS)            :    0.17  /  0.20  /  0.49  /  0.88
-PLIH1 : Pali 2 (RAWS)               :    0.14  /  0.15  /  0.62  /  1.00
-KPRH1 : Kapapala (RAWS)             :    0.26  /  0.28  /  0.73  /  0.78
-KAYH1 : Kapapala Ranch (15003)      :    0.46  /  0.48  /  0.88  /  0.90
-PPLH1 : Pahala (15004)              :    0.17  /  0.20  /  0.85  /  1.19
+MOBH1 : Mauna Loa Ob Stn (NOAA/CRN) :    0.17  /  0.29  /  0.69  /  1.39
+NHKH1 : Nahuku (UHM)                :    0.80  /  1.50  /  3.07  /  6.57
+KKUH1 : Keaumo (RAWS)               :    0.44  /  0.75  /  1.70  /  3.60
+KMOH1 : Kealakomo (RAWS)            :    0.30  /  0.44  /  0.67  /  1.12
+PLIH1 : Pali 2 (RAWS)               :    0.22  /  0.34  /  0.68  /  1.19
+KPRH1 : Kapapala (RAWS)             :    0.42  /  0.51  /  0.91  /  1.01
+KAYH1 : Kapapala Ranch (15003)      :    0.48  /  0.72  /  1.10  /  1.14
+PPLH1 : Pahala (15004)              :    0.24  /  0.39  /  0.99  /  1.38
 KIOH1 : Kaiholena (UHM)             :      M   /    M   /    M   /    M
-NENH1 : Nene Cabin (RAWS)           :    0.68  /  1.12  /  2.50  /  3.34
-SOPH1 : South Point (HSOIS)         :    0.18  /  0.40  /  0.91  /  1.44
-LKHH1 : Lower Kahuku (RAWS)         :    1.13  /  1.64  /  2.86  /  4.16
-KRCH1 : Kahuku Ranch (RAWS)         :    0.03  /  0.04  /  0.15  /  0.16
+NENH1 : Nene Cabin (RAWS)           :    0.89  /  1.41  /  2.71  /  3.75
+SOPH1 : South Point (HSOIS)         :    0.17  /  0.51  /  0.73  /  1.56
+LKHH1 : Lower Kahuku (RAWS)         :    1.24  /  2.40  /  3.30  /  4.88
+KRCH1 : Kahuku Ranch (RAWS)         :    0.07  /  0.10  /  0.20  /  0.22
 KOMH1 : Kona Hema (UHM)             :    0.00  /  0.00  /  0.01  /  0.02
 PHRH1 : Puho CS (RAWS)              :    0.00  /  0.00  /  0.00  /  0.00
 HAUH1 : Honaunau (15007)            :    0.00  /  0.01  /  0.01  /  0.02
@@ -3373,13 +3373,13 @@ WIHH1 : Waiaha Stream (15009)       :    0.00  /  0.00  /  0.00  /  0.02
 KOUH1 : Keahuolu (UHM)              :    0.00  /  0.00  /  0.00  /  0.01
 KHOH1 : Kaloko-Honokohau (RAWS)     :    0.00  /  0.00  /  0.00  /  0.01
 HKO   : Kona Intl Airport (ASOS)    :    0.00  /  0.00  /    T   /    T
-PLMH1 : Palamanui (UHM)             :    0.00  /  0.00  /  0.00  /  0.00
+PLMH1 : Palamanui (UHM)             :    0.02  /  0.02  /  0.02  /  0.02
 KIRH1 : Kiholo RG (USGS)            :    0.00  /  0.00  /  0.00  /  0.00
 KPLH1 : Kaupulehu (RAWS)            :    0.00  /  0.00  /  0.00  /  0.00
 PULH1 : Puuanahulu (RAWS)           :    0.00  /  0.00  /  0.00  /  0.00
 MMLH1 : Mamalahoa (UHM)             :    0.00  /  0.00  /  0.00  /  0.00
 PWWH1 : Puu Waawaa (RAWS)           :    0.00  /  0.00  /  0.00  /  0.00
-PWAH1 : Puu Waawaa (UHM)            :    0.00  /  0.00  /  0.02  /  0.03
+PWAH1 : Puu Waawaa (UHM)            :    0.00  /  0.00  /  0.00  /  0.03
 KIUH1 : Kaiaulu Puu Waawaa (UHM)    :    0.00  /  0.00  /  0.00  /  0.00
 PKAH1 : Pohakuloa Kipuka Alala RAWS :    0.00  /  0.00  /  0.00  /  0.00
 PTRH1 : Pohakuloa Range 17 (RAWS)   :    0.00  /  0.00  /  0.00  /  0.00
@@ -3387,13 +3387,13 @@ PKWH1 : Pohakuloa West (RAWS)       :    0.00  /  0.00  /  0.00  /  0.00
 PKMH1 : Pohakuloa Keamuku (RAWS)    :    0.00  /  0.00  /  0.00  /  0.00
 AHMH1 : Ahumoa (RAWS)               :    0.00  /  0.00  /  0.00  /  0.00
 WHIH1 : Waikii (15011)              :    0.00  /  0.00  /  0.00  /  0.00
-LLAH1 : Lalamilo (UHM)              :    0.00  /  0.00  /  0.01  /  0.25
+LLAH1 : Lalamilo (UHM)              :    0.00  /  0.00  /  0.01  /  0.24
 WKVH1 : Waikoloa (RAWS)             :    0.00  /  0.00  /  0.00  /  0.00
 PERH1 : Puhe CS (RAWS)              :    0.00  /  0.00  /  0.00  /  0.00
 KHRH1 : Kohala Ranch (RAWS)         :    0.00  /  0.00  /  0.00  /  0.00
-KASH1 : Kahua Ranch (15006)         :    0.04  /  0.12  /  0.42  /  1.36
-KEHH1 : Kehena (UHM)                :    0.27  /  0.64  /  1.48  /  4.02
-PLAH1 : Puuloa (UHM)                :    0.04  /  0.13  /  0.37  /  1.21
+KASH1 : Kahua Ranch (15006)         :    0.04  /  0.09  /  0.40  /  1.35
+KEHH1 : Kehena (UHM)                :    0.25  /  0.56  /  1.50  /  4.00
+PLAH1 : Puuloa (UHM)                :    0.02  /  0.09  /  0.35  /  1.19
 .END
 
 Service Note
@@ -3416,7 +3416,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T15:52:21.433126-10:00 HST |
+| **Collected** | 2026-09-26T16:01:24.073970-10:00 HST |
 
 ```text
                         
@@ -4287,7 +4287,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_homepage |
 | **Official source** | https://www.nhc.noaa.gov/ |
-| **Collected** | 2026-09-26T15:59:03.053703-10:00 HST |
+| **Collected** | 2026-09-26T16:08:03.088200-10:00 HST |
 
 ```text
 Home
@@ -4411,7 +4411,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 01:54:36 UTC
+Last update Sun, 27 Sep 2026 02:04:54 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -8195,7 +8195,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_tib_reference |
 | **Official source** | https://forecast.weather.gov/product_types.php |
-| **Collected** | 2026-09-26T15:44:05.404294-10:00 HST |
+| **Collected** | 2026-09-26T16:00:35.710498-10:00 HST |
 
 ```text
 National Weather Service
@@ -8244,9 +8244,9 @@ INFORMATION
 
 Wireless Emergency Alerts
 
-Weather-Ready Nation
-
 Brochures
+
+Weather-Ready Nation
 
 Cooperative Observers
 
