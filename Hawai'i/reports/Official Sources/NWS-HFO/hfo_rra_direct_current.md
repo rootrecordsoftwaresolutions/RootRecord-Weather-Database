@@ -2,12 +2,12 @@
 
 > **Official-source report mirror.** This record is derived directly from the collected official source, not from Level 0 or another processing layer.
 
-- **Generated:** 2026-09-26T15:42:04-10:00 HST
-- **Report created:** 2026-09-26T15:42:04-10:00 HST
+- **Generated:** 2026-09-26T15:51:04-10:00 HST
+- **Report created:** 2026-09-26T15:51:04-10:00 HST
 - **Source authority:** NWS-HFO
 - **Resource ID:** hfo_rra_direct
 - **Official source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T15:35:18.966195-10:00 HST
+- **Collected:** 2026-09-26T15:44:20.462091-10:00 HST
 - **Processing:** none; this layer preserves the readable official-product representation.
 - **Raw source:** retained separately in the URL-mirrored weather data tree.
 - **Level 0:** not used as an input.
