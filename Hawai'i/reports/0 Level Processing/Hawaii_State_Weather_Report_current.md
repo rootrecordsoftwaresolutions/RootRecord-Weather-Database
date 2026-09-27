@@ -2,8 +2,8 @@
 
 > **Official NWS Hawaii/HFO statewide collection — generated automatically from locally collected current reports.**
 
-- **Generated:** 2026-09-26T15:23:12-10:00 HST
-- **Report created:** 2026-09-26T15:23:12-10:00 HST
+- **Generated:** 2026-09-26T15:34:29-10:00 HST
+- **Report created:** 2026-09-26T15:34:29-10:00 HST
 - **Current report sections:** 29
 - **Raw source data:** retained separately; this document is derived and may be regenerated at any time.
 
@@ -3071,7 +3071,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** hfo_rra_direct
 - **Source:** https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo
-- **Collected:** 2026-09-26T15:07:27.998885-10:00 HST
+- **Collected:** 2026-09-26T15:27:59.540414-10:00 HST
 
 ```text
 893
@@ -3342,76 +3342,76 @@ $$
 
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
-- **Collected:** 2026-09-26T15:16:31.758936-10:00 HST
+- **Collected:** 2026-09-26T15:28:02.321892-10:00 HST
 
 ```text
                         
-948
-SXHW80 PHFO 260115
+396
+SXHW80 PHFO 270115
 OMRHFO
 
 SURF OBSERVATIONS
 NATIONAL WEATHER SERVICE HONOLULU HI
-315 PM HST FRI SEP 25 2026
+315 PM HST SAT SEP 26 2026
 
 FULL FACE SURF OBSERVATIONS ARE TAKEN BY COUNTY LIFE GUARDS AND
 COOPERATIVE OBSERVERS AND RELAYED TO THE NATIONAL WEATHER SERVICE
 FOR DISSEMINATION. THESE OBSERVATIONS ARE NOT QUALITY CONTROLLED.
 
-HIZ003-004-029>031-260100-
+HIZ003-004-029>031-270100-
 KAUAI-
 
 LOCATION        TIME   SURF HEIGHT DIR   PER                  REMARKS
-KEE          1235 PM           2-5  NE     9
-HAENA        1235 PM           2-5  NE     9
-HANALEI      1235 PM           0-2
-ANAHOLA      1235 PM           3-6 ENE     9
-KEALIA       1235 PM          6-10 ENE    10
-LYDGATE      1235 PM          4-8+ ENE    10
-POIPU        1235 PM           2-4
-SALT POND    1235 PM           2-4
-KEKAHA       1235 PM           1-3
+KEE
+HAENA        1030 AM           2-3  NE    11
+HANALEI      1030 AM           1-3  NE    10
+ANAHOLA
+KEALIA
+LYDGATE
+POIPU
+SALT POND
+KEKAHA
 $$
 
-HIZ006-007-009>011-032>036-260100-
+HIZ006-007-009>011-032>036-270100-
 OAHU-
 
 LOCATION        TIME   SURF HEIGHT DIR PER         WIND      REMARKS
 DIAMOND HEAD
 SUNSET
-WAIKIKI      1145 AM           0-1            ENE 10-15       CANOES
-SANDY BEACH  1145 AM           2-3            ENE 15-20  SHORE BREAK
-MAKAPUU      1145 AM           4-6            ENE 10-15
-EHUKAI       1145 AM           0-1             NE 10-15
-MAKAHA       1145 AM           0-1               VRB 05
+WAIKIKI      1000 AM           6-8                            CANOES
+SANDY BEACH  1000 AM           4-6                       SHORE BREAK
+MAKAPUU      1000 AM           6-8
+EHUKAI       1000 AM           1-3
+MAKAHA       1000 AM           1-2
 $$
 
-HIZ015>018-022-045>050-260100-
+HIZ015>018-022-045>050-270100-
 MAUI-MOLOKAI-LANAI-KAHOOLAWE-
 
 LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
-KANAHA       1108 AM           1-3          NE 10-20+  PARTLY CLDY
-BALDWIN SHOR 1109 AM           1-2           NE 15-25  PARTLY CLDY
-BALDWIN OUTE 1109 AM           3-6           NE 15-25  PARTLY CLDY
-HOOKIPA      1110 AM           1-4           NE 10-20  MOSTLY CLDY
-KAMAOLE I    1111 AM           1-2           NE 10-20        SUNNY
-KAMAOLE III  1112 AM           0-1           NE 20-30  PARTLY CLDY
+KANAHA       1200 PM           1-2   ENE     NE 25-30          OVC
+BALDWIN SHOR 1200 PM           1-2   ENE    ENE 10-20     CLDY -RA
+BALDWIN OUTE 1200 PM           2-3   ENE
+HOOKIPA
+KAMAOLE I
+KAMAOLE III
 HANAKAOO
 FLEMING
 $$
 
-HIZ023-026>028-051>054-260100-
+HIZ023-026>028-051>054-270100-
 BIG ISLAND OF HAWAII-
 
 LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
-RICHARDSONS  1101 AM           2-3     E      VRB 0-5  OVERCAST/RA
-HONOLII      1102 AM           3-5            L/V 0-5         RAIN
+RICHARDSONS  1200 PM           4-6   ENE     NE 10-15
+HONOLII      1200 PM           6-8     E      E 10-20
 PUNALU`U
-ISAAC HALE   1103 AM          5-6+            NE 5-10         RAIN
+ISAAC HALE   1200 PM         10-15   ESE     SE 10-20          -RA
 HAPUNA
-KAHALUU      1105 AM           3-5    NW      L/V 0-5     OVERCAST
-MAGIC SANDS  1106 AM           0-1            L/V 0-5     OVERCAST
-KUA BAY      1107 AM    1-2 OCNL 3           SW 10-15     OVERCAST
+KAHALUU
+MAGIC SANDS
+KUA BAY
 $$
 
 LEGEND
@@ -3519,7 +3519,7 @@ AND 166W...AND WITHIN 180 NM N OF TROUGH E OF 150W.
 
 - **Resource ID:** oso_hourly_obs
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO
-- **Collected:** 2026-09-26T15:01:54.173559-10:00 HST
+- **Collected:** 2026-09-26T15:29:45.037955-10:00 HST
 
 ```text
 583
@@ -4187,7 +4187,7 @@ T INDICATES TRACE AMOUNT.
 
 - **Resource ID:** nhc_homepage
 - **Source:** https://www.nhc.noaa.gov/
-- **Collected:** 2026-09-26T15:23:12.246828-10:00 HST
+- **Collected:** 2026-09-26T15:34:03.136699-10:00 HST
 
 ```text
 Home
@@ -4311,7 +4311,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 01:22:21 UTC
+Last update Sun, 27 Sep 2026 01:31:38 UTC
 
 NHC issuing advisories for the Atlantic on
 
@@ -7995,72 +7995,72 @@ day, then scattered showers at night. Highs 84 to 89. Lows 72 to
 
 ```text
                         
-948
-SXHW80 PHFO 260115
+396
+SXHW80 PHFO 270115
 OMRHFO
 
 SURF OBSERVATIONS
 NATIONAL WEATHER SERVICE HONOLULU HI
-315 PM HST FRI SEP 25 2026
+315 PM HST SAT SEP 26 2026
 
 FULL FACE SURF OBSERVATIONS ARE TAKEN BY COUNTY LIFE GUARDS AND
 COOPERATIVE OBSERVERS AND RELAYED TO THE NATIONAL WEATHER SERVICE
 FOR DISSEMINATION. THESE OBSERVATIONS ARE NOT QUALITY CONTROLLED.
 
-HIZ003-004-029>031-260100-
+HIZ003-004-029>031-270100-
 KAUAI-
 
 LOCATION        TIME   SURF HEIGHT DIR   PER                  REMARKS
-KEE          1235 PM           2-5  NE     9
-HAENA        1235 PM           2-5  NE     9
-HANALEI      1235 PM           0-2
-ANAHOLA      1235 PM           3-6 ENE     9
-KEALIA       1235 PM          6-10 ENE    10
-LYDGATE      1235 PM          4-8+ ENE    10
-POIPU        1235 PM           2-4
-SALT POND    1235 PM           2-4
-KEKAHA       1235 PM           1-3
+KEE
+HAENA        1030 AM           2-3  NE    11
+HANALEI      1030 AM           1-3  NE    10
+ANAHOLA
+KEALIA
+LYDGATE
+POIPU
+SALT POND
+KEKAHA
 $$
 
-HIZ006-007-009>011-032>036-260100-
+HIZ006-007-009>011-032>036-270100-
 OAHU-
 
 LOCATION        TIME   SURF HEIGHT DIR PER         WIND      REMARKS
 DIAMOND HEAD
 SUNSET
-WAIKIKI      1145 AM           0-1            ENE 10-15       CANOES
-SANDY BEACH  1145 AM           2-3            ENE 15-20  SHORE BREAK
-MAKAPUU      1145 AM           4-6            ENE 10-15
-EHUKAI       1145 AM           0-1             NE 10-15
-MAKAHA       1145 AM           0-1               VRB 05
+WAIKIKI      1000 AM           6-8                            CANOES
+SANDY BEACH  1000 AM           4-6                       SHORE BREAK
+MAKAPUU      1000 AM           6-8
+EHUKAI       1000 AM           1-3
+MAKAHA       1000 AM           1-2
 $$
 
-HIZ015>018-022-045>050-260100-
+HIZ015>018-022-045>050-270100-
 MAUI-MOLOKAI-LANAI-KAHOOLAWE-
 
 LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
-KANAHA       1108 AM           1-3          NE 10-20+  PARTLY CLDY
-BALDWIN SHOR 1109 AM           1-2           NE 15-25  PARTLY CLDY
-BALDWIN OUTE 1109 AM           3-6           NE 15-25  PARTLY CLDY
-HOOKIPA      1110 AM           1-4           NE 10-20  MOSTLY CLDY
-KAMAOLE I    1111 AM           1-2           NE 10-20        SUNNY
-KAMAOLE III  1112 AM           0-1           NE 20-30  PARTLY CLDY
+KANAHA       1200 PM           1-2   ENE     NE 25-30          OVC
+BALDWIN SHOR 1200 PM           1-2   ENE    ENE 10-20     CLDY -RA
+BALDWIN OUTE 1200 PM           2-3   ENE
+HOOKIPA
+KAMAOLE I
+KAMAOLE III
 HANAKAOO
 FLEMING
 $$
 
-HIZ023-026>028-051>054-260100-
+HIZ023-026>028-051>054-270100-
 BIG ISLAND OF HAWAII-
 
 LOCATION        TIME   SURF HEIGHT   DIR         WIND      REMARKS
-RICHARDSONS  1101 AM           2-3     E      VRB 0-5  OVERCAST/RA
-HONOLII      1102 AM           3-5            L/V 0-5         RAIN
+RICHARDSONS  1200 PM           4-6   ENE     NE 10-15
+HONOLII      1200 PM           6-8     E      E 10-20
 PUNALU`U
-ISAAC HALE   1103 AM          5-6+            NE 5-10         RAIN
+ISAAC HALE   1200 PM         10-15   ESE     SE 10-20          -RA
 HAPUNA
-KAHALUU      1105 AM           3-5    NW      L/V 0-5     OVERCAST
-MAGIC SANDS  1106 AM           0-1            L/V 0-5     OVERCAST
-KUA BAY      1107 AM    1-2 OCNL 3           SW 10-15     OVERCAST
+KAHALUU
+MAGIC SANDS
+KUA BAY
 $$
 
 LEGEND
@@ -8083,7 +8083,7 @@ $$
 
 - **Resource ID:** hfo_tib_reference
 - **Source:** https://forecast.weather.gov/product_types.php
-- **Collected:** 2026-09-26T15:07:13.060719-10:00 HST
+- **Collected:** 2026-09-26T15:27:14.501370-10:00 HST
 
 ```text
 National Weather Service
