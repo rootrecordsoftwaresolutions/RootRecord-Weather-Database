@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T15:14:13-10:00 HST
-- **Report created:** 2026-09-26T15:14:13-10:00 HST
+- **Generated:** 2026-09-26T15:23:13-10:00 HST
+- **Report created:** 2026-09-26T15:23:13-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** cli_daily_climate_summary_ITO
 - **Source:** https://forecast.weather.gov/product.php?site=HFO&product=CLI&issuedby=ITO

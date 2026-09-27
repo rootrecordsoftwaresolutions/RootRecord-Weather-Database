@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T15:14:13-10:00 HST
-- **Report created:** 2026-09-26T15:14:13-10:00 HST
+- **Generated:** 2026-09-26T15:23:13-10:00 HST
+- **Report created:** 2026-09-26T15:23:13-10:00 HST
 - **County:** Kauai County
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports
