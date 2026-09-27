@@ -42,11 +42,10 @@ This README is also regenerated automatically from the same current statewide re
 
 | Location | Conditions | Temp | Dew point | RH | Wind | Pressure |
 |---|---|---:|---:|---:|---|---:|
-| Honolulu | Partly sunny | 86°F | 68°F | 54% | East 25 gusts to 35 | 29.92S |
-| Lihue | Light rain | 82°F | 72°F | 71% | Northeast 23 gusts to 33 | 29.98S |
-| Kahului | Partly sunny | 83°F | 72°F | 69% | Northeast 26 gusts to 40 | 29.89F |
-| Hilo | Cloudy | 80°F | 72°F | 76% | East 8 gusts to 20 | 29.93S |
-| Kona | Partly sunny | 87°F | 76°F | 69% | Northwest 7 | 29.79R |
+| Honolulu | Light rain | 81°F | 71°F | 71% | Northeast 20 gusts to 32 | 29.90F |
+| Lihue | Light rain | 78°F | 73°F | 84% | Northeast 20 gusts to 32 | 29.95F |
+| Kahului | Cloudy | 83°F | 71°F | 67% | Northeast 28 gusts to 45 | 29.84F |
+| Hilo | Cloudy | 80°F | 72°F | 76% | East 15 gusts to 22 | 29.88F |
 
 _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °F._
 
@@ -58,7 +57,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T14:54:39-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T15:06:38-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3417,7 +3416,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T14:48:00.222218-10:00 HST |
+| **Collected** | 2026-09-26T15:00:11.563456-10:00 HST |
 
 ```text
                         
@@ -3598,7 +3597,7 @@ AND 166W...AND WITHIN 180 NM N OF TROUGH E OF 150W.
 |---|---|
 | **Resource ID** | oso_hourly_obs |
 | **Official source** | https://forecast.weather.gov/product.php?site=HFO&product=OSO&issuedby=HFO |
-| **Collected** | 2026-09-26T12:00:21.071154-10:00 HST |
+| **Collected** | 2026-09-26T15:01:54.173559-10:00 HST |
 
 ```text
 583
@@ -4288,7 +4287,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_homepage |
 | **Official source** | https://www.nhc.noaa.gov/ |
-| **Collected** | 2026-09-26T14:54:38.669153-10:00 HST |
+| **Collected** | 2026-09-26T15:06:12.476288-10:00 HST |
 
 ```text
 Home
@@ -4412,7 +4411,7 @@ Search
 Top News of the Day...
 view past news
 
-Last update Sun, 27 Sep 2026 00:52:20 UTC
+Last update Sun, 27 Sep 2026 01:03:45 UTC
 
 NHC issuing advisories for the Atlantic on
 
