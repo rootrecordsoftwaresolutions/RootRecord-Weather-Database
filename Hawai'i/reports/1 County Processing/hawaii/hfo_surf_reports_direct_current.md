@@ -2,8 +2,8 @@
 
 > **Level 1 county report — deterministically routed from preserved official-source data.**
 
-- **Generated:** 2026-09-26T14:03:41-10:00 HST
-- **Report created:** 2026-09-26T14:03:41-10:00 HST
+- **Generated:** 2026-09-26T14:11:41-10:00 HST
+- **Report created:** 2026-09-26T14:11:41-10:00 HST
 - **County:** Hawaii County
 - **Resource ID:** hfo_surf_reports_direct
 - **Source:** https://www.weather.gov/hfo/surfreports

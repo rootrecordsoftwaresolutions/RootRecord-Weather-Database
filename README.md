@@ -58,7 +58,7 @@ _Source: locally collected NWS-HFO Regional Weather Roundup (RWR). Values are °
 
 | Status | Coverage | Updated | Sections |
 |---|---|---|---:|
-| 🟢 Active | Hawaiʻi statewide | 2026-09-26T14:03:39-10:00 HST | 29 |
+| 🟢 Active | Hawaiʻi statewide | 2026-09-26T14:11:39-10:00 HST | 29 |
 
 The report below is generated from the same current product sections as `0 Level Processing/Hawaii_State_Weather_Report_current.md`. It is a presentation layer only; official-source records and raw source data remain preserved separately.
 
@@ -3144,7 +3144,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | hfo_rra_direct |
 | **Official source** | https://forecast.weather.gov/product.php?issuedby=HFO&product=RRA&site=hfo |
-| **Collected** | 2026-09-26T13:47:54.312483-10:00 HST |
+| **Collected** | 2026-09-26T14:04:54.217692-10:00 HST |
 
 ```text
 761
@@ -3417,7 +3417,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_surf_reports_direct |
 | **Official source** | https://www.weather.gov/hfo/surfreports |
-| **Collected** | 2026-09-26T13:57:00.214880-10:00 HST |
+| **Collected** | 2026-09-26T14:04:58.545462-10:00 HST |
 
 ```text
                         
@@ -4232,7 +4232,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_gtwo_cpac_2day |
 | **Official source** | https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=2 |
-| **Collected** | 2026-09-26T13:57:38.990369-10:00 HST |
+| **Collected** | 2026-09-26T14:05:38.727573-10:00 HST |
 
 ```text
 598 ACCA62 KNHC 262316TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 PM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Depresión Tropical Fay, ubicada aloeste-suroeste de las Azores y ha emitido la última advertenciasobre el Ciclón Pos-Tropical Gonzalo, ubicado al norte de las Islasde Cabo Verde.Atlántico Subtropical Central: Una vaguada en la superficie de bajapresión ubicada a varios cientos de millas al sureste de lasBermudas está produciendo actualmente un área de aguaceros ytormentas desorganizadas. Las condiciones ambientales podríanvolverse favorables para el desarrollo gradual de este sistema amedida que se mueve hacia el norte este fin de semana y luego girehacia el este a principios o mediados de la próxima semana.* Probabilidad de formación hasta 48 horas...baja...10 por ciento.* Probabilidad de formación hasta 7 días...baja...20 por ciento.$$Pronosticador Pierce/Evans/Beven*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
@@ -4246,7 +4246,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_gtwo_cpac_7day |
 | **Official source** | https://www.nhc.noaa.gov/gtwo.php?basin=cpac&fdays=7 |
-| **Collected** | 2026-09-26T13:58:38.752598-10:00 HST |
+| **Collected** | 2026-09-26T14:06:38.715401-10:00 HST |
 
 ```text
 598 ACCA62 KNHC 262316TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 PM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Depresión Tropical Fay, ubicada aloeste-suroeste de las Azores y ha emitido la última advertenciasobre el Ciclón Pos-Tropical Gonzalo, ubicado al norte de las Islasde Cabo Verde.Atlántico Subtropical Central: Una vaguada en la superficie de bajapresión ubicada a varios cientos de millas al sureste de lasBermudas está produciendo actualmente un área de aguaceros ytormentas desorganizadas. Las condiciones ambientales podríanvolverse favorables para el desarrollo gradual de este sistema amedida que se mueve hacia el norte este fin de semana y luego girehacia el este a principios o mediados de la próxima semana.* Probabilidad de formación hasta 48 horas...baja...10 por ciento.* Probabilidad de formación hasta 7 días...baja...20 por ciento.$$Pronosticador Pierce/Evans/Beven*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
@@ -4260,7 +4260,7 @@ T INDICATES TRACE AMOUNT.
 |---|---|
 | **Resource ID** | nhc_gtwo_epac_2day |
 | **Official source** | https://www.nhc.noaa.gov/gtwo.php?basin=epac&fdays=2 |
-| **Collected** | 2026-09-26T13:59:38.736172-10:00 HST |
+| **Collected** | 2026-09-26T14:07:39.032962-10:00 HST |
 
 ```text
 598 ACCA62 KNHC 262316TWOSATPerspectiva de tiempo tropicalCentro Nacional de Huracanes del SNM Miami FL800 PM EDT sábado 26 de septiembre de 2026Para el Atlántico Norte...Mar Caribe y el Golfo de AméricaSistemas activos: El Centro Nacional de Huracanes está emitiendoadvertencias sobre la Depresión Tropical Fay, ubicada aloeste-suroeste de las Azores y ha emitido la última advertenciasobre el Ciclón Pos-Tropical Gonzalo, ubicado al norte de las Islasde Cabo Verde.Atlántico Subtropical Central: Una vaguada en la superficie de bajapresión ubicada a varios cientos de millas al sureste de lasBermudas está produciendo actualmente un área de aguaceros ytormentas desorganizadas. Las condiciones ambientales podríanvolverse favorables para el desarrollo gradual de este sistema amedida que se mueve hacia el norte este fin de semana y luego girehacia el este a principios o mediados de la próxima semana.* Probabilidad de formación hasta 48 horas...baja...10 por ciento.* Probabilidad de formación hasta 7 días...baja...20 por ciento.$$Pronosticador Pierce/Evans/Beven*** Este producto ha sido procesado automáticamente utilizando unprograma de traducción y puede contener omisiones y errores. ElServicio Nacional de Meteorología no puede garantizar la precisióndel texto convertido. De haber alguna duda, el texto en inglés essiempre la versión autorizada. ***
@@ -8196,7 +8196,7 @@ $$
 |---|---|
 | **Resource ID** | hfo_tib_reference |
 | **Official source** | https://forecast.weather.gov/product_types.php |
-| **Collected** | 2026-09-26T13:47:39.801039-10:00 HST |
+| **Collected** | 2026-09-26T14:04:39.390671-10:00 HST |
 
 ```text
 National Weather Service
